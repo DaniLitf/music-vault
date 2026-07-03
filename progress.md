@@ -2,13 +2,13 @@
 
 ## Artists
 
-> last updated: 2026-07-04T14:30 · unfixed: 131 · last QC position: J/Jellyfish
+> last updated: 2026-07-03T18:57 · unfixed: 138 · last QC position: J/Jellyfish
 
 ### Summary
-- **Total artist entries**: 681 (549 with a page on disk + 132 queued with no page yet)
-- **Fully OK [x]**: 549
-- **Needs fixes [ ]**: 132 (132 queued/no page yet — see below)
-- **Last updated**: 2026-07-04
+- **Total artist entries**: 688 (550 with a page on disk + 138 queued with no page yet)
+- **Fully OK [x]**: 550
+- **Needs fixes [ ]**: 138 (138 queued/no page yet — see below)
+- **Last updated**: 2026-07-03
 
 Note on "Fully OK": this reflects rows not flagged by a targeted check in this pass or by prior QC marks. It does **not** mean all pages fully satisfy every criterion in the QC checklist — see the Issue Breakdown below. Run the QC workflow page-by-page to convert these into per-row flags.
 
@@ -318,7 +318,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | L/Love Battery | - |
 | [x] | L/Lucky People Center | - |
 | [x] | L/Lykke Li | - |
-| [ ] | M/M83 | - |
+| [x] | M/M83 | - |
 | [x] | M/Mad Season | - |
 | [x] | M/Madonna | - |
 | [x] | M/Maja Francis | - |
@@ -727,10 +727,17 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [ ] | T/The Mighty Mighty Bosstones | - |
 | [ ] | A/A Canorous Quintet | - |
 | [ ] | N/None | - |
+| [ ] | T/Team Ghost | - |
+| [ ] | M/Medicine | - |
+| [ ] | M/Mai Lan | - |
+| [ ] | T/The Romanovs | - |
+| [ ] | W/White Sea | - |
+| [ ] | Z/Zola Jesus | - |
+| [ ] | S/Susanne Sundfør | - |
 
 ## Members
 
-> last updated: 2026-07-04T14:30 · unfixed: 674
+> last updated: 2026-07-03T18:57 · unfixed: 676
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -997,17 +1004,17 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Falk Maria Schlegel (batch: 2026-07-02T15:00, from: [[Artists/P/Powerwolf]])
 - [x] Far & Son (batch: 2026-07-02T15:00, from: [[Artists/F/Far & Son]])
 - [x] Faust (batch: 2026-07-02T15:00, from: [[Artists/E/Emperor]])
-- [ ] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
-- [ ] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
-- [ ] Flavor Flav (batch: 2026-07-02T15:00, from: [[Artists/P/Public Enemy]])
-- [ ] Francis Rossi (batch: 2026-07-02T15:00, from: [[Artists/S/Status Quo]])
-- [ ] Frank Bello (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
-- [ ] Frank Delgado (batch: 2026-07-02T15:00, from: [[Artists/D/Deftones]])
-- [ ] Frank Gosdzik (batch: 2026-07-02T15:00, from: [[Artists/S/Sodom]])
-- [ ] Franz Stahl (batch: 2026-07-02T15:00, from: [[Artists/S/Scream]])
-- [ ] Fredrik Andersson (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
-- [ ] Fredrik Larsson (batch: 2026-07-02T15:00, from: [[Artists/H/Hammerfall]])
-- [ ] Fredrik Sandsten (batch: 2026-07-02T15:00, from: [[Artists/T/The Soundtrack of Our Lives]])
+- [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
+- [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
+- [x] Flavor Flav (batch: 2026-07-02T15:00, from: [[Artists/P/Public Enemy]])
+- [x] Francis Rossi (batch: 2026-07-02T15:00, from: [[Artists/S/Status Quo]])
+- [x] Frank Bello (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
+- [x] Frank Delgado (batch: 2026-07-02T15:00, from: [[Artists/D/Deftones]])
+- [x] Frank Gosdzik (batch: 2026-07-02T15:00, from: [[Artists/S/Sodom]])
+- [x] Franz Stahl (batch: 2026-07-02T15:00, from: [[Artists/S/Scream]])
+- [x] Fredrik Andersson (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
+- [x] Fredrik Larsson (batch: 2026-07-02T15:00, from: [[Artists/H/Hammerfall]])
+- [x] Fredrik Sandsten (batch: 2026-07-02T15:00, from: [[Artists/T/The Soundtrack of Our Lives]])
 - [ ] Frédéric Leclercq (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
 - [ ] G.C. Green (batch: 2026-07-02T15:00, from: [[Artists/G/Godflesh]])
 - [ ] Garry Cobain (batch: 2026-07-02T15:00, from: [[Artists/T/The Future Sound of London]])
@@ -1842,10 +1849,23 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Everlast (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
 - [ ] Danny Boy (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
 - [ ] DJ Lethal (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
+- [ ] Anthony Gonzalez (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Nicolas Fromageau (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Morgan Kibby (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Loïc Maurin (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Kaela Sinclair (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Joe Berry (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Jordan Lawlor (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Ian Young (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Pierre-Marie Maulini (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Zola Jesus (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Brad Laner (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Susanne Sundfør (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Mai Lan (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
 
 ## Producers
 
-> last updated: 2026-07-03T21:00 · unfixed: 69
+> last updated: 2026-07-03T18:57 · unfixed: 77
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -1965,3 +1985,11 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Mike Chiplin (batch: 2026-07-03T23:55, from: [[Artists/L/Lostprophets]])
 - [x] DJ Stepzak (batch: 2026-07-03T23:55, from: [[Artists/L/Lostprophets]])
 - [x] Luke Johnson (batch: 2026-07-03T23:55, from: [[Artists/L/Lostprophets]])
+- [ ] Anthony Gonzalez (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Nicolas Fromageau (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Ken Thomas (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Ewan Pearson (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Morgan Kibby (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Antoine Gaillet (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Justin Meldal-Johnsen (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [ ] Joseph Trapanese (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])

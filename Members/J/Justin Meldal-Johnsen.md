@@ -16,7 +16,7 @@ Justin Meldal-Johnsen is an American bassist and multi-instrumentalist best know
 - [[Artists/N/Nine Inch Nails]] – bass (2005–2012)
 - [[Artists/B/Beck]] – bass, guitar (touring and studio, 1998–present)
 - [[Artists/A/Air]] – bass, guitar (touring, 2000–2010)
-- [[Artists/M/M83]] – bass (touring, 2011–2012)
+- [[Artists/M/M83]] – bass, co-production of *Hurry Up, We're Dreaming*, *Junk*, and *Fantasy* (2011–2023)
 - [[Artists/T/Tori Amos]] – bass (touring)
 
 ## Biography
