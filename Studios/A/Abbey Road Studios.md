@@ -12,6 +12,7 @@ Abbey Road Studios, opened by EMI in 1931 in St John's Wood, London, is arguably
 ## Albums Recorded Here
 
 - [[Artists/C/Coverdale-Page]] – *Coverdale–Page* (1993)
+- [[Artists/M/Muse]] – *Will of the People* (2022)
 
 ## Sources
 - Wikipedia

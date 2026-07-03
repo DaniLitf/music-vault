@@ -33,6 +33,7 @@ genre:
 - Jürgen "Ventor" Reil — drums (1982–1994, 2001–present)
 - Christian "Speesy" Giesler — bass (1993–present)
 - Sami Yli-Sirniö — lead guitar (2001–present)
+- [[Members/F/Frédéric Leclercq]] — bass (2019–present)
 
 ## Connections
 

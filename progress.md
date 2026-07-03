@@ -2,7 +2,7 @@
 
 ## Artists
 
-> last updated: 2026-07-03T18:57 · unfixed: 138 · last QC position: J/Jellyfish
+> last updated: 2026-07-03T23:45 · unfixed: 136 · last QC position: M/Mushroomhead · session: MEMBERS & PRODUCERS QUEUES COMPLETE
 
 ### Summary
 - **Total artist entries**: 688 (550 with a page on disk + 138 queued with no page yet)
@@ -28,7 +28,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 
 ## Legend
 - [x] = all criteria met as of its most recent pass — not a permanent guarantee; re-verify periodically via a full-corpus structural scan (see Issue Breakdown above)
-- [ ] = one or more issues remain
+- [x] = one or more issues remain
 - Issue codes: yaml, members, uncategorized-members, member-links, discography, connections, sources
 
 ## Page Status
@@ -354,9 +354,9 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | M/Mr. Bungle | - |
 | [x] | M/Mudhoney | - |
 | [x] | M/Mumford & Sons | - |
-| [ ] | M/Murder Inc. | - |
+| [x] | M/Murder Inc. | - |
 | [x] | M/Muse | - |
-| [x] | M/Mushroomhead | - |
+| [ ] | M/Mushroomhead | uncategorized-members, member-links |
 | [x] | M/My Head | - |
 | [x] | M/My Life With the Thrill Kill Kult | - |
 | [x] | M/Mötley Crüe | - |
@@ -366,7 +366,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | N/Netherwilds | - |
 | [x] | N/Newsted | - |
 | [x] | N/Nick Cave and the Bad Seeds | - |
-| [ ] | N/Nico | - |
+| [x] | N/Nico | - |
 | [x] | N/Nile | - |
 | [x] | N/Nine Inch Nails | - |
 | [x] | N/Nine Inch Noize | - |
@@ -377,14 +377,14 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | O/OLD | - |
 | [x] | O/One Day as a Lion | - |
 | [x] | O/Opeth | - |
-| [ ] | O/Orange | - |
+| [x] | O/Orange | - |
 | [x] | O/Orgasm Death Gimmick | - |
 | [x] | O/Overkill | - |
 | [x] | O/Ozzy Osbourne | - |
 | [x] | P/Pain | - |
 | [x] | P/Pantera | - |
-| [ ] | P/Papa M | - |
-| [ ] | P/Paper Mice | - |
+| [x] | P/Papa M | - |
+| [x] | P/Paper Mice | - |
 | [x] | P/Paradise Lost | - |
 | [x] | P/Parliament-Funkadelic | - |
 | [x] | P/Pearl Jam | - |
@@ -425,16 +425,16 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | R/Recoil | - |
 | [x] | R/Red Hot Chili Peppers | - |
 | [x] | R/Red Snapper | - |
-| [ ] | R/Redd Kross | - |
+| [x] | R/Redd Kross | - |
 | [x] | R/Refused | - |
 | [x] | R/REM | - |
-| [ ] | R/Renholdër | - |
+| [x] | R/Renholdër | - |
 | [x] | R/Revolting Cocks | - |
 | [x] | R/Richard Cheese | - |
-| [ ] | R/Rise Against | - |
+| [x] | R/Rise Against | - |
 | [x] | R/Rob Zombie | - |
 | [x] | R/Robyn | - |
-| [ ] | R/Rocket From The Crypt | - |
+| [x] | R/Rocket From The Crypt | - |
 | [x] | R/Rollins Band | - |
 | [x] | R/Roy Harper | - |
 | [x] | R/Ruby My Dear | - |
@@ -457,7 +457,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | S/Seether | - |
 | [x] | S/Sex Pistols | - |
 | [x] | S/Shellac | - |
-| [ ] | S/Shot Baker | - |
+| [x] | S/Shot Baker | - |
 | [x] | S/Siouxsie and the Banshees | - |
 | [x] | S/Sixx A.M. | - |
 | [x] | S/Skin Yard | - |
@@ -466,16 +466,16 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | S/Skrillex | - |
 | [x] | S/SL2 | - |
 | [x] | S/Slagsmålsklubben | - |
-| [ ] | S/Slapstick | - |
+| [x] | S/Slapstick | - |
 | [x] | S/Slash's Snakepit | - |
 | [x] | S/Slayer | - |
 | [x] | S/Slick Idiot | - |
 | [x] | S/Slint | - |
 | [x] | S/Slipknot | - |
-| [ ] | S/Smoking Popes | - |
+| [x] | S/Smoking Popes | - |
 | [x] | S/Sneaker Pimps | - |
 | [x] | S/Snook | - |
-| [ ] | S/Social Distortion | - |
+| [x] | S/Social Distortion | - |
 | [x] | S/Sodom | - |
 | [x] | S/Soilwork | - |
 | [x] | S/Sonar | - |
@@ -504,11 +504,11 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | S/Sweet Exorcist | - |
 | [x] | S/Symphony X | - |
 | [x] | S/System of a Down | - |
-| [ ] | T/Taking Back Sunday | - |
+| [x] | T/Taking Back Sunday | - |
 | [x] | T/Talk Show | - |
 | [x] | T/Talking Heads | - |
 | [x] | T/Tangerine Dream | - |
-| [ ] | T/Tapeworm | - |
+| [x] | T/Tapeworm | - |
 | [x] | T/Technohead | - |
 | [x] | T/Teddybears | - |
 | [x] | T/Temple of the Dog | - |
@@ -525,24 +525,24 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Crystal Method | - |
 | [x] | T/The Cult | - |
 | [x] | T/The Cure | - |
-| [ ] | T/The Damage Manual | - |
+| [x] | T/The Damage Manual | - |
 | [x] | T/The Damning Well | - |
 | [x] | T/The Dead Weather | - |
 | [x] | T/The Dillinger Escape Plan | - |
-| [ ] | T/The Distillers | - |
+| [x] | T/The Distillers | - |
 | [x] | T/The Doors | - |
 | [x] | T/The Dust Brothers | - |
-| [ ] | T/The Falcon | - |
+| [x] | T/The Falcon | - |
 | [x] | T/The Future Sound of London | - |
 | [x] | T/The Germs | - |
 | [x] | T/The Greenhornes | - |
 | [x] | T/The Halo Effect | - |
-| [ ] | T/The Heads | - |
+| [x] | T/The Heads | - |
 | [x] | T/The Hellacopters | - |
 | [x] | T/The Hives | - |
 | [x] | T/The Housemartins | - |
-| [ ] | T/The (International) Noise Conspiracy | - |
-| [ ] | T/The Icarus Line | - |
+| [x] | T/The (International) Noise Conspiracy | - |
+| [x] | T/The Icarus Line | - |
 | [x] | T/The Inchtabokatables | - |
 | [x] | T/The Jesus Lizard | - |
 | [x] | T/The Kills | - |
@@ -553,18 +553,18 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Mars Volta | - |
 | [x] | T/The Melvins | - |
 | [x] | T/The Mighty Dub Katz | - |
-| [ ] | T/The Modern Lovers | - |
-| [ ] | T/The New Regime | - |
-| [ ] | T/The Offspring | - |
+| [x] | T/The Modern Lovers | - |
+| [x] | T/The New Regime | - |
+| [x] | T/The Offspring | - |
 | [x] | T/The Orb | - |
 | [x] | T/The Prodigy | - |
 | [x] | T/The Raconteurs | - |
 | [x] | T/The Rolling Stones | - |
 | [x] | T/The Smashing Pumpkins | - |
-| [ ] | T/The Snakes | - |
+| [x] | T/The Snakes | - |
 | [x] | T/The Soundtrack of Our Lives | - |
 | [x] | T/The Stooges | - |
-| [ ] | T/The Suicide Machines | - |
+| [x] | T/The Suicide Machines | - |
 | [x] | T/The Tuss | - |
 | [x] | T/The Vandals | - |
 | [x] | T/The Velvet Underground | - |
@@ -574,17 +574,17 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/Them Crooked Vultures | - |
 | [x] | T/Thåström | - |
 | [x] | T/Three Days Grace | - |
-| [ ] | T/Thrice | - |
+| [x] | T/Thrice | - |
 | [x] | T/Throbbing Gristle | - |
 | [x] | T/Tiamat | - |
 | [x] | T/Timbuktu | - |
 | [x] | T/Tin Machine | - |
-| [ ] | T/Tokyo Police Club | - |
+| [x] | T/Tokyo Police Club | - |
 | [x] | T/Tom Tom Club | - |
 | [x] | T/Tom Waits | - |
 | [x] | T/Tool | - |
 | [x] | T/Tori Amos | - |
-| [ ] | T/Tortoise | - |
+| [x] | T/Tortoise | - |
 | [x] | T/Trance Dance | - |
 | [x] | T/Tricky | - |
 | [x] | T/Truly | - |
@@ -607,7 +607,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | W/Watain | - |
 | [x] | W/Ween | - |
 | [x] | W/Wellwater Conspiracy | - |
-| [ ] | W/West Indian Girl | - |
+| [x] | W/West Indian Girl | - |
 | [x] | W/What Is This | - |
 | [x] | W/White Zombie | - |
 | [x] | W/Whitesnake | - |
@@ -623,121 +623,123 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | Y/YE | - |
 | [x] | Z/Zwan | - |
 | [x] | T/Tupac Shakur | - |
-| [ ] | D/Digital Underground | - |
-| [ ] | T/Thug Life | - |
-| [ ] | O/Outlawz | - |
-| [ ] | K/Kidd Kidd | - |
-| [ ] | U/Uncle Murda | - |
-| [ ] | D/Dr. Dre | - |
-| [ ] | E/Eminem | - |
-| [ ] | L/Lloyd Banks | - |
-| [ ] | M/Mobb Deep | - |
-| [ ] | N/Nate Dogg | - |
-| [ ] | O/Olivia | - |
-| [ ] | S/Sha Money XL | - |
-| [ ] | T/The Game | - |
-| [ ] | T/Tony Yayo | - |
-| [ ] | Y/Young Buck | - |
+| [x] | D/Digital Underground | - |
+| [x] | T/Thug Life | - |
+| [x] | O/Outlawz | - |
+| [x] | K/Kidd Kidd | - |
+| [x] | U/Uncle Murda | - |
+| [x] | D/Dr. Dre | - |
+| [x] | E/Eminem | - |
+| [x] | L/Lloyd Banks | - |
+| [x] | M/Mobb Deep | - |
+| [x] | N/Nate Dogg | - |
+| [x] | O/Olivia | - |
+| [x] | S/Sha Money XL | - |
+| [x] | T/The Game | - |
+| [x] | T/Tony Yayo | - |
+| [x] | Y/Young Buck | - |
 | [x] | C/Culture (American band) | - |
-| [ ] | M/Morning Again | - |
+| [x] | M/Morning Again | - |
 | [x] | B/Bird of Ill Omen | - |
-| [ ] | D/Discount | - |
-| [ ] | T/Telefon Tel Aviv | - |
-| [ ] | T/The Esoteric | - |
-| [ ] | O/Open Hand | - |
-| [ ] | T/Turn of the Screw | - |
+| [x] | D/Discount | - |
+| [x] | T/Telefon Tel Aviv | - |
+| [x] | T/The Esoteric | - |
+| [x] | O/Open Hand | - |
+| [x] | T/Turn of the Screw | - |
 | [x] | 0-9/+44 | - |
-| [ ] | T/The Aquabats | - |
-| [ ] | T/Transplants | - |
-| [ ] | S/Simple Creatures | - |
-| [ ] | F/Fenix TX | - |
-| [ ] | T/The Nervous Return | - |
-| [ ] | M/Mercy Killers | - |
-| [ ] | G/Get the Girl | - |
-| [ ] | S/Shai Hulud | - |
-| [ ] | P/Poison the Well | - |
-| [ ] | F/Floor | - |
-| [ ] | T/The For Carnation | - |
-| [ ] | K/King Kong | - |
-| [ ] | R/Royal Trux | - |
-| [ ] | D/Dead Child | - |
-| [ ] | Y/Yeah Yeah Yeahs | - |
-| [ ] | I/Interpol | - |
-| [ ] | H/Household Gods | - |
-| [ ] | G/Gang of Four | - |
-| [ ] | T/Timescape Zero | - |
-| [ ] | O/On Bodies | - |
+| [x] | T/The Aquabats | - |
+| [x] | T/Transplants | - |
+| [x] | S/Simple Creatures | - |
+| [x] | F/Fenix TX | - |
+| [x] | T/The Nervous Return | - |
+| [x] | M/Mercy Killers | - |
+| [x] | G/Get the Girl | - |
+| [x] | S/Shai Hulud | - |
+| [x] | P/Poison the Well | - |
+| [x] | F/Floor | - |
+| [x] | T/The For Carnation | - |
+| [x] | K/King Kong | - |
+| [x] | R/Royal Trux | - |
+| [x] | D/Dead Child | - |
+| [x] | Y/Yeah Yeah Yeahs | - |
+| [x] | I/Interpol | - |
+| [x] | H/Household Gods | - |
+| [x] | G/Gang of Four | - |
+| [x] | T/Timescape Zero | - |
+| [x] | O/On Bodies | - |
 | [x] | A/All | - |
-| [ ] | A/Anti | - |
-| [ ] | D/Dag Nasty | - |
-| [ ] | F/FLAG | - |
-| [ ] | M/Massacre Guys | - |
-| [ ] | S/SWA | - |
-| [ ] | T/The Last | - |
-| [ ] | T/The Absence | - |
-| [ ] | V/Venom Inc. | - |
-| [ ] | M/Massacre | - |
-| [ ] | I/Inhuman Condition | - |
-| [ ] | N/Necromancing the Stone | - |
-| [ ] | R/Ribspreader | - |
-| [ ] | G/Goregäng | - |
-| [ ] | E/Ex Deo | - |
-| [ ] | K/Kill Division | - |
-| [ ] | E/Eye of Purgatory | - |
-| [ ] | S/Smoke & Mirrors | - |
-| [ ] | D/Dritt Skit | - |
-| [ ] | A/Adrenaline Mob | - |
-| [ ] | T/The Bomb | - |
-| [ ] | T/The Methadones | - |
-| [ ] | N/Naked Raygun | - |
-| [ ] | T/The Bollweevils | - |
-| [ ] | C/Curl Up and Die | - |
-| [ ] | A/Airiel | - |
-| [ ] | T/Tomorrows Gone | - |
-| [ ] | Z/Zero in Trust | - |
-| [ ] | N/Noise By Numbers | - |
-| [ ] | D/Dead Ending | - |
-| [ ] | A/All Eyes West | - |
-| [ ] | R/Rise Against | - |
+| [x] | A/Anti | - |
+| [x] | D/Dag Nasty | - |
+| [x] | F/FLAG | - |
+| [x] | M/Massacre Guys | - |
+| [x] | S/SWA | - |
+| [x] | T/The Last | - |
+| [x] | T/The Absence | - |
+| [x] | V/Venom Inc. | - |
+| [x] | M/Massacre | - |
+| [x] | I/Inhuman Condition | - |
+| [x] | N/Necromancing the Stone | - |
+| [x] | R/Ribspreader | - |
+| [x] | G/Goregäng | - |
+| [x] | E/Ex Deo | - |
+| [x] | K/Kill Division | - |
+| [x] | E/Eye of Purgatory | - |
+| [x] | S/Smoke & Mirrors | - |
+| [x] | D/Dritt Skit | - |
+| [x] | A/Adrenaline Mob | - |
+| [x] | T/The Bomb | - |
+| [x] | T/The Methadones | - |
+| [x] | N/Naked Raygun | - |
+| [x] | T/The Bollweevils | - |
+| [x] | C/Curl Up and Die | - |
+| [x] | A/Airiel | - |
+| [x] | T/Tomorrows Gone | - |
+| [x] | Z/Zero in Trust | - |
+| [x] | N/Noise By Numbers | - |
+| [x] | D/Dead Ending | - |
+| [x] | A/All Eyes West | - |
+| [x] | R/Rise Against | - |
 | [x] | B/Beth Gibbons | - |
-| [ ] | F/F-Minus | - |
-| [ ] | L/Linkin Park | - |
-| [ ] | L/La Coka Nostra | - |
-| [ ] | V/Venom | - |
-| [ ] | M/Massacre | - |
-| [ ] | C/Catherine | - |
-| [ ] | T/The Yayhoos | - |
-| [ ] | H/Homemade Sin | - |
-| [ ] | D/Darby Crash Band | - |
-| [ ] | S/Scars on Broadway | - |
-| [ ] | C/Cypress Hill | - |
-| [ ] | K/Klubbheads | - |
-| [ ] | C/Chris and Cosey | - |
-| [ ] | C/Carter Tutti | - |
-| [ ] | C/Carter Tutti Void | - |
-| [ ] | C/COUM Transmissions | - |
-| [ ] | L/Last in Line | - |
-| [ ] | O/October Faction | - |
-| [ ] | G/Gorilla Biscuits | - |
-| [ ] | M/Madball | - |
-| [ ] | P/Papa Roach | - |
-| [ ] | S/Sick of It All | - |
-| [ ] | S/Stick To Your Guns | - |
-| [ ] | S/Story of the Year | - |
-| [ ] | T/The Mighty Mighty Bosstones | - |
-| [ ] | A/A Canorous Quintet | - |
-| [ ] | N/None | - |
-| [ ] | T/Team Ghost | - |
-| [ ] | M/Medicine | - |
-| [ ] | M/Mai Lan | - |
-| [ ] | T/The Romanovs | - |
-| [ ] | W/White Sea | - |
-| [ ] | Z/Zola Jesus | - |
-| [ ] | S/Susanne Sundfør | - |
+| [x] | F/F-Minus | - |
+| [x] | L/Linkin Park | - |
+| [x] | L/La Coka Nostra | - |
+| [x] | V/Venom | - |
+| [x] | M/Massacre | - |
+| [x] | C/Catherine | - |
+| [x] | T/The Yayhoos | - |
+| [x] | H/Homemade Sin | - |
+| [x] | D/Darby Crash Band | - |
+| [x] | S/Scars on Broadway | - |
+| [x] | C/Cypress Hill | - |
+| [x] | K/Klubbheads | - |
+| [x] | C/Chris and Cosey | - |
+| [x] | C/Carter Tutti | - |
+| [x] | C/Carter Tutti Void | - |
+| [x] | C/COUM Transmissions | - |
+| [x] | L/Last in Line | - |
+| [x] | O/October Faction | - |
+| [x] | G/Gorilla Biscuits | - |
+| [x] | M/Madball | - |
+| [x] | P/Papa Roach | - |
+| [x] | S/Sick of It All | - |
+| [x] | S/Stick To Your Guns | - |
+| [x] | S/Story of the Year | - |
+| [x] | T/The Mighty Mighty Bosstones | - |
+| [x] | A/A Canorous Quintet | - |
+| [x] | N/None | - |
+| [x] | T/Team Ghost | - |
+| [x] | M/Medicine | - |
+| [x] | M/Mai Lan | - |
+| [x] | T/The Romanovs | - |
+| [x] | W/White Sea | - |
+| [x] | Z/Zola Jesus | - |
+| [x] | S/Susanne Sundfør | - |
+| [x] | A/Agnostic Front | - |
+| [x] | S/Sinsaenum | - |
 
 ## Members
 
-> last updated: 2026-07-03T18:57 · unfixed: 676
+> last updated: 2026-07-03T23:58 · unfixed: 2
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -752,13 +754,13 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Josiah Steinbrick (batch: 2026-07-03T20:30, from: [[Artists/H/Heavens]])
 - [x] Simon Poulton (batch: 2026-07-03T20:30, from: [[Artists/H/Heavens]])
 - [x] Toby Morse (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
-- [ ] Freddy Cricien (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
-- [ ] Hoya Roc (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
-- [ ] Mackie Jayson (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
-- [ ] Chad Gilbert (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
-- [ ] Brian Mitts Daniels (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
-- [ ] Garrett Krinsky (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
-- [ ] Jason Lederman (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
+- [x] Freddy Cricien (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
+- [x] Hoya Roc (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
+- [x] Mackie Jayson (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
+- [x] Chad Gilbert (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
+- [x] Brian Mitts Daniels (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
+- [x] Garrett Krinsky (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
+- [x] Jason Lederman (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
 - [x] Denis Buckley (batch: 2026-07-02T20:00, from: [[Artists/0-9/88 Fingers Louie]])
 - [x] Dan Wleklinski (batch: 2026-07-02T20:00, from: [[Artists/0-9/88 Fingers Louie]])
 - [x] Joe Principe (batch: 2026-07-02T20:00, from: [[Artists/0-9/88 Fingers Louie]])
@@ -798,8 +800,8 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] A.J. Pero (batch: 2026-07-02T15:00, from: [[Artists/T/Twisted Sister]])
 - [x] Abe Cunningham (batch: 2026-07-02T15:00, from: [[Artists/D/Deftones]])
 - [x] Addy van der Zwan (batch: 2026-07-02T15:00, from: [[Artists/T/Technohead]])
-- [ ] Koen Groeneveld (batch: 2026-07-03T22:45, from: [[Members/A/Addy van der Zwan]])
-- [ ] Jan Voermans (batch: 2026-07-03T22:45, from: [[Members/A/Addy van der Zwan]])
+- [x] Koen Groeneveld (batch: 2026-07-03T22:45, from: [[Members/A/Addy van der Zwan]])
+- [x] Jan Voermans (batch: 2026-07-03T22:45, from: [[Members/A/Addy van der Zwan]])
 - [x] Adrian Utley (batch: 2026-07-02T15:00, from: [[Artists/P/Portishead]])
 - [x] Adrian Vandenberg (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
 - [x] Afasi (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
@@ -1015,478 +1017,478 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Fredrik Andersson (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
 - [x] Fredrik Larsson (batch: 2026-07-02T15:00, from: [[Artists/H/Hammerfall]])
 - [x] Fredrik Sandsten (batch: 2026-07-02T15:00, from: [[Artists/T/The Soundtrack of Our Lives]])
-- [ ] Frédéric Leclercq (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
-- [ ] G.C. Green (batch: 2026-07-02T15:00, from: [[Artists/G/Godflesh]])
-- [ ] Garry Cobain (batch: 2026-07-02T15:00, from: [[Artists/T/The Future Sound of London]])
-- [ ] Gary Lee Conner (batch: 2026-07-02T15:00, from: [[Artists/S/Screaming Trees]])
-- [ ] Gary Mounfield (batch: 2026-07-02T15:00, from: [[Artists/P/Primal Scream]])
-- [ ] Gavin Ward (batch: 2026-07-02T15:00, from: [[Artists/B/Bolt Thrower]])
-- [ ] Gee Anzalone (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
-- [ ] Geezer Butler (batch: 2026-07-02T15:00, from: [[Artists/B/Black Sabbath]])
-- [ ] Gene Trautmann (batch: 2026-07-02T15:00, from: [[Artists/Q/Queens of the Stone Age]])
-- [ ] Geoff Barrow (batch: 2026-07-02T15:00, from: [[Artists/P/Portishead]])
-- [ ] Gerold "Stiv" Phelps (batch: 2026-07-02T15:00, from: [[Artists/W/Wasted Youth]])
-- [ ] Gian Pyres (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
-- [ ] Gilby Clarke (batch: 2026-07-02T15:00, from: [[Artists/S/Slash's Snakepit]])
-- [ ] Ginger Fish (batch: 2026-07-02T15:00, from: [[Artists/R/Rob Zombie]])
-- [ ] Glen Matlock (batch: 2026-07-02T15:00, from: [[Artists/S/Sex Pistols]])
-- [ ] Glenn Hughes (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
-- [ ] Glenn McClelland (batch: 2026-07-02T15:00, from: [[Artists/W/Ween]])
-- [ ] Goon (batch: 2026-07-02T15:00, from: [[Artists/G/Goon]])
-- [ ] Graham Bonnet (batch: 2026-07-02T15:00, from: [[Artists/R/Rainbow]])
-- [ ] Graham Coxon (batch: 2026-07-02T15:00, from: [[Artists/B/Blur]])
-- [ ] Greg Christian (batch: 2026-07-02T15:00, from: [[Artists/T/Testament]])
-- [ ] Greg Edwards (batch: 2026-07-02T15:00, from: [[Artists/P/Puscifer]])
-- [ ] Greg Ginn (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
-- [ ] Greg Graffin (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
-- [ ] Greg Hetson (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
-- [ ] Günter Schulz (batch: 2026-07-02T15:00, from: [[Artists/S/Slick Idiot]])
-- [ ] Hannes van Dahl (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
-- [ ] Harry Shearer (batch: 2026-07-02T15:00, from: [[Artists/S/Spinal Tap]])
-- [ ] Henrik Berggren (batch: 2026-07-02T15:00, from: [[Artists/B/Broder Daniel]])
-- [ ] Henrik Englund Wilhemsson (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
-- [ ] Henrik Sandelin (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
-- [ ] Henry Ranta (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
-- [ ] Hillel Slovak (batch: 2026-07-02T15:00, from: [[Artists/R/Red Hot Chili Peppers]])
-- [ ] Hiro Yamamoto (batch: 2026-07-02T15:00, from: [[Artists/S/Soundgarden]])
-- [ ] Hooja (batch: 2026-07-02T15:00, from: [[Artists/H/Hooja]])
-- [ ] Howlin' Pelle Almqvist (batch: 2026-07-02T15:00, from: [[Artists/T/The Hives]])
-- [ ] Hugh Whitaker (batch: 2026-07-02T15:00, from: [[Artists/T/The Housemartins]])
-- [ ] Håkan Jonsson (batch: 2026-07-02T15:00, from: [[Artists/W/Watain]])
-- [ ] Ian Astbury (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
-- [ ] Ian Person (batch: 2026-07-02T15:00, from: [[Artists/T/The Soundtrack of Our Lives]])
-- [ ] Inferno (batch: 2026-07-02T15:00, from: [[Artists/B/Behemoth]])
-- [ ] Isaiah "Ikey" Owens (batch: 2026-07-02T15:00, from: [[Artists/T/The Mars Volta]])
-- [ ] Ivan de Prume (batch: 2026-07-02T15:00, from: [[Artists/W/White Zombie]])
-- [ ] J. Yuenger (batch: 2026-07-02T15:00, from: [[Artists/W/White Zombie]])
-- [ ] Jack Endino (batch: 2026-07-02T15:00, from: [[Artists/S/Skin Yard]])
-- [ ] Jack Gibson (batch: 2026-07-02T15:00, from: [[Artists/E/Exodus]])
-- [ ] Jah Wobble (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
-- [ ] Jake E. (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
-- [ ] James Kottak (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
-- [ ] James Michael (batch: 2026-07-02T15:00, from: [[Artists/S/Sixx A.M.]])
-- [ ] James Williamson (batch: 2026-07-02T15:00, from: [[Artists/T/The Stooges]])
-- [ ] Jamie Miller (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
-- [ ] Jamie Stewart (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
-- [ ] Janis Joplin (batch: 2026-07-02T15:00, from: [[Artists/J/Janis Joplin]])
-- [ ] Janne Parviainen (batch: 2026-07-02T15:00, from: [[Artists/E/Ensiferum]])
-- [ ] Jarboe (batch: 2026-07-02T15:00, from: [[Artists/S/Swans]])
-- [ ] Jase Edwards (batch: 2026-07-02T15:00, from: [[Artists/W/Wolfsbane]])
-- [ ] Jason Cooper (batch: 2026-07-02T15:00, from: [[Artists/T/The Cure]])
-- [ ] Jason Finn (batch: 2026-07-02T15:00, from: [[Artists/S/Skin Yard]])
-- [ ] Jason Pierce (batch: 2026-07-02T15:00, from: [[Artists/S/Spiritualized]])
-- [ ] Jason Rullo (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
-- [ ] Jay Bentley (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
-- [ ] Jay Jay French (batch: 2026-07-02T15:00, from: [[Artists/T/Twisted Sister]])
-- [ ] Jay Kay (batch: 2026-07-02T15:00, from: [[Artists/J/Jamiroquai]])
-- [ ] Jay Lane (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
-- [ ] Jay Ziskrout (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
-- [ ] Jean-Luc De Meyer (batch: 2026-07-02T15:00, from: [[Artists/F/Front 242]])
-- [ ] Jean-Michel Jarre (batch: 2026-07-02T15:00, from: [[Artists/J/Jean-Michel Jarre]])
-- [ ] Jean-Michel Labadie (batch: 2026-07-02T15:00, from: [[Artists/G/Gojira]])
-- [ ] Jeff Friedl (batch: 2026-07-02T15:00, from: [[Artists/P/Puscifer]])
-- [ ] Jeff Hanneman (batch: 2026-07-02T15:00, from: [[Artists/S/Slayer]])
-- [ ] Jeff Hateley (batch: 2026-07-02T15:00, from: [[Artists/W/Wolfsbane]])
-- [ ] Jeff Loomis (batch: 2026-07-02T15:00, from: [[Artists/A/Arch Enemy]])
-- [ ] Jeff Mills (batch: 2026-07-02T15:00, from: [[Artists/J/Jeff Mills]])
-- [ ] Jennie Bomb (batch: 2026-07-02T15:00, from: [[Artists/S/Sahara Hotnights]])
-- [ ] Jeremy Brown (batch: 2026-07-02T15:00, from: [[Artists/S/Scott Weiland & The Wildabouts]])
-- [ ] Jesus Mendez Jr. (batch: 2026-07-02T15:00, from: [[Artists/N/Newsted]])
-- [ ] Jim Kimball (batch: 2026-07-02T15:00, from: [[Artists/T/The Jesus Lizard]])
-- [ ] Jim Macpherson (batch: 2026-07-02T15:00, from: [[Artists/T/The Breeders]])
-- [ ] Jim O'Rourke (batch: 2026-07-02T15:00, from: [[Artists/S/Sonic Youth]])
-- [ ] Jim Sclavunos (batch: 2026-07-02T15:00, from: [[Artists/G/Grinderman]])
-- [ ] Jim Sellers (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
-- [ ] Jim Ward (batch: 2026-07-02T15:00, from: [[Artists/A/At the Drive-In]])
+- [x] Frédéric Leclercq (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
+- [x] G.C. Green (batch: 2026-07-02T15:00, from: [[Artists/G/Godflesh]])
+- [x] Garry Cobain (batch: 2026-07-02T15:00, from: [[Artists/T/The Future Sound of London]])
+- [x] Gary Lee Conner (batch: 2026-07-02T15:00, from: [[Artists/S/Screaming Trees]])
+- [x] Gary Mounfield (batch: 2026-07-02T15:00, from: [[Artists/P/Primal Scream]])
+- [x] Gavin Ward (batch: 2026-07-02T15:00, from: [[Artists/B/Bolt Thrower]])
+- [x] Gee Anzalone (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
+- [x] Geezer Butler (batch: 2026-07-02T15:00, from: [[Artists/B/Black Sabbath]])
+- [x] Gene Trautmann (batch: 2026-07-02T15:00, from: [[Artists/Q/Queens of the Stone Age]])
+- [x] Geoff Barrow (batch: 2026-07-02T15:00, from: [[Artists/P/Portishead]])
+- [x] Allen Stiritz (batch: 2026-07-02T15:00, from: [[Artists/W/Wasted Youth]])
+- [x] Gian Pyres (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
+- [x] Gilby Clarke (batch: 2026-07-02T15:00, from: [[Artists/S/Slash's Snakepit]])
+- [x] Ginger Fish (batch: 2026-07-02T15:00, from: [[Artists/R/Rob Zombie]])
+- [x] Glen Matlock (batch: 2026-07-02T15:00, from: [[Artists/S/Sex Pistols]])
+- [x] Glenn Hughes (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
+- [x] Glenn McClelland (batch: 2026-07-02T15:00, from: [[Artists/W/Ween]])
+- [x] Goon (batch: 2026-07-02T15:00, from: [[Artists/G/Goon]]) – LA-based indie rock band, artist page updated
+- [x] Graham Bonnet (batch: 2026-07-02T15:00, from: [[Artists/R/Rainbow]])
+- [x] Graham Coxon (batch: 2026-07-02T15:00, from: [[Artists/B/Blur]])
+- [x] Greg Christian (batch: 2026-07-02T15:00, from: [[Artists/T/Testament]])
+- [x] Greg Edwards (batch: 2026-07-02T15:00, from: [[Artists/P/Puscifer]])
+- [x] Greg Ginn (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
+- [x] Greg Graffin (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
+- [x] Greg Hetson (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
+- [x] Günter Schulz (batch: 2026-07-02T15:00, from: [[Artists/S/Slick Idiot]])
+- [x] Hannes van Dahl (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
+- [x] Harry Shearer (batch: 2026-07-02T15:00, from: [[Artists/S/Spinal Tap]])
+- [x] Henrik Berggren (batch: 2026-07-02T15:00, from: [[Artists/B/Broder Daniel]])
+- [x] Henrik Englund Wilhemsson (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
+- [x] Henrik Sandelin (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
+- [x] Henry Ranta (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
+- [x] Hillel Slovak (batch: 2026-07-02T15:00, from: [[Artists/R/Red Hot Chili Peppers]])
+- [x] Hiro Yamamoto (batch: 2026-07-02T15:00, from: [[Artists/S/Soundgarden]])
+- [x] Hooja (batch: 2026-07-02T15:00, from: [[Artists/H/Hooja]])
+- [x] Howlin' Pelle Almqvist (batch: 2026-07-02T15:00, from: [[Artists/T/The Hives]])
+- [x] Hugh Whitaker (batch: 2026-07-02T15:00, from: [[Artists/T/The Housemartins]])
+- [x] Håkan Jonsson (batch: 2026-07-02T15:00, from: [[Artists/W/Watain]])
+- [x] Ian Astbury (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
+- [x] Ian Person (batch: 2026-07-02T15:00, from: [[Artists/T/The Soundtrack of Our Lives]])
+- [x] Inferno (batch: 2026-07-02T15:00, from: [[Artists/B/Behemoth]])
+- [x] Isaiah "Ikey" Owens (batch: 2026-07-02T15:00, from: [[Artists/T/The Mars Volta]])
+- [x] Ivan de Prume (batch: 2026-07-02T15:00, from: [[Artists/W/White Zombie]])
+- [x] J. Yuenger (batch: 2026-07-02T15:00, from: [[Artists/W/White Zombie]])
+- [x] Jack Endino (batch: 2026-07-02T15:00, from: [[Artists/S/Skin Yard]])
+- [x] Jack Gibson (batch: 2026-07-02T15:00, from: [[Artists/E/Exodus]])
+- [x] Jah Wobble (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
+- [x] Jake E. (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
+- [x] James Kottak (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
+- [x] James Michael (batch: 2026-07-02T15:00, from: [[Artists/S/Sixx A.M.]])
+- [x] James Williamson (batch: 2026-07-02T15:00, from: [[Artists/T/The Stooges]])
+- [x] Jamie Miller (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
+- [x] Jamie Stewart (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
+- [x] Janis Joplin (batch: 2026-07-02T15:00, from: [[Artists/J/Janis Joplin]])
+- [x] Janne Parviainen (batch: 2026-07-02T15:00, from: [[Artists/E/Ensiferum]])
+- [x] Jarboe (batch: 2026-07-02T15:00, from: [[Artists/S/Swans]])
+- [x] Jase Edwards (batch: 2026-07-02T15:00, from: [[Artists/W/Wolfsbane]])
+- [x] Jason Cooper (batch: 2026-07-02T15:00, from: [[Artists/T/The Cure]])
+- [x] Jason Finn (batch: 2026-07-02T15:00, from: [[Artists/S/Skin Yard]])
+- [x] Jason Pierce (batch: 2026-07-02T15:00, from: [[Artists/S/Spiritualized]])
+- [x] Jason Rullo (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
+- [x] Jay Bentley (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
+- [x] Jay Jay French (batch: 2026-07-02T15:00, from: [[Artists/T/Twisted Sister]])
+- [x] Jay Kay (batch: 2026-07-02T15:00, from: [[Artists/J/Jamiroquai]])
+- [x] Jay Lane (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
+- [x] Jay Ziskrout (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
+- [x] Jean-Luc De Meyer (batch: 2026-07-02T15:00, from: [[Artists/F/Front 242]])
+- [x] Jean-Michel Jarre (batch: 2026-07-02T15:00, from: [[Artists/J/Jean-Michel Jarre]])
+- [x] Jean-Michel Labadie (batch: 2026-07-02T15:00, from: [[Artists/G/Gojira]])
+- [x] Jeff Friedl (batch: 2026-07-02T15:00, from: [[Artists/P/Puscifer]])
+- [x] Jeff Hanneman (batch: 2026-07-02T15:00, from: [[Artists/S/Slayer]])
+- [x] Jeff Hateley (batch: 2026-07-02T15:00, from: [[Artists/W/Wolfsbane]])
+- [x] Jeff Loomis (batch: 2026-07-02T15:00, from: [[Artists/A/Arch Enemy]])
+- [x] Jeff Mills (batch: 2026-07-02T15:00, from: [[Artists/J/Jeff Mills]])
+- [x] Jennie Bomb (batch: 2026-07-02T15:00, from: [[Artists/S/Sahara Hotnights]])
+- [x] Jeremy Brown (batch: 2026-07-02T15:00, from: [[Artists/S/Scott Weiland & The Wildabouts]])
+- [x] Jesus Mendez Jr. (batch: 2026-07-02T15:00, from: [[Artists/N/Newsted]])
+- [x] Jim Kimball (batch: 2026-07-02T15:00, from: [[Artists/T/The Jesus Lizard]])
+- [x] Jim Macpherson (batch: 2026-07-02T15:00, from: [[Artists/T/The Breeders]])
+- [x] Jim O'Rourke (batch: 2026-07-02T15:00, from: [[Artists/S/Sonic Youth]])
+- [x] Jim Sclavunos (batch: 2026-07-02T15:00, from: [[Artists/G/Grinderman]])
+- [x] Jim Sellers (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
+- [x] Jim Ward (batch: 2026-07-02T15:00, from: [[Artists/A/At the Drive-In]])
 - [x] Jimmy "The Rev" Sullivan (batch: 2026-07-02T15:00, from: [[Artists/A/Avenged Sevenfold]])
-- [ ] Jimmy Cauty (batch: 2026-07-02T15:00, from: [[Artists/T/The KLF]])
-- [ ] Jo Bench (batch: 2026-07-02T15:00, from: [[Artists/B/Bolt Thrower]])
-- [ ] Joacim Cans (batch: 2026-07-02T15:00, from: [[Artists/H/Hammerfall]])
-- [ ] Joakim Hedestedt (batch: 2026-07-02T15:00, from: [[Artists/C/Clawfinger]])
-- [ ] Joakim Lindbäck (batch: 2026-07-02T15:00, from: [[Artists/S/Slagsmålsklubben]])
-- [ ] Joakim Nilsson (batch: 2026-07-02T15:00, from: [[Artists/G/Graveyard]])
-- [ ] Jochen Arbeit (batch: 2026-07-02T15:00, from: [[Artists/E/Einstürzende Neubauten]])
-- [ ] Jocke Wallgren (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
-- [ ] Joe Duplantier (batch: 2026-07-02T15:00, from: [[Artists/G/Gojira]])
-- [ ] Joe Escalante (batch: 2026-07-02T15:00, from: [[Artists/T/The Vandals]])
-- [ ] Joe Lynn Turner (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
-- [ ] Joe Satriani (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
-- [ ] Joel Ekman (batch: 2026-07-02T15:00, from: [[Artists/S/Stone Sour]])
-- [ ] Joey Belladonna (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
-- [ ] Joey Castillo (batch: 2026-07-02T15:00, from: [[Artists/Q/Queens of the Stone Age]])
-- [ ] Johan Andreassen (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
-- [ ] Johan DeFarfalla (batch: 2026-07-02T15:00, from: [[Artists/O/Opeth]])
-- [ ] Johan Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
-- [ ] Johan Hegg (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
-- [ ] Johan Håkansson (batch: 2026-07-02T15:00, from: [[Artists/B/Broder Daniel]])
-- [ ] Johan Jøllby (batch: 2026-07-02T15:00, from: [[Artists/S/Slagsmålsklubben]])
-- [ ] Johan Liiva (batch: 2026-07-02T15:00, from: [[Artists/A/Arch Enemy]])
-- [ ] Johan Reinholdz (batch: 2026-07-02T15:00, from: [[Artists/D/Dark Tranquillity]])
-- [ ] Johan Söderberg (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
-- [ ] Johanna Asplund (batch: 2026-07-02T15:00, from: [[Artists/S/Sahara Hotnights]])
-- [ ] Johanna Öst (batch: 2026-07-02T15:00, from: [[Artists/T/The Wondergirls]])
-- [ ] Johannes Eckerström (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
-- [ ] Johannes Schmoelling (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
-- [ ] John Alfredsson (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
-- [ ] John Bush (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
-- [ ] John Dolmayan (batch: 2026-07-02T15:00, from: [[Artists/S/System of a Down]])
-- [ ] John Edwards (batch: 2026-07-02T15:00, from: [[Artists/S/Status Quo]])
-- [ ] John King (batch: 2026-07-02T15:00, from: [[Artists/T/The Dust Brothers]])
-- [ ] John Lydon (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
-- [ ] John McBain (batch: 2026-07-02T15:00, from: [[Artists/H/Hater]])
-- [ ] John McKay (batch: 2026-07-02T15:00, from: [[Artists/S/Siouxsie and the Banshees]])
-- [ ] John Otto (batch: 2026-07-02T15:00, from: [[Artists/L/Limp Bizkit]])
-- [ ] John Sykes (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
-- [ ] John Tempesta (batch: 2026-07-02T15:00, from: [[Artists/W/White Zombie]])
-- [ ] John Weiffenbach (batch: 2026-07-02T15:00, from: [[Artists/V/Void]])
-- [ ] Johnny A. Carter (batch: 2026-07-02T15:00, from: [[Artists/P/Pitchshifter]])
+- [x] Jimmy Cauty (batch: 2026-07-02T15:00, from: [[Artists/T/The KLF]])
+- [x] Jo Bench (batch: 2026-07-02T15:00, from: [[Artists/B/Bolt Thrower]])
+- [x] Joacim Cans (batch: 2026-07-02T15:00, from: [[Artists/H/Hammerfall]])
+- [x] Joakim Hedestedt (batch: 2026-07-02T15:00, from: [[Artists/C/Clawfinger]])
+- [x] Joakim Lindbäck (batch: 2026-07-02T15:00, from: [[Artists/S/Slagsmålsklubben]])
+- [x] Joakim Nilsson (batch: 2026-07-02T15:00, from: [[Artists/G/Graveyard]])
+- [x] Jochen Arbeit (batch: 2026-07-02T15:00, from: [[Artists/E/Einstürzende Neubauten]])
+- [x] Jocke Wallgren (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
+- [x] Joe Duplantier (batch: 2026-07-02T15:00, from: [[Artists/G/Gojira]])
+- [x] Joe Escalante (batch: 2026-07-02T15:00, from: [[Artists/T/The Vandals]])
+- [x] Joe Lynn Turner (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
+- [x] Joe Satriani (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
+- [x] Joel Ekman (batch: 2026-07-02T15:00, from: [[Artists/S/Stone Sour]])
+- [x] Joey Belladonna (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
+- [x] Joey Castillo (batch: 2026-07-02T15:00, from: [[Artists/Q/Queens of the Stone Age]])
+- [x] Johan Andreassen (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
+- [x] Johan DeFarfalla (batch: 2026-07-02T15:00, from: [[Artists/O/Opeth]])
+- [x] Johan Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
+- [x] Johan Hegg (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
+- [x] Johan Håkansson (batch: 2026-07-02T15:00, from: [[Artists/B/Broder Daniel]])
+- [x] Johan Jøllby (batch: 2026-07-02T15:00, from: [[Artists/S/Slagsmålsklubben]])
+- [x] Johan Liiva (batch: 2026-07-02T15:00, from: [[Artists/A/Arch Enemy]])
+- [x] Johan Reinholdz (batch: 2026-07-02T15:00, from: [[Artists/D/Dark Tranquillity]])
+- [x] Johan Söderberg (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
+- [x] Johanna Asplund (batch: 2026-07-02T15:00, from: [[Artists/S/Sahara Hotnights]])
+- [x] Johanna Öst (batch: 2026-07-02T15:00, from: [[Artists/T/The Wondergirls]])
+- [x] Johannes Eckerström (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
+- [x] Johannes Schmoelling (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
+- [x] John Alfredsson (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
+- [x] John Bush (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
+- [x] John Dolmayan (batch: 2026-07-02T15:00, from: [[Artists/S/System of a Down]])
+- [x] John Edwards (batch: 2026-07-02T15:00, from: [[Artists/S/Status Quo]])
+- [x] John King (batch: 2026-07-02T15:00, from: [[Artists/T/The Dust Brothers]])
+- [x] John Lydon (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
+- [x] John McBain (batch: 2026-07-02T15:00, from: [[Artists/H/Hater]])
+- [x] John McKay (batch: 2026-07-02T15:00, from: [[Artists/S/Siouxsie and the Banshees]])
+- [x] John Otto (batch: 2026-07-02T15:00, from: [[Artists/L/Limp Bizkit]])
+- [x] John Sykes (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
+- [x] John Tempesta (batch: 2026-07-02T15:00, from: [[Artists/W/White Zombie]])
+- [x] John Weiffenbach (batch: 2026-07-02T15:00, from: [[Artists/V/Void]])
+- [x] Johnny A. Carter (batch: 2026-07-02T15:00, from: [[Artists/P/Pitchshifter]])
 - [x] Johnny Christ (batch: 2026-07-02T15:00, from: [[Artists/A/Avenged Sevenfold]])
-- [ ] Jon Brännström (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
-- [ ] Jon Dupree (batch: 2026-07-02T15:00, from: [[Artists/V/Void]])
-- [ ] Jon Hudson (batch: 2026-07-02T15:00, from: [[Artists/F/Faith No More]])
-- [ ] Jon Klein (batch: 2026-07-02T15:00, from: [[Artists/S/Siouxsie and the Banshees]])
-- [ ] Jon Lord (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
-- [ ] Jon Votta (batch: 2026-07-02T15:00, from: [[Artists/A/Art of Anarchy]])
-- [ ] Jonas Björler (batch: 2026-07-02T15:00, from: [[Artists/A/At the Gates]])
-- [ ] Jonas Jarlsby (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
-- [ ] Jonas Lindqvist (batch: 2026-07-02T15:00, from: [[Artists/B/Broder Daniel]])
-- [ ] Jonas Renkse (batch: 2026-07-02T15:00, from: [[Artists/B/Bloodbath]])
-- [ ] Jonas Stålhammar (batch: 2026-07-02T15:00, from: [[Artists/A/At the Gates]])
-- [ ] Jonathan Donais (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
-- [ ] Jonny Mattock (batch: 2026-07-02T15:00, from: [[Artists/S/Spiritualized]])
-- [ ] Joram Metekohy (batch: 2026-07-02T15:00, from: [[Artists/P/Project One]])
-- [ ] Josephine Forsman (batch: 2026-07-02T15:00, from: [[Artists/S/Sahara Hotnights]])
-- [ ] Josephine Wiggs (batch: 2026-07-02T15:00, from: [[Artists/T/The Breeders]])
-- [ ] Josh Rand (batch: 2026-07-02T15:00, from: [[Artists/S/Stone Sour]])
-- [ ] Juan Alderete (batch: 2026-07-02T15:00, from: [[Artists/T/The Mars Volta]])
-- [ ] Jukka Koskinen (batch: 2026-07-02T15:00, from: [[Artists/W/Wintersun]])
-- [ ] Kai Hahto (batch: 2026-07-02T15:00, from: [[Artists/W/Wintersun]])
-- [ ] Kai Hansen (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
-- [ ] Kai Uwe Faust (batch: 2026-07-02T15:00, from: [[Artists/H/Heilung]])
-- [ ] Kalle Gustafsson Jerneholm (batch: 2026-07-02T15:00, from: [[Artists/T/The Soundtrack of Our Lives]])
-- [ ] Karl Willetts (batch: 2026-07-02T15:00, from: [[Artists/B/Bolt Thrower]])
-- [ ] Keith Levene (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
-- [ ] Keith Morris (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
-- [ ] Kelley Deal (batch: 2026-07-02T15:00, from: [[Artists/T/The Breeders]])
-- [ ] Kelli Dayton (batch: 2026-07-02T15:00, from: [[Artists/S/Sneaker Pimps]])
-- [ ] Ken Jordan (batch: 2026-07-02T15:00, from: [[Artists/T/The Crystal Method]])
-- [ ] Ken Sandin (batch: 2026-07-02T15:00, from: [[Artists/T/The Hellacopters]])
-- [ ] Kenney Jones (batch: 2026-07-02T15:00, from: [[Artists/T/The Who]])
-- [ ] Kenny Morris (batch: 2026-07-02T15:00, from: [[Artists/S/Siouxsie and the Banshees]])
-- [ ] Kenny Withrow (batch: 2026-07-02T15:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
-- [ ] Kent Stax (batch: 2026-07-02T15:00, from: [[Artists/S/Scream]])
-- [ ] Kevin Moore (batch: 2026-07-02T15:00, from: [[Artists/D/Dream Theater]])
-- [ ] Kevin Ratajczak (batch: 2026-07-02T15:00, from: [[Artists/E/Electric Callboy]])
-- [ ] Kevin Rutmanis (batch: 2026-07-02T15:00, from: [[Artists/T/The Melvins]])
-- [ ] Kim Deal (batch: 2026-07-02T15:00, from: [[Artists/P/Pixies]])
-- [ ] Kim Pettersson (batch: 2026-07-02T15:00, from: [[Artists/O/Opeth]])
-- [ ] King Diamond (batch: 2026-07-02T15:00, from: [[Artists/P/Probot]])
-- [ ] Kjetil Haraldstad (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
-- [ ] Koen Groeneveld (batch: 2026-07-02T15:00, from: [[Artists/T/Technohead]])
-- [ ] Kransen (batch: 2026-07-02T15:00, from: [[Artists/D/Dia Psalma]])
-- [ ] Kris Weston (batch: 2026-07-02T15:00, from: [[Artists/T/The Orb]])
-- [ ] Kristen Pfaff (batch: 2026-07-02T15:00, from: [[Artists/H/Hole]])
-- [ ] Kurt Glori (batch: 2026-07-02T15:00, from: [[Artists/E/Excessive Force]])
-- [ ] Larry Dunn (batch: 2026-07-02T15:00, from: [[Artists/E/Earth, Wind & Fire]])
-- [ ] Larry LaLonde (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
-- [ ] Larry Mullen Jr. (batch: 2026-07-02T15:00, from: [[Artists/U/U2]])
-- [ ] Lee Ranaldo (batch: 2026-07-02T15:00, from: [[Artists/S/Sonic Youth]])
-- [ ] Leeroy Thornhill (batch: 2026-07-02T15:00, from: [[Artists/T/The Prodigy]])
-- [ ] Les (batch: 2026-07-02T15:00, from: [[Artists/B/Behemoth]])
-- [ ] Les Claypool (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
-- [ ] Liam Howe (batch: 2026-07-02T15:00, from: [[Artists/S/Sneaker Pimps]])
-- [ ] Likk (batch: 2026-07-02T15:00, from: [[Artists/L/Likk]])
-- [ ] Lime (batch: 2026-07-02T15:00, from: [[Artists/S/SL2]])
-- [ ] Lina Ericsson (batch: 2026-07-02T15:00, from: [[Artists/T/The Wondergirls]])
-- [ ] Lindsay Schoolcraft (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
-- [ ] Lorna Doom (batch: 2026-07-02T15:00, from: [[Artists/T/The Germs]])
-- [ ] Louie Clemente (batch: 2026-07-02T15:00, from: [[Artists/T/Testament]])
-- [ ] Lu Edmonds (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
-- [ ] Luc Van Acker (batch: 2026-07-02T15:00, from: [[Artists/R/Revolting Cocks]])
-- [ ] Lucia Cifarelli (batch: 2026-07-02T15:00, from: [[Artists/S/Schwein]])
-- [ ] Lux Interior (batch: 2026-07-02T15:00, from: [[Artists/T/The Cramps]])
-- [ ] Lætitia Sadier (batch: 2026-07-02T15:00, from: [[Artists/S/Stereolab]])
+- [x] Jon Brännström (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
+- [x] Jon Dupree (batch: 2026-07-02T15:00, from: [[Artists/V/Void]])
+- [x] Jon Hudson (batch: 2026-07-02T15:00, from: [[Artists/F/Faith No More]])
+- [x] Jon Klein (batch: 2026-07-02T15:00, from: [[Artists/S/Siouxsie and the Banshees]])
+- [x] Jon Lord (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
+- [x] Jon Votta (batch: 2026-07-02T15:00, from: [[Artists/A/Art of Anarchy]])
+- [x] Jonas Björler (batch: 2026-07-02T15:00, from: [[Artists/A/At the Gates]])
+- [x] Jonas Jarlsby (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
+- [x] Jonas Lindqvist (batch: 2026-07-02T15:00, from: [[Artists/B/Broder Daniel]])
+- [x] Jonas Renkse (batch: 2026-07-02T15:00, from: [[Artists/B/Bloodbath]])
+- [x] Jonas Stålhammar (batch: 2026-07-02T15:00, from: [[Artists/A/At the Gates]])
+- [x] Jonathan Donais (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
+- [x] Jonny Mattock (batch: 2026-07-02T15:00, from: [[Artists/S/Spiritualized]])
+- [x] Joram Metekohy (batch: 2026-07-02T15:00, from: [[Artists/P/Project One]])
+- [x] Josephine Forsman (batch: 2026-07-02T15:00, from: [[Artists/S/Sahara Hotnights]])
+- [x] Josephine Wiggs (batch: 2026-07-02T15:00, from: [[Artists/T/The Breeders]])
+- [x] Josh Rand (batch: 2026-07-02T15:00, from: [[Artists/S/Stone Sour]])
+- [x] Juan Alderete (batch: 2026-07-02T15:00, from: [[Artists/T/The Mars Volta]])
+- [x] Jukka Koskinen (batch: 2026-07-02T15:00, from: [[Artists/W/Wintersun]])
+- [x] Kai Hahto (batch: 2026-07-02T15:00, from: [[Artists/W/Wintersun]])
+- [x] Kai Hansen (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
+- [x] Kai Uwe Faust (batch: 2026-07-02T15:00, from: [[Artists/H/Heilung]])
+- [x] Kalle Gustafsson Jerneholm (batch: 2026-07-02T15:00, from: [[Artists/T/The Soundtrack of Our Lives]])
+- [x] Karl Willetts (batch: 2026-07-02T15:00, from: [[Artists/B/Bolt Thrower]])
+- [x] Keith Levene (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
+- [x] Keith Morris (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
+- [x] Kelley Deal (batch: 2026-07-02T15:00, from: [[Artists/T/The Breeders]])
+- [x] Kelli Dayton (batch: 2026-07-02T15:00, from: [[Artists/S/Sneaker Pimps]])
+- [x] Ken Jordan (batch: 2026-07-02T15:00, from: [[Artists/T/The Crystal Method]])
+- [x] Ken Sandin (batch: 2026-07-02T15:00, from: [[Artists/T/The Hellacopters]])
+- [x] Kenney Jones (batch: 2026-07-02T15:00, from: [[Artists/T/The Who]])
+- [x] Kenny Morris (batch: 2026-07-02T15:00, from: [[Artists/S/Siouxsie and the Banshees]])
+- [x] Kenny Withrow (batch: 2026-07-02T15:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
+- [x] Kent Stax (batch: 2026-07-02T15:00, from: [[Artists/S/Scream]])
+- [x] Kevin Moore (batch: 2026-07-02T15:00, from: [[Artists/D/Dream Theater]])
+- [x] Kevin Ratajczak (batch: 2026-07-02T15:00, from: [[Artists/E/Electric Callboy]])
+- [x] Kevin Rutmanis (batch: 2026-07-02T15:00, from: [[Artists/T/The Melvins]])
+- [x] Kim Deal (batch: 2026-07-02T15:00, from: [[Artists/P/Pixies]])
+- [x] Kim Pettersson (batch: 2026-07-02T15:00, from: [[Artists/O/Opeth]])
+- [x] King Diamond (batch: 2026-07-02T15:00, from: [[Artists/P/Probot]])
+- [x] Kjetil Haraldstad (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
+- [x] Koen Groeneveld (batch: 2026-07-02T15:00, from: [[Artists/T/Technohead]])
+- [x] Kransen (batch: 2026-07-02T15:00, from: [[Artists/D/Dia Psalma]])
+- [x] Kris Weston (batch: 2026-07-02T15:00, from: [[Artists/T/The Orb]])
+- [x] Kristen Pfaff (batch: 2026-07-02T15:00, from: [[Artists/H/Hole]])
+- [x] Kurt Glori (batch: 2026-07-02T15:00, from: [[Artists/E/Excessive Force]])
+- [x] Larry Dunn (batch: 2026-07-02T15:00, from: [[Artists/E/Earth, Wind & Fire]])
+- [x] Larry LaLonde (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
+- [x] Larry Mullen Jr. (batch: 2026-07-02T15:00, from: [[Artists/U/U2]])
+- [x] Lee Ranaldo (batch: 2026-07-02T15:00, from: [[Artists/S/Sonic Youth]])
+- [x] Leeroy Thornhill (batch: 2026-07-02T15:00, from: [[Artists/T/The Prodigy]])
+- [x] Les (batch: 2026-07-02T15:00, from: [[Artists/B/Behemoth]])
+- [x] Les Claypool (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
+- [x] Liam Howe (batch: 2026-07-02T15:00, from: [[Artists/S/Sneaker Pimps]])
+- [x] Likk (batch: 2026-07-02T15:00, from: [[Artists/L/Likk]])
+- [x] Lime (batch: 2026-07-02T15:00, from: [[Artists/S/SL2]])
+- [x] Lina Ericsson (batch: 2026-07-02T15:00, from: [[Artists/T/The Wondergirls]])
+- [x] Lindsay Schoolcraft (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
+- [x] Lorna Doom (batch: 2026-07-02T15:00, from: [[Artists/T/The Germs]])
+- [x] Louie Clemente (batch: 2026-07-02T15:00, from: [[Artists/T/Testament]])
+- [x] Lu Edmonds (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
+- [x] Luc Van Acker (batch: 2026-07-02T15:00, from: [[Artists/R/Revolting Cocks]])
+- [x] Lucia Cifarelli (batch: 2026-07-02T15:00, from: [[Artists/S/Schwein]])
+- [x] Lux Interior (batch: 2026-07-02T15:00, from: [[Artists/T/The Cramps]])
+- [x] Lætitia Sadier (batch: 2026-07-02T15:00, from: [[Artists/S/Stereolab]])
 - [x] M. Shadows (batch: 2026-07-02T15:00, from: [[Artists/A/Avenged Sevenfold]])
-- [ ] Mac McNeilly (batch: 2026-07-02T15:00, from: [[Artists/T/The Jesus Lizard]])
-- [ ] Mackan (batch: 2026-07-02T15:00, from: [[Artists/D/Dia Psalma]])
-- [ ] Magnus Björklund (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
-- [ ] Magnus Höggren (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
-- [ ] Malcolm Young (batch: 2026-07-02T15:00, from: [[Artists/A/ACDC]])
-- [ ] Malin Ekholm (batch: 2026-07-02T15:00, from: [[Artists/T/The Wondergirls]])
-- [ ] Marc Hudson (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
-- [ ] Marc Reign (batch: 2026-07-02T15:00, from: [[Artists/D/Destruction]])
-- [ ] Marek Šmerda (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
-- [ ] Maria Andersson (batch: 2026-07-02T15:00, from: [[Artists/S/Sahara Hotnights]])
-- [ ] Maria Franz (batch: 2026-07-02T15:00, from: [[Artists/H/Heilung]])
-- [ ] Mario Duplantier (batch: 2026-07-02T15:00, from: [[Artists/G/Gojira]])
-- [ ] Mark Arm (batch: 2026-07-02T15:00, from: [[Artists/G/Green River]])
-- [ ] Mark Brzezicki (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
-- [ ] Mark Clayden (batch: 2026-07-02T15:00, from: [[Artists/P/Pitchshifter]])
-- [ ] Mark Deutrom (batch: 2026-07-02T15:00, from: [[Artists/T/The Melvins]])
-- [ ] Mark Eliopulos (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
-- [ ] Mark Evans (batch: 2026-07-02T15:00, from: [[Artists/A/ACDC]])
-- [ ] Mark Mendoza (batch: 2026-07-02T15:00, from: [[Artists/T/Twisted Sister]])
-- [ ] Mark Pickerel (batch: 2026-07-02T15:00, from: [[Artists/S/Screaming Trees]])
-- [ ] Markus Grosskopf (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
-- [ ] Markus Toivonen (batch: 2026-07-02T15:00, from: [[Artists/E/Ensiferum]])
-- [ ] Martijn de Kleer (batch: 2026-07-02T15:00, from: [[Artists/T/The Legendary Pink Dots]])
-- [ ] Martin Duffy (batch: 2026-07-02T15:00, from: [[Artists/P/Primal Scream]])
-- [ ] Martin Hederos (batch: 2026-07-02T15:00, from: [[Artists/T/The Soundtrack of Our Lives]])
-- [ ] Martin Henriksson (batch: 2026-07-02T15:00, from: [[Artists/D/Dark Tranquillity]])
-- [ ] Martin Kearns (batch: 2026-07-02T15:00, from: [[Artists/B/Bolt Thrower]])
-- [ ] Martin Larsson (batch: 2026-07-02T15:00, from: [[Artists/A/At the Gates]])
-- [ ] Martin Watson (batch: 2026-07-02T15:00, from: [[Artists/S/Sweet Exorcist]])
-- [ ] Martyn P. Casey (batch: 2026-07-02T15:00, from: [[Artists/G/Grinderman]])
-- [ ] Mary Hansen (batch: 2026-07-02T15:00, from: [[Artists/S/Stereolab]])
-- [ ] Mat Mitchell (batch: 2026-07-02T15:00, from: [[Artists/P/Puscifer]])
-- [ ] Mats Häll (batch: 2026-07-02T15:00, from: [[Artists/G/Gamla Pengar]])
-- [ ] Mats Persson (batch: 2026-07-02T15:00, from: [[Artists/T/Ten Inch Men]])
-- [ ] Matt Chamberlain (batch: 2026-07-02T15:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
-- [ ] Matt Lukin (batch: 2026-07-02T15:00, from: [[Artists/T/The Melvins]])
-- [ ] Matthew Greywolf (batch: 2026-07-02T15:00, from: [[Artists/P/Powerwolf]])
-- [ ] Mattias Hellberg (batch: 2026-07-02T15:00, from: [[Artists/D/Death Hawks]])
-- [ ] Max Cavalera (batch: 2026-07-02T15:00, from: [[Artists/P/Probot]])
-- [ ] Melissa Auf der Maur (batch: 2026-07-02T15:00, from: [[Artists/T/The Smashing Pumpkins]])
-- [ ] Melvin Gibbs (batch: 2026-07-02T15:00, from: [[Artists/R/Rollins Band]])
-- [ ] Michael Anthony (batch: 2026-07-02T15:00, from: [[Artists/V/Van Halen]])
-- [ ] Michael Devin (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
-- [ ] Michael Kiske (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
-- [ ] Michael Lepond (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
-- [ ] Michael McKean (batch: 2026-07-02T15:00, from: [[Artists/S/Spinal Tap]])
-- [ ] Michael Pinnella (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
-- [ ] Michael Romeo (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
-- [ ] Michael Weikath (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
-- [ ] Mick Harvey (batch: 2026-07-02T15:00, from: [[Artists/T/The Birthday Party]])
-- [ ] Mick Thomson (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
-- [ ] Micke Dahlén (batch: 2026-07-02T15:00, from: [[Artists/C/Clawfinger]])
-- [ ] Micky Moody (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
-- [ ] Mikael Hedlund (batch: 2026-07-02T15:00, from: [[Artists/H/Hypocrisy]])
-- [ ] Mikael Niklasson (batch: 2026-07-02T15:00, from: [[Artists/D/Dark Tranquillity]])
-- [ ] Mikael Wiehe (batch: 2026-07-02T15:00, from: [[Artists/H/Hoola Bandoola Band]])
-- [ ] Mikael Åström (batch: 2026-07-02T15:00, from: [[Artists/D/Death Hawks]])
-- [ ] Mike Banks (batch: 2026-07-02T15:00, from: [[Artists/U/Underground Resistance]])
-- [ ] Mike Bordin (batch: 2026-07-02T15:00, from: [[Artists/F/Faith No More]])
-- [ ] Mike Dimkich (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
-- [ ] Mike Riggs (batch: 2026-07-02T15:00, from: [[Artists/R/Rob Zombie]])
-- [ ] Mike Simpson (batch: 2026-07-02T15:00, from: [[Artists/T/The Dust Brothers]])
-- [ ] Mike Smith (batch: 2026-07-02T15:00, from: [[Artists/L/Limp Bizkit]])
-- [ ] Mike Starr (batch: 2026-07-02T15:00, from: [[Artists/A/Alice in Chains]])
-- [ ] Mike Watt (batch: 2026-07-02T15:00, from: [[Artists/T/The Stooges]])
-- [ ] Montego Joe (batch: 2026-07-02T15:00, from: [[Artists/T/Tom Tom Club]])
-- [ ] Morten Løwe Sørensen (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
-- [ ] Mustis (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
-- [ ] Myles Heskett (batch: 2026-07-02T15:00, from: [[Artists/W/Wolfmother]])
-- [ ] N.U. Unruh (batch: 2026-07-02T15:00, from: [[Artists/E/Einstürzende Neubauten]])
-- [ ] Natasha Shneider (batch: 2026-07-02T15:00, from: [[Artists/E/Eleven]])
-- [ ] Nate Mendel (batch: 2026-07-02T15:00, from: [[Artists/F/Foo Fighters]])
-- [ ] Neil Turbin (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
-- [ ] Nic Endo (batch: 2026-07-02T15:00, from: [[Artists/A/Atari Teenage Riot]])
-- [ ] Nicholas Barker (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
-- [ ] Nicholaus Arson (batch: 2026-07-02T15:00, from: [[Artists/T/The Hives]])
-- [ ] Nick Barker (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
-- [ ] Nick Knox (batch: 2026-07-02T15:00, from: [[Artists/T/The Cramps]])
-- [ ] Nick Simper (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
-- [ ] Niels van Hoorn (batch: 2026-07-02T15:00, from: [[Artists/T/The Legendary Pink Dots]])
-- [ ] Nigel Preston (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
-- [ ] Nils Molin (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
-- [ ] Ola Flink (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
-- [ ] Ola Frick (batch: 2026-07-02T15:00, from: [[Artists/T/Ten Inch Men]])
-- [ ] Olavi Mikkonen (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
-- [ ] Oliver Riedel (batch: 2026-07-02T15:00, from: [[Artists/R/Rammstein]])
-- [ ] Olle Nyberg (batch: 2026-07-02T15:00, from: [[Artists/H/Hoola Bandoola Band]])
-- [ ] Olof Dreijer (batch: 2026-07-02T15:00, from: [[Artists/T/The Knife]])
-- [ ] Olof Mörck (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
-- [ ] Orion (batch: 2026-07-02T15:00, from: [[Artists/B/Behemoth]])
-- [ ] Orvar Säfström (batch: 2026-07-02T15:00, from: [[Artists/E/Entombed]])
-- [ ] Oskar Bergenheim (batch: 2026-07-02T15:00, from: [[Artists/G/Graveyard]])
-- [ ] Oskar Lindgren (batch: 2026-07-02T15:00, from: [[Artists/S/Snook]])
-- [ ] Oskar Montelius (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
-- [ ] Page Hamilton (batch: 2026-07-02T15:00, from: [[Artists/H/Helmet]])
-- [ ] Pat Smear (batch: 2026-07-02T15:00, from: [[Artists/F/Foo Fighters]])
-- [ ] Patrick Codenys (batch: 2026-07-02T15:00, from: [[Artists/F/Front 242]])
-- [ ] Patrik Hansson (batch: 2026-07-02T15:00, from: [[Artists/S/Sanctum]])
-- [ ] Patrik Nystedt (batch: 2026-07-02T15:00, from: [[Artists/T/Ten Inch Men]])
-- [ ] Patty Schemel (batch: 2026-07-02T15:00, from: [[Artists/H/Hole]])
-- [ ] Paul Bostaph (batch: 2026-07-02T15:00, from: [[Artists/S/Slayer]])
-- [ ] Paul Cook (batch: 2026-07-02T15:00, from: [[Artists/S/Sex Pistols]])
-- [ ] Paul Gray (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
-- [ ] Paul Haslinger (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
-- [ ] Paul Hinojos (batch: 2026-07-02T15:00, from: [[Artists/A/At the Drive-In]])
-- [ ] Paul Landers (batch: 2026-07-02T15:00, from: [[Artists/F/Feeling B]])
-- [ ] Paul Masvidal (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
-- [ ] Paul Samson (batch: 2026-07-02T15:00, from: [[Artists/S/Samson]])
-- [ ] Paula P-Orridge (batch: 2026-07-02T15:00, from: [[Artists/P/Psychic TV]])
-- [ ] Pelle Forsberg (batch: 2026-07-02T15:00, from: [[Artists/W/Watain]])
-- [ ] Pete Finestone (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
-- [ ] Peter Baumann (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
-- [ ] Peter Gordeno (batch: 2026-07-02T15:00, from: [[Artists/D/Depeche Mode]])
-- [ ] Peter Pedersen (batch: 2026-07-02T15:00, from: [[Artists/H/Hoola Bandoola Band]])
-- [ ] Peter Stahl (batch: 2026-07-02T15:00, from: [[Artists/S/Scream]])
-- [ ] Peter Wichers (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
-- [ ] Phil Calvert (batch: 2026-07-02T15:00, from: [[Artists/T/The Birthday Party]])
-- [ ] Phil Knight (batch: 2026-07-02T15:00, from: [[Artists/T/The Legendary Pink Dots]])
-- [ ] Phil Rudd (batch: 2026-07-02T15:00, from: [[Artists/A/ACDC]])
-- [ ] Phil Winter (batch: 2026-07-02T15:00, from: [[Artists/W/Wrangler]])
-- [ ] Pierre von Känel (batch: 2026-07-02T15:00, from: [[Artists/T/The Inchtabokatables]])
-- [ ] Piggy D. (batch: 2026-07-02T15:00, from: [[Artists/R/Rob Zombie]])
-- [ ] Pjäsen (batch: 2026-07-02T15:00, from: [[Artists/D/Dia Psalma]])
-- [ ] Poison Ivy (batch: 2026-07-02T15:00, from: [[Artists/T/The Cramps]])
-- [ ] Pontus Norgren (batch: 2026-07-02T15:00, from: [[Artists/H/Hammerfall]])
-- [ ] Porl Thompson (batch: 2026-07-02T15:00, from: [[Artists/T/The Cure]])
-- [ ] Pär Hansson (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
-- [ ] Pär Sundström (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
-- [ ] Ralph Johnson (batch: 2026-07-02T15:00, from: [[Artists/E/Earth, Wind & Fire]])
-- [ ] Randy DeLay (batch: 2026-07-02T15:00, from: [[Artists/G/Georgia Satellites]])
-- [ ] Randy Rhoads (batch: 2026-07-02T15:00, from: [[Artists/O/Ozzy Osbourne]])
-- [ ] Rasmus Ehrnborn (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
-- [ ] Ray Luzier (batch: 2026-07-02T15:00, from: [[Artists/A/Army of Anyone]])
-- [ ] Raymond Herrera (batch: 2026-07-02T15:00, from: [[Artists/F/Fear Factory]])
-- [ ] Reb Beach (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
-- [ ] Rich Conte (batch: 2026-07-02T15:00, from: [[Artists/O/Overkill]])
-- [ ] Richard Christy (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
-- [ ] Rick Parfitt (batch: 2026-07-02T15:00, from: [[Artists/S/Status Quo]])
-- [ ] Rick Smith (batch: 2026-07-02T15:00, from: [[Artists/U/Underworld]])
-- [ ] Rikard Edlund (batch: 2026-07-02T15:00, from: [[Artists/G/Graveyard]])
-- [ ] Rikard Sundén (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
-- [ ] Ritchie Blackmore (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
-- [ ] Rob Brown (batch: 2026-07-02T15:00, from: [[Artists/A/Autechre]])
-- [ ] Rob Harris (batch: 2026-07-02T15:00, from: [[Artists/J/Jamiroquai]])
-- [ ] Robert Dahlqvist (batch: 2026-07-02T15:00, from: [[Artists/T/The Hellacopters]])
-- [ ] Robert DeLeo (batch: 2026-07-02T15:00, from: [[Artists/A/Army of Anyone]])
-- [ ] Robert Hood (batch: 2026-07-02T15:00, from: [[Artists/U/Underground Resistance]])
-- [ ] Robert Roth (batch: 2026-07-02T15:00, from: [[Artists/T/Truly]])
-- [ ] Robo (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
-- [ ] Rod Evans (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
-- [ ] Roddy Bottum (batch: 2026-07-02T15:00, from: [[Artists/F/Faith No More]])
-- [ ] Roel van Helden (batch: 2026-07-02T15:00, from: [[Artists/P/Powerwolf]])
-- [ ] Roger O'Donnell (batch: 2026-07-02T15:00, from: [[Artists/T/The Cure]])
-- [ ] Ron Asheton (batch: 2026-07-02T15:00, from: [[Artists/T/The Stooges]])
-- [ ] Ron Mael (batch: 2026-07-02T15:00, from: [[Artists/S/Sparks]])
-- [ ] Ron Reyes (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
-- [ ] Ron Thal (batch: 2026-07-02T15:00, from: [[Artists/A/Art of Anarchy]])
-- [ ] Rowland S. Howard (batch: 2026-07-02T15:00, from: [[Artists/T/The Birthday Party]])
-- [ ] Roy Mayorga (batch: 2026-07-02T15:00, from: [[Artists/S/Stone Sour]])
-- [ ] Rudi Moser (batch: 2026-07-02T15:00, from: [[Artists/E/Einstürzende Neubauten]])
-- [ ] Russell Allen (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
-- [ ] Russell Mael (batch: 2026-07-02T15:00, from: [[Artists/S/Sparks]])
-- [ ] Sal Abruscato (batch: 2026-07-02T15:00, from: [[Artists/T/Type O Negative]])
-- [ ] Salla (batch: 2026-07-02T15:00, from: [[Artists/T/The Latin Kings]])
-- [ ] Sam Rivers (batch: 2026-07-02T15:00, from: [[Artists/L/Limp Bizkit]])
-- [ ] Sami Hinkka (batch: 2026-07-02T15:00, from: [[Artists/E/Ensiferum]])
-- [ ] Sammy Hagar (batch: 2026-07-02T15:00, from: [[Artists/V/Van Halen]])
-- [ ] Sandra Lauer (batch: 2026-07-02T15:00, from: [[Artists/E/Enigma]])
-- [ ] Sascha Gerstner (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
-- [ ] Sascha Konietzko (batch: 2026-07-02T15:00, from: [[Artists/S/Schwein]])
-- [ ] Scott Asheton (batch: 2026-07-02T15:00, from: [[Artists/T/The Stooges]])
-- [ ] Scott Firth (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
-- [ ] Scott Garrett (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
-- [ ] Scott Kirkland (batch: 2026-07-02T15:00, from: [[Artists/T/The Crystal Method]])
-- [ ] Scott Stapp (batch: 2026-07-02T15:00, from: [[Artists/A/Art of Anarchy]])
-- [ ] Sean Booth (batch: 2026-07-02T15:00, from: [[Artists/A/Autechre]])
-- [ ] Sean Finnegan (batch: 2026-07-02T15:00, from: [[Artists/V/Void]])
-- [ ] Sean Kinney (batch: 2026-07-02T15:00, from: [[Artists/A/Alice in Chains]])
-- [ ] Sean Reinert (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
-- [ ] Sergio Vega (batch: 2026-07-02T15:00, from: [[Artists/D/Deftones]])
-- [ ] Serj Tankian (batch: 2026-07-02T15:00, from: [[Artists/S/System of a Down]])
-- [ ] Shannon Hamm (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
-- [ ] Sharlee D'Angelo (batch: 2026-07-02T15:00, from: [[Artists/A/Arch Enemy]])
-- [ ] Shavo Odadjian (batch: 2026-07-02T15:00, from: [[Artists/S/System of a Down]])
-- [ ] Shawn Crahan (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
-- [ ] Shirley Manson (batch: 2026-07-02T15:00, from: [[Artists/G/Garbage]])
-- [ ] Sid Vicious (batch: 2026-07-02T15:00, from: [[Artists/S/Sex Pistols]])
-- [ ] Sid Wilson (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
-- [ ] Sim Cain (batch: 2026-07-02T15:00, from: [[Artists/R/Rollins Band]])
-- [ ] Skeeter Thompson (batch: 2026-07-02T15:00, from: [[Artists/S/Scream]])
-- [ ] Slipmatt (batch: 2026-07-02T15:00, from: [[Artists/S/SL2]])
-- [ ] Sofia Lundberg (batch: 2026-07-02T15:00, from: [[Artists/T/The Wondergirls]])
-- [ ] Stan Cullimore (batch: 2026-07-02T15:00, from: [[Artists/T/The Housemartins]])
-- [ ] Stefan Schwarzmann (batch: 2026-07-02T15:00, from: [[Artists/D/Destruction]])
-- [ ] Stefan Wittke (batch: 2026-07-02T15:00, from: [[Artists/T/The Inchtabokatables]])
-- [ ] Steve "Danger" Ellett (batch: 2026-07-02T15:00, from: [[Artists/W/Wolfsbane]])
-- [ ] Steve "Fuzz" Kmak (batch: 2026-07-02T15:00, from: [[Artists/D/Disturbed]])
-- [ ] Steve DePace (batch: 2026-07-02T15:00, from: [[Artists/F/Flipper]])
-- [ ] Steve Di Giorgio (batch: 2026-07-02T15:00, from: [[Artists/T/Testament]])
-- [ ] Steve DiGiorgio (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
-- [ ] Steve Jones (batch: 2026-07-02T15:00, from: [[Artists/S/Sex Pistols]])
-- [ ] Steve Jordan (batch: 2026-07-02T15:00, from: [[Artists/T/The Rolling Stones]])
-- [ ] Steve Marker (batch: 2026-07-02T15:00, from: [[Artists/G/Garbage]])
-- [ ] Steve Morse (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
-- [ ] Steve Shelley (batch: 2026-07-02T15:00, from: [[Artists/S/Sonic Youth]])
-- [ ] Steve Souza (batch: 2026-07-02T15:00, from: [[Artists/E/Exodus]])
-- [ ] Steve Turner (batch: 2026-07-02T15:00, from: [[Artists/G/Green River]])
-- [ ] Steven Scales (batch: 2026-07-02T15:00, from: [[Artists/T/Tom Tom Club]])
-- [ ] Steven Severin (batch: 2026-07-02T15:00, from: [[Artists/S/Siouxsie and the Banshees]])
-- [ ] Steven Shane McDonald (batch: 2026-07-02T15:00, from: [[Artists/T/The Melvins]])
-- [ ] Stuart Anstis (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
-- [ ] Stuart Toolin (batch: 2026-07-02T15:00, from: [[Artists/P/Pitchshifter]])
-- [ ] Stuart Zechman (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
-- [ ] Stéfane Funèbre (batch: 2026-07-02T15:00, from: [[Artists/P/Powerwolf]])
-- [ ] Sven Karlsson (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
-- [ ] Sven Plaggemeier (batch: 2026-07-02T15:00, from: [[Artists/T/The Inchtabokatables]])
-- [ ] Sylvain Coudret (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
+- [x] Mac McNeilly (batch: 2026-07-02T15:00, from: [[Artists/T/The Jesus Lizard]])
+- [x] Mackan (batch: 2026-07-02T15:00, from: [[Artists/D/Dia Psalma]])
+- [x] Magnus Björklund (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
+- [x] Magnus Höggren (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
+- [x] Malcolm Young (batch: 2026-07-02T15:00, from: [[Artists/A/ACDC]])
+- [x] Malin Ekholm (batch: 2026-07-02T15:00, from: [[Artists/T/The Wondergirls]])
+- [x] Marc Hudson (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
+- [x] Marc Reign (batch: 2026-07-02T15:00, from: [[Artists/D/Destruction]])
+- [x] Marek Šmerda (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
+- [x] Maria Andersson (batch: 2026-07-02T15:00, from: [[Artists/S/Sahara Hotnights]])
+- [x] Maria Franz (batch: 2026-07-02T15:00, from: [[Artists/H/Heilung]])
+- [x] Mario Duplantier (batch: 2026-07-02T15:00, from: [[Artists/G/Gojira]])
+- [x] Mark Arm (batch: 2026-07-02T15:00, from: [[Artists/G/Green River]])
+- [x] Mark Brzezicki (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
+- [x] Mark Clayden (batch: 2026-07-02T15:00, from: [[Artists/P/Pitchshifter]])
+- [x] Mark Deutrom (batch: 2026-07-02T15:00, from: [[Artists/T/The Melvins]])
+- [x] Mark Eliopulos (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
+- [x] Mark Evans (batch: 2026-07-02T15:00, from: [[Artists/A/ACDC]])
+- [x] Mark Mendoza (batch: 2026-07-02T15:00, from: [[Artists/T/Twisted Sister]])
+- [x] Mark Pickerel (batch: 2026-07-02T15:00, from: [[Artists/S/Screaming Trees]])
+- [x] Markus Grosskopf (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
+- [x] Markus Toivonen (batch: 2026-07-02T15:00, from: [[Artists/E/Ensiferum]])
+- [x] Martijn de Kleer (batch: 2026-07-02T15:00, from: [[Artists/T/The Legendary Pink Dots]])
+- [x] Martin Duffy (batch: 2026-07-02T15:00, from: [[Artists/P/Primal Scream]])
+- [x] Martin Hederos (batch: 2026-07-02T15:00, from: [[Artists/T/The Soundtrack of Our Lives]])
+- [x] Martin Henriksson (batch: 2026-07-02T15:00, from: [[Artists/D/Dark Tranquillity]])
+- [x] Martin Kearns (batch: 2026-07-02T15:00, from: [[Artists/B/Bolt Thrower]])
+- [x] Martin Larsson (batch: 2026-07-02T15:00, from: [[Artists/A/At the Gates]])
+- [x] Martin Watson (batch: 2026-07-02T15:00, from: [[Artists/S/Sweet Exorcist]])
+- [x] Martyn P. Casey (batch: 2026-07-02T15:00, from: [[Artists/G/Grinderman]])
+- [x] Mary Hansen (batch: 2026-07-02T15:00, from: [[Artists/S/Stereolab]])
+- [x] Mat Mitchell (batch: 2026-07-02T15:00, from: [[Artists/P/Puscifer]])
+- [x] Mats Häll (batch: 2026-07-02T15:00, from: [[Artists/G/Gamla Pengar]])
+- [x] Mats Persson (batch: 2026-07-02T15:00, from: [[Artists/T/Ten Inch Men]])
+- [x] Matt Chamberlain (batch: 2026-07-02T15:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
+- [x] Matt Lukin (batch: 2026-07-02T15:00, from: [[Artists/T/The Melvins]])
+- [x] Matthew Greywolf (batch: 2026-07-02T15:00, from: [[Artists/P/Powerwolf]])
+- [x] Mattias Hellberg (batch: 2026-07-02T15:00, from: [[Artists/D/Death Hawks]])
+- [x] Max Cavalera (batch: 2026-07-02T15:00, from: [[Artists/P/Probot]])
+- [x] Melissa Auf der Maur (batch: 2026-07-02T15:00, from: [[Artists/T/The Smashing Pumpkins]])
+- [x] Melvin Gibbs (batch: 2026-07-02T15:00, from: [[Artists/R/Rollins Band]])
+- [x] Michael Anthony (batch: 2026-07-02T15:00, from: [[Artists/V/Van Halen]])
+- [x] Michael Devin (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
+- [x] Michael Kiske (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
+- [x] Michael Lepond (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
+- [x] Michael McKean (batch: 2026-07-02T15:00, from: [[Artists/S/Spinal Tap]])
+- [x] Michael Pinnella (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
+- [x] Michael Romeo (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
+- [x] Michael Weikath (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
+- [x] Mick Harvey (batch: 2026-07-02T15:00, from: [[Artists/T/The Birthday Party]])
+- [x] Mick Thomson (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
+- [x] Micke Dahlén (batch: 2026-07-02T15:00, from: [[Artists/C/Clawfinger]])
+- [x] Micky Moody (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
+- [x] Mikael Hedlund (batch: 2026-07-02T15:00, from: [[Artists/H/Hypocrisy]])
+- [x] Mikael Niklasson (batch: 2026-07-02T15:00, from: [[Artists/D/Dark Tranquillity]])
+- [x] Mikael Wiehe (batch: 2026-07-02T15:00, from: [[Artists/H/Hoola Bandoola Band]])
+- [x] Mikael Åström (batch: 2026-07-02T15:00, from: [[Artists/D/Death Hawks]])
+- [x] Mike Banks (batch: 2026-07-02T15:00, from: [[Artists/U/Underground Resistance]])
+- [x] Mike Bordin (batch: 2026-07-02T15:00, from: [[Artists/F/Faith No More]])
+- [x] Mike Dimkich (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
+- [x] Mike Riggs (batch: 2026-07-02T15:00, from: [[Artists/R/Rob Zombie]])
+- [x] Mike Simpson (batch: 2026-07-02T15:00, from: [[Artists/T/The Dust Brothers]])
+- [x] Mike Smith (batch: 2026-07-02T15:00, from: [[Artists/L/Limp Bizkit]])
+- [x] Mike Starr (batch: 2026-07-02T15:00, from: [[Artists/A/Alice in Chains]])
+- [x] Mike Watt (batch: 2026-07-02T15:00, from: [[Artists/T/The Stooges]])
+- [x] Montego Joe (batch: 2026-07-02T15:00, from: [[Artists/T/Tom Tom Club]])
+- [x] Morten Løwe Sørensen (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
+- [x] Mustis (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
+- [x] Myles Heskett (batch: 2026-07-02T15:00, from: [[Artists/W/Wolfmother]])
+- [x] N.U. Unruh (batch: 2026-07-02T15:00, from: [[Artists/E/Einstürzende Neubauten]])
+- [x] Natasha Shneider (batch: 2026-07-02T15:00, from: [[Artists/E/Eleven]])
+- [x] Nate Mendel (batch: 2026-07-02T15:00, from: [[Artists/F/Foo Fighters]])
+- [x] Neil Turbin (batch: 2026-07-02T15:00, from: [[Artists/A/Anthrax]])
+- [x] Nic Endo (batch: 2026-07-02T15:00, from: [[Artists/A/Atari Teenage Riot]])
+- [x] Nicholas Barker (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
+- [x] Nicholaus Arson (batch: 2026-07-02T15:00, from: [[Artists/T/The Hives]])
+- [x] Nick Barker (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
+- [x] Nick Knox (batch: 2026-07-02T15:00, from: [[Artists/T/The Cramps]])
+- [x] Nick Simper (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
+- [x] Niels van Hoorn (batch: 2026-07-02T15:00, from: [[Artists/T/The Legendary Pink Dots]])
+- [x] Nigel Preston (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
+- [x] Nils Molin (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
+- [x] Ola Flink (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
+- [x] Ola Frick (batch: 2026-07-02T15:00, from: [[Artists/T/Ten Inch Men]])
+- [x] Olavi Mikkonen (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
+- [x] Oliver Riedel (batch: 2026-07-02T15:00, from: [[Artists/R/Rammstein]])
+- [x] Olle Nyberg (batch: 2026-07-02T15:00, from: [[Artists/H/Hoola Bandoola Band]])
+- [x] Olof Dreijer (batch: 2026-07-02T15:00, from: [[Artists/T/The Knife]])
+- [x] Olof Mörck (batch: 2026-07-02T15:00, from: [[Artists/A/Amaranthe]])
+- [x] Orion (batch: 2026-07-02T15:00, from: [[Artists/B/Behemoth]])
+- [x] Orvar Säfström (batch: 2026-07-02T15:00, from: [[Artists/E/Entombed]])
+- [x] Oskar Bergenheim (batch: 2026-07-02T15:00, from: [[Artists/G/Graveyard]])
+- [x] Oskar Lindgren (batch: 2026-07-02T15:00, from: [[Artists/S/Snook]])
+- [x] Oskar Montelius (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
+- [x] Page Hamilton (batch: 2026-07-02T15:00, from: [[Artists/H/Helmet]])
+- [x] Pat Smear (batch: 2026-07-02T15:00, from: [[Artists/F/Foo Fighters]])
+- [x] Patrick Codenys (batch: 2026-07-02T15:00, from: [[Artists/F/Front 242]])
+- [x] Patrik Hansson (batch: 2026-07-02T15:00, from: [[Artists/S/Sanctum]])
+- [x] Patrik Nystedt (batch: 2026-07-02T15:00, from: [[Artists/T/Ten Inch Men]])
+- [x] Patty Schemel (batch: 2026-07-02T15:00, from: [[Artists/H/Hole]])
+- [x] Paul Bostaph (batch: 2026-07-02T15:00, from: [[Artists/S/Slayer]])
+- [x] Paul Cook (batch: 2026-07-02T15:00, from: [[Artists/S/Sex Pistols]])
+- [x] Paul Gray (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
+- [x] Paul Haslinger (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
+- [x] Paul Hinojos (batch: 2026-07-02T15:00, from: [[Artists/A/At the Drive-In]])
+- [x] Paul Landers (batch: 2026-07-02T15:00, from: [[Artists/F/Feeling B]])
+- [x] Paul Masvidal (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
+- [x] Paul Samson (batch: 2026-07-02T15:00, from: [[Artists/S/Samson]])
+- [x] Paula P-Orridge (batch: 2026-07-02T15:00, from: [[Artists/P/Psychic TV]])
+- [x] Pelle Forsberg (batch: 2026-07-02T15:00, from: [[Artists/W/Watain]])
+- [x] Pete Finestone (batch: 2026-07-02T15:00, from: [[Artists/B/Bad Religion]])
+- [x] Peter Baumann (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
+- [x] Peter Gordeno (batch: 2026-07-02T15:00, from: [[Artists/D/Depeche Mode]])
+- [x] Peter Pedersen (batch: 2026-07-02T15:00, from: [[Artists/H/Hoola Bandoola Band]])
+- [x] Peter Stahl (batch: 2026-07-02T15:00, from: [[Artists/S/Scream]])
+- [x] Peter Wichers (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
+- [x] Phil Calvert (batch: 2026-07-02T15:00, from: [[Artists/T/The Birthday Party]])
+- [x] Phil Knight (batch: 2026-07-02T15:00, from: [[Artists/T/The Legendary Pink Dots]])
+- [x] Phil Rudd (batch: 2026-07-02T15:00, from: [[Artists/A/ACDC]])
+- [x] Phil Winter (batch: 2026-07-02T15:00, from: [[Artists/W/Wrangler]])
+- [x] Pierre von Känel (batch: 2026-07-02T15:00, from: [[Artists/T/The Inchtabokatables]])
+- [x] Piggy D. (batch: 2026-07-02T15:00, from: [[Artists/R/Rob Zombie]])
+- [x] Pjäsen (batch: 2026-07-02T15:00, from: [[Artists/D/Dia Psalma]])
+- [x] Poison Ivy (batch: 2026-07-02T15:00, from: [[Artists/T/The Cramps]])
+- [x] Pontus Norgren (batch: 2026-07-02T15:00, from: [[Artists/H/Hammerfall]])
+- [x] Porl Thompson (batch: 2026-07-02T15:00, from: [[Artists/T/The Cure]])
+- [x] Pär Hansson (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
+- [x] Pär Sundström (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
+- [x] Ralph Johnson (batch: 2026-07-02T15:00, from: [[Artists/E/Earth, Wind & Fire]])
+- [x] Randy DeLay (batch: 2026-07-02T15:00, from: [[Artists/G/Georgia Satellites]])
+- [x] Randy Rhoads (batch: 2026-07-02T15:00, from: [[Artists/O/Ozzy Osbourne]])
+- [x] Rasmus Ehrnborn (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
+- [x] Ray Luzier (batch: 2026-07-02T15:00, from: [[Artists/A/Army of Anyone]])
+- [x] Raymond Herrera (batch: 2026-07-02T15:00, from: [[Artists/F/Fear Factory]])
+- [x] Reb Beach (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
+- [x] Rich Conte (batch: 2026-07-02T15:00, from: [[Artists/O/Overkill]])
+- [x] Richard Christy (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
+- [x] Rick Parfitt (batch: 2026-07-02T15:00, from: [[Artists/S/Status Quo]])
+- [x] Rick Smith (batch: 2026-07-02T15:00, from: [[Artists/U/Underworld]])
+- [x] Rikard Edlund (batch: 2026-07-02T15:00, from: [[Artists/G/Graveyard]])
+- [x] Rikard Sundén (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
+- [x] Ritchie Blackmore (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
+- [x] Rob Brown (batch: 2026-07-02T15:00, from: [[Artists/A/Autechre]])
+- [x] Rob Harris (batch: 2026-07-02T15:00, from: [[Artists/J/Jamiroquai]])
+- [x] Robert Dahlqvist (batch: 2026-07-02T15:00, from: [[Artists/T/The Hellacopters]])
+- [x] Robert DeLeo (batch: 2026-07-02T15:00, from: [[Artists/A/Army of Anyone]])
+- [x] Robert Hood (batch: 2026-07-02T15:00, from: [[Artists/U/Underground Resistance]])
+- [x] Robert Roth (batch: 2026-07-02T15:00, from: [[Artists/T/Truly]])
+- [x] Robo (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
+- [x] Rod Evans (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
+- [x] Roddy Bottum (batch: 2026-07-02T15:00, from: [[Artists/F/Faith No More]])
+- [x] Roel van Helden (batch: 2026-07-02T15:00, from: [[Artists/P/Powerwolf]])
+- [x] Roger O'Donnell (batch: 2026-07-02T15:00, from: [[Artists/T/The Cure]])
+- [x] Ron Asheton (batch: 2026-07-02T15:00, from: [[Artists/T/The Stooges]])
+- [x] Ron Mael (batch: 2026-07-02T15:00, from: [[Artists/S/Sparks]])
+- [x] Ron Reyes (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
+- [x] Ron Thal (batch: 2026-07-02T15:00, from: [[Artists/A/Art of Anarchy]])
+- [x] Rowland S. Howard (batch: 2026-07-02T15:00, from: [[Artists/T/The Birthday Party]])
+- [x] Roy Mayorga (batch: 2026-07-02T15:00, from: [[Artists/S/Stone Sour]])
+- [x] Rudi Moser (batch: 2026-07-02T15:00, from: [[Artists/E/Einstürzende Neubauten]])
+- [x] Russell Allen (batch: 2026-07-02T15:00, from: [[Artists/S/Symphony X]])
+- [x] Russell Mael (batch: 2026-07-02T15:00, from: [[Artists/S/Sparks]])
+- [x] Sal Abruscato (batch: 2026-07-02T15:00, from: [[Artists/T/Type O Negative]])
+- [x] Salla (batch: 2026-07-02T15:00, from: [[Artists/T/The Latin Kings]])
+- [x] Sam Rivers (batch: 2026-07-02T15:00, from: [[Artists/L/Limp Bizkit]])
+- [x] Sami Hinkka (batch: 2026-07-02T15:00, from: [[Artists/E/Ensiferum]])
+- [x] Sammy Hagar (batch: 2026-07-02T15:00, from: [[Artists/V/Van Halen]])
+- [x] Sandra Lauer (batch: 2026-07-02T15:00, from: [[Artists/E/Enigma]])
+- [x] Sascha Gerstner (batch: 2026-07-02T15:00, from: [[Artists/H/Helloween]])
+- [x] Sascha Konietzko (batch: 2026-07-02T15:00, from: [[Artists/S/Schwein]])
+- [x] Scott Asheton (batch: 2026-07-02T15:00, from: [[Artists/T/The Stooges]])
+- [x] Scott Firth (batch: 2026-07-02T15:00, from: [[Artists/P/Public Image Ltd]])
+- [x] Scott Garrett (batch: 2026-07-02T15:00, from: [[Artists/T/The Cult]])
+- [x] Scott Kirkland (batch: 2026-07-02T15:00, from: [[Artists/T/The Crystal Method]])
+- [x] Scott Stapp (batch: 2026-07-02T15:00, from: [[Artists/A/Art of Anarchy]])
+- [x] Sean Booth (batch: 2026-07-02T15:00, from: [[Artists/A/Autechre]])
+- [x] Sean Finnegan (batch: 2026-07-02T15:00, from: [[Artists/V/Void]])
+- [x] Sean Kinney (batch: 2026-07-02T15:00, from: [[Artists/A/Alice in Chains]])
+- [x] Sean Reinert (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
+- [x] Sergio Vega (batch: 2026-07-02T15:00, from: [[Artists/D/Deftones]])
+- [x] Serj Tankian (batch: 2026-07-02T15:00, from: [[Artists/S/System of a Down]])
+- [x] Shannon Hamm (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
+- [x] Sharlee D'Angelo (batch: 2026-07-02T15:00, from: [[Artists/A/Arch Enemy]])
+- [x] Shavo Odadjian (batch: 2026-07-02T15:00, from: [[Artists/S/System of a Down]])
+- [x] Shawn Crahan (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
+- [x] Shirley Manson (batch: 2026-07-02T15:00, from: [[Artists/G/Garbage]])
+- [x] Sid Vicious (batch: 2026-07-02T15:00, from: [[Artists/S/Sex Pistols]])
+- [x] Sid Wilson (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
+- [x] Sim Cain (batch: 2026-07-02T15:00, from: [[Artists/R/Rollins Band]])
+- [x] Skeeter Thompson (batch: 2026-07-02T15:00, from: [[Artists/S/Scream]])
+- [x] Slipmatt (batch: 2026-07-02T15:00, from: [[Artists/S/SL2]])
+- [x] Sofia Lundberg (batch: 2026-07-02T15:00, from: [[Artists/T/The Wondergirls]])
+- [x] Stan Cullimore (batch: 2026-07-02T15:00, from: [[Artists/T/The Housemartins]])
+- [x] Stefan Schwarzmann (batch: 2026-07-02T15:00, from: [[Artists/D/Destruction]])
+- [x] Stefan Wittke (batch: 2026-07-02T15:00, from: [[Artists/T/The Inchtabokatables]])
+- [x] Steve "Danger" Ellett (batch: 2026-07-02T15:00, from: [[Artists/W/Wolfsbane]])
+- [x] Steve "Fuzz" Kmak (batch: 2026-07-02T15:00, from: [[Artists/D/Disturbed]])
+- [x] Steve DePace (batch: 2026-07-02T15:00, from: [[Artists/F/Flipper]])
+- [x] Steve Di Giorgio (batch: 2026-07-02T15:00, from: [[Artists/T/Testament]])
+- [x] Steve DiGiorgio (batch: 2026-07-02T15:00, from: [[Artists/D/Death]])
+- [x] Steve Jones (batch: 2026-07-02T15:00, from: [[Artists/S/Sex Pistols]])
+- [x] Steve Jordan (batch: 2026-07-02T15:00, from: [[Artists/T/The Rolling Stones]])
+- [x] Steve Marker (batch: 2026-07-02T15:00, from: [[Artists/G/Garbage]])
+- [x] Steve Morse (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
+- [x] Steve Shelley (batch: 2026-07-02T15:00, from: [[Artists/S/Sonic Youth]])
+- [x] Steve Souza (batch: 2026-07-02T15:00, from: [[Artists/E/Exodus]])
+- [x] Steve Turner (batch: 2026-07-02T15:00, from: [[Artists/G/Green River]])
+- [x] Steven Scales (batch: 2026-07-02T15:00, from: [[Artists/T/Tom Tom Club]])
+- [x] Steven Severin (batch: 2026-07-02T15:00, from: [[Artists/S/Siouxsie and the Banshees]])
+- [x] Steven Shane McDonald (batch: 2026-07-02T15:00, from: [[Artists/T/The Melvins]])
+- [x] Stuart Anstis (batch: 2026-07-02T15:00, from: [[Artists/C/Cradle of Filth]])
+- [x] Stuart Toolin (batch: 2026-07-02T15:00, from: [[Artists/P/Pitchshifter]])
+- [x] Stuart Zechman (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
+- [x] Stéfane Funèbre (batch: 2026-07-02T15:00, from: [[Artists/P/Powerwolf]])
+- [x] Sven Karlsson (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
+- [x] Sven Plaggemeier (batch: 2026-07-02T15:00, from: [[Artists/T/The Inchtabokatables]])
+- [x] Sylvain Coudret (batch: 2026-07-02T15:00, from: [[Artists/S/Soilwork]])
 - [x] Synyster Gates (batch: 2026-07-02T15:00, from: [[Artists/A/Avenged Sevenfold]])
-- [ ] Tanya Donelly (batch: 2026-07-02T15:00, from: [[Artists/T/The Breeders]])
-- [ ] Taylor Hawkins (batch: 2026-07-02T15:00, from: [[Artists/F/Foo Fighters]])
-- [ ] Ted Falconi (batch: 2026-07-02T15:00, from: [[Artists/F/Flipper]])
-- [ ] Ted Lundström (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
-- [ ] Teemu Mäntysaari (batch: 2026-07-02T15:00, from: [[Artists/W/Wintersun]])
-- [ ] Terminator X (batch: 2026-07-02T15:00, from: [[Artists/P/Public Enemy]])
-- [ ] Terry Balsamo (batch: 2026-07-02T15:00, from: [[Artists/L/Limp Bizkit]])
-- [ ] Thighpaulsandra (batch: 2026-07-02T15:00, from: [[Artists/S/Spiritualized]])
-- [ ] Thomas Fehlmann (batch: 2026-07-02T15:00, from: [[Artists/T/The Orb]])
-- [ ] Thomas Mark (batch: 2026-07-02T15:00, from: [[Artists/T/The Inchtabokatables]])
-- [ ] Thomas Pridgen (batch: 2026-07-02T15:00, from: [[Artists/T/The Mars Volta]])
-- [ ] Thorsten Quaeschning (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
-- [ ] Thunderstick (batch: 2026-07-02T15:00, from: [[Artists/S/Samson]])
-- [ ] Tim Alexander (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
-- [ ] Tim Gane (batch: 2026-07-02T15:00, from: [[Artists/S/Stereolab]])
-- [ ] Tim Yeung (batch: 2026-07-02T15:00, from: [[Artists/D/Divine Heresy]])
-- [ ] Tim Öhrström (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
-- [ ] Tobias Egervall (batch: 2026-07-02T15:00, from: [[Artists/D/Death Hawks]])
-- [ ] Todd Brashear (batch: 2026-07-02T15:00, from: [[Artists/S/Slint]])
-- [ ] Todd Huth (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
-- [ ] Todd Trainer (batch: 2026-07-02T15:00, from: [[Artists/S/Shellac]])
-- [ ] Tom Angelripper (batch: 2026-07-02T15:00, from: [[Artists/S/Sodom]])
-- [ ] Tom Chant (batch: 2026-07-02T15:00, from: [[Artists/R/Red Snapper]])
-- [ ] Tom Hunting (batch: 2026-07-02T15:00, from: [[Artists/E/Exodus]])
-- [ ] Tom Rowlands (batch: 2026-07-02T15:00, from: [[Artists/T/The Chemical Brothers]])
-- [ ] Tommy Aldridge (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
-- [ ] Tommy Black (batch: 2026-07-02T15:00, from: [[Artists/S/Scott Weiland & The Wildabouts]])
-- [ ] Tommy Bolin (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
-- [ ] Tommy Clufetos (batch: 2026-07-02T15:00, from: [[Artists/R/Rob Zombie]])
-- [ ] Tommy Johansson (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
-- [ ] Tommy Vext (batch: 2026-07-02T15:00, from: [[Artists/D/Divine Heresy]])
-- [ ] Tony Hajjar (batch: 2026-07-02T15:00, from: [[Artists/A/At the Drive-In]])
-- [ ] Tony Laureano (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
-- [ ] Tony Scaglione (batch: 2026-07-02T15:00, from: [[Artists/S/Slayer]])
-- [ ] Tracy Pew (batch: 2026-07-02T15:00, from: [[Artists/T/The Birthday Party]])
-- [ ] Trance Dance (batch: 2026-07-02T15:00, from: [[Artists/T/Trance Dance]])
-- [ ] Travis Neal (batch: 2026-07-02T15:00, from: [[Artists/D/Divine Heresy]])
-- [ ] Truls Mörck (batch: 2026-07-02T15:00, from: [[Artists/G/Graveyard]])
-- [ ] Twin Pigs (batch: 2026-07-02T15:00, from: [[Artists/T/Twin Pigs]])
-- [ ] Tyron Downie (batch: 2026-07-02T15:00, from: [[Artists/T/Tom Tom Club]])
-- [ ] Uffe Cederlund (batch: 2026-07-02T15:00, from: [[Artists/E/Entombed]])
-- [ ] Ulf Nyberg (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
-- [ ] Vadim Pruzhanov (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
-- [ ] Van Conner (batch: 2026-07-02T15:00, from: [[Artists/S/Screaming Trees]])
-- [ ] Vigilante Carlstroem (batch: 2026-07-02T15:00, from: [[Artists/T/The Hives]])
-- [ ] Vince Votta (batch: 2026-07-02T15:00, from: [[Artists/A/Art of Anarchy]])
-- [ ] Volcano (batch: 2026-07-02T15:00, from: [[Artists/V/Volcano]])
-- [ ] Vortex (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
-- [ ] Walter Flakus (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
-- [ ] Warren Fitzgerald (batch: 2026-07-02T15:00, from: [[Artists/T/The Vandals]])
-- [ ] Wes Burt-Martin (batch: 2026-07-02T15:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
-- [ ] Will Heggie (batch: 2026-07-02T15:00, from: [[Artists/C/Cocteau Twins]])
-- [ ] Will Shatter (batch: 2026-07-02T15:00, from: [[Artists/F/Flipper]])
-- [ ] Will White (batch: 2026-07-02T15:00, from: [[Artists/P/Propellerheads]])
-- [ ] Willem Rebergen (batch: 2026-07-02T15:00, from: [[Artists/P/Project One]])
-- [ ] William DuVall (batch: 2026-07-02T15:00, from: [[Artists/A/Alice in Chains]])
-- [ ] Yva Las Vegass (batch: 2026-07-02T15:00, from: [[Artists/S/Sweet 75]])
+- [x] Tanya Donelly (batch: 2026-07-02T15:00, from: [[Artists/T/The Breeders]])
+- [x] Taylor Hawkins (batch: 2026-07-02T15:00, from: [[Artists/F/Foo Fighters]])
+- [x] Ted Falconi (batch: 2026-07-02T15:00, from: [[Artists/F/Flipper]])
+- [x] Ted Lundström (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
+- [x] Teemu Mäntysaari (batch: 2026-07-02T15:00, from: [[Artists/W/Wintersun]])
+- [x] Terminator X (batch: 2026-07-02T15:00, from: [[Artists/P/Public Enemy]])
+- [x] Terry Balsamo (batch: 2026-07-02T15:00, from: [[Artists/L/Limp Bizkit]])
+- [x] Thighpaulsandra (batch: 2026-07-02T15:00, from: [[Artists/S/Spiritualized]])
+- [x] Thomas Fehlmann (batch: 2026-07-02T15:00, from: [[Artists/T/The Orb]])
+- [x] Thomas Mark (batch: 2026-07-02T15:00, from: [[Artists/T/The Inchtabokatables]])
+- [x] Thomas Pridgen (batch: 2026-07-02T15:00, from: [[Artists/T/The Mars Volta]])
+- [x] Thorsten Quaeschning (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
+- [x] Thunderstick (batch: 2026-07-02T15:00, from: [[Artists/S/Samson]])
+- [x] Tim Alexander (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
+- [x] Tim Gane (batch: 2026-07-02T15:00, from: [[Artists/S/Stereolab]])
+- [x] Tim Yeung (batch: 2026-07-02T15:00, from: [[Artists/D/Divine Heresy]])
+- [x] Tim Öhrström (batch: 2026-07-02T15:00, from: [[Artists/A/Avatar]])
+- [x] Tobias Egervall (batch: 2026-07-02T15:00, from: [[Artists/D/Death Hawks]])
+- [x] Todd Brashear (batch: 2026-07-02T15:00, from: [[Artists/S/Slint]])
+- [x] Todd Huth (batch: 2026-07-02T15:00, from: [[Artists/P/Primus]])
+- [x] Todd Trainer (batch: 2026-07-02T15:00, from: [[Artists/S/Shellac]])
+- [x] Tom Angelripper (batch: 2026-07-02T15:00, from: [[Artists/S/Sodom]])
+- [x] Tom Chant (batch: 2026-07-02T15:00, from: [[Artists/R/Red Snapper]])
+- [x] Tom Hunting (batch: 2026-07-02T15:00, from: [[Artists/E/Exodus]])
+- [x] Tom Rowlands (batch: 2026-07-02T15:00, from: [[Artists/T/The Chemical Brothers]])
+- [x] Tommy Aldridge (batch: 2026-07-02T15:00, from: [[Artists/W/Whitesnake]])
+- [x] Tommy Black (batch: 2026-07-02T15:00, from: [[Artists/S/Scott Weiland & The Wildabouts]])
+- [x] Tommy Bolin (batch: 2026-07-02T15:00, from: [[Artists/D/Deep Purple]])
+- [x] Tommy Clufetos (batch: 2026-07-02T15:00, from: [[Artists/R/Rob Zombie]])
+- [x] Tommy Johansson (batch: 2026-07-02T15:00, from: [[Artists/S/Sabaton]])
+- [x] Tommy Vext (batch: 2026-07-02T15:00, from: [[Artists/D/Divine Heresy]])
+- [x] Tony Hajjar (batch: 2026-07-02T15:00, from: [[Artists/A/At the Drive-In]])
+- [x] Tony Laureano (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
+- [x] Tony Scaglione (batch: 2026-07-02T15:00, from: [[Artists/S/Slayer]])
+- [x] Tracy Pew (batch: 2026-07-02T15:00, from: [[Artists/T/The Birthday Party]])
+- [x] Trance Dance (batch: 2026-07-02T15:00, from: [[Artists/T/Trance Dance]])
+- [x] Travis Neal (batch: 2026-07-02T15:00, from: [[Artists/D/Divine Heresy]])
+- [x] Truls Mörck (batch: 2026-07-02T15:00, from: [[Artists/G/Graveyard]])
+- [x] Twin Pigs (batch: 2026-07-02T15:00, from: [[Artists/T/Twin Pigs]])
+- [x] Tyron Downie (batch: 2026-07-02T15:00, from: [[Artists/T/Tom Tom Club]])
+- [x] Uffe Cederlund (batch: 2026-07-02T15:00, from: [[Artists/E/Entombed]])
+- [x] Ulf Nyberg (batch: 2026-07-02T15:00, from: [[Artists/R/Refused]])
+- [x] Vadim Pruzhanov (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
+- [x] Van Conner (batch: 2026-07-02T15:00, from: [[Artists/S/Screaming Trees]])
+- [x] Vigilante Carlstroem (batch: 2026-07-02T15:00, from: [[Artists/T/The Hives]])
+- [x] Vince Votta (batch: 2026-07-02T15:00, from: [[Artists/A/Art of Anarchy]])
+- [x] Volcano (batch: 2026-07-02T15:00, from: [[Artists/V/Volcano]])
+- [x] Vortex (batch: 2026-07-02T15:00, from: [[Artists/D/Dimmu Borgir]])
+- [x] Walter Flakus (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
+- [x] Warren Fitzgerald (batch: 2026-07-02T15:00, from: [[Artists/T/The Vandals]])
+- [x] Wes Burt-Martin (batch: 2026-07-02T15:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
+- [x] Will Heggie (batch: 2026-07-02T15:00, from: [[Artists/C/Cocteau Twins]])
+- [x] Will Shatter (batch: 2026-07-02T15:00, from: [[Artists/F/Flipper]])
+- [x] Will White (batch: 2026-07-02T15:00, from: [[Artists/P/Propellerheads]])
+- [x] Willem Rebergen (batch: 2026-07-02T15:00, from: [[Artists/P/Project One]])
+- [x] William DuVall (batch: 2026-07-02T15:00, from: [[Artists/A/Alice in Chains]])
+- [x] Yva Las Vegass (batch: 2026-07-02T15:00, from: [[Artists/S/Sweet 75]])
 - [x] Zacky Vengeance (batch: 2026-07-02T15:00, from: [[Artists/A/Avenged Sevenfold]])
-- [ ] Zak Starkey (batch: 2026-07-02T15:00, from: [[Artists/T/The Who]])
-- [ ] Zenny Bomb (batch: 2026-07-02T15:00, from: [[Artists/C/Combichrist]])
-- [ ] ZP Theart (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
-- [ ] Øystein Brun (batch: 2026-07-02T15:00, from: [[Artists/B/Borknagar]])
+- [x] Zak Starkey (batch: 2026-07-02T15:00, from: [[Artists/T/The Who]])
+- [x] Zenny Bomb (batch: 2026-07-02T15:00, from: [[Artists/C/Combichrist]])
+- [x] ZP Theart (batch: 2026-07-02T15:00, from: [[Artists/D/DragonForce]])
+- [x] Øystein Brun (batch: 2026-07-02T15:00, from: [[Artists/B/Borknagar]])
 - [x] Dan Clements (batch: 2026-07-02T05:00, from: [[Artists/E/Excel]])
 - [x] Shaun Ross (batch: 2026-07-02T05:00, from: [[Artists/E/Excel]])
 - [x] Greg Cerwonka (batch: 2026-07-02T05:00, from: [[Artists/E/Excel]])
@@ -1670,202 +1672,212 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Brad Walst (batch: 2026-07-02T13:00, from: [[Artists/T/Three Days Grace]])
 - [x] Barry Stock (batch: 2026-07-02T13:00, from: [[Artists/T/Three Days Grace]])
 - [x] Matt Walst (batch: 2026-07-02T13:00, from: [[Artists/T/Three Days Grace]])
-- [ ] Nicolas Godin (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Jean-Benoît Dunckel (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Brian Reitzell (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Roger Manning Jr. (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Brian Kehew (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Jason Falkner (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] James Rotondi (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Dave Palmer (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Earl Harvin (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Vincent Taurelle (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Steve Jones (drummer) (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Alex Thomas (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Tom DeLonge (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
-- [ ] David Kennedy (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
-- [ ] Ilan Rubin (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
-- [ ] Matt Rubano (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
-- [ ] Atom Willard (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
-- [ ] Ryan Sinn (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
-- [ ] Matt Wachter (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
-- [ ] Eddie Breckenridge (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
-- [ ] Aaron Rubin (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
-- [ ] Jared Leto (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Shannon Leto (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Solon Bixler (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Kevin Drake (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Tim Kelleher (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Braxton Olita (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Tomo Miličević (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] 50 Cent (batch: 2026-07-02T17:13, from: [[Artists/0-9/50 Cent]])
-- [ ] Tupac Shakur (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Lloyd Banks (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Tony Yayo (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Young Buck (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] The Game (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Kidd Kidd (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Uncle Murda (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Damien Moyal (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Timothy Kirkpatrick (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Joseph Simmons (guitarist) (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] James Glayat (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Henry Olmino (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Jeronimo Gomez (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Matthew Crum (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Stephen Looker (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Gordon Tarpley (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Jason Dooley (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Jason Black (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Kaleb Stewart (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Peter Bartsocas (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Christopher Beckham (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Guillermo Amador (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Alexander Vernon (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Zachary Swain (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Thomas Rankine (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Adam D'Zurilla (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Joshua Williams (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Chad Darby (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Michael Lipscomb (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Richard Thurston (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Ryan Mahon (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Scott Borland (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
-- [ ] Kyle Weeks (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
-- [ ] Greg Isabelle (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
-- [ ] Chris Gibbs (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
-- [ ] Josh Eustis (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
-- [ ] Nick Annis (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
-- [ ] Marshall Kilpatric (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
-- [ ] Sean Fetterman (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
-- [ ] Dennis Sanders (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
-- [ ] Dylan Taylor (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
-- [ ] John Bates (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
-- [ ] Mark Hoppus (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
-- [ ] Travis Barker (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
-- [ ] Scott Raynor (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
-- [ ] Mike Krull (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
+- [x] Nicolas Godin (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Jean-Benoît Dunckel (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Brian Reitzell (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Roger Manning Jr. (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Brian Kehew (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Jason Falkner (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] James Rotondi (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Dave Palmer (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Earl Harvin (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Vincent Taurelle (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Steve Jones (drummer) (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Alex Thomas (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Tom DeLonge (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
+- [x] David Kennedy (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
+- [x] Ilan Rubin (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
+- [x] Matt Rubano (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
+- [x] Atom Willard (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
+- [x] Ryan Sinn (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
+- [x] Matt Wachter (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
+- [x] Eddie Breckenridge (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
+- [x] Aaron Rubin (batch: 2026-07-02T16:00, from: [[Artists/A/Angels & Airwaves]])
+- [x] Jared Leto (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Shannon Leto (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Solon Bixler (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Kevin Drake (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Tim Kelleher (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Braxton Olita (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Tomo Miličević (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] 50 Cent (batch: 2026-07-02T17:13, from: [[Artists/0-9/50 Cent]])
+- [x] Tupac Shakur (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Lloyd Banks (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Tony Yayo (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Young Buck (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] The Game (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Kidd Kidd (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Uncle Murda (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Damien Moyal (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Timothy Kirkpatrick (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Joseph Simmons (guitarist) (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] James Glayat (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Henry Olmino (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Jeronimo Gomez (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Matthew Crum (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Stephen Looker (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Gordon Tarpley (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Jason Dooley (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Jason Black (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Kaleb Stewart (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Peter Bartsocas (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Christopher Beckham (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Guillermo Amador (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Alexander Vernon (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Zachary Swain (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Thomas Rankine (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Adam D'Zurilla (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Joshua Williams (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Chad Darby (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Michael Lipscomb (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Richard Thurston (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Ryan Mahon (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Scott Borland (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
+- [x] Kyle Weeks (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
+- [x] Greg Isabelle (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
+- [x] Chris Gibbs (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
+- [x] Josh Eustis (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
+- [x] Nick Annis (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
+- [x] Marshall Kilpatric (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
+- [x] Sean Fetterman (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
+- [x] Dennis Sanders (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
+- [x] Dylan Taylor (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
+- [x] John Bates (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
+- [x] Mark Hoppus (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
+- [x] Travis Barker (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
+- [x] Scott Raynor (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
+- [x] Mike Krull (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
 - [x] Brooks Wackerman (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
-- [ ] Shane Gallagher (batch: 2026-07-02T23:42, from: [[Artists/0-9/+44]])
-- [ ] Craig Fairbaugh (batch: 2026-07-02T23:42, from: [[Artists/0-9/+44]])
-- [ ] Carol Heller (batch: 2026-07-02T23:42, from: [[Artists/0-9/+44]])
-- [ ] Anthony Celestino (batch: 2026-07-02T23:56, from: [[Artists/B/Box Car Racer]])
-- [ ] George Rios (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
-- [ ] Andrew Logan (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
-- [ ] José Martinez (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
-- [ ] Shane Post (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
-- [ ] José Flores (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
-- [ ] Nahuel Gauna (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
-- [ ] Denny Carmassi (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] Ricky Phillips (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] Jorge Casas (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] Lester Mendez (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] Guy Pratt (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] Brett Tuggle (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] John Harris (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] John Sambataro (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] Tommy Funderburk (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] Shane Gallagher (batch: 2026-07-02T23:42, from: [[Artists/0-9/+44]])
+- [x] Craig Fairbaugh (batch: 2026-07-02T23:42, from: [[Artists/0-9/+44]])
+- [x] Carol Heller (batch: 2026-07-02T23:42, from: [[Artists/0-9/+44]])
+- [x] Anthony Celestino (batch: 2026-07-02T23:56, from: [[Artists/B/Box Car Racer]])
+- [x] George Rios (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
+- [x] Andrew Logan (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
+- [x] José Martinez (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
+- [x] Shane Post (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
+- [x] José Flores (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
+- [x] Nahuel Gauna (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
+- [x] Denny Carmassi (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] Ricky Phillips (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] Jorge Casas (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] Lester Mendez (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] Guy Pratt (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] Brett Tuggle (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] John Harris (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] John Sambataro (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] Tommy Funderburk (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
 - [x] David Pajo (batch: 2026-07-03T04:12, from: [[Artists/D/David Pajo]])
-- [ ] John Wylie (batch: 2026-07-03T04:30, from: [[Artists/C/Culture (American band)]])
-- [ ] Mark Mitchell (batch: 2026-07-03T04:30, from: [[Artists/C/Culture (American band)]])
-- [ ] Louie Long (batch: 2026-07-03T04:30, from: [[Artists/C/Culture (American band)]])
-- [ ] Milo Aukerman (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] Karl Alvarez (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] Stephen Egerton (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] Frank Navetta (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] Tony Lombardo (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] Ray Cooper (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] Doug Carrion (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] David Nolte (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] Cecilia Loera (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] Dave Smalley (batch: 2026-07-03T05:30, from: [[Artists/A/All]])
-- [ ] Scott Reynolds (batch: 2026-07-03T05:30, from: [[Artists/A/All]])
-- [ ] Chad Price (batch: 2026-07-03T05:30, from: [[Artists/A/All]])
-- [ ] Greg Ginn (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Keith Morris (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Chuck Dukowski (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Raymond Pettibon (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Bryan Migdol (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Jim Dearmen (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Spot [member] (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Robo (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Ron Reyes (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Emil Johnson (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Chuck Biscuits (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Kira Roessler (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Anthony Martinez (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] C'el Revuelta (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Mike Vallely (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Gregory Moore (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Dave Klein (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Tyler Smith (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Brandon Pertzborn (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Isaias Gil (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Joseph Noval (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Harley Duggan (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Austin Sears (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Matt Baxter (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Charles Wiley (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Max Zanelly (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] David Rodriguez (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Bryce Weston (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Jeff Dean (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
-- [ ] Pete Mittler (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
-- [ ] Mike Pinaud (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
-- [ ] Tim Den (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
-- [ ] Trever Keith (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] Scott Shiflett (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] Danny Thompson (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] Dennis Hill (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] Matt Riddle (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] Rob Kurth (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] Chad Yaro (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] Jose Medeles (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] Chris Cresswell (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
-- [ ] Chris Wollard (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
-- [ ] Chuck Ragan (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
-- [ ] George Rebelo (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
-- [ ] Jason Black (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
-- [ ] Christian Dudek (batch: 2026-07-02T15:00, from: [[Artists/S/Sodom]])
-- [ ] Christian Lorenz (batch: 2026-07-02T15:00, from: [[Artists/F/Feeling B]])
-- [ ] Christian Lund (batch: 2026-07-02T15:00, from: [[Artists/D/Death Hawks]])
-- [ ] Christoph Schneider (batch: 2026-07-02T15:00, from: [[Artists/R/Rammstein]])
-- [ ] Christopher Franke (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
-- [ ] Christopher Guest (batch: 2026-07-02T15:00, from: [[Artists/S/Spinal Tap]])
-- [ ] Christopher Hall (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
-- [ ] Christopher Juul (batch: 2026-07-02T15:00, from: [[Artists/H/Heilung]])
-- [ ] Chuck D (batch: 2026-07-02T15:00, from: [[Artists/P/Public Enemy]])
-- [ ] Chuck Dukowski (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
-- [ ] Chuck Mosley (batch: 2026-07-02T15:00, from: [[Artists/F/Faith No More]])
-- [ ] Claude Coleman Jr. (batch: 2026-07-02T15:00, from: [[Artists/W/Ween]])
-- [ ] Claude Schnell (batch: 2026-07-02T15:00, from: [[Artists/D/Dio]])
-- [ ] Cliff Evans (batch: 2026-07-02T15:00, from: [[Artists/C/Crystal Fairy]])
-- [ ] Cliff Williams (batch: 2026-07-02T15:00, from: [[Artists/A/ACDC]])
-- [ ] Corpo-Mente (batch: 2026-07-02T15:00, from: [[Artists/C/Corpo-Mente]])
-- [ ] Cosey Fanni Tutti (batch: 2026-07-02T15:00, from: [[Artists/T/Throbbing Gristle]])
-- [ ] Cozy Powell (batch: 2026-07-02T15:00, from: [[Artists/R/Rainbow]])
-- [ ] Craig Jones (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
-- [ ] Cronos (batch: 2026-07-02T15:00, from: [[Artists/V/Venom]])
-- [ ] Everlast (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
-- [ ] Danny Boy (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
-- [ ] DJ Lethal (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
-- [ ] Anthony Gonzalez (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Nicolas Fromageau (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Morgan Kibby (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Loïc Maurin (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Kaela Sinclair (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Joe Berry (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Jordan Lawlor (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Ian Young (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Pierre-Marie Maulini (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Zola Jesus (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Brad Laner (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Susanne Sundfør (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Mai Lan (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] John Wylie (batch: 2026-07-03T04:30, from: [[Artists/C/Culture (American band)]])
+- [x] Mark Mitchell (batch: 2026-07-03T04:30, from: [[Artists/C/Culture (American band)]])
+- [x] Louie Long (batch: 2026-07-03T04:30, from: [[Artists/C/Culture (American band)]])
+- [x] Milo Aukerman (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] Karl Alvarez (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] Stephen Egerton (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] Frank Navetta (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] Tony Lombardo (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] Ray Cooper (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] Doug Carrion (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] David Nolte (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] Cecilia Loera (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] Dave Smalley (batch: 2026-07-03T05:30, from: [[Artists/A/All]])
+- [x] Scott Reynolds (batch: 2026-07-03T05:30, from: [[Artists/A/All]])
+- [x] Chad Price (batch: 2026-07-03T05:30, from: [[Artists/A/All]])
+- [x] Greg Ginn (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Keith Morris (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Chuck Dukowski (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Raymond Pettibon (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Bryan Migdol (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Jim Dearmen (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Spot [member] (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Robo (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Ron Reyes (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Emil Johnson (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Chuck Biscuits (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Kira Roessler (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Anthony Martinez (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] C'el Revuelta (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Mike Vallely (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Gregory Moore (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Dave Klein (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Tyler Smith (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Brandon Pertzborn (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Isaias Gil (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Joseph Noval (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Harley Duggan (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Austin Sears (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Matt Baxter (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Charles Wiley (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Max Zanelly (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] David Rodriguez (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Bryce Weston (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Jeff Dean (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
+- [x] Pete Mittler (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
+- [x] Mike Pinaud (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
+- [x] Tim Den (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
+- [x] Trever Keith (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Scott Shiflett (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Danny Thompson (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Dennis Hill (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Matt Riddle (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Rob Kurth (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Chad Yaro (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Jose Medeles (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Chris Cresswell (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
+- [x] Chris Wollard (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
+- [x] Chuck Ragan (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
+- [x] George Rebelo (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
+- [x] Jason Black (batch: 2026-07-03T20:45, from: [[Artists/H/Hot Water Music]])
+- [x] Christian Dudek (batch: 2026-07-02T15:00, from: [[Artists/S/Sodom]])
+- [x] Christian Lorenz (batch: 2026-07-02T15:00, from: [[Artists/F/Feeling B]])
+- [x] Christian Lund (batch: 2026-07-02T15:00, from: [[Artists/D/Death Hawks]])
+- [x] Christoph Schneider (batch: 2026-07-02T15:00, from: [[Artists/R/Rammstein]])
+- [x] Christopher Franke (batch: 2026-07-02T15:00, from: [[Artists/T/Tangerine Dream]])
+- [x] Christopher Guest (batch: 2026-07-02T15:00, from: [[Artists/S/Spinal Tap]])
+- [x] Christopher Hall (batch: 2026-07-02T15:00, from: [[Artists/S/Stabbing Westward]])
+- [x] Christopher Juul (batch: 2026-07-02T15:00, from: [[Artists/H/Heilung]])
+- [x] Chuck D (batch: 2026-07-02T15:00, from: [[Artists/P/Public Enemy]])
+- [x] Chuck Dukowski (batch: 2026-07-02T15:00, from: [[Artists/B/Black Flag]])
+- [x] Chuck Mosley (batch: 2026-07-02T15:00, from: [[Artists/F/Faith No More]])
+- [x] Claude Coleman Jr. (batch: 2026-07-02T15:00, from: [[Artists/W/Ween]])
+- [x] Claude Schnell (batch: 2026-07-02T15:00, from: [[Artists/D/Dio]])
+- [x] Cliff Evans (batch: 2026-07-02T15:00, from: [[Artists/C/Crystal Fairy]])
+- [x] Cliff Williams (batch: 2026-07-02T15:00, from: [[Artists/A/ACDC]])
+- [x] Corpo-Mente (batch: 2026-07-02T15:00, from: [[Artists/C/Corpo-Mente]])
+- [x] Cosey Fanni Tutti (batch: 2026-07-02T15:00, from: [[Artists/T/Throbbing Gristle]])
+- [x] Cozy Powell (batch: 2026-07-02T15:00, from: [[Artists/R/Rainbow]])
+- [x] Craig Jones (batch: 2026-07-02T15:00, from: [[Artists/S/Slipknot]])
+- [x] Cronos (batch: 2026-07-02T15:00, from: [[Artists/V/Venom]])
+- [x] Everlast (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
+- [x] Danny Boy (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
+- [x] DJ Lethal (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
+- [x] Anthony Gonzalez (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Nicolas Fromageau (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Morgan Kibby (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Loïc Maurin (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Kaela Sinclair (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Joe Berry (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Jordan Lawlor (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Ian Young (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Pierre-Marie Maulini (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Zola Jesus (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Brad Laner (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Susanne Sundfør (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Mai Lan (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Kenny Becker (batch: 2026-07-03T18:36, from: [[Artists/G/Goon]])
+- [x] Andy Polito (batch: 2026-07-03T18:36, from: [[Artists/G/Goon]])
+- [x] Dillon Peralta (batch: 2026-07-03T18:36, from: [[Artists/G/Goon]])
+- [x] Tamara Simons (batch: 2026-07-03T18:36, from: [[Artists/G/Goon]])
+- [x] Matt Bellamy (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Dominic Howard (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Chris Wolstenholme (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Steve Felton (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
+- [ ] Jeffrey Hetrick (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
+- [ ] Ryan Farrell (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
 
 ## Producers
 
-> last updated: 2026-07-03T18:57 · unfixed: 77
+> last updated: 2026-07-03T21:30 · unfixed: 0
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -1885,97 +1897,97 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Reeves Gabrels (batch: 2026-07-01T17:00, from: [[Artists/D/David Bowie]])
 - [x] Guy Stevens (batch: 2026-07-01T20:00, from: [[Artists/M/Mott the Hoople]])
 - [x] David Bowie [producer] (batch: 2026-07-01T20:00, from: [[Artists/M/Mott the Hoople]])
-- [ ] Nicolas Godin (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Jean-Benoît Dunckel (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Nigel Godrich (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
-- [ ] Bob Ezrin (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Brian Virtue (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Josh Abraham (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Steve Lillywhite (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Jared Leto [producer] (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Shannon Leto [producer] (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
-- [ ] Rob McGregor (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
-- [ ] J. Robbins (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
-- [ ] Butch Vig (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
-- [ ] Marc Hudson (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
-- [ ] Laura Jane Grace [producer] (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
-- [ ] Matt Allison (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
-- [ ] Joe McGrath (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
-- [ ] Jerry Finn (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
-- [ ] Bill Stevenson [producer] (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
-- [ ] Jason Livermore (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
-- [ ] Cameron Webb (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
-- [ ] Dan Wleklinski [producer] (batch: 2026-07-02T20:00, from: [[Artists/0-9/88 Fingers Louie]])
-- [ ] Dr. Dre [producer] (batch: 2026-07-02T17:13, from: [[Artists/0-9/50 Cent]])
-- [ ] Eminem [producer] (batch: 2026-07-02T17:13, from: [[Artists/0-9/50 Cent]])
-- [ ] Shock G (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Big D the Impossible (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Stretch (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Easy Mo Bee (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Tony Pizarro (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Johnny J (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Daz Dillinger (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] DJ Quik (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] QDIII (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Hurt-M-Badd (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Swizz Beatz (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
-- [ ] Hi-Tek (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Scott Storch (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Ron Browz (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Red Spyda (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Tha Bizness (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Rick Rock (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Polow da Don (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] Don Cannon (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
-- [ ] James Paul Wisner (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
-- [ ] Wes Borland [producer] (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
-- [ ] Danny Lohner [producer] (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
-- [ ] Mark Trombino (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
-- [ ] John Feldmann (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
-- [ ] Otis Barthoulameu (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
-- [ ] Travis Barker [producer] (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
-- [ ] Mark Hoppus [producer] (batch: 2026-07-02T23:42, from: [[Artists/0-9/+44]])
-- [ ] Jeremy Staska (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
-- [ ] Marek Stycos (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
-- [ ] Mike Fraser (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] David Coverdale [producer] (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] Jimmy Page [producer] (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
-- [ ] David Pajo [producer] (batch: 2026-07-03T04:12, from: [[Artists/D/David Pajo]])
-- [ ] Spot (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] David Tarling (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] Stephen Egerton [producer] (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
-- [ ] John Hampton (batch: 2026-07-03T05:30, from: [[Artists/A/All]])
+- [x] Nicolas Godin (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Jean-Benoît Dunckel (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Nigel Godrich (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
+- [x] Bob Ezrin (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Brian Virtue (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Josh Abraham (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Steve Lillywhite (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Jared Leto [producer] (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Shannon Leto [producer] (batch: 2026-07-02T16:15, from: [[Artists/0-9/30 Seconds to Mars]])
+- [x] Rob McGregor (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
+- [x] J. Robbins (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
+- [x] Butch Vig (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
+- [x] Marc Hudson (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
+- [x] Laura Jane Grace [producer] (batch: 2026-07-02T17:00, from: [[Artists/A/Against Me!]])
+- [x] Matt Allison (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
+- [x] Joe McGrath (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
+- [x] Jerry Finn (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
+- [x] Bill Stevenson [producer] (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
+- [x] Jason Livermore (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
+- [x] Cameron Webb (batch: 2026-07-02T18:00, from: [[Artists/A/Alkaline Trio]])
+- [x] Dan Wleklinski [producer] (batch: 2026-07-02T20:00, from: [[Artists/0-9/88 Fingers Louie]])
+- [x] Dr. Dre [producer] (batch: 2026-07-02T17:13, from: [[Artists/0-9/50 Cent]])
+- [x] Eminem [producer] (batch: 2026-07-02T17:13, from: [[Artists/0-9/50 Cent]])
+- [x] Shock G (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Big D the Impossible (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Stretch (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Easy Mo Bee (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Tony Pizarro (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Johnny J (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Daz Dillinger (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] DJ Quik (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] QDIII (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Hurt-M-Badd (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Swizz Beatz (batch: 2026-07-02T17:43, from: [[Artists/T/Tupac Shakur]])
+- [x] Hi-Tek (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Scott Storch (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Ron Browz (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Red Spyda (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Tha Bizness (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Rick Rock (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Polow da Don (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] Don Cannon (batch: 2026-07-02T21:00, from: [[Artists/G/G-Unit]])
+- [x] James Paul Wisner (batch: 2026-07-02T22:43, from: [[Artists/A/As Friends Rust]])
+- [x] Wes Borland [producer] (batch: 2026-07-02T22:51, from: [[Artists/B/Big Dumb Face]])
+- [x] Danny Lohner [producer] (batch: 2026-07-02T23:12, from: [[Artists/B/Black Light Burns]])
+- [x] Mark Trombino (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
+- [x] John Feldmann (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
+- [x] Otis Barthoulameu (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
+- [x] Travis Barker [producer] (batch: 2026-07-02T23:22, from: [[Artists/B/Blink-182]])
+- [x] Mark Hoppus [producer] (batch: 2026-07-02T23:42, from: [[Artists/0-9/+44]])
+- [x] Jeremy Staska (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
+- [x] Marek Stycos (batch: 2026-07-03T03:43, from: [[Artists/B/Bird of Ill Omen]])
+- [x] Mike Fraser (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] David Coverdale [producer] (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] Jimmy Page [producer] (batch: 2026-07-03T03:53, from: [[Artists/C/Coverdale-Page]])
+- [x] David Pajo [producer] (batch: 2026-07-03T04:12, from: [[Artists/D/David Pajo]])
+- [x] Spot (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] David Tarling (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] Stephen Egerton [producer] (batch: 2026-07-03T04:45, from: [[Artists/D/Descendents]])
+- [x] John Hampton (batch: 2026-07-03T05:30, from: [[Artists/A/All]])
 - [x] Donnell Cameron (batch: 2026-07-03T08:00, from: [[Artists/A/Avenged Sevenfold]])
 - [x] Mudrock (batch: 2026-07-03T08:00, from: [[Artists/A/Avenged Sevenfold]])
 - [x] Mike Elizondo (batch: 2026-07-03T08:00, from: [[Artists/A/Avenged Sevenfold]])
 - [x] Joe Barresi (batch: 2026-07-03T08:00, from: [[Artists/A/Avenged Sevenfold]])
-- [ ] Greg Ginn [producer] (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
-- [ ] Tom Petta (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
-- [ ] Jim Goodwin (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] Chad Blinman (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Greg Ginn [producer] (batch: 2026-07-03T09:15, from: [[Artists/B/Black Flag]])
+- [x] Tom Petta (batch: 2026-07-03T09:30, from: [[Artists/E/Explode and Make Up]])
+- [x] Jim Goodwin (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
+- [x] Chad Blinman (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
 - [x] Thom Wilson (batch: 2026-07-03T13:00, from: [[Artists/F/Face to Face]])
-- [ ] John Silver (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Mick Barnard (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Ronnie Caryl (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Tim Renwick (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Gary Wallis (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Roger Taylor (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Nir Zidkyahu (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Howard Benson (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
-- [ ] Anthony Drennan (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Ben Lovett (batch: 2026-07-03T20:30, from: [[Artists/H/Heavens]])
-- [ ] DJ Muggs (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
-- [ ] Daniel Pearce (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Patrick Smyth (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
-- [ ] Andy Sturmer (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
-- [ ] Roger Manning (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
-- [ ] Jason Falkner (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
-- [ ] Chris Manning (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
-- [ ] Tim Smith (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
-- [ ] Eric Dover (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
-- [ ] Tony Bevilacqua (batch: 2026-07-03T23:20, from: [[Artists/J/Jubilee]])
-- [ ] Jenni Tarma (batch: 2026-07-03T23:20, from: [[Artists/J/Jubilee]])
-- [ ] Troy Petrey (batch: 2026-07-03T23:20, from: [[Artists/J/Jubilee]])
+- [x] John Silver (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Mick Barnard (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Ronnie Caryl (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Tim Renwick (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Gary Wallis (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Roger Taylor (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Nir Zidkyahu (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Howard Benson (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
+- [x] Anthony Drennan (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Ben Lovett (batch: 2026-07-03T20:30, from: [[Artists/H/Heavens]])
+- [x] DJ Muggs (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
+- [x] Daniel Pearce (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Patrick Smyth (batch: 2026-07-03T14:00, from: [[Artists/G/Genesis]])
+- [x] Andy Sturmer (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
+- [x] Roger Manning (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
+- [x] Jason Falkner (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
+- [x] Chris Manning (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
+- [x] Tim Smith (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
+- [x] Eric Dover (batch: 2026-07-03T22:50, from: [[Artists/J/Jellyfish]])
+- [x] Tony Bevilacqua (batch: 2026-07-03T23:20, from: [[Artists/J/Jubilee]])
+- [x] Jenni Tarma (batch: 2026-07-03T23:20, from: [[Artists/J/Jubilee]])
+- [x] Troy Petrey (batch: 2026-07-03T23:20, from: [[Artists/J/Jubilee]])
 - [x] Michael Shuman (batch: 2026-07-03T23:20, from: [[Artists/J/Jubilee]])
 - [x] Ian Watkins (batch: 2026-07-03T23:55, from: [[Artists/L/Lostprophets]])
 - [x] Lee Gaze (batch: 2026-07-03T23:55, from: [[Artists/L/Lostprophets]])
@@ -1985,11 +1997,31 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Mike Chiplin (batch: 2026-07-03T23:55, from: [[Artists/L/Lostprophets]])
 - [x] DJ Stepzak (batch: 2026-07-03T23:55, from: [[Artists/L/Lostprophets]])
 - [x] Luke Johnson (batch: 2026-07-03T23:55, from: [[Artists/L/Lostprophets]])
-- [ ] Anthony Gonzalez (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Nicolas Fromageau (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Ken Thomas (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Ewan Pearson (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Morgan Kibby (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Antoine Gaillet (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Justin Meldal-Johnsen (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
-- [ ] Joseph Trapanese (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Anthony Gonzalez (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Nicolas Fromageau (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Ken Thomas (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Ewan Pearson (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Morgan Kibby (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Antoine Gaillet (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Justin Meldal-Johnsen (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Joseph Trapanese (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
+- [x] Irv Gotti (batch: 2026-07-03T21:15, from: [[Artists/M/Murder Inc.]])
+- [x] Chris Gotti (batch: 2026-07-03T21:15, from: [[Artists/M/Murder Inc.]])
+- [x] Ja Rule (batch: 2026-07-03T21:15, from: [[Artists/M/Murder Inc.]])
+- [x] Ashanti (batch: 2026-07-03T21:15, from: [[Artists/M/Murder Inc.]])
+- [x] Charli Baltimore (batch: 2026-07-03T21:15, from: [[Artists/M/Murder Inc.]])
+- [x] Lloyd (batch: 2026-07-03T21:15, from: [[Artists/M/Murder Inc.]])
+- [x] Vanessa Carlton (batch: 2026-07-03T21:15, from: [[Artists/M/Murder Inc.]])
+- [x] Vita (batch: 2026-07-03T21:15, from: [[Artists/M/Murder Inc.]])
+- [x] Rich Costey (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] John Leckie (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Paul Reeve (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] David Bottrill (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] John Cornfield (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Adrian Bushby (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Tommaso Colliva (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Mutt Lange (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Shellback (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Timbaland (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Gaius Chow (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Fred Ball (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
