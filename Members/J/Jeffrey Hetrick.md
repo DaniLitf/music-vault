@@ -8,9 +8,9 @@ nationality: American
 
 # Jeffrey Hetrick
 
-**Vocalist (clean vocals). Born May 5, 1960.**
+**Vocalist (clean and harsh vocals). Born May 5, 1960.**
 
-Jeffrey Hetrick, known professionally as Jeffrey Nothing or Jeffrey Hatrix, is an American musician best known as the co-founding clean vocalist of the industrial metal band Mushroomhead, which he helped form in 1993 in Cleveland, Ohio. He contributed vocal performances and songwriting to the band's albums from 1998 until his departure in March 2018. His stage name "Nothing" derives from a reference in the film Blue Velvet. Hetrick became known for his distinctive visual aesthetic including elaborate face paint and mask designs, most notably a butcher-inspired look.
+Jeffrey Hetrick, known professionally as Jeffrey Nothing or Jeffrey Hatrix, is an American musician best known as the co-founding clean vocalist of the industrial metal band Mushroomhead, which he helped form in 1993 in Cleveland, Ohio. He contributed vocal performances and songwriting to every album from the 1993 demo through his departure in March 2018, performing alongside Jason Popson and later Waylon Reavis in the band's dual-vocalist arrangement. His stage name "Nothing" derives from a reference in the film Blue Velvet. Hetrick became known for his distinctive visual aesthetic including elaborate face paint and mask designs, most notably a butcher-inspired look.
 
 ## Associated Artists
 

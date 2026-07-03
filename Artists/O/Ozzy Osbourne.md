@@ -8,6 +8,9 @@ genre:
 
 **Ozzy Osbourne** (born John Michael Osbourne, December 3, 1948) is an English singer, songwriter, and heavy metal icon. He rose to fame as the founding vocalist of [[Artists/B/Black Sabbath]] before launching a hugely successful solo career, earning the nickname "Prince of Darkness."
 
+## Discography
+
+### Studio Albums
 | Year | Title | Notes |
 |------|-------|-------|
 | 1980 | *Blizzard of Ozz* | debut solo album; Randy Rhoads on guitar |
@@ -26,7 +29,7 @@ genre:
 
 Ozzy Osbourne is a solo artist. See [[Members/O/Ozzy Osbourne]] for biography.
 
-### Key Collaborators
+### Touring & Session Members
 - [[Members/R/Randy Rhoads]] — guitar (1979–1982; died 1982)
 - [[Members/Z/Zakk Wylde]] — guitar (1987–1995, 2001–2009, 2017–present)
 - [[Members/G/Geezer Butler]] — bass (1994–1996; also [[Artists/B/Black Sabbath]])

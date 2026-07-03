@@ -18,6 +18,8 @@ genre:
 
 ## Members
 
+### Core / Official Members
+
 - [[Members/B/Billy Corgan]] – guitar, lead vocals (2001–2003)
 - [[Members/J/Jimmy Chamberlin]] – drums (2001–2003)
 - [[Members/M/Matt Sweeney]] – guitar, backing vocals (2001–2003)

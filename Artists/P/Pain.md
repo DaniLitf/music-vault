@@ -8,6 +8,9 @@ genre:
 
 **Pain is a Swedish industrial metal project formed in 1996 by [[Members/P/Peter Tägtgren]], who channels a heavier, more electronic direction than his death metal band [[Artists/H/Hypocrisy]].**
 
+## Discography
+
+### Studio Albums
 | Year | Title | Notes |
 |------|-------|-------|
 | 1996 | *Pain* | debut |

@@ -9,6 +9,9 @@ genre:
 
 **Pixies are an American alternative rock band formed in Boston, Massachusetts in 1986, known for their "loud-quiet-loud" dynamics and surreal lyrics, hugely influential on the 1990s alternative and grunge scene — Kurt Cobain famously credited them as a major influence on Nirvana.**
 
+## Discography
+
+### Studio Albums
 | Year | Title | Notes |
 |------|-------|-------|
 | 1987 | *Come On Pilgrim* | debut mini-LP |

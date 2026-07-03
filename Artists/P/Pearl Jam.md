@@ -9,6 +9,9 @@ genre:
 
 **Pearl Jam are an American rock band formed in Seattle, Washington in 1990, rising from the ashes of [[Artists/G/Green River]] and [[Artists/M/Mother Love Bone]] to become one of the defining acts of the grunge era and one of the best-selling bands of all time.**
 
+## Discography
+
+### Studio Albums
 | Year | Title | Notes |
 |------|-------|-------|
 | 1991 | *Ten* | debut; "Alive," "Even Flow," "Black" |

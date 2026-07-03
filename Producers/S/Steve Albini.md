@@ -1,7 +1,7 @@
 ---
 real_name: Steven Frank Albini
 also_known_as:
-birth_date: 1961-07-22
+birth_date: 1962-07-22
 death_date: 2024-05-07
 nationality: American
 ---
@@ -14,6 +14,7 @@ Steve Albini was an American recording engineer and musician famed for his raw, 
 
 ## Associated Projects
 
+- [[Artists/N/Nirvana]] – *In Utero* (1993)
 - [[Artists/P/Pigface]] – *Gub* (1991)
 - [[Artists/M/Murder Inc.]] – *Murder, Inc.* (1992)
 

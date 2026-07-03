@@ -2,7 +2,7 @@
 
 ## Artists
 
-> last updated: 2026-07-03T23:45 · unfixed: 136 · last QC position: M/Mushroomhead · session: MEMBERS & PRODUCERS QUEUES COMPLETE
+> last updated: 2026-07-03T14:45 · unfixed: 131 · last QC position: O/Ozzy Osbourne · session: QC SESSION 4 IN PROGRESS
 
 ### Summary
 - **Total artist entries**: 688 (550 with a page on disk + 138 queued with no page yet)
@@ -356,8 +356,8 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | M/Mumford & Sons | - |
 | [x] | M/Murder Inc. | - |
 | [x] | M/Muse | - |
-| [ ] | M/Mushroomhead | uncategorized-members, member-links |
-| [x] | M/My Head | - |
+| [x] | M/Mushroomhead | - |
+| [x] | M/My Head | - | QC ✓
 | [x] | M/My Life With the Thrill Kill Kult | - |
 | [x] | M/Mötley Crüe | - |
 | [x] | N/Napalm Death | - |
@@ -380,33 +380,33 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | O/Orange | - |
 | [x] | O/Orgasm Death Gimmick | - |
 | [x] | O/Overkill | - |
-| [x] | O/Ozzy Osbourne | - |
-| [x] | P/Pain | - |
+| [ ] | O/Ozzy Osbourne | discography, uncategorized-members |
+| [ ] | P/Pain | discography |
 | [x] | P/Pantera | - |
 | [x] | P/Papa M | - |
 | [x] | P/Paper Mice | - |
 | [x] | P/Paradise Lost | - |
 | [x] | P/Parliament-Funkadelic | - |
-| [x] | P/Pearl Jam | - |
+| [ ] | P/Pearl Jam | yaml, discography |
 | [x] | P/Pentagram | - |
 | [x] | P/Perturbator | - |
 | [x] | P/Peter Gabriel | - |
 | [x] | P/Petter | - |
-| [x] | P/Pig | - |
+| [ ] | P/Pig | discography |
 | [x] | P/Pigface | - |
 | [x] | P/Pink Floyd | - |
 | [x] | P/Pitchshifter | - |
-| [x] | P/Pixies | - |
+| [ ] | P/Pixies | discography |
 | [x] | P/Pizzaman | - |
 | [x] | P/PJ Harvey | - |
 | [x] | P/Plaid | - |
 | [x] | P/Polygon Window | - |
 | [x] | P/Porno for Pyros | - |
-| [x] | P/Portishead | - |
+| [ ] | P/Portishead | discography |
 | [x] | P/Powerwolf | - |
 | [x] | P/Primal Scream | - |
-| [x] | P/Primus | - |
-| [x] | P/Prince | - |
+| [ ] | P/Primus | discography |
+| [ ] | P/Prince | discography |
 | [x] | P/Probot | - |
 | [x] | P/Project One | - |
 | [x] | P/Propellerheads | - |
@@ -414,13 +414,13 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | P/Psychic TV | - |
 | [x] | P/Public Enemy | - |
 | [x] | P/Public Image Ltd | - |
-| [x] | P/Puscifer | - |
+| [ ] | P/Puscifer | discography |
 | [x] | Q/Queen | - |
 | [x] | Q/Queens of the Stone Age | - |
 | [x] | R/Radiohead | - |
 | [x] | R/Rage Against the Machine | - |
 | [x] | R/Rainbow | - |
-| [x] | R/Rammstein | - |
+| [ ] | R/Rammstein | discography |
 | [x] | R/Rasputina | - |
 | [x] | R/Recoil | - |
 | [x] | R/Red Hot Chili Peppers | - |
@@ -480,7 +480,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | S/Soilwork | - |
 | [x] | S/Sonar | - |
 | [x] | S/Sonic Youth | - |
-| [x] | S/Soundgarden | - |
+| [ ] | S/Soundgarden | yaml |
 | [x] | S/Sparks | - |
 | [x] | S/Spinal Tap | - |
 | [x] | S/Spiralarms | - |
@@ -560,7 +560,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Prodigy | - |
 | [x] | T/The Raconteurs | - |
 | [x] | T/The Rolling Stones | - |
-| [x] | T/The Smashing Pumpkins | - |
+| [ ] | T/The Smashing Pumpkins | yaml |
 | [x] | T/The Snakes | - |
 | [x] | T/The Soundtrack of Our Lives | - |
 | [x] | T/The Stooges | - |
@@ -609,7 +609,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | W/Wellwater Conspiracy | - |
 | [x] | W/West Indian Girl | - |
 | [x] | W/What Is This | - |
-| [x] | W/White Zombie | - |
+| [ ] | W/White Zombie | uncategorized-members |
 | [x] | W/Whitesnake | - |
 | [x] | W/Whitney Houston | - |
 | [x] | W/Whourkr | - |
@@ -736,10 +736,12 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | S/Susanne Sundfør | - |
 | [x] | A/Agnostic Front | - |
 | [x] | S/Sinsaenum | - |
+| [ ] | H/Hatrix | - |
+| [ ] | P/Purgatory | - |
 
 ## Members
 
-> last updated: 2026-07-03T23:58 · unfixed: 2
+> last updated: 2026-07-03T14:45 · unfixed: 24
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -1872,8 +1874,13 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Dominic Howard (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
 - [x] Chris Wolstenholme (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
 - [x] Steve Felton (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
-- [ ] Jeffrey Hetrick (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
+- [x] Jeffrey Hetrick (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
 - [ ] Ryan Farrell (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
+- [ ] Mark Greenway (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
+- [ ] Shane Embury (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
+- [ ] Mitch Harris (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
+- [ ] Danny Herrera (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
+- [ ] Chad Channing (batch: 2026-07-03T14:45, from: [[Artists/N/Nirvana]])
 
 ## Producers
 
@@ -2025,3 +2032,26 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Timbaland (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
 - [x] Gaius Chow (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
 - [x] Fred Ball (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
+- [x] Jason Popson (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [x] Waylon Reavis (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [x] Tom Schmitz (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [x] Rick Thomas (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [x] Steve Rauckhorst (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [x] Scott Beck (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] John Sekula (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Richie Moore (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Joe Kilcoyne (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Joe Lenkey (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Jack Kilcoyne (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Marko Vukcevich (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Daniel Fox (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Robert Godsey (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Tommy Church (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Tom Shaffner (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Joe Gaal (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Aydin Kerr (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Simon Kanaris (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
+- [ ] Tommy Lee (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])
+- [ ] Mick Mars (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])
+- [ ] Vince Neil (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])
+- [ ] John Corabi (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])

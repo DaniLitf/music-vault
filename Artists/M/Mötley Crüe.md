@@ -25,12 +25,12 @@ genre:
 
 ### Core / Official Members
 - [[Members/N/Nikki Sixx]] — bass, vocals (founding member)
-- Tommy Lee — drums (founding member; also in [[Artists/M/Methods of Mayhem]])
-- Mick Mars — guitar (founding member)
-- Vince Neil — vocals (1981–1992, 1997–present)
+- [[Members/T/Tommy Lee]] — drums (founding member; also in [[Artists/M/Methods of Mayhem]])
+- [[Members/M/Mick Mars]] — guitar (founding member)
+- [[Members/V/Vince Neil]] — vocals (1981–1992, 1997–present)
 
-### Past Members
-- John Corabi — vocals (1992–1996)
+### Past Touring & Session Members
+- [[Members/J/John Corabi]] — vocals (1992–1996)
 
 ## Connections
 

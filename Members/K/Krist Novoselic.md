@@ -1,8 +1,8 @@
 ﻿---
-real name:
-also known as:
-birth date: 1965-05-16
-death date:
+real_name:
+also_known_as:
+birth_date: 1965-05-16
+death_date:
 nationality: American
 ---
 

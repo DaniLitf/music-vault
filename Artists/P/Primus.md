@@ -9,6 +9,9 @@ genre:
 
 **Primus are an American rock band formed in El Sobrante, California in 1984, known for their eccentric, bass-driven sound and frontman [[Members/L/Les Claypool]]'s distinctive slap-bass technique and absurdist lyrics.**
 
+## Discography
+
+### Studio Albums
 | Year | Title | Notes |
 |------|-------|-------|
 | 1989 | *Suck on This* | live debut album |

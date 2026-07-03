@@ -9,6 +9,9 @@ genre:
 
 **Pig is a British industrial music project founded by [[Members/R/Raymond Watts]], a vocalist and producer who was formerly a member of [[Artists/K/KMFDM]] and is known for his sardonic, theatrically dark aesthetic.**
 
+## Discography
+
+### Studio Albums
 | Year | Title | Notes |
 |------|-------|-------|
 | 1988 | *A Stroll in the Pork* | debut |

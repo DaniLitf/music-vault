@@ -1,20 +1,27 @@
 ---
 genre:
-  - grunge
-  - alternative rock
-  - punk rock
+  - Grunge
+  - Alternative Rock
+  - Punk Rock
 ---
 
 # Nirvana
 
 **Nirvana were an American rock band formed in Aberdeen, Washington in 1987, who became one of the defining bands of the 1990s, bringing grunge and alternative rock to the mainstream with *Nevermind* (1991) and its lead single "Smells Like Teen Spirit," dissolving with Kurt Cobain's suicide in 1994.**
 
+## Discography
+
+### Studio Albums
+| Year | Title | Producer | Studio | Notes |
+|------|-------|----------|--------|-------|
+| 1989 | *Bleach* | [[Producers/J/Jack Endino]] | [[Studios/R/Reciprocal Recording]] | debut; Sub Pop Records |
+| 1991 | *Nevermind* | [[Producers/B/Butch Vig]] | [[Studios/S/Sound City]] | mainstream breakthrough; "Smells Like Teen Spirit" |
+| 1992 | *Incesticide* | — | — | rarities compilation |
+| 1993 | *In Utero* | [[Producers/S/Steve Albini]] | [[Studios/P/Pachyderm Studios]] | |
+
+### Live Albums
 | Year | Title | Notes |
 |------|-------|-------|
-| 1989 | *Bleach* | debut; Sub Pop Records |
-| 1991 | *Nevermind* | mainstream breakthrough; "Smells Like Teen Spirit" |
-| 1992 | *Incesticide* | rarities compilation |
-| 1993 | *In Utero* | |
 | 1994 | *MTV Unplugged in New York* | live landmark; posthumous |
 | 1994 | *From the Muddy Banks of the Wishkah* | live; posthumous |
 
@@ -26,8 +33,8 @@ genre:
 - [[Members/D/Dave Grohl]] — drums (1990–1994; also in [[Artists/F/Foo Fighters]])
 
 ### Past Members
-- Dale Crover — drums (1988; also in [[Artists/T/The Melvins]])
-- Chad Channing — drums (1988–1990)
+- [[Members/D/Dale Crover]] — drums (1988; also in [[Artists/T/The Melvins]])
+- [[Members/C/Chad Channing]] — drums (1988–1990)
 
 ## Connections
 

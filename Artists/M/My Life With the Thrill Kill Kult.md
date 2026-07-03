@@ -1,9 +1,9 @@
 ---
 genre:
-  - industrial
-  - dance
-  - electronic
-  - synth-pop
+  - Industrial
+  - Dance
+  - Electronic
+  - Synth-pop
 ---
 
 # My Life With the Thrill Kill Kult
@@ -24,11 +24,11 @@ genre:
 
 ### Core / Official Members
 - [[Members/B/Buzz McCoy]] — production, programming (founding member)
-- Groovie Mann (Franke Nardiello) — vocals (founding member)
+- [[Members/G/Groovie Mann]] — vocals (founding member)
 
 ## Connections
 
-No confirmed shared-member connections to other vault artists.
+- [[Artists/M/Ministry]] – Groovie Mann and Buzz McCoy met while touring with the band in 1987, leading to the formation of My Life With the Thrill Kill Kult
 
 ## Sources
 - Wikipedia

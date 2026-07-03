@@ -9,6 +9,9 @@ genre:
 
 **Portishead are an English electronic band formed in Bristol in 1991, one of the founding acts of trip-hop alongside [[Artists/M/Massive Attack]] and [[Artists/T/Tricky]], known for their sample-based, cinematic soundscapes and Beth Gibbons' haunting vocals.**
 
+## Discography
+
+### Studio Albums
 | Year | Title | Notes |
 |------|-------|-------|
 | 1994 | *Dummy* | debut; Mercury Prize winner; "Glory Box," "Sour Times" |

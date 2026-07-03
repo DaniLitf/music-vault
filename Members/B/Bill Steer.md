@@ -11,8 +11,9 @@ nationality: British
 His guitar work evolved from raw grindcore on the early albums to the refined, harmonised melodic death metal of *Heartwork* (1993), making him one of the most respected guitarists in extreme metal.
 
 ## Associated Artists
-- [[Artists/C/Carcass]]
-- [[Artists/N/Napalm Death]]
+
+- [[Artists/N/Napalm Death]] – guitar (1987–1989)
+- [[Artists/C/Carcass]] – guitar (1989–1997, 2007–present)
 
 ## Sources
 - Wikipedia
