@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "music-vault",
+    "createdAt": 1783003305926,
+    "preset": "starter"
+  },
+  "authorizedRoots": [
+    "G:\\Min enhet\\obs\\music-vault"
+  ],
+  "reload": null
+}

@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Artists  ",
+      "color": {
+        "a": 1,
+        "rgb": 4782517
+      }
+    },
+    {
+      "query": "path:Members  ",
+      "color": {
+        "a": 1,
+        "rgb": 6927095
+      }
+    },
+    {
+      "query": "path:Producers  ",
+      "color": {
+        "a": 1,
+        "rgb": 14808391
+      }
+    },
+    {
+      "query": "Path:Studios  ",
+      "color": {
+        "a": 1,
+        "rgb": 16600716
+      }
+    },
+    {
+      "query": "path:Genres  ",
+      "color": {
+        "a": 1,
+        "rgb": 15876332
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.19233142337665848,
+  "close": true
+}

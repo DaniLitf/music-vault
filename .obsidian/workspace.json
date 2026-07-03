@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "b9a6146d776c80e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7414de67048bac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "896c41b3bb47d9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51f8cc01313897fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "56c1561b099f852f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f7f9c6e162a2cd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Filutforskare"
+            }
+          },
+          {
+            "id": "d18887d270f13b6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Sök"
+            }
+          },
+          {
+            "id": "523e9f489b1a860b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bokmärken"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e760700938fc1d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b52a888220a931d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bdb29eab7336906",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Members/A/Atticus Ross.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Bakåtlänkar för Atticus Ross"
+            }
+          },
+          {
+            "id": "ee89caa3110dab54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Members/A/Atticus Ross.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Utgående länkar från Atticus Ross"
+            }
+          },
+          {
+            "id": "08513acd5e668bb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Taggar"
+            }
+          },
+          {
+            "id": "f46e72d534b46b14",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alla egenskaper"
+            }
+          },
+          {
+            "id": "e46721d5a76f269a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Members/A/Atticus Ross.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Disposition av Atticus Ross"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Öppna snabbväxlare": false,
+      "graph:Öppna grafvy": false,
+      "canvas:Skapa ny canvas": false,
+      "daily-notes:Öppna dagens anteckning": false,
+      "templates:Infoga mall": false,
+      "command-palette:Öppna kommandopalett": false,
+      "bases:Skapa ny bas": false
+    }
+  },
+  "active": "896c41b3bb47d9e6",
+  "lastOpenFiles": [
+    "progress.md.tmp.11420.92f41c47d700",
+    "progress.md.tmp.11420.7b2ca4ee7e3f",
+    "progress.md.tmp.11420.aa672276cd3b",
+    "Members/F/Fredrik Larsson.md",
+    "Members/F/Fredrik Andersson.md",
+    "Members/F/Franz Stahl.md",
+    "Members/F/Frank Gosdzik.md",
+    "Members/F/Frank Delgado.md",
+    "Members/F/Frank Bello.md",
+    "Members/F/Francis Rossi.md",
+    "Members/F/Flavor Flav.md",
+    "Members/F/Finn Eriksson.md",
+    "Members/F/Finn Eriksson.md.tmp.11420.2e834d511bd5",
+    "Members/F/Filthy.md",
+    "progress.md.tmp.36968.9742cf1772da",
+    "progress.md.tmp.36968.60d60c09c5d0",
+    "progress.md.tmp.36968.86d959f36f1b",
+    "progress.md.tmp.33616.8d5888b29ca8",
+    "progress.md.tmp.33616.4b3d0e540a61",
+    "Artists/H/H2O.md",
+    "Members/F/Faust.md",
+    "Members/F/Far & Son.md",
+    "Members/F/Falk Maria Schlegel.md",
+    "Members/F/F.M. Einheit.md",
+    "Members/E/Exploding Plastic.md",
+    "Members/E/Ethan Buckler.md",
+    "Members/E/Ethan Buckler.md.tmp.33616.e4654b5c5c03",
+    "Members/E/Erik Drost.md",
+    "Members/E/Erik Drost.md.tmp.33616.d66c2517cf2a",
+    "Members/E/Erik Danielsson.md",
+    "Members/E/Eric Peterson.md",
+    "Members/E/Eric Kretz.md",
+    "Members/E/Eric Erlandson.md",
+    "Members/E/Eric Dover.md",
+    "Members/E/Eloy Casagrande.md",
+    "Members/E/Elize Ryd.md"
+  ]
+}
