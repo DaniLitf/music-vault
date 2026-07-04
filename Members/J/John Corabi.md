@@ -17,12 +17,12 @@ John Corabi is an American hard rock vocalist best known for his tenure as Mötl
 - [[Artists/A/Angora]] – lead vocals
 - [[Artists/U/Union]] – vocals
 - [[Artists/R/Ratt]] – guitar
-- Brides of Destruction – lead vocals
-- The Dead Daisies – lead vocals
-- Angel City Outlaws – vocals
-- Twenty 4 Seven – vocals
-- Zen Lunatic – vocals
-- ESP – vocals/guitar
+- [[Artists/B/Brides of Destruction]] – lead vocals
+- [[Artists/T/The Dead Daisies]] – lead vocals
+- [[Artists/A/Angel City Outlaws]] – vocals
+- [[Artists/T/Twenty 4 Seven]] – vocals
+- [[Artists/Z/Zen Lunatic]] – vocals
+- [[Artists/E/ESP]] – vocals/guitar
 
 ## Sources
 

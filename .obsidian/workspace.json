@@ -11,10 +11,14 @@
             "id": "896c41b3bb47d9e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafvy"
+              "type": "markdown",
+              "state": {
+                "file": "progress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "progress"
             }
           }
         ]
@@ -181,26 +185,32 @@
   },
   "active": "896c41b3bb47d9e6",
   "lastOpenFiles": [
+    "Members/R/Robert Iezzi.md",
+    "Members/R/Robert Iezzi-0965.ffs_tmp",
+    "RecycleBin~b22e.ffs_tmp/Members/J/John Corabi.md",
+    "RecycleBin~b22e.ffs_tmp/Members/J",
+    "RecycleBin~b22e.ffs_tmp/Members",
+    "Members/J/John Corabi-7a7d.ffs_tmp",
+    "Members/J/Jimmy Marchiano.md",
+    "Members/J/Jimmy Marchiano-edaf.ffs_tmp",
+    "Members/F/Frank Scimeca.md",
+    "Members/F/Frank Scimeca-2d8a.ffs_tmp",
+    "Artists/A/Angora.md",
+    "Artists/A/Angora-ce1d.ffs_tmp",
+    "RecycleBin~b22e.ffs_tmp/progress.md",
+    "progress-fb38.ffs_tmp",
+    "RecycleBin~b22e.ffs_tmp",
+    "sync.ffs_lock",
     "Studios/Q/Q Division.md",
-    "Studios/Q/Q Division-63d2.ffs_tmp",
     "Studios/F/Fort Apache Studios.md",
-    "Studios/F/Fort Apache Studios-9ee8.ffs_tmp",
     "Studios/T/Townhouse.md",
-    "Studios/T/Townhouse-e34d.ffs_tmp",
     "Studios/T/Tone Factory Studio.md",
-    "Studios/T/Tone Factory Studio-32cf.ffs_tmp",
     "Studios/T/The Music Machine.md",
-    "Studios/T/The Music Machine-b1ba.ffs_tmp",
     "Studios/T/Temple Studios.md",
-    "Studios/T/Temple Studios-b093.ffs_tmp",
     "Studios/S/Sonoma Mountain Recording Estate.md",
-    "Studios/S/Sonoma Mountain Recording Estate-f7d8.ffs_tmp",
     "Studios/R/Ridge Farm Studios.md",
-    "Studios/R/Ridge Farm Studios-3268.ffs_tmp",
     "Studios/R/RAK Studios.md",
-    "Studios/R/RAK Studios-78b7.ffs_tmp",
     "Studios/P/Polar Studios.md",
-    "Studios/P/Polar Studios-3c78.ffs_tmp",
     "Studios/N/Northwood Sound Studios.md",
     "Studios/L/La Fabrique.md",
     "Studios/J/Jim Henson Studios.md",
@@ -210,12 +220,6 @@
     "Studios/E/El Cortijo.md",
     "Studios/D/Downtown Studios.md",
     "Studios/D/Darth Mader Music.md",
-    "Studios/A/The Abyss.md",
-    "Studios/A/Air Studios.md",
-    "Studios/A/A&M Studios.md",
-    "Producers/T/Tom Dalgety.md",
-    "Producers/P/Peter Tägtgren.md",
-    "Producers/O/Olsen Involtini.md",
-    "Producers/L/Logan Mader.md"
+    "Studios/A/The Abyss.md"
   ]
 }

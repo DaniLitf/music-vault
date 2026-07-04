@@ -2,12 +2,12 @@
 
 ## Artists
 
-> last updated: 2026-07-04T11:45 · unfixed: 123 · last QC position: B/Brave the Cold · session: QC SESSION 4 IN PROGRESS
+> last updated: 2026-07-04T23:45 · unfixed: 122 · last QC position: B/Brave the Cold · session: QC SESSION 4 IN PROGRESS
 
 ### Summary
-- **Total artist entries**: 688 (550 with a page on disk + 138 queued with no page yet)
-- **Fully OK [x]**: 550
-- **Needs fixes [ ]**: 138 (138 queued/no page yet — see below)
+- **Total artist entries**: 688 (551 with a page on disk + 137 queued with no page yet)
+- **Fully OK [x]**: 551
+- **Needs fixes [ ]**: 137 (137 queued/no page yet — see below)
 - **Last updated**: 2026-07-03
 
 Note on "Fully OK": this reflects rows not flagged by a targeted check in this pass or by prior QC marks. It does **not** mean all pages fully satisfy every criterion in the QC checklist — see the Issue Breakdown below. Run the QC workflow page-by-page to convert these into per-row flags.
@@ -745,7 +745,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [ ] | B/Benediction | - |
 | [ ] | E/Extreme Noise Terror | - |
 | [ ] | T/The Scream | - |
-| [ ] | A/Angora | - |
+| [x] | A/Angora | - |
 | [ ] | U/Union | - |
 | [ ] | L/Little Giant Drug | - |
 | [ ] | M/Meathook Seed | - |
@@ -761,7 +761,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 
 ## Members
 
-> last updated: 2026-07-04T23:45 · unfixed: 24
+> last updated: 2026-07-04T23:45 · unfixed: 27
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -1904,6 +1904,9 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Danny Herrera (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
 - [ ] Chad Channing (batch: 2026-07-03T14:45, from: [[Artists/N/Nirvana]])
 - [ ] Randy Rhoads (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Jimmy Marchiano (batch: 2026-07-04T23:45, from: [[Artists/A/Angora]])
+- [ ] Frank Scimeca (batch: 2026-07-04T23:45, from: [[Artists/A/Angora]])
+- [ ] Robert Iezzi (batch: 2026-07-04T23:45, from: [[Artists/A/Angora]])
 
 ## Producers
 
