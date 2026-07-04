@@ -15,8 +15,8 @@ genre:
 ### Studio Albums
 | Year | Title | Producer | Studio | Notes |
 |------|-------|----------|--------|-------|
-| 1991 | *Gish* | | | Debut; Butch Vig produced |
-| 1993 | *Siamese Dream* | | | Breakthrough; Butch Vig produced |
+| 1991 | *Gish* | [[Producers/B/Butch Vig]] | | Debut |
+| 1993 | *Siamese Dream* | [[Producers/B/Butch Vig]] | | Breakthrough |
 | 1995 | *Mellon Collie and the Infinite Sadness* | [[Producers/F/Flood]] | | Double album; #1 US |
 | 1998 | *Adore* | [[Producers/F/Flood]] | | Minimal electronic sound |
 | 2000 | *Machina/The Machines of God* | [[Producers/F/Flood]] | | |
@@ -36,8 +36,12 @@ genre:
 - [[Members/J/James Iha]] – guitar, backing vocals (1988–2000, 2018–present)
 
 ### Past
+- [[Members/J/Jeff Schroeder]] – guitar (2007–2023)
 - [[Members/D/D'arcy Wretzky]] – bass (1988–1999)
 - [[Members/M/Melissa Auf der Maur]] – bass (2000–2003)
+
+### Notable Guests
+- [[Members/T/Tommy Lee]] – drums (2014, *Monuments to an Elegy*)
 
 ## Connections
 

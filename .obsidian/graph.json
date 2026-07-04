@@ -11,39 +11,39 @@
       "query": "path:Artists  ",
       "color": {
         "a": 1,
-        "rgb": 4782517
-      }
-    },
-    {
-      "query": "path:Members  ",
-      "color": {
-        "a": 1,
-        "rgb": 6927095
-      }
-    },
-    {
-      "query": "path:Producers  ",
-      "color": {
-        "a": 1,
-        "rgb": 14808391
-      }
-    },
-    {
-      "query": "Path:Studios  ",
-      "color": {
-        "a": 1,
-        "rgb": 16600716
+        "rgb": 2881487
       }
     },
     {
       "query": "path:Genres  ",
       "color": {
         "a": 1,
-        "rgb": 15876332
+        "rgb": 5729023
+      }
+    },
+    {
+      "query": "Path:Producers  ",
+      "color": {
+        "a": 1,
+        "rgb": 16121702
+      }
+    },
+    {
+      "query": "Path:Members  ",
+      "color": {
+        "a": 1,
+        "rgb": 16720932
+      }
+    },
+    {
+      "query": "path:Studios  ",
+      "color": {
+        "a": 1,
+        "rgb": 11343614
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.19233142337665848,
+  "scale": 0.13718528498581842,
   "close": true
 }

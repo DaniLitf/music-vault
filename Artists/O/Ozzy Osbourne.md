@@ -11,25 +11,25 @@ genre:
 ## Discography
 
 ### Studio Albums
-| Year | Title | Notes |
-|------|-------|-------|
-| 1980 | *Blizzard of Ozz* | debut solo album; Randy Rhoads on guitar |
-| 1981 | *Diary of a Madman* | |
-| 1983 | *Bark at the Moon* | |
-| 1986 | *The Ultimate Sin* | |
-| 1988 | *No Rest for the Wicked* | |
-| 1991 | *No More Tears* | "Mama, I'm Coming Home" |
-| 1995 | *Ozzmosis* | |
-| 2001 | *Down to Earth* | |
-| 2007 | *Black Rain* | |
-| 2020 | *Ordinary Man* | comeback album |
-| 2022 | *Patient Number 9* | |
+| Year | Title | Producer | Studio | Notes |
+|------|-------|----------|--------|-------|
+| 1980 | *Blizzard of Ozz* | Max Norman (engineer) | [[Studios/R/Ridge Farm Studios]] | debut solo album; Randy Rhoads on guitar |
+| 1981 | *Diary of a Madman* | Max Norman, Ozzy Osbourne, Randy Rhoads | [[Studios/R/Ridge Farm Studios]] | |
+| 1983 | *Bark at the Moon* | Max Norman, Bob Daisley, Ozzy Osbourne | [[Studios/R/Ridge Farm Studios]] | |
+| 1986 | *The Ultimate Sin* | Ron Nevison | [[Studios/T/Townhouse]], [[Studios/A/Air Studios]] | |
+| 1988 | *No Rest for the Wicked* | Roy Thomas Baker, Keith Olsen | [[Studios/E/Enterprise Studios]] | |
+| 1991 | *No More Tears* | Duane Baron, John Purdell | [[Studios/A/A&M Studios]] | "Mama, I'm Coming Home" |
+| 1995 | *Ozzmosis* | Michael Beinhorn | [[Studios/E/Electric Lady Studios]] | |
+| 2001 | *Down to Earth* | Tim Palmer | [[Studios/J/Jim Henson Studios]] | |
+| 2007 | *Black Rain* | Kevin Churko, Ozzy Osbourne | [[Studios/M/The Music Machine]] | |
+| 2020 | *Ordinary Man* | Andrew Watt, Louis Bell | [[Studios/G/Gold Tooth Music Studio]] | comeback album |
+| 2022 | *Patient Number 9* | Andrew Watt | [[Studios/G/Gold Tooth Music Studio]] | |
 
 ## Members
 
 Ozzy Osbourne is a solo artist. See [[Members/O/Ozzy Osbourne]] for biography.
 
-### Touring & Session Members
+### Past Touring & Session Members
 - [[Members/R/Randy Rhoads]] — guitar (1979–1982; died 1982)
 - [[Members/Z/Zakk Wylde]] — guitar (1987–1995, 2001–2009, 2017–present)
 - [[Members/G/Geezer Butler]] — bass (1994–1996; also [[Artists/B/Black Sabbath]])

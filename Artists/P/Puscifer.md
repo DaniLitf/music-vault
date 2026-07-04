@@ -9,14 +9,23 @@ genre:
 
 **Puscifer is an American rock band formed in 2007 by [[Members/M/Maynard James Keenan]], best known as the vocalist of [[Artists/T/Tool]] and [[Artists/A/A Perfect Circle]] — a creative outlet operating outside those bands' heavier aesthetic with a more eclectic, darkly humorous style.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2007 | *"V" Is for Vagina* | debut |
-| 2009 | *C Is for (Please Insert Sophomoric Genitalia Reference HERE)* | EP |
-| 2011 | *Conditions of My Parole* | |
-| 2015 | *Money $hot* | |
-| 2020 | *Existential Reckoning* | |
-| 2022 | *Twilight as Played by The Twilight Singers* | EP |
+## Discography
+
+### Studio Albums
+
+| Year | Title | Producer | Studio |
+|------|-------|----------|--------|
+| 2007 | *"V" Is for Vagina* | — | — |
+| 2011 | *Conditions of My Parole* | — | — |
+| 2015 | *Money $hot* | — | — |
+| 2020 | *Existential Reckoning* | — | — |
+
+### EPs
+
+| Year | Title | Producer | Studio |
+|------|-------|----------|--------|
+| 2009 | *C Is for (Please Insert Sophomoric Genitalia Reference HERE)* | — | — |
+| 2022 | *Twilight as Played by The Twilight Singers* | — | — |
 
 ## Members
 

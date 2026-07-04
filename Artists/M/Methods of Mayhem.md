@@ -17,7 +17,7 @@ genre:
 ## Members
 
 ### Core / Official Members
-- Tommy Lee — drums, vocals (founding member; also in [[Artists/M/Mötley Crüe]])
+- [[Members/T/Tommy Lee]] — drums, vocals (founding member; also in [[Artists/M/Mötley Crüe]])
 
 ### Past Members
 - [[Members/S/Stephen Perkins]] — drums, touring (also in [[Artists/J/Jane's Addiction]])

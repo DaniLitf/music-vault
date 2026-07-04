@@ -2,7 +2,7 @@
 
 ## Artists
 
-> last updated: 2026-07-03T14:45 · unfixed: 131 · last QC position: O/Ozzy Osbourne · session: QC SESSION 4 IN PROGRESS
+> last updated: 2026-07-04T11:45 · unfixed: 123 · last QC position: B/Brave the Cold · session: QC SESSION 4 IN PROGRESS
 
 ### Summary
 - **Total artist entries**: 688 (550 with a page on disk + 138 queued with no page yet)
@@ -380,23 +380,23 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | O/Orange | - |
 | [x] | O/Orgasm Death Gimmick | - |
 | [x] | O/Overkill | - |
-| [ ] | O/Ozzy Osbourne | discography, uncategorized-members |
-| [ ] | P/Pain | discography |
+| [x] | O/Ozzy Osbourne | - |
+| [x] | P/Pain | - |
 | [x] | P/Pantera | - |
 | [x] | P/Papa M | - |
 | [x] | P/Paper Mice | - |
 | [x] | P/Paradise Lost | - |
 | [x] | P/Parliament-Funkadelic | - |
-| [ ] | P/Pearl Jam | yaml, discography |
+| [x] | P/Pearl Jam | - |
 | [x] | P/Pentagram | - |
 | [x] | P/Perturbator | - |
 | [x] | P/Peter Gabriel | - |
 | [x] | P/Petter | - |
-| [ ] | P/Pig | discography |
+| [x] | P/Pig | - |
 | [x] | P/Pigface | - |
 | [x] | P/Pink Floyd | - |
 | [x] | P/Pitchshifter | - |
-| [ ] | P/Pixies | discography |
+| [x] | P/Pixies | - |
 | [x] | P/Pizzaman | - |
 | [x] | P/PJ Harvey | - |
 | [x] | P/Plaid | - |
@@ -405,7 +405,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [ ] | P/Portishead | discography |
 | [x] | P/Powerwolf | - |
 | [x] | P/Primal Scream | - |
-| [ ] | P/Primus | discography |
+| [x] | P/Primus | - |
 | [ ] | P/Prince | discography |
 | [x] | P/Probot | - |
 | [x] | P/Project One | - |
@@ -414,13 +414,13 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | P/Psychic TV | - |
 | [x] | P/Public Enemy | - |
 | [x] | P/Public Image Ltd | - |
-| [ ] | P/Puscifer | discography |
+| [x] | P/Puscifer | - |
 | [x] | Q/Queen | - |
 | [x] | Q/Queens of the Stone Age | - |
 | [x] | R/Radiohead | - |
 | [x] | R/Rage Against the Machine | - |
 | [x] | R/Rainbow | - |
-| [ ] | R/Rammstein | discography |
+| [x] | R/Rammstein | - |
 | [x] | R/Rasputina | - |
 | [x] | R/Recoil | - |
 | [x] | R/Red Hot Chili Peppers | - |
@@ -480,7 +480,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | S/Soilwork | - |
 | [x] | S/Sonar | - |
 | [x] | S/Sonic Youth | - |
-| [ ] | S/Soundgarden | yaml |
+| [x] | S/Soundgarden | - |
 | [x] | S/Sparks | - |
 | [x] | S/Spinal Tap | - |
 | [x] | S/Spiralarms | - |
@@ -560,7 +560,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Prodigy | - |
 | [x] | T/The Raconteurs | - |
 | [x] | T/The Rolling Stones | - |
-| [ ] | T/The Smashing Pumpkins | yaml |
+| [x] | T/The Smashing Pumpkins | - |
 | [x] | T/The Snakes | - |
 | [x] | T/The Soundtrack of Our Lives | - |
 | [x] | T/The Stooges | - |
@@ -609,7 +609,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | W/Wellwater Conspiracy | - |
 | [x] | W/West Indian Girl | - |
 | [x] | W/What Is This | - |
-| [ ] | W/White Zombie | uncategorized-members |
+| [x] | W/White Zombie | - |
 | [x] | W/Whitesnake | - |
 | [x] | W/Whitney Houston | - |
 | [x] | W/Whourkr | - |
@@ -736,12 +736,32 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | S/Susanne Sundfør | - |
 | [x] | A/Agnostic Front | - |
 | [x] | S/Sinsaenum | - |
+| [x] | B/Brave the Cold | - |
+| [ ] | D/Defecation | - |
+| [ ] | T/The Lassie Foundation | - |
+| [ ] | T/The Violet Burning | - |
 | [ ] | H/Hatrix | - |
 | [ ] | P/Purgatory | - |
+| [ ] | B/Benediction | - |
+| [ ] | E/Extreme Noise Terror | - |
+| [ ] | T/The Scream | - |
+| [ ] | A/Angora | - |
+| [ ] | U/Union | - |
+| [ ] | L/Little Giant Drug | - |
+| [ ] | M/Meathook Seed | - |
+| [ ] | R/Righteous Pigs | - |
+| [ ] | R/Ratt | - |
+| [ ] | B/Brides of Destruction | - |
+| [ ] | T/The Dead Daisies | - |
+| [ ] | A/Angel City Outlaws | - |
+| [ ] | T/Twenty 4 Seven | - |
+| [ ] | Z/Zen Lunatic | - |
+| [ ] | E/ESP | - |
+| [ ] | A/Antietam Creek | - |
 
 ## Members
 
-> last updated: 2026-07-03T14:45 · unfixed: 24
+> last updated: 2026-07-04T23:45 · unfixed: 24
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -753,6 +773,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Franz Stahl (batch: 2026-07-02T15:00, from: [[Artists/S/Scream]])
 - [x] Fredrik Andersson (batch: 2026-07-02T15:00, from: [[Artists/A/Amon Amarth]])
 - [x] Fredrik Larsson (batch: 2026-07-02T15:00, from: [[Artists/H/Hammerfall]])
+- [x] Jeff Schroeder (batch: 2026-07-04T23:30, from: [[Artists/T/The Smashing Pumpkins]])
 - [x] Josiah Steinbrick (batch: 2026-07-03T20:30, from: [[Artists/H/Heavens]])
 - [x] Simon Poulton (batch: 2026-07-03T20:30, from: [[Artists/H/Heavens]])
 - [x] Toby Morse (batch: 2026-07-03T19:45, from: [[Artists/H/Hazen Street]])
@@ -1853,6 +1874,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Everlast (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
 - [x] Danny Boy (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
 - [x] DJ Lethal (batch: 2026-07-03T21:00, from: [[Artists/H/House of Pain]])
+- [x] Mitch Harris (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]]) – QC ✓
 - [x] Anthony Gonzalez (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
 - [x] Nicolas Fromageau (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
 - [x] Morgan Kibby (batch: 2026-07-03T18:57, from: [[Artists/M/M83]])
@@ -1875,16 +1897,17 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Chris Wolstenholme (batch: 2026-07-03T21:30, from: [[Artists/M/Muse]])
 - [x] Steve Felton (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
 - [x] Jeffrey Hetrick (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
-- [ ] Ryan Farrell (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
-- [ ] Mark Greenway (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
-- [ ] Shane Embury (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
-- [ ] Mitch Harris (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
+- [x] Ryan Farrell (batch: 2026-07-03T23:45, from: [[Artists/M/Mushroomhead]])
+- [x] Mark Greenway (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
+- [x] Shane Embury (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
+- [x] Mitch Harris (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
 - [ ] Danny Herrera (batch: 2026-07-03T14:32, from: [[Artists/N/Napalm Death]])
 - [ ] Chad Channing (batch: 2026-07-03T14:45, from: [[Artists/N/Nirvana]])
+- [ ] Randy Rhoads (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
 
 ## Producers
 
-> last updated: 2026-07-03T21:30 · unfixed: 0
+> last updated: 2026-07-04T11:45 · unfixed: 19
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -1902,6 +1925,8 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Harry Maslin (batch: 2026-07-01T17:00, from: [[Artists/D/David Bowie]])
 - [x] Brian Eno (batch: 2026-07-01T17:00, from: [[Artists/D/David Bowie]])
 - [x] Reeves Gabrels (batch: 2026-07-01T17:00, from: [[Artists/D/David Bowie]])
+- [ ] Jacob Hellner (batch: 2026-07-04T21:15, from: [[Artists/R/Rammstein]])
+- [ ] Olsen Involtini (batch: 2026-07-04T21:15, from: [[Artists/R/Rammstein]])
 - [x] Guy Stevens (batch: 2026-07-01T20:00, from: [[Artists/M/Mott the Hoople]])
 - [x] David Bowie [producer] (batch: 2026-07-01T20:00, from: [[Artists/M/Mott the Hoople]])
 - [x] Nicolas Godin (batch: 2026-07-02T15:15, from: [[Artists/A/Air]])
@@ -2051,7 +2076,30 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Joe Gaal (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
 - [ ] Aydin Kerr (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
 - [ ] Simon Kanaris (batch: 2026-07-03T23:55, from: [[Artists/M/Mushroomhead]])
-- [ ] Tommy Lee (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])
+- [x] Tommy Lee (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])
 - [ ] Mick Mars (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])
 - [ ] Vince Neil (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])
-- [ ] John Corabi (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])
+- [x] John Corabi (batch: 2026-07-03T13:15, from: [[Artists/M/Mötley Crüe]])
+- [ ] Max Norman (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Bob Daisley (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Ron Nevison (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Roy Thomas Baker (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Keith Olsen (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Duane Baron (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] John Purdell (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Michael Beinhorn (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Tim Palmer (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Kevin Churko (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Andrew Watt (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Louis Bell (batch: 2026-07-04T00:00, from: [[Artists/O/Ozzy Osbourne]])
+- [ ] Peter Tägtgren (batch: 2026-07-04T14:32, from: [[Artists/P/Pain]])
+- [ ] Gary Smith (batch: 2026-07-04T19:15, from: [[Artists/P/Pixies]])
+- [ ] Gil Norton (batch: 2026-07-04T19:15, from: [[Artists/P/Pixies]])
+- [ ] Tom Dalgety (batch: 2026-07-04T19:15, from: [[Artists/P/Pixies]])
+- [ ] Chris Cornell (batch: 2026-07-04T22:00, from: [[Artists/S/Soundgarden]])
+- [ ] Matt Cameron (batch: 2026-07-04T22:00, from: [[Artists/S/Soundgarden]])
+- [ ] Ben Shepherd (batch: 2026-07-04T22:00, from: [[Artists/S/Soundgarden]])
+- [ ] Jason Everman (batch: 2026-07-04T22:00, from: [[Artists/S/Soundgarden]])
+- [ ] Kim Thayil (batch: 2026-07-04T22:00, from: [[Artists/S/Soundgarden]])
+- [ ] Hiro Yamamoto (batch: 2026-07-04T22:00, from: [[Artists/S/Soundgarden]])
+- [ ] Logan Mader (batch: 2026-07-04T11:45, from: [[Artists/B/Brave the Cold]])

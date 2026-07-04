@@ -12,20 +12,20 @@ genre:
 ## Discography
 
 ### Studio Albums
-| Year | Title | Notes |
-|------|-------|-------|
-| 1991 | *Ten* | debut; "Alive," "Even Flow," "Black" |
-| 1993 | *Vs.* | fastest-selling album in US history at time of release |
-| 1994 | *Vitalogy* | |
-| 1996 | *No Code* | |
-| 1998 | *Yield* | |
-| 2000 | *Binaural* | |
-| 2002 | *Riot Act* | |
-| 2006 | *Pearl Jam* | |
-| 2009 | *Backspacer* | |
-| 2013 | *Lightning Bolt* | |
-| 2020 | *Gigaton* | |
-| 2022 | *Dark Matter* | |
+| Year | Title | Producer | Studio |
+|------|-------|----------|--------|
+| 1991 | *Ten* | Rick Parashar, Pearl Jam | London Bridge Studios |
+| 1993 | *Vs.* | Brendan O'Brien | — |
+| 1994 | *Vitalogy* | Brendan O'Brien, Pearl Jam | — |
+| 1996 | *No Code* | Brendan O'Brien, Pearl Jam | — |
+| 1998 | *Yield* | Brendan O'Brien | — |
+| 2000 | *Binaural* | Tchad Blake, Pearl Jam | — |
+| 2002 | *Riot Act* | Brendan O'Brien | — |
+| 2006 | *Pearl Jam* | Brendan O'Brien, Pearl Jam | — |
+| 2009 | *Backspacer* | Brendan O'Brien | Henson Recording Studios |
+| 2013 | *Lightning Bolt* | Brendan O'Brien | — |
+| 2020 | *Gigaton* | Josh Evans | GT Studios, Jump Site Studios |
+| 2024 | *Dark Matter* | Andrew Watt | — |
 
 ## Members
 

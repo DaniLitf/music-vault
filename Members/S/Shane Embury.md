@@ -1,15 +1,15 @@
 ---
-real_name: Shane Embury
+real_name: Shane Thomas Embury
 also_known_as: 
-birth_date: 
+birth_date: 1967-11-27
 nationality: British
 ---
 
 # Shane Embury
 
-**Bassist. British.**
+**Bassist. Born 1967.**
 
-Shane Embury is the bassist of Napalm Death since 1987 and one of the band's core founding members. His distinctive bass tone and rhythmic foundation have been essential to the band's grindcore sound through four decades of evolution and lineup changes.
+Shane Thomas Embury is the longest-serving member and bassist of the English grindcore pioneers Napalm Death since July 1987. His distinctive bass tone and rhythmic foundation have been essential to the band's grindcore sound across four decades of evolution and lineup changes. Originally from Broseley, Shropshire, Embury became a fan of the band before joining and has remained a core member through the band's major releases and cultural impact. He is also known for his autobiography "Life?… & Napalm Death", published in October 2024, which covers his life story and the history of the band.
 
 ## Associated Artists
 

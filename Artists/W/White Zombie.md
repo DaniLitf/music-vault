@@ -21,9 +21,12 @@ genre:
 
 ## Members
 
+### Core / Official Members
 - [[Members/R/Rob Zombie]] – lead vocals (1985–1998)
 - [[Members/S/Sean Yseult]] – bass (1985–1998)
 - [[Members/J/J. Yuenger]] – guitar (1986–1998)
+
+### Past Touring & Session Members
 - [[Members/I/Ivan de Prume]] – drums (1986–1993)
 - [[Members/J/John Tempesta]] – drums (1993–1998)
 

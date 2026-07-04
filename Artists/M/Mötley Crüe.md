@@ -30,7 +30,7 @@ genre:
 - [[Members/V/Vince Neil]] — vocals (1981–1992, 1997–present)
 
 ### Past Touring & Session Members
-- [[Members/J/John Corabi]] — vocals (1992–1996)
+- [[Members/J/John Corabi]] — vocals (1992–1997)
 
 ## Connections
 

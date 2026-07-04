@@ -1,21 +1,21 @@
 ---
-real name: Jason Everman
-also known as:
-birth date: 1967-08-16
-death date:
+real_name: Jason Everman
+birth_date: 1967-08-16
 nationality: American
 ---
 
 # Jason Everman
 
-**Guitarist. Born 1967-08-16.**
+**Bassist and guitarist. Born Los Angeles, California.**
 
-Jason Everman is an American musician and former US Army Special Forces soldier who had brief but notable stints in two landmark bands. He paid for the recording of Nirvana's debut album *Bleach* (1989) and toured with the band before being dismissed, then briefly joined Soundgarden in 1989–1990. After leaving Soundgarden he reportedly spent time with OLD before enlisting in the US Army, where he served for a decade including deployments in Afghanistan and Iraq.
+Jason Everman is an American rock musician known for his brief tenure as bassist in both Nirvana and Soundgarden during the late 1980s. He played bass for Nirvana before the release of *Bleach* and later appeared on Soundgarden's *Louder Than Love* (1989) as bassist for a short period. After leaving Soundgarden in 1990, he has pursued other musical projects and worked in various capacities in the music industry.
 
 ## Associated Artists
-- [[Artists/N/Nirvana]] – guitar (1989; funded recording of *Bleach*, brief touring member)
-- [[Artists/O/OLD]] – guitar (c.1990)
+
+- [[Artists/N/Nirvana]] – bass (1988–1989)
+- [[Artists/S/Soundgarden]] – bass (1989–1990)
 
 ## Sources
-- Wikipedia
-- Rolling Stone
+
+- [Jason Everman on Wikipedia](https://en.wikipedia.org/wiki/Jason_Everman)
+- [Jason Everman on AllMusic](https://www.allmusic.com/artist/jason-everman-mn0000894066)

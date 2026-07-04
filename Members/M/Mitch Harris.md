@@ -1,21 +1,27 @@
 ---
-real_name: Mitch Harris
+real_name: Mitchell Harris
 also_known_as: 
-birth_date: 
+birth_date: 1969-10-31
 nationality: American
 ---
 
 # Mitch Harris
 
-**Guitarist. American.**
+**Guitarist. Born 1969 in Queens, New York.**
 
-Mitch Harris joined Napalm Death as guitarist in 1990 and has remained central to the band's sound through successive studio albums. His guitar work spans from crushing riffs to technical intricacy, adapting to the band's evolving approach to grindcore and extreme metal.
+Mitchell Harris is an American guitarist who permanently joined Napalm Death in 1989, first appearing on the *Harmony Corruption* album. He has been instrumental in shaping the band's guitar-driven sound through their evolution within grindcore, death metal, and extreme metal. Beyond Napalm Death, Harris participated in the grindcore band Righteous Pigs and collaborated on various side projects including Defecation, Meathook Seed, and Little Giant Drug. In 2020, he founded Brave the Cold, which released the album *Scarcity*.
 
 ## Associated Artists
 
-- [[Artists/N/Napalm Death]] – guitar (1990–present)
+- [[Artists/N/Napalm Death]] – guitar (1989–present)
+- [[Artists/D/Defecation]] – guitar (1980s)
+- [[Artists/R/Righteous Pigs]] – grindcore band
+- [[Artists/M/Meathook Seed]] – side project
+- [[Artists/L/Little Giant Drug]] – side project
+- [[Artists/B/Brave the Cold]] – founder/guitarist (2020–present)
 
 ## Sources
 
 - Wikipedia
-- AllMusic
+- Metal Archives
+- Angry Metal Guy

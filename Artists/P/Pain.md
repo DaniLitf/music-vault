@@ -11,24 +11,25 @@ genre:
 ## Discography
 
 ### Studio Albums
-| Year | Title | Notes |
-|------|-------|-------|
-| 1996 | *Pain* | debut |
-| 1999 | *Rebirth* | |
-| 2002 | *Nothing Remains the Same* | |
-| 2005 | *Dancing with the Dead* | |
-| 2008 | *Cynic Paradise* | |
-| 2011 | *You Only Live Twice* | |
-| 2016 | *Coming Home* | |
-| 2022 | *I Am* | |
+| Year | Title | Producer | Studio |
+|------|-------|----------|--------|
+| 1997 | *Pain* | [[Producers/P/Peter Tägtgren]] | [[Studios/A/The Abyss]] |
+| 1999 | *Rebirth* | [[Producers/P/Peter Tägtgren]] | [[Studios/A/The Abyss]] |
+| 2002 | *Nothing Remains the Same* | [[Producers/P/Peter Tägtgren]] | [[Studios/A/The Abyss]] |
+| 2005 | *Dancing with the Dead* | [[Producers/P/Peter Tägtgren]] | [[Studios/A/The Abyss]] |
+| 2007 | *Psalms of Extinction* | [[Producers/P/Peter Tägtgren]] | [[Studios/A/The Abyss]] |
+| 2008 | *Cynic Paradise* | [[Producers/P/Peter Tägtgren]] | [[Studios/A/The Abyss]] |
+| 2011 | *You Only Live Twice* | [[Producers/P/Peter Tägtgren]] | [[Studios/A/The Abyss]] |
+| 2016 | *Coming Home* | [[Producers/P/Peter Tägtgren]] | [[Studios/A/The Abyss]] |
+| 2024 | *I Am* | [[Producers/P/Peter Tägtgren]] | [[Studios/A/The Abyss]] |
 
 ## Members
 
 ### Core / Official Members
 - [[Members/P/Peter Tägtgren]] — vocals, multi-instrumentalist (1996–present)
 
-### Past Members
-- [[Members/D/David Wallin]] — drums (touring, 2002–2016)
+### Current Touring Band
+- [[Members/D/David Wallin]] — drums (2008–present)
 
 ## Connections
 

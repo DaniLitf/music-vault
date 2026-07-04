@@ -1,19 +1,31 @@
 ---
 real_name: John Thomas Corabi
-birth_date: 1959-04-24
+also_known_as: Johnny Corabi
+birth_date: 1959-04-26
+death_date:
 nationality: American
 ---
 
-# John Corabi
+**Rock vocalist and guitarist. Born April 26, 1959.**
 
-**Vocalist. Born April 24, 1959.**
-
-John Corabi is an American rock vocalist who served as the lead singer of Mötley Crüe during the band's mid-1990s period. Known for his powerful vocal abilities, he brought a different dynamic to the band's sound on their 1994 self-titled album before the original vocalist's return.
+John Corabi is an American hard rock vocalist best known for his tenure as Mötley Crüe's lead singer from 1992 to 1997. After fronting the Los Angeles-based band The Scream in the late 1980s, Corabi was recruited by Mötley Crüe following Vince Neil's departure. He recorded the band's 1994 self-titled album, which reached No. 7 on the Billboard 200 and produced the hit single "Hooligan's Holiday." Though the album was critically respected for its heavier, more elaborate sound, commercial pressures and declining ticket sales led to his departure in 1997 when Mötley Crüe's label demanded Vince Neil's return. Since leaving Mötley Crüe, Corabi has maintained a prolific career as a rock journeyman, collaborating with Union, Ratt, Brides of Destruction, and The Dead Daisies, while also pursuing solo work.
 
 ## Associated Artists
 
-- [[Artists/M/Mötley Crüe]] – vocals (1992–1996)
+- [[Artists/M/Mötley Crüe]] – lead vocals (1992–1997)
+- [[Artists/T/The Scream]] – lead vocals (late 1980s)
+- [[Artists/A/Angora]] – lead vocals
+- [[Artists/U/Union]] – vocals
+- [[Artists/R/Ratt]] – guitar
+- Brides of Destruction – lead vocals
+- The Dead Daisies – lead vocals
+- Angel City Outlaws – vocals
+- Twenty 4 Seven – vocals
+- Zen Lunatic – vocals
+- ESP – vocals/guitar
 
 ## Sources
 
-- Wikipedia
+- [John Corabi - Wikipedia](https://en.wikipedia.org/wiki/John_Corabi)
+- [John Corabi Official Website](https://www.johncorabi.com/bio/)
+- [John Corabi | Mötley Crüe Wiki](https://motley-crue.fandom.com/wiki/John_Corabi)

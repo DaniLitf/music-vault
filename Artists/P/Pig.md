@@ -12,16 +12,27 @@ genre:
 ## Discography
 
 ### Studio Albums
-| Year | Title | Notes |
-|------|-------|-------|
-| 1988 | *A Stroll in the Pork* | debut |
-| 1990 | *Praise the Lard* | |
-| 1992 | *Bonekraft* | |
-| 1996 | *Wrecked* | |
-| 1999 | *The Swining* | |
-| 2004 | *Sinsation* | |
-| 2017 | *The Gospel* | |
-| 2021 | *Risen* | |
+| Year | Title | Producer | Studio | Notes |
+|------|-------|----------|--------|-------|
+| 1988 | *A Stroll in the Pork* | Raymond Watts | — | debut |
+| 1991 | *Praise the Lard* | Raymond Watts, Jon Caffery | — | |
+| 1993 | *The Swining* | Raymond Watts | — | originally Japan release |
+| 1995 | *Sinsation* | Raymond Watts | Ranch Apocalypse, London | |
+| 1996 | *Wrecked* | Raymond Watts, Giles Littlefield, Julian Beeston, Rob Henry | — | |
+| 2016 | *The Gospel* | Raymond Watts, Z. Marr | Los Angeles, Atlanta, London, Berlin, Singapore | |
+| 2018 | *Risen* | Raymond Watts | Ranch Apocalypse, London | |
+
+### EPs
+
+### Singles
+
+### Live Albums
+
+### Compilations
+
+### Remix Albums
+
+### Splits
 
 ## Members
 

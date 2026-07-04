@@ -14,7 +14,7 @@ genre:
 ### Studio Albums
 | Year | Title | Notes |
 |------|-------|-------|
-| 1989 | *Suck on This* | live debut album |
+| 1989 | *Suck on This* | debut album |
 | 1990 | *Frizzle Fry* | studio debut |
 | 1991 | *Sailing the Seas of Cheese* | breakthrough; "Jerry Was a Race Car Driver" |
 | 1993 | *Pork Soda* | |
@@ -22,7 +22,28 @@ genre:
 | 1997 | *Brown Album* | |
 | 1999 | *Antipop* | |
 | 2011 | *Green Naugahyde* | reunion album |
-| 2014 | *Primus & the Chocolate Factory* | |
+| 2014 | *Primus & the Chocolate Factory with the Fungi Ensemble* | |
+| 2017 | *The Desaturating Seven* | |
+
+### EPs
+| Year | Title | Notes |
+|------|-------|-------|
+| 1992 | *Miscellaneous Debris* | covers EP |
+| 1998 | *Rhinoplasty* | covers EP (Police, XTC, Peter Gabriel) |
+| 2003 | *Animals Should Not Try to Act Like People* | |
+| 2010 | *June 2010 Rehearsal* | |
+| 2022 | *Conspiranoid* | |
+
+### Live Albums
+| Year | Title | Notes |
+|------|-------|-------|
+| 1999 | *Hallucino-Genics* | |
+
+### Compilation Albums
+| Year | Title | Notes |
+|------|-------|-------|
+| 2006 | *They Can't All Be Zingers* | greatest hits; 16 tracks from major label era |
+| 2022 | *The Revenant Juke: A Collection of Fables and Farce* | |
 
 ## Members
 

@@ -1,26 +1,20 @@
 ﻿---
-real name:
-also known as:
-birth date: 1960-09-04
-death date:
+real_name: Kim Thayil
+birth_date: 1960-09-04
 nationality: American
 ---
 
 # Kim Thayil
 
-**Lead guitar. Born September 4, 1960.**
+**Lead guitarist. Born Seattle, Washington.**
 
-Kim Thayil is an American musician best known as the lead guitarist and co-founder of the grunge band [[Artists/S/Soundgarden]]. He is recognised for his distinctive, experimental guitar style and use of alternate tunings.
+Kim Thayil is an American rock guitarist best known as the lead guitarist of Soundgarden since the band's formation in 1984. He was a founding member and key contributor to the band's heavy, psychedelic approach to metal, remaining with the group through both its original run (1984–1997) and reunion era (2010–2017). Thayil has been influential in defining Seattle's grunge sound through his distinctive guitar work.
 
 ## Associated Artists
 
 - [[Artists/S/Soundgarden]] – lead guitar (1984–1997, 2010–2017)
 - [[Artists/0-9/3rd Secret]] – guitar (2021–present)
 - [[Artists/P/Probot]] – guest guitar (2004)
-
-## Biography
-
-Thayil co-founded Soundgarden with singer Chris Cornell and bassist Hiro Yamamoto in 1984. The band became one of the defining acts of the grunge movement, releasing landmark albums such as *Badmotorfinger*, *Superunknown*, and *Down on the Upside*. After Soundgarden's dissolution following Cornell's death in 2017, Thayil joined 3rd Secret in 2021.
 
 ## Sources
 

@@ -13,12 +13,12 @@ nationality: Argentine-American
 Paz Lenchantin is an Argentine-American multi-instrumentalist, known for her work with [[Artists/Z/Zwan]], [[Artists/A/A Perfect Circle]], and [[Artists/P/Pixies]].
 
 ## Associated Artists
-- [[Artists/A/A Perfect Circle]]
-- [[Artists/Z/Zwan]]
-- [[Artists/P/Pixies]]
+- [[Artists/A/A Perfect Circle]] – bass, backing vocals
+- [[Artists/Z/Zwan]] – bass, backing vocals (2002–2003)
+- [[Artists/P/Pixies]] – bass (2014–present)
 
 ## Biography
-Lenchantin joined Zwan in 2002, playing bass and singing backing vocals. She later played with A Perfect Circle and became the bassist for The Pixies from 2013 to 2024.
+Lenchantin is an accomplished multi-instrumentalist who has played with several notable alternative rock bands. She joined Zwan in 2002, playing bass and singing backing vocals. She later played with A Perfect Circle before joining [[Artists/P/Pixies]] as bassist in 2014, replacing Kim Deal.
 
 ## Sources
 - Wikipedia

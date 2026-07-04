@@ -12,6 +12,7 @@ Terence "Geezer" Butler is an English bassist and lyricist best known as a found
 ## Associated Artists
 
 - [[Artists/B/Black Sabbath]] – bass, vocals (founding member)
+- [[Artists/O/Ozzy Osbourne]] – bass (1994–1996)
 
 ## Sources
 

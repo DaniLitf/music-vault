@@ -9,16 +9,20 @@ genre:
 
 **Rammstein are a German industrial metal band formed in Berlin in 1994, one of the best-selling German bands of all time, known for their theatrical live shows with massive pyrotechnics, heavy guitar riffs, and provocative German-language lyrics.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1995 | *Herzeleid* | debut |
-| 1997 | *Sehnsucht* | international breakthrough; "Du Hast" |
-| 2001 | *Mutter* | |
-| 2004 | *Reise, Reise* | |
-| 2005 | *Rosenrot* | |
-| 2009 | *Liebe ist für alle da* | |
-| 2019 | *Rammstein* | first self-titled; worldwide No. 1 |
-| 2022 | *Zeit* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Herzeleid* | 1995 | [[Producers/J/Jacob Hellner]] | [[Studios/P/Polar Studios]] |
+| *Sehnsucht* | 1997 | [[Producers/J/Jacob Hellner]] | [[Studios/T/Temple Studios]] |
+| *Mutter* | 2001 | [[Producers/J/Jacob Hellner]] | [[Studios/P/Polar Studios]] |
+| *Reise, Reise* | 2004 | [[Producers/J/Jacob Hellner]] | [[Studios/E/El Cortijo]] |
+| *Rosenrot* | 2005 | [[Producers/J/Jacob Hellner]] | [[Studios/E/El Cortijo]] |
+| *Liebe ist für alle da* | 2009 | [[Producers/J/Jacob Hellner]] | [[Studios/S/Sonoma Mountain Recording Estate]] |
+| *Rammstein* | 2019 | [[Producers/O/Olsen Involtini]] | [[Studios/L/La Fabrique]] |
+| *Zeit* | 2022 | [[Producers/O/Olsen Involtini]] | [[Studios/L/La Fabrique]] |
 
 ## Members
 
