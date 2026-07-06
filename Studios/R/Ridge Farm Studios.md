@@ -14,6 +14,7 @@ Ridge Farm Studios is a historic recording facility in Surrey, England, known fo
 - [[Artists/O/Ozzy Osbourne]] – *Blizzard of Ozz* (1980)
 - [[Artists/O/Ozzy Osbourne]] – *Diary of a Madman* (1981)
 - [[Artists/O/Ozzy Osbourne]] – *Bark at the Moon* (1983)
+- [[Artists/P/Portishead]] – *Portishead* (1997; tracklaying)
 
 ## Sources
 

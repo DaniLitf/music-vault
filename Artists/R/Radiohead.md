@@ -40,9 +40,14 @@ genre:
 - [[Members/C/Colin Greenwood]] – bass (1985–present)
 - [[Members/P/Philip Selway]] – drums, percussion (1985–present)
 
+### Past Touring & Session Members
+- [[Members/C/Clive Deamer]] – second drums, percussion (2011–present; touring and recording contributor)
+
 ## Connections
 
-Radiohead's five members have remained together throughout their entire career with no lineup changes. Their primary external connections run through Thom Yorke's solo work and Jonny Greenwood's film scoring career, neither of which involve other vault artists as co-members.
+- [[Artists/P/Portishead]] – Clive Deamer (Deamer has been the second touring/recording drummer for Radiohead since 2011, appearing on *A Moon Shaped Pool*)
+
+Radiohead's five core members have remained together throughout their entire career with no lineup changes. Their primary external connections run through Thom Yorke's solo work and Jonny Greenwood's film scoring career.
 
 ## Sources
 - Wikipedia

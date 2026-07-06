@@ -11,14 +11,10 @@
             "id": "896c41b3bb47d9e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progress.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "progress"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Grafvy"
             }
           }
         ]
@@ -185,22 +181,31 @@
   },
   "active": "896c41b3bb47d9e6",
   "lastOpenFiles": [
+    "RecycleBin~95c4.ffs_tmp/Artists/P/Portishead.md",
+    "RecycleBin~95c4.ffs_tmp/Artists/P",
+    "RecycleBin~95c4.ffs_tmp/Artists",
+    "RecycleBin~95c4.ffs_tmp",
+    "Artists/P/Portishead-8121.ffs_tmp",
+    "sync.ffs_lock",
+    "Members/R/Robbie Crane.md",
+    "Members/K/Keri Kelli.md",
+    "Members/B/Bobby Blotzer.md",
+    "Artists/A/Antietam Creek.md",
+    "Artists/A/Antietam Creek-bb1f.ffs_tmp",
+    "Artists/A/Angel City Outlaws.md",
+    "Artists/A/Angel City Outlaws-0f29.ffs_tmp",
+    "RecycleBin~85cf.ffs_tmp/progress.md",
+    "RecycleBin~85cf.ffs_tmp",
+    "progress-8112.ffs_tmp",
+    "Genres/Blackened Death Metal.md",
+    "progress.md",
     "Members/R/Robert Iezzi.md",
     "Members/R/Robert Iezzi-0965.ffs_tmp",
     "RecycleBin~b22e.ffs_tmp/Members/J/John Corabi.md",
-    "RecycleBin~b22e.ffs_tmp/Members/J",
-    "RecycleBin~b22e.ffs_tmp/Members",
-    "Members/J/John Corabi-7a7d.ffs_tmp",
     "Members/J/Jimmy Marchiano.md",
-    "Members/J/Jimmy Marchiano-edaf.ffs_tmp",
     "Members/F/Frank Scimeca.md",
-    "Members/F/Frank Scimeca-2d8a.ffs_tmp",
     "Artists/A/Angora.md",
-    "Artists/A/Angora-ce1d.ffs_tmp",
     "RecycleBin~b22e.ffs_tmp/progress.md",
-    "progress-fb38.ffs_tmp",
-    "RecycleBin~b22e.ffs_tmp",
-    "sync.ffs_lock",
     "Studios/Q/Q Division.md",
     "Studios/F/Fort Apache Studios.md",
     "Studios/T/Townhouse.md",
@@ -211,15 +216,6 @@
     "Studios/R/Ridge Farm Studios.md",
     "Studios/R/RAK Studios.md",
     "Studios/P/Polar Studios.md",
-    "Studios/N/Northwood Sound Studios.md",
-    "Studios/L/La Fabrique.md",
-    "Studios/J/Jim Henson Studios.md",
-    "Studios/G/Gold Tooth Music Studio.md",
-    "Studios/E/Enterprise Studios.md",
-    "Studios/E/Electric Lady Studios.md",
-    "Studios/E/El Cortijo.md",
-    "Studios/D/Downtown Studios.md",
-    "Studios/D/Darth Mader Music.md",
-    "Studios/A/The Abyss.md"
+    "Studios/N/Northwood Sound Studios.md"
   ]
 }

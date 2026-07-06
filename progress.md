@@ -2,12 +2,12 @@
 
 ## Artists
 
-> last updated: 2026-07-04T23:45 · unfixed: 122 · last QC position: B/Brave the Cold · session: QC SESSION 4 IN PROGRESS
+> last updated: 2026-07-05T00:08 · unfixed: 120 · last QC position: B/Brave the Cold · session: QC SESSION 4 IN PROGRESS
 
 ### Summary
-- **Total artist entries**: 688 (551 with a page on disk + 137 queued with no page yet)
-- **Fully OK [x]**: 551
-- **Needs fixes [ ]**: 137 (137 queued/no page yet — see below)
+- **Total artist entries**: 688 (552 with a page on disk + 136 queued with no page yet)
+- **Fully OK [x]**: 553
+- **Needs fixes [ ]**: 135 (135 queued/no page yet — see below)
 - **Last updated**: 2026-07-03
 
 Note on "Fully OK": this reflects rows not flagged by a targeted check in this pass or by prior QC marks. It does **not** mean all pages fully satisfy every criterion in the QC checklist — see the Issue Breakdown below. Run the QC workflow page-by-page to convert these into per-row flags.
@@ -753,15 +753,15 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [ ] | R/Ratt | - |
 | [ ] | B/Brides of Destruction | - |
 | [ ] | T/The Dead Daisies | - |
-| [ ] | A/Angel City Outlaws | - |
+| [x] | A/Angel City Outlaws | - |
 | [ ] | T/Twenty 4 Seven | - |
 | [ ] | Z/Zen Lunatic | - |
 | [ ] | E/ESP | - |
-| [ ] | A/Antietam Creek | - |
+| [x] | A/Antietam Creek | - |
 
 ## Members
 
-> last updated: 2026-07-04T23:45 · unfixed: 27
+> last updated: 2026-07-05T00:00 · unfixed: 30
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -1907,6 +1907,9 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Jimmy Marchiano (batch: 2026-07-04T23:45, from: [[Artists/A/Angora]])
 - [ ] Frank Scimeca (batch: 2026-07-04T23:45, from: [[Artists/A/Angora]])
 - [ ] Robert Iezzi (batch: 2026-07-04T23:45, from: [[Artists/A/Angora]])
+- [ ] Bobby Blotzer (batch: 2026-07-05T00:00, from: [[Artists/A/Angel City Outlaws]])
+- [ ] Robbie Crane (batch: 2026-07-05T00:00, from: [[Artists/A/Angel City Outlaws]])
+- [ ] Keri Kelli (batch: 2026-07-05T00:00, from: [[Artists/A/Angel City Outlaws]])
 
 ## Producers
 
