@@ -29,10 +29,14 @@ Gabriel co-founded Genesis at Charterhouse School in 1967 and fronted the band t
 
 Peter Gabriel was primarily a solo artist — see [[Members/P/Peter Gabriel]] for biography. He was the founding lead vocalist of [[Artists/G/Genesis]] from 1967 to 1975.
 
+### Past Touring & Session Members
+- [[Members/J/Jim Barr]] — session bass
+
 ## Connections
 
 - [[Artists/G/Genesis]] – founding lead vocalist and principal lyricist (1967–1975)
 - [[Artists/K/Kate Bush]] – duet partner on "Don't Give Up" (*So*, 1986)
+- [[Artists/P/Portishead]] – Jim Barr (Barr has played session bass for Gabriel)
 
 ## Sources
 - Wikipedia

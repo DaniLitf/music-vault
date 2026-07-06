@@ -28,7 +28,7 @@ genre:
 
 ## Connections
 
-No confirmed shared-member connections to other vault artists.
+- [[Artists/P/Portishead]] – Jim Barr, John Baggott (both Barr and Baggott have performed with Massive Attack as session musicians)
 
 ## Sources
 - Wikipedia

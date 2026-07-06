@@ -40,15 +40,15 @@ Portishead emerged from Bristol's fertile post-rave scene in the early 1990s, bl
 ### Past Touring & Session Members
 - [[Members/C/Clive Deamer]] — drums, percussion (1994–present; live and session contributor)
 - [[Members/D/Dave McDonald]] — audio engineering, production (1991–1997; sometimes regarded as the fourth member)
-- Andy Smith — turntables, DJ (live performances)
-- Jim Barr — bass (live performances)
-- John Baggott — keyboards (live performances)
+- [[Members/A/Andy Smith]] — turntables, DJ (live performances)
+- [[Members/J/Jim Barr]] — bass (live performances)
+- [[Members/J/John Baggott]] — keyboards (live performances)
 
 ## Connections
 
 - [[Artists/R/Radiohead]] – Clive Deamer (Deamer has been the second touring/recording drummer for Radiohead alongside Philip Selway since 2011, appearing on their album *A Moon Shaped Pool*)
-- [[Artists/M/Massive Attack]] – Shared Bristol scene (no shared members, but both foundational to the trip-hop sound)
-- [[Artists/T/Tricky]] – Shared Bristol scene (no shared members)
+- [[Artists/P/Peter Gabriel]] – Jim Barr (Barr has played session bass for Peter Gabriel)
+- [[Artists/M/Massive Attack]] – Jim Barr, John Baggott (both Barr and Baggott have performed with Massive Attack as session musicians)
 
 ## Sources
 - [Wikipedia – Portishead (band)](https://en.wikipedia.org/wiki/Portishead_(band))
