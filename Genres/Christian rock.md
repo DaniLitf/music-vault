@@ -1,6 +1,6 @@
-# Alternative rock
+# Christian rock
 
-Genre of rock music that emerged from the independent music underground of the 1970s and became widely popular in the 1990s.
+Rock music with Christian lyrical themes and worldview.
 
 ```dataviewjs
 const genre = dv.current().file.name;

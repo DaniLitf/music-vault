@@ -1,6 +1,6 @@
-# Alternative rock
+# Noise Pop
 
-Genre of rock music that emerged from the independent music underground of the 1970s and became widely popular in the 1990s.
+A genre of alternative rock that combines the melodic sensibilities of pop with the distorted guitars and feedback of noise rock.
 
 ```dataviewjs
 const genre = dv.current().file.name;

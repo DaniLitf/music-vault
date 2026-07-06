@@ -1,6 +1,6 @@
-# Alternative rock
+# R&B
 
-Genre of rock music that emerged from the independent music underground of the 1970s and became widely popular in the 1990s.
+A genre of popular music that originated in African-American communities in the 1940s, blending jazz, gospel, and blues influences into soulful, rhythm-driven songcraft.
 
 ```dataviewjs
 const genre = dv.current().file.name;

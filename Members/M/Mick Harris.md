@@ -7,15 +7,21 @@ nationality: British
 
 # Mick Harris
 
-**Mick Harris is a British drummer and electronic musician, the founding drummer of Napalm Death, a brief early member of Carcass, and creator of the ambient/drone project Scorn.**
+**Drummer and electronic musician. Born 1966 in Birmingham, England.**
 
-He developed the blastbeat technique foundational to grindcore and death metal, before pivoting to electronic and dub music in the 1990s. He also appeared as a guest percussionist with Pigface.
+Mick Harris is a British drummer and electronic musician best known as the founding drummer of Napalm Death, where he developed the blastbeat technique foundational to grindcore and death metal. He later pivoted to ambient, dub, and electronic music with his project Scorn, and has collaborated with artists ranging from John Zorn's PainKiller to Pigface.
 
 ## Associated Artists
-- [[Artists/N/Napalm Death]]
-- [[Artists/C/Carcass]]
-- [[Artists/P/Pigface]]
+
+- [[Artists/N/Napalm Death]] – drums (1985–1991)
+- [[Artists/D/Defecation]] – drums, vocals (1987–1989)
+- [[Artists/C/Carcass]] – drums (early member)
+- [[Artists/P/Pigface]] – guest percussionist
+- [[Artists/E/Extreme Noise Terror]] – drums
+- [[Artists/S/Scorn]] – founder
 
 ## Sources
+
 - Wikipedia
 - Metal Archives
+- AllMusic

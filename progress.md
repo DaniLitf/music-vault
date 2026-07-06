@@ -2,7 +2,7 @@
 
 ## Artists
 
-> last updated: 2026-07-06T12:00 · unfixed: 119 · last QC position: P/Portishead · session: QC SESSION 4 IN PROGRESS
+> last updated: 2026-07-06T13:00 · unfixed: 117 · last QC position: D/Defecation · session: QC SESSION 4 IN PROGRESS
 
 ### Summary
 - **Total artist entries**: 688 (552 with a page on disk + 136 queued with no page yet)
@@ -406,7 +406,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | P/Powerwolf | - |
 | [x] | P/Primal Scream | - |
 | [x] | P/Primus | - |
-| [ ] | P/Prince | discography |
+| [x] | P/Prince | - |
 | [x] | P/Probot | - |
 | [x] | P/Project One | - |
 | [x] | P/Propellerheads | - |
@@ -737,7 +737,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | A/Agnostic Front | - |
 | [x] | S/Sinsaenum | - |
 | [x] | B/Brave the Cold | - |
-| [ ] | D/Defecation | - |
+| [x] | D/Defecation | - |
 | [ ] | T/The Lassie Foundation | - |
 | [ ] | T/The Violet Burning | - |
 | [ ] | H/Hatrix | - |
@@ -758,10 +758,14 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [ ] | Z/Zen Lunatic | - |
 | [ ] | E/ESP | - |
 | [x] | A/Antietam Creek | - |
+| [ ] | M/Madhouse | - |
+| [ ] | N/New Power Generation | - |
+| [ ] | T/The Revolution | - |
+| [ ] | T/The Time | - |
 
 ## Members
 
-> last updated: 2026-07-06T12:00 · unfixed: 35
+> last updated: 2026-07-06T13:00 · unfixed: 36
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -1915,10 +1919,11 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] John Baggott (batch: 2026-07-06T12:00, from: [[Artists/P/Portishead]])
 - [ ] Andy Smith (batch: 2026-07-06T12:00, from: [[Artists/P/Portishead]])
 - [ ] Dave McDonald (batch: 2026-07-06T12:00, from: [[Artists/P/Portishead]])
+- [ ] Danny Lilker (batch: 2026-07-06T13:00, from: [[Artists/D/Defecation]])
 
 ## Producers
 
-> last updated: 2026-07-06T12:00 · unfixed: 20
+> last updated: 2026-07-06T13:00 · unfixed: 21
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -2115,3 +2120,4 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Hiro Yamamoto (batch: 2026-07-04T22:00, from: [[Artists/S/Soundgarden]])
 - [ ] Logan Mader (batch: 2026-07-04T11:45, from: [[Artists/B/Brave the Cold]])
 - [ ] Dave McDonald (batch: 2026-07-06T12:00, from: [[Artists/P/Portishead]])
+- [ ] Danny Lilker (batch: 2026-07-06T13:00, from: [[Artists/D/Defecation]])

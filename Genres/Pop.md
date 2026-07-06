@@ -1,6 +1,6 @@
-# Alternative rock
+# Pop
 
-Genre of rock music that emerged from the independent music underground of the 1970s and became widely popular in the 1990s.
+A broad genre of popular music that originated in its modern form in the 1950s, characterized by catchy melodies, verse-chorus structures, and broad commercial appeal.
 
 ```dataviewjs
 const genre = dv.current().file.name;

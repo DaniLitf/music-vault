@@ -1,6 +1,6 @@
-# Alternative rock
+# Indie Pop
 
-Genre of rock music that emerged from the independent music underground of the 1970s and became widely popular in the 1990s.
+A genre of alternative pop music that emphasizes melodic songcraft and a DIY aesthetic, originating from the indie music scene.
 
 ```dataviewjs
 const genre = dv.current().file.name;
