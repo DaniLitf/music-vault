@@ -10,6 +10,7 @@ Gian Pyres is an Italian guitarist best known for his work as second guitarist w
 ## Associated Artists
 
 - [[Artists/C/Cradle of Filth]] – guitar (1998–2002)
+- [[Artists/E/Extreme Noise Terror]] – lead guitar (1999–2005)
 
 ## Sources
 

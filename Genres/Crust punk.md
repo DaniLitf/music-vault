@@ -1,6 +1,6 @@
-# Death metal
+# Crust punk
 
-Extreme metal subgenre characterized by heavily distorted guitars, deep growling vocals, blast beats, and dark lyrical themes. Originating in the mid-1980s, it became one of the most prominent extreme metal styles worldwide.
+Anarchist-influenced punk subgenre that emerged in the mid-1980s, combining hardcore punk with heavy metal elements. Known for its raw, abrasive sound, dual vocalists, and politically charged lyrics.
 
 ```dataviewjs
 const genre = dv.current().file.name;
