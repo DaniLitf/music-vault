@@ -35,6 +35,7 @@ genre:
 ## Connections
 
 - [[Artists/M/Methods of Mayhem]] — Tommy Lee founded Methods of Mayhem during his departure from Mötley Crüe.
+- [[Artists/B/Brides of Destruction]] – Nikki Sixx, John Corabi (Sixx co-founded Brides in 2002; Corabi played rhythm guitar 2002–2003)
 
 ## Sources
 - Wikipedia

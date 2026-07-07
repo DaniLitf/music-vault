@@ -1,6 +1,6 @@
-# Hard Rock
+# Hard rock
 
-Rock music characterized by aggressive vocals, distorted guitars, powerful drumming, and blues-influenced riffs.
+Hard rock is a genre of rock music characterized by heavy use of distorted electric guitars, bass guitar, and drums, often with aggressive vocals. It originated in the mid-1960s with bands like the Kinks, the Who, and Led Zeppelin.
 
 ```dataviewjs
 const genre = dv.current().file.name;

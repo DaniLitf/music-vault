@@ -18,6 +18,7 @@ Brent Fitz is a Canadian drummer and multi-instrumentalist best known as the dru
 - [[Artists/S/Slash]] – drums (2010–present)
 - [[Artists/A/Alice Cooper]] – drums (touring)
 - [[Artists/V/Vince Neil]] – drums (touring)
+- [[Artists/T/The Dead Daisies]] – drums (2025)
 
 ## Sources
 

@@ -14,6 +14,9 @@ Shane Thomas Embury is the longest-serving member and bassist of the English gri
 ## Associated Artists
 
 - [[Artists/N/Napalm Death]] – bass (1987–present)
+- [[Artists/L/Little Giant Drug]] – bass (1996–1998)
+- [[Artists/D/Defecation]] – bass
+- [[Artists/M/Meathook Seed]] – bass, samples (1999)
 
 ## Sources
 

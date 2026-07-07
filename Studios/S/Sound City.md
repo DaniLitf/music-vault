@@ -1,18 +1,16 @@
 ---
-location: Van Nuys, California
-active_years: 1969–2007
+location: Los Angeles, California, USA
+active_years: 1969–present
 ---
 
 # Sound City
 
-**Recording studio. Van Nuys, California.**
+**Recording studio. Los Angeles, California, USA.**
 
-Sound City was a legendary recording studio in Van Nuys, California, known for recording numerous classic rock and alternative rock albums. The studio was a favorite among bands seeking high-quality recording facilities and innovative production techniques.
+Sound City is a legendary recording studio located in Van Nuys, Los Angeles, California. It is renowned for its vintage Neve 8028 console and the distinct sound achieved by the many iconic rock and metal albums recorded there.
 
 ## Albums Recorded Here
-
-- [[Artists/N/Nirvana]] – *Nevermind* (1991)
+- [[Artists/R/Ratt]] – *Out of the Cellar* (1984)
 
 ## Sources
-
-- Wikipedia
+- Wikipedia – [Sound City Studios](https://en.wikipedia.org/wiki/Sound_City_Studios)

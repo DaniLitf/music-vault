@@ -13,6 +13,7 @@ Glenn Hughes is an English musician renowned for his funk-inspired bass playing 
 - [[Artists/T/Trapeze]] – bass, vocals
 - [[Artists/D/Deep Purple]] – bass, vocals (1973–1976)
 - [[Artists/B/Black Sabbath]] – vocals (mid-1980s)
+- [[Artists/T/The Dead Daisies]] – lead vocals, bass (2019–2023)
 
 ## Sources
 

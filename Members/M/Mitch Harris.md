@@ -15,8 +15,8 @@ Mitchell Harris is an American guitarist who permanently joined Napalm Death in 
 
 - [[Artists/N/Napalm Death]] – guitar (1989–present)
 - [[Artists/D/Defecation]] – guitar (1980s)
-- [[Artists/R/Righteous Pigs]] – grindcore band
-- [[Artists/M/Meathook Seed]] – side project
+- [[Artists/R/Righteous Pigs]] – guitar (1986–1989)
+- [[Artists/M/Meathook Seed]] – guitars, bass, programming (1992–1993, 1999)
 - [[Artists/L/Little Giant Drug]] – side project
 - [[Artists/B/Brave the Cold]] – founder/guitarist (2020–present)
 

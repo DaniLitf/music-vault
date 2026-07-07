@@ -13,7 +13,7 @@ Bobby Blotzer is an American drummer best known as the longtime drummer for the 
 ## Associated Artists
 
 - [[Artists/A/Angel City Outlaws]] – drums (2005–2006)
-- [[Artists/R/Ratt]] – drums (1982–present)
+- [[Artists/R/Ratt]] – drums (1982–1992, 1996–2014)
 
 ## Sources
 

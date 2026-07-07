@@ -1,6 +1,6 @@
-# Glam Metal
+# Glam metal
 
-A commercially-oriented heavy metal subgenre from the 1980s combining flashy visual style with catchy hooks, guitar virtuosity, and power ballads.
+Glam metal (also known as hair metal or pop metal) is a subgenre of heavy metal combining the hard rock and heavy metal sound with elements of pop music and an androgynous visual aesthetic inspired by glam rock. It flourished on the Los Angeles Sunset Strip scene in the 1980s.
 
 ```dataviewjs
 const genre = dv.current().file.name;

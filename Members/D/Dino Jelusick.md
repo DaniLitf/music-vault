@@ -15,6 +15,7 @@ Dino Jelusick is a Croatian musician and vocalist known for his work as keyboard
 ## Associated Artists
 - [[Artists/W/Whitesnake]] – keyboards, backing vocals (2021–present)
 - [[Artists/A/Animal Drive]] – vocals, keyboards, guitar (2012–2021)
+- [[Artists/T/The Dead Daisies]] – lead vocals (2022)
 
 ## Sources
 - Wikipedia

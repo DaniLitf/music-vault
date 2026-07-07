@@ -55,6 +55,7 @@ genre:
 - [[Artists/G/Godflesh]] — Justin Broadrick was an early guitarist in Napalm Death before founding Godflesh.
 - [[Artists/J/Jesu]] — Justin Broadrick's post-Godflesh project; he was first an early member of Napalm Death.
 - [[Artists/O/OLD]] — Mick Harris, Napalm Death's drummer 1985–1991, co-founded OLD after leaving.
+- [[Artists/M/Meathook Seed]] — Mitch Harris and Shane Embury both participated in this industrial metal side project.
 
 ## Sources
 - Wikipedia

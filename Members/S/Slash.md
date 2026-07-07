@@ -16,6 +16,7 @@ Slash is an British-American musician. Born as Saul Hudson.
 
 - [[Artists/G/Guns N' Roses]] – lead guitar (1985–1996, 2016–present)
 - [[Artists/V/Velvet Revolver]] – lead guitar (2002–2008)
+- [[Artists/T/The Dead Daisies]] – lead guitar (2013 session)
 
 ## Biography
 

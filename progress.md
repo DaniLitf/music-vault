@@ -2,13 +2,13 @@
 
 ## Artists
 
-> last updated: 2026-07-06T13:00 · unfixed: 117 · last QC position: D/Defecation · session: QC SESSION 4 IN PROGRESS
+> last updated: 2026-07-07T04:00 · unfixed: 159 · last QC position: R/Righteous Pigs
 
 ### Summary
-- **Total artist entries**: 688 (552 with a page on disk + 136 queued with no page yet)
-- **Fully OK [x]**: 553
-- **Needs fixes [ ]**: 135 (135 queued/no page yet — see below)
-- **Last updated**: 2026-07-03
+- **Total artist entries**: 769 (714 with a page on disk + 55 queued with no page yet)
+- **Fully OK [x]**: 714
+- **Needs fixes [ ]**: 54 (54 queued/no page yet — see below)
+- **Last updated**: 2026-07-07
 
 Note on "Fully OK": this reflects rows not flagged by a targeted check in this pass or by prior QC marks. It does **not** mean all pages fully satisfy every criterion in the QC checklist — see the Issue Breakdown below. Run the QC workflow page-by-page to convert these into per-row flags.
 
@@ -738,20 +738,20 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | S/Sinsaenum | - |
 | [x] | B/Brave the Cold | - |
 | [x] | D/Defecation | - |
-| [ ] | T/The Lassie Foundation | - |
-| [ ] | T/The Violet Burning | - |
-| [ ] | H/Hatrix | - |
-| [ ] | P/Purgatory | - |
-| [ ] | B/Benediction | - |
-| [ ] | E/Extreme Noise Terror | - |
-| [ ] | T/The Scream | - |
+| [x] | T/The Lassie Foundation | - |
+| [x] | T/The Violet Burning | - |
+| [x] | H/Hatrix | - |
+| [x] | P/Purgatory | - |
+| [x] | B/Benediction | - |
+| [x] | E/Extreme Noise Terror | - |
+| [x] | T/The Scream | - |
 | [x] | A/Angora | - |
-| [ ] | U/Union | - |
-| [ ] | L/Little Giant Drug | - |
-| [ ] | M/Meathook Seed | - |
-| [ ] | R/Righteous Pigs | - |
-| [ ] | R/Ratt | - |
-| [ ] | B/Brides of Destruction | - |
+| [x] | U/Union | - |
+| [x] | L/Little Giant Drug | - |
+| [x] | M/Meathook Seed | - |
+| [x] | R/Righteous Pigs | - |
+| [x] | R/Ratt | - |
+| [x] | B/Brides of Destruction | - |
 | [ ] | T/The Dead Daisies | - |
 | [x] | A/Angel City Outlaws | - |
 | [ ] | T/Twenty 4 Seven | - |
@@ -762,10 +762,52 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [ ] | N/New Power Generation | - |
 | [ ] | T/The Revolution | - |
 | [ ] | T/The Time | - |
-
+| [ ] | T/The Prayer Chain | - |
+| [ ] | S/Starflyer 59 | - |
+| [ ] | C/Cush | - |
+| [ ] | E/Exploding Flowers | - |
+| [ ] | D/Duraluxe | - |
+| [ ] | I/Integrity | - |
+| [ ] | T/Trëllebörg | - |
+| [ ] | C/Centurion | - |
+| [ ] | H/Hollow (band) | - |
+| [ ] | K/Kriadiaz | - |
+| [ ] | S/Sacred Few | - |
+| [ ] | R/Rotterdam | - |
+| [ ] | C/Captured | - |
+| [ ] | W/White Heat | - |
+| [ ] | C/Chaos UK | - |
+| [ ] | D/Desecration | - |
+| [ ] | D/Discharge | - |
+| [ ] | D/Doom (British band) | - |
+| [ ] | D/Driller Killer (band) | - |
+| [ ] | G/Gorerotted | - |
+| [ ] | P/Phobia (band) | - |
+| [ ] | S/Scorn | - |
+| [ ] | T/The Dwarves | - |
+| [ ] | T/The Featherz | - |
+| [ ] | T/The Rotted | - |
+| [ ] | T/Tigertailz | - |
+| [ ] | T/To-Mera | - |
+| [ ] | T/Trap Them | - |
+| [ ] | D/Dashboard Mary | - |
+| [ ] | D/DC-10 | - |
+| [ ] | J/Judas Priest | - |
+| [ ] | R/Racer X | - |
+| [ ] | S/Shark Island | - |
+| [ ] | K/KISS | - |
+| [ ] | G/Grand Funk Railroad | - |
+| [ ] | S/Slash | - |
+| [ ] | A/Alice Cooper | - |
+| [ ] | V/Vince Neil | - |
+| [ ] | D/David Lee Roth | - |
+| [ ] | E/Eddie Money | - |
+| [ ] | O/Obituary | - |
+| [ ] | L/L.A. Guns | - |
+ 
 ## Members
 
-> last updated: 2026-07-06T13:00 · unfixed: 36
+> last updated: 2026-07-07T04:00 · unfixed: 207
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -1920,10 +1962,163 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Andy Smith (batch: 2026-07-06T12:00, from: [[Artists/P/Portishead]])
 - [ ] Dave McDonald (batch: 2026-07-06T12:00, from: [[Artists/P/Portishead]])
 - [ ] Danny Lilker (batch: 2026-07-06T13:00, from: [[Artists/D/Defecation]])
-
+- [ ] Michael J. Pritzl (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Lenny Beh (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Daryl Dawson (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Chris Buelow (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Kevin Buhler (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Paul Stebner (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Michael Misiuk (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Kirt Gentry (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Lonnie Tubbs (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Scott Tubbs (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Shawn Tubbs (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Andrew Prickett (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Jason Pickersgill (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Herb Grimaud Jr. (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Michael Kalmar (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Glen Pearce (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Robbie Farr (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] David Archuletta II (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Eddie Fisher (musician) (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] James Banuelos (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Melissa Barnett (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Jamie Record (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Daniel Dupuis (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Gabriel Wilson (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Sam West (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Douglas Heckman (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Jason Lord Mize (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Larry Salzman (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Ben Pasketti (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Joel Zwanziger (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Josiah Sherman (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Susan Costantini Green (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Chris Greely (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Matt Payne (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Eleanor Beh (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Danny Ponce (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Charles Maynes (batch: 2026-07-06T13:50, from: [[Artists/T/The Violet Burning]])
+- [ ] Kevin Skelly (batch: 2026-07-06T14:15, from: [[Artists/H/Hatrix]])
+- [ ] Dave Felton (batch: 2026-07-06T14:15, from: [[Artists/H/Hatrix]])
+- [ ] Marko Vukcevich (batch: 2026-07-06T14:15, from: [[Artists/H/Hatrix]])
+- [ ] Gary Estok (batch: 2026-07-06T14:15, from: [[Artists/H/Hatrix]])
+- [ ] Sam Romano (batch: 2026-07-06T14:15, from: [[Artists/H/Hatrix]])
+- [ ] John Silver (batch: 2026-07-06T14:30, from: [[Artists/G/Genesis]])
+- [ ] Mick Barnard (batch: 2026-07-06T14:30, from: [[Artists/G/Genesis]])
+- [ ] Tim Renwick (batch: 2026-07-06T14:30, from: [[Artists/G/Genesis]])
+- [ ] Gary Wallis (batch: 2026-07-06T14:30, from: [[Artists/G/Genesis]])
+- [ ] Nir Zidkyahu (batch: 2026-07-06T14:30, from: [[Artists/G/Genesis]])
+- [ ] Anthony Drennan (batch: 2026-07-06T14:30, from: [[Artists/G/Genesis]])
+- [ ] Daniel Pearce (batch: 2026-07-06T14:30, from: [[Artists/G/Genesis]])
+- [ ] Patrick Smyth (batch: 2026-07-06T14:30, from: [[Artists/G/Genesis]])
+- [ ] Ronnie Caryl (batch: 2026-07-06T14:30, from: [[Artists/G/Genesis]])
+- [ ] Chris Manning (batch: 2026-07-06T14:30, from: [[Artists/J/Jellyfish]])
+- [ ] Tim Smith (batch: 2026-07-06T14:30, from: [[Artists/J/Jellyfish]])
+- [ ] Troy "Boy" Petrey (batch: 2026-07-06T14:30, from: [[Artists/J/Jubilee]])
+- [ ] Mike Shinoda (batch: 2026-07-06T14:30, from: [[Artists/L/Linkin Park]])
+- [ ] Brad Delson (batch: 2026-07-06T14:30, from: [[Artists/L/Linkin Park]])
+- [ ] Phoenix (batch: 2026-07-06T14:30, from: [[Artists/L/Linkin Park]])
+- [ ] Joe Hahn (batch: 2026-07-06T14:30, from: [[Artists/L/Linkin Park]])
+- [ ] Rob Bourdon (batch: 2026-07-06T14:30, from: [[Artists/L/Linkin Park]])
+- [ ] Joe Gaal (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] John Sekula (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Richie Moore (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Joe Kilcoyne (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Joe Lenkey (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Jack Kilcoyne (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Daniel Fox (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Robert Godsey (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Tommy Church (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Tom Shaffner (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Aydin Kerr (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Simon Kanaris (batch: 2026-07-06T14:30, from: [[Artists/M/Mushroomhead]])
+- [ ] Douglas McCarthy (batch: 2026-07-06T14:30, from: [[Artists/N/Nitzer Ebb]])
+- [ ] Bon Harris (batch: 2026-07-06T14:30, from: [[Artists/N/Nitzer Ebb]])
+- [ ] David Gooday (batch: 2026-07-06T14:30, from: [[Artists/N/Nitzer Ebb]])
+- [ ] Gerold "Stiv" Phelps (batch: 2026-07-06T14:30, from: [[Artists/W/Wasted Youth]])
+- [ ] Darren Brookes (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Peter Rew (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Dave Ingram (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Giovanni Durst (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Ian Treacy (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Paul Adams (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Frank Healy (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Neil Hutton (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Dave Hunt (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Nick Barker (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Perra Karlsson (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Ashley Guest (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Dan Bate (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Nik Sampson (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Paul Brookes (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Oscar Rilo (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Dean Jones (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Ollie Jones (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Michael Hourihan (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Ben McCrow (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Dicky Moore (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Phil Vane (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Pete Hurley (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Jerry Clay (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Pig Killer (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Tony Dickens (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Mark Gardener (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Peter Nash (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Spit (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Mark Bailey (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Si Brown (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Lee Barrett (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] William Sarginson (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Ali Firouzbakht (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Zac O'Neil (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Manny Cooke (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Jose Kurt (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Adam Catchpole (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Stafford Glover (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Paul Woodfield (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Andi Morris (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Chris Casket (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Roman Matuszewski (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Barney Monger (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] John Loughlin (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] John Corabi (batch: 2026-07-06T16:30, from: [[Artists/T/The Scream]])
+- [ ] Bruce Bouillet (batch: 2026-07-06T16:30, from: [[Artists/T/The Scream]])
+- [ ] Juan Alderete (batch: 2026-07-06T16:30, from: [[Artists/T/The Scream]])
+- [ ] Scott Travis (batch: 2026-07-06T16:30, from: [[Artists/T/The Scream]])
+- [ ] Walt Woodward III (batch: 2026-07-06T16:30, from: [[Artists/T/The Scream]])
+- [ ] Billy Fogarty (batch: 2026-07-06T16:30, from: [[Artists/T/The Scream]])
+- [ ] Bruce Kulick (batch: 2026-07-06T17:30, from: [[Artists/U/Union]])
+- [ ] Brent Fitz (batch: 2026-07-06T17:30, from: [[Artists/U/Union]])
+- [ ] Jamie Hunting (batch: 2026-07-06T17:30, from: [[Artists/U/Union]])
+- [ ] Simon Orme (batch: 2026-07-06T18:14, from: [[Artists/L/Little Giant Drug]])
+- [ ] Donald Tardy (batch: 2026-07-06T23:50, from: [[Artists/M/Meathook Seed]])
+- [ ] Trevor Peres (batch: 2026-07-06T23:50, from: [[Artists/M/Meathook Seed]])
+- [ ] Christophe Lamouret (batch: 2026-07-06T23:50, from: [[Artists/M/Meathook Seed]])
+- [ ] Steve Guney (batch: 2026-07-06T23:50, from: [[Artists/M/Meathook Seed]])
+- [ ] Russ Russell (batch: 2026-07-06T23:50, from: [[Artists/M/Meathook Seed]])
+- [ ] Joe Caper (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
+- [ ] Stephen Chiatovich (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
+- [ ] Scott Leonard (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
+- [ ] Greg Falzone (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
+- [ ] Alan Strong (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
+- [ ] Alex Marquez (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
+- [ ] Stephen Pearcy (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
+- [ ] Warren DeMartini (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
+- [ ] Robbin Crosby (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
+- [ ] Juan Croucier (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
+- [ ] Tracii Guns (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+- [ ] London LeGrand (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+- [ ] Kris Kohls (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+- [ ] Adam Hamilton (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+- [ ] Scot Coogan (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+- [ ] Scott Sorry (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+- [ ] Ginger Wildheart (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+- [ ] Jeremy Guns (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+    
 ## Producers
 
-> last updated: 2026-07-06T13:00 · unfixed: 21
+> last updated: 2026-07-07T04:00 · unfixed: 37
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -2121,3 +2316,38 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Logan Mader (batch: 2026-07-04T11:45, from: [[Artists/B/Brave the Cold]])
 - [ ] Dave McDonald (batch: 2026-07-06T12:00, from: [[Artists/P/Portishead]])
 - [ ] Danny Lilker (batch: 2026-07-06T13:00, from: [[Artists/D/Defecation]])
+- [ ] Eric Campuzano (batch: 2026-07-06T13:30, from: [[Artists/T/The Lassie Foundation]])
+- [ ] Wayne Everett (batch: 2026-07-06T13:30, from: [[Artists/T/The Lassie Foundation]])
+- [ ] Frank Lenz (batch: 2026-07-06T13:30, from: [[Artists/T/The Lassie Foundation]])
+- [ ] Happy Tsugawa-Banta (batch: 2026-07-06T13:30, from: [[Artists/T/The Lassie Foundation]])
+- [ ] Joel Patterson (batch: 2026-07-06T13:30, from: [[Artists/T/The Lassie Foundation]])
+- [ ] Jason 71 (batch: 2026-07-06T13:30, from: [[Artists/T/The Lassie Foundation]])
+- [ ] "Down Town" David Brown (batch: 2026-07-06T14:15, from: [[Artists/H/Hatrix]])
+- [ ] Mark Alexander (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Kenny Easterly (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Greg Perry (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Randy Gonce (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Frank Romano (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Tony Ross (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Andy Boyer (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Mark Gibbs (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Mike Tucker (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Al Berrios (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Ed Whittingler (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Kenny Easterly Jr. (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Tommy Church (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
+- [ ] Scott Atkins (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Mick Harris (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Paul Johnston (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
+- [ ] Colin Richardson (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
+- [ ] Curt Cuomo (batch: 2026-07-06T17:30, from: [[Artists/U/Union]])
+- [ ] Bob Marlette (batch: 2026-07-06T17:30, from: [[Artists/U/Union]])
+- [ ] Russ Russell (batch: 2026-07-06T23:50, from: [[Artists/M/Meathook Seed]])
+- [ ] Quinton Stevenson (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
+- [ ] Stefan Otto (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
+- [ ] Beau Hill (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
+- [ ] Sir Arthur Payson (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
+- [ ] Richie Zito (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
+- [ ] Michael Elvis Baskette (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
+- [ ] Stevo Bruno (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+- [ ] Andy Johns (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])

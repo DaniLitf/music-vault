@@ -1,7 +1,7 @@
 ---
 genre:
-  - Hard rock
-  - Heavy metal
+  - Hard Rock
+  - Heavy Metal
 also_known_as:
 ---
 
