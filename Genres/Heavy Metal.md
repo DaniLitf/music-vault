@@ -1,6 +1,6 @@
 # Heavy metal
 
-Heavy metal is a genre of rock music that developed in the late 1960s and early 1970s, characterized by loud distorted guitars, emphatic rhythms, and a strong, driving sound.
+Heavy metal is a genre of rock music that developed in the late 1960s and early 1970s, characterized by thick, massive sound, distorted guitars, extended guitar solos, emphatic beats, and overall loudness.
 
 ```dataviewjs
 const genre = dv.current().file.name;

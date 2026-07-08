@@ -6,7 +6,16 @@
     "preset": "starter"
   },
   "authorizedRoots": [
-    "G:\\Min enhet\\obs\\music-vault"
+    "D:\\Obsidian\\music\\music-vault"
+  ],
+  "model": "ollama/gemma4:12b",
+  "providers": [
+    {
+      "id": "ollama",
+      "name": "Ollama",
+      "baseUrl": "http://localhost:11434/v1",
+      "apiKey": "ollama"
+    }
   ],
   "reload": null
 }

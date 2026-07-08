@@ -10,6 +10,8 @@ Once an entry has been fully processed through its workflow, remove its line fro
 
 ## Artists
 
+2 unlimited
+
 <!-- One artist/band name per line. Processed via Workflow 1: New Artist. -->
 
 ## Members

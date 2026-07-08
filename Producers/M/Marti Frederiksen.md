@@ -14,6 +14,7 @@ Marti Frederiksen is an American songwriter and record producer known for his wo
 
 ## Associated Projects
 
+- [[Artists/V/Vince Neil]] – *Tattoos & Tequila* (2010)
 - [[Artists/T/The Dead Daisies]] – *Make Some Noise* (2016), *Burn It Down* (2018), *Light 'Em Up* (2024)
 
 ## Sources

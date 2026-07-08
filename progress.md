@@ -2,13 +2,13 @@
 
 ## Artists
 
-> last updated: 2026-07-07T04:00 · unfixed: 159 · last QC position: R/Righteous Pigs
+> last updated: 2026-07-08T10:00 · unfixed: 162 · last QC position: T/The Prayer Chain
 
 ### Summary
-- **Total artist entries**: 769 (714 with a page on disk + 55 queued with no page yet)
-- **Fully OK [x]**: 714
-- **Needs fixes [ ]**: 54 (54 queued/no page yet — see below)
-- **Last updated**: 2026-07-07
+- **Total artist entries**: 778 (719 with a page on disk + 59 queued with no page yet)
+- **Fully OK [x]**: 719
+- **Needs fixes [ ]**: 59 (59 queued/no page yet — see below)
+- **Last updated**: 2026-07-08
 
 Note on "Fully OK": this reflects rows not flagged by a targeted check in this pass or by prior QC marks. It does **not** mean all pages fully satisfy every criterion in the QC checklist — see the Issue Breakdown below. Run the QC workflow page-by-page to convert these into per-row flags.
 
@@ -36,6 +36,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | Status | Path | Issues |
 |--------|------|--------|
 | [x] | 0-9/12 Rounds | - |
+
 | [x] | 0-9/1900 | - |
 | [x] | 0-9/1914 | - |
 | [x] | 0-9/30 Seconds to Mars | - |
@@ -752,17 +753,17 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | R/Righteous Pigs | - |
 | [x] | R/Ratt | - |
 | [x] | B/Brides of Destruction | - |
-| [ ] | T/The Dead Daisies | - |
+| [x] | T/The Dead Daisies | - |
 | [x] | A/Angel City Outlaws | - |
-| [ ] | T/Twenty 4 Seven | - |
-| [ ] | Z/Zen Lunatic | - |
-| [ ] | E/ESP | - |
+| [x] | T/Twenty 4 Seven | - |
+| [x] | Z/Zen Lunatic | - |
+| [x] | E/ESP | - |
 | [x] | A/Antietam Creek | - |
-| [ ] | M/Madhouse | - |
-| [ ] | N/New Power Generation | - |
-| [ ] | T/The Revolution | - |
-| [ ] | T/The Time | - |
-| [ ] | T/The Prayer Chain | - |
+| [x] | M/Madhouse | - |
+| [x] | N/New Power Generation | - |
+| [x] | T/The Revolution | - |
+| [x] | T/The Time | - |
+| [x] | T/The Prayer Chain | - |
 | [ ] | S/Starflyer 59 | - |
 | [ ] | C/Cush | - |
 | [ ] | E/Exploding Flowers | - |
@@ -799,15 +800,27 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [ ] | G/Grand Funk Railroad | - |
 | [ ] | S/Slash | - |
 | [ ] | A/Alice Cooper | - |
-| [ ] | V/Vince Neil | - |
+| [x] | V/Vince Neil | - |
 | [ ] | D/David Lee Roth | - |
 | [ ] | E/Eddie Money | - |
 | [ ] | O/Obituary | - |
 | [ ] | L/L.A. Guns | - |
- 
-## Members
+| [ ] | C/Captain Hollywood Project | - |
+| [ ] | 0-9/94 East | - |
+| [ ] | N/Nick Jonas and the Administration | - |
+| [ ] | T/3rdeyegirl | - |
+| [ ] | W/Wendy & Lisa | - |
+| [ ] | M/Mazarati | - |
+| [ ] | T/The Family | - |
+| [ ] | F/Flyte Tyme | - |
+| [ ] | J/Jimmy Jam and Terry Lewis | - |
+| [x] | S/Snap! | - |
+| [x] | T/Technotronic | - |
+| [ ] | H/Hi Tek 3 | - |
+| [ ] | T/T99 | - |
 
-> last updated: 2026-07-07T04:00 · unfixed: 207
+## Members
+> last updated: 2026-07-08T10:00 · unfixed: 300
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -2115,10 +2128,108 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Scott Sorry (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
 - [ ] Ginger Wildheart (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
 - [ ] Jeremy Guns (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
-    
+- [ ] Ben Grosse (batch: 2026-07-07T10:30, from: [[Artists/T/The Dead Daisies]])
+- [ ] Marti Frederiksen (batch: 2026-07-07T10:30, from: [[Artists/T/The Dead Daisies]])
+- [ ] Nancy Coolen (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Ruud van Rijen (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Giovanni Falco (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Wolfgang Reis (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Ricardo Overman (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Tony Dawson-Harrison (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Stacey Seedorf (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Stella (Twenty 4 Seven) (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Elle (Twenty 4 Seven) (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Li-Ann (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Sharon Doorson (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Kelly Overett (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Jimmy D'Anda (batch: 2026-07-07T16:45, from: [[Artists/Z/Zen Lunatic]])
+- [ ] Stevo Bruno (batch: 2026-07-07T16:45, from: [[Artists/Z/Zen Lunatic]])
+- [ ] Eric Singer (batch: 2026-07-07T17:00, from: [[Artists/E/ESP]])
+- [ ] Chuck Garric (batch: 2026-07-07T17:00, from: [[Artists/E/ESP]])
+- [ ] Karl Cochran (batch: 2026-07-07T17:00, from: [[Artists/E/ESP]])
+- [ ] Eric Leeds (batch: 2026-07-07T19:00, from: [[Artists/M/Madhouse]])
+- [ ] Matt Fink (batch: 2026-07-07T19:00, from: [[Artists/M/Madhouse]])
+- [ ] Levi Seacer Jr. (batch: 2026-07-07T19:00, from: [[Artists/M/Madhouse]])
+- [ ] Sheila E. (batch: 2026-07-07T19:00, from: [[Artists/M/Madhouse]])
+- [ ] Dale Alexander (batch: 2026-07-07T19:00, from: [[Artists/M/Madhouse]])
+- [ ] Michael Bland (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Morris Hayes (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Tommy Barbarella (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Sonny T. (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Tony M. (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Damon Dickson (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Kirk Johnson (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Rosie Gaines (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Mayte Garcia (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Rhonda Smith (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Kat Dyson (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Mike Scott (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Renato Neto (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Frederic Yonnet (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Shelby J. (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Ida Nielsen (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Donna Grantis (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Cassandra O'Neal (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Andy Allo (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] John Blackwell (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Liv Warfield (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Elisa Fiorillo (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Andrew Gouche (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Cora Coleman Dunham (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Josh Dunham (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Chance Howard (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Bobby Z. (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Lisa Coleman (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Brownmark (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Wendy Melvoin (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Dez Dickerson (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] André Cymone (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Gayle Chapman (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Miko Weaver (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Atlanta Bliss (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Susannah Melvoin (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Jerome Benton (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Wally Safford (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Greg Brooks (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+- [ ] Jill Jones (batch: 2026-07-07T19:30, from: [[Artists/T/The Revolution]])
+
+- [ ] Morris Day (batch: 2026-07-07T20:00, from: [[Artists/T/The Time]])
+- [ ] Jesse Johnson (batch: 2026-07-07T20:00, from: [[Artists/T/The Time]])
+- [ ] Jimmy Jam (batch: 2026-07-07T20:00, from: [[Artists/T/The Time]])
+- [ ] Terry Lewis (batch: 2026-07-07T20:00, from: [[Artists/T/The Time]])
+- [ ] Jellybean Johnson (batch: 2026-07-07T20:00, from: [[Artists/T/The Time]])
+- [ ] Monte Moir (batch: 2026-07-07T20:00, from: [[Artists/T/The Time]])
+- [ ] Paul Peterson (batch: 2026-07-07T20:00, from: [[Artists/T/The Time]])
+- [ ] Cynthia Johnson (batch: 2026-07-07T20:00, from: [[Artists/T/The Time]])
+- [ ] Alexander O'Neal (batch: 2026-07-07T20:00, from: [[Artists/T/The Time]])
+- [ ] Tim Taber (batch: 2026-07-07T20:00, from: [[Artists/T/The Prayer Chain]])
+- [ ] Michael Münzing (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Luca Anzilotti (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Turbo B (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Penny Ford (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Thea Austin (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Niki Haris (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Summer (American singer) (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Maxayn (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Loc (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Stoli Michaels (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Jesse Kolb (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Jackie Harris (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Jo Bogaert (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Ya Kid K (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Eric Martin (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Melissa Beckford (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Colin Case (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Réjane Magloire (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Felly (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Patrick De Meyer (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Daisy Dee (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Monday Midnite (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Black Diamond (singer) (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+
 ## Producers
 
-> last updated: 2026-07-07T04:00 · unfixed: 37
+> last updated: 2026-07-08T10:00 · unfixed: 46
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -2351,3 +2462,12 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Michael Elvis Baskette (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
 - [ ] Stevo Bruno (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
 - [ ] Andy Johns (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
+- [ ] Ben Grosse (batch: 2026-07-07T10:30, from: [[Artists/T/The Dead Daisies]])
+- [ ] Ruud van Rijen (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
+- [ ] Jack Blades (batch: 2026-07-07T16:30, from: [[Artists/V/Vince Neil]])
+- [ ] Dust Brothers (batch: 2026-07-07T16:30, from: [[Artists/V/Vince Neil]])
+- [ ] Prince Rogers Nelson (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
+- [ ] Steve Hindalong (batch: 2026-07-07T20:00, from: [[Artists/T/The Prayer Chain]])
+- [ ] Michael Münzing (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Luca Anzilotti (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
+- [ ] Jo Bogaert (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])

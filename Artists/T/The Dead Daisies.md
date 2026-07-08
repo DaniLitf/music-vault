@@ -19,7 +19,7 @@ The Dead Daisies are an Australian-American hard rock supergroup formed in Sydne
 | *Make Some Noise* | 2016 | [[Producers/M/Marti Frederiksen]] | |
 | *Burn It Down* | 2018 | [[Producers/M/Marti Frederiksen]] | |
 | *Holy Ground* | 2021 | [[Producers/B/Ben Grosse]] | [[Studios/L/La Fabrique Studios]] |
-| *Radiance* | 2022 | | |
+| *Radiance* | 2022 | [[Producers/B/Ben Grosse]] | |
 | *Light 'Em Up* | 2024 | [[Producers/M/Marti Frederiksen]] | |
 | *Lookin' for Trouble* | 2025 | | |
 
@@ -103,7 +103,7 @@ The Dead Daisies are an Australian-American hard rock supergroup formed in Sydne
 - [[Artists/W/Whitesnake]] – Doug Aldrich, Michael Devin, Marco Mendoza, Reb Beach (multiple members have been in Whitesnake)
 - [[Artists/G/Guns N' Roses]] – Richard Fortus, Dizzy Reed, Frank Ferrer, Slash (multiple members have been in GN'R)
 - [[Artists/B/Black Sabbath]] – Tommy Clufetos, Glenn Hughes (both played in Black Sabbath)
-- [[Artists/M/Mötley Crüe]] – John Corabi, Tommy Lee (John Corabi was frontman of Mötley Crüe)
+- [[Artists/M/Mötley Crüe]] – John Corabi (frontman of Mötley Crüe, 1992–1996)
 - [[Artists/D/Deep Purple]] – Glenn Hughes (former Deep Purple bassist/vocalist), Tommy Clufetos (toured with Deep Purple offshoots)
 - [[Artists/J/Journey]] – Deen Castronovo (former Journey drummer)
 - [[Artists/D/Dio (band)]] – Doug Aldrich, Craig Porteils (Aldrich played in Dio)
@@ -112,9 +112,8 @@ The Dead Daisies are an Australian-American hard rock supergroup formed in Sydne
 - [[Artists/T/The Rolling Stones]] – Darryl Jones, Charley Drayton, Bernard Fowler (all have performed/recorded with the Stones)
 - [[Artists/T/The Cult]] – John Tempesta (former Cult drummer)
 - [[Artists/T/Thin Lizzy]] – Richard Fortus, Marco Mendoza (both have been in Thin Lizzy)
-- [[Artists/F/Foreigner]] – Bruce Kulick, Brent Fitz (Brent Fitz is in Union with Kulick)
+- [[Artists/F/Foreigner]] – Brent Fitz (touring drummer for Foreigner)
 - [[Artists/J/Jimmy Barnes]] – Jackie Barnes (son and collaborator)
-- [[Artists/G/Grand Funk Railroad]] – covered "We're An American Band" on *Locked and Loaded*
 
 ## Sources
 - Wikipedia

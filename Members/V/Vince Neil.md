@@ -1,6 +1,8 @@
 ---
-real_name: Vince Neil Furnier
+real_name: Vincent Neil Wharton
+also_known_as:
 birth_date: 1961-02-08
+death_date:
 nationality: American
 ---
 
@@ -12,8 +14,10 @@ Vince Neil is an American rock vocalist best known as the lead singer of Mötley
 
 ## Associated Artists
 
+- [[Artists/V/Vince Neil]] – solo career (1992–present)
 - [[Artists/M/Mötley Crüe]] – vocals (1981–1992, 1997–present)
 
 ## Sources
 
 - Wikipedia
+- AllMusic

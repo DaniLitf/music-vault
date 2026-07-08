@@ -11,6 +11,7 @@ The Record Plant is a renowned recording studio complex originally founded in Ne
 
 ## Albums Recorded Here
 
+- [[Artists/V/Vince Neil]] – *Exposed* (1993)
 - [[Artists/P/Prince]] – *For You* (1978)
 
 ## Sources

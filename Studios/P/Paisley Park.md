@@ -11,6 +11,8 @@ Paisley Park is a recording studio and complex built by Prince in 1987 in Chanha
 
 ## Albums Recorded Here
 
+- [[Artists/M/Madhouse]] – *8* (1987)
+- [[Artists/M/Madhouse]] – *16* (1987)
 - [[Artists/P/Prince]] – *Around the World in a Day* (1985)
 - [[Artists/P/Prince]] – *Parade* (1986)
 - [[Artists/P/Prince]] – *Sign o' the Times* (1987)
@@ -26,6 +28,9 @@ Paisley Park is a recording studio and complex built by Prince in 1987 in Chanha
 - [[Artists/P/Prince]] – *Musicology* (2004)
 - [[Artists/P/Prince]] – *3121* (2006)
 - [[Artists/P/Prince]] – *Planet Earth* (2007)
+- [[Artists/N/New Power Generation]] – *Gold Nigga* (1993)
+- [[Artists/N/New Power Generation]] – *Exodus* (1995)
+- [[Artists/N/New Power Generation]] – *Newpower Soul* (1998)
 - [[Artists/P/Prince]] – *Art Official Age* (2014)
 - [[Artists/P/Prince]] – *HITnRUN Phase One* (2015)
 

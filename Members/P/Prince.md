@@ -14,6 +14,10 @@ Prince Rogers Nelson was an American musician who was one of the most influentia
 
 ## Associated Artists
 - [[Artists/P/Prince]] — solo career (1978–2016)
+- [[Artists/M/Madhouse]] — creator, all instruments (1987)
+- [[Artists/T/The Revolution]] — bandleader (1984–1986)
+- [[Artists/N/New Power Generation]] — bandleader (1991–2013)
+- [[Artists/T/The Time]] — writer, producer (as Jamie Starr)
 
 ## Sources
 - Wikipedia

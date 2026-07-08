@@ -14,6 +14,7 @@ Curt Cuomo is a Grammy-nominated American songwriter, record producer, and music
 
 ## Associated Projects
 
+- [[Artists/E/ESP]] – *Lost and Spaced* (1998)
 - [[Artists/U/Union]] – *Union* (1998)
 
 ## Sources
