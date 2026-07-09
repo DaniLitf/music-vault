@@ -15,6 +15,7 @@ Andrew Prickett is a guitarist who has toured or recorded with The Violet Burnin
 ## Associated Artists
 - [[Artists/T/The Prayer Chain]] – guitar (1990–1995)
 - [[Artists/T/The Violet Burning]] – guitar
+- [[Artists/C/Cush]] – guitar (2000)
 
 ## Biography
 

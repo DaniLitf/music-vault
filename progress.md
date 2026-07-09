@@ -2,7 +2,7 @@
 
 ## Artists
 
-> last updated: 2026-07-08T10:00 · unfixed: 162 · last QC position: T/The Prayer Chain
+> last updated: 2026-07-09T09:00 · unfixed: 176 · last QC position: T/The Prayer Chain
 
 ### Summary
 - **Total artist entries**: 778 (719 with a page on disk + 59 queued with no page yet)
@@ -764,8 +764,8 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Revolution | - |
 | [x] | T/The Time | - |
 | [x] | T/The Prayer Chain | - |
-| [ ] | S/Starflyer 59 | - |
-| [ ] | C/Cush | - |
+| [x] | S/Starflyer 59 | - |
+| [x] | C/Cush | - |
 | [ ] | E/Exploding Flowers | - |
 | [ ] | D/Duraluxe | - |
 | [ ] | I/Integrity | - |
@@ -818,9 +818,29 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/Technotronic | - |
 | [ ] | H/Hi Tek 3 | - |
 | [ ] | T/T99 | - |
+| [x] | 0-9/2 Unlimited | - |
+| [ ] | R/Ray & Anita | - |
+| [ ] | B/Bunny Wailer | - |
+| [ ] | P/Peter Tosh | - |
+| [ ] | S/The Skatalites | - |
+| [ ] | T/The Upsetters | - |
+| [ ] | T/The Shins | connections (Richard Swift) |
+| [ ] | J/Joy Electric | connections (Jeff Cloud) |
+| [ ] | P/Project 86 | connections (Steven Dail, Rob Withem) |
+| [ ] | A/Adam Again | connections (Gene Eugene) |
+| [ ] | L/Lo Tom | connections (Jason Martin, Trey Many, TW Walsh) |
+| [ ] | N/Neon Horse | connections (Jason Martin, Steven Dail) |
+| [ ] | W/White Lighter | connections (Steven Dail, Trey Many) |
+| [ ] | V/Velour 100 | connections (Trey Many) |
+| [ ] | H/His Name Is Alive | connections (Trey Many) |
+| [ ] | P/Pedro the Lion | connections (TW Walsh, Frank Lenz) |
+| [ ] | L/Lost Dogs | connections (Gene Eugene) |
+| [ ] | T/The Swirling Eddies | connections (Gene Eugene) |
+| [ ] | B/Bon Voyage | connections (Jason Martin) |
+| [ ] | F/Fold Zandura | connections (Jyro Xhan) |
 
 ## Members
-> last updated: 2026-07-08T10:00 · unfixed: 300
+> last updated: 2026-07-09T09:00 · unfixed: 343
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -2226,10 +2246,54 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Daisy Dee (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
 - [ ] Monday Midnite (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
 - [ ] Black Diamond (singer) (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Ray Slijngaard (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
+- [ ] Anita Doth (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
+- [ ] Kim Vergouwen (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
+- [ ] Romy van Ooijen (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
+- [ ] Marjon van Iwaarden (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
+- [ ] Michèle Karamat Ali (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
+- [ ] Junior Braithwaite (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Beverley Kelso (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Cherry Smith (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Constantine Walker (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Brian Atkinson (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Clinton Joe Isaacs (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Jackie Mittoo (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Earl Lindo (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Rita Marley (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Marcia Griffiths (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Judy Mowatt (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Alvin Seeco Patterson (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Earl Chinna Smith (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Donald Kinsey (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Jason Martin (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Steven Dail (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Charlie Martin (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Rob Withem (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Jeff Cloud (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Trey Many (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Andrew Larson (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Dan Reid (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Ed Giles Benrock (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Joey Esquibel (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Josh Dooley (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Richard Swift (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Gene Eugene (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Matt Johnson (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Trevor Monks (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] TW Walsh (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Michael Knott (batch: 2026-07-09T09:00, from: [[Artists/C/Cush]])
+- [ ] Doug Moss (batch: 2026-07-09T09:00, from: [[Artists/C/Cush]])
+- [ ] Blake Wescott (batch: 2026-07-09T09:00, from: [[Artists/C/Cush]])
+- [ ] Jyro Xhan (batch: 2026-07-09T09:00, from: [[Artists/C/Cush]])
+- [ ] Chris Colbert (batch: 2026-07-09T09:00, from: [[Artists/C/Cush]])
+- [ ] Holly Nelson (batch: 2026-07-09T09:00, from: [[Artists/C/Cush]])
+- [ ] Jamie Bozeman (batch: 2026-07-09T09:00, from: [[Artists/C/Cush]])
+- [ ] Jason 71 (batch: 2026-07-09T09:00, from: [[Artists/C/Cush]])
 
 ## Producers
 
-> last updated: 2026-07-08T10:00 · unfixed: 46
+> last updated: 2026-07-08T16:30 · unfixed: 53
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -2471,3 +2535,11 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Michael Münzing (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
 - [ ] Luca Anzilotti (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
 - [ ] Jo Bogaert (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
+- [ ] Jean-Paul De Coster (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
+- [ ] Phil Wilde (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
+- [ ] Coxsone Dodd (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Chris Blackwell (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [x] Lee Scratch Perry (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
+- [ ] Gene Eugene (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Terry Scott Taylor (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
+- [ ] Jason Martin (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])

@@ -15,6 +15,7 @@ Tim Taber is an American musician who was the lead vocalist and drummer of The P
 ## Associated Artists
 
 - [[Artists/T/The Prayer Chain]] – vocals, drums (1990–1995, 1998, 2003, 2017–2018)
+- [[Artists/C/Cush]] – drums (2000)
 
 ## Sources
 

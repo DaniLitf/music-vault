@@ -21,6 +21,8 @@ genre:
 | 2004 | *Bicycles & Tricycles* | |
 | 2007 | *The Dream* | |
 | 2012 | *The History of The Future* | |
+| 2012 | *The Orbserver in the Star House* | Collaboration with [[Producers/L/Lee Scratch Perry]] |
+| 2013 | *More Tales from the Orbservatory* | Sequel collaboration with Lee Scratch Perry |
 | 2014 | *Moonbuilding 2703 AD* | |
 
 ## Members

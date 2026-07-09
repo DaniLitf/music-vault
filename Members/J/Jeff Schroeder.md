@@ -15,6 +15,7 @@ Jeff Schroeder is a guitarist who toured and recorded with The Violet Burning be
 ## Associated Artists
 - [[Artists/T/The Violet Burning]] – guitar
 - [[Artists/T/The Smashing Pumpkins]] – guitar (2007–present)
+- [[Artists/C/Cush]] – guitar (2000)
 
 ## Biography
 

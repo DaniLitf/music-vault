@@ -14,6 +14,7 @@ Jason 71 is an American musician who played bass on The Lassie Foundation's earl
 ## Associated Artists
 
 - [[Artists/T/The Lassie Foundation]] – bass (1997–1998)
+- [[Artists/C/Cush]] – (2000)
 
 ## Sources
 
