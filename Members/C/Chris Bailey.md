@@ -10,7 +10,7 @@ nationality: American
 
 **Drummer. American.**
 
-Chris Bailey is an American drummer who toured with Nick Jonas and the Administration during their 2011 tour, filling in for Michael Bland on select dates.
+Chris Bailey is an American drummer who toured with Nick Jonas and the Administration during their 2011 tour, filling in for Michael Bland on select dates. He performed as a touring substitute during the South American leg of the tour, providing drum backing for the band's blues rock sound.
 
 ## Associated Artists
 

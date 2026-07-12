@@ -10,7 +10,7 @@ nationality: American
 
 **Keyboardist. American.**
 
-Marcus Kincy is an American keyboardist who toured with Nick Jonas and the Administration during their 2011 tour, providing keyboard and synthesizer backing.
+Marcus Kincy is an American keyboardist who toured with Nick Jonas and the Administration during their 2011 tour, providing keyboard and synthesizer backing. He filled in for core keyboardist Tommy Barbarella on select dates during the band's 2011 performances.
 
 ## Associated Artists
 

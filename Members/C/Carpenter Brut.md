@@ -1,18 +1,20 @@
 ---
-real_name: Unknown (identity not publicly disclosed)
+real_name: Franck Hueso
 also_known_as: Carpenter Brut
+birth_date:
+death_date:
 nationality: French
 ---
 
 # Carpenter Brut
 
-**Carpenter Brut is a French synthwave musician from Poitiers who operates anonymously and is one of the most acclaimed artists in the contemporary synthwave revival.**
+**Darksynth musician. From Poitiers, France.**
 
-Known for cinematic, horror film-inspired synthesizer music with heavy metal influences, their 2015 compilation *TRILOGY* became a definitive entry point for the genre.
+Franck Hueso, better known as Carpenter Brut, is a French darksynth musician and one of the most acclaimed artists of the contemporary synthwave scene. He kept his identity undisclosed for years as a deliberate artistic choice, releases through his own label No Quarter Prod, and has also produced for Deathspell Omega. His cinematic, horror-inspired synth music with heavy metal influences broke through with the 2015 compilation *Trilogy*.
 
 ## Associated Artists
-- [[Artists/C/Carpenter Brut]]
+- [[Artists/C/Carpenter Brut]] – solo project (2012–present)
 
 ## Sources
-- Wikipedia
-- Discogs
+- [Wikipedia](https://en.wikipedia.org/wiki/Carpenter_Brut)
+- [Discogs](https://www.discogs.com/artist/3489771-Carpenter-Brut)

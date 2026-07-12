@@ -16,6 +16,9 @@ John Fields is an American record producer and multi-instrumentalist known for h
 
 - [[Artists/T/The Dead Daisies]] – *The Dead Daisies* (2013)
 - [[Artists/N/Nick Jonas and the Administration]] – *Who I Am* (2010)
+- [[Artists/J/Jonas Brothers]] – *Jonas Brothers* (2007)
+- [[Artists/J/Jonas Brothers]] – *A Little Bit Longer* (2008)
+- [[Artists/J/Jonas Brothers]] – *Lines, Vines and Trying Times* (2009)
 
 ## Sources
 - Wikipedia

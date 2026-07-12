@@ -33,13 +33,13 @@ import unicodedata
 
 TRACKED_ROOTS = {
     "Artists": {
-        "required": ["genre", "also_known_as"],
+        "required": ["genre"],
     },
     "Members": {
-        "required": ["real_name", "also_known_as", "birth_date", "death_date", "nationality"],
+        "required": ["real_name", "nationality"],
     },
     "Producers": {
-        "required": ["real_name", "also_known_as", "birth_date", "death_date", "nationality"],
+        "required": ["real_name", "nationality"],
     },
     "Studios": {
         "required": ["location", "active_years"],

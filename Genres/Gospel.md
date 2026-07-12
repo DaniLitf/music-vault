@@ -1,6 +1,6 @@
-# Pop rock
+# Gospel
 
-A genre that blends catchy pop melodies and song structures with rock instrumentation and energy, often featuring guitar-driven arrangements and strong vocal hooks.
+Christian music rooted in African-American religious traditions, characterised by dominant vocals, strong harmonies, and themes of faith.
 
 ```dataviewjs
 const genre = dv.current().file.name;
