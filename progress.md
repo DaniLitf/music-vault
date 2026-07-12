@@ -2,13 +2,13 @@
 
 ## Artists
 
-> last updated: 2026-07-12T15:06 · unfixed: 21 · last QC position: T/The Prayer Chain
+> last updated: 2026-07-12T15:07 · unfixed: 22 · last QC position: T/The Prayer Chain
 
 ### Summary
 - **Total artist entries**: 778 (719 with a page on disk + 59 queued with no page yet)
 - **Fully OK [x]**: 766
-- **Needs fixes [ ]**: 21 (21 queued/no page yet see below)
-- **Last updated**: 2026-07-08
+- **Needs fixes [ ]**: 22 (22 queued/no page yet see below)
+- **Last updated**: 2026-07-12
 
 - **Fully OK [x]**: 766
 
@@ -839,9 +839,10 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | B/Bon Voyage | connections (Jason Martin) |
 | [x] | F/Fold Zandura | connections (Jyro Xhan) |
 | [ ] | J/Jonas Brothers | |
+| [ ] | W/Wayo Dayo | |
 
 ## Members
-> last updated: 2026-07-12T15:06 · unfixed: 13
+> last updated: 2026-07-12T15:07 · unfixed: 12
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -2299,7 +2300,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Kevin Patricks (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
 - [ ] Tony Christian (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
 - [ ] Marr Starr (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
-- [ ] Aaron Paul Keith (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [x] Aaron Paul Keith (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
 - [ ] Lenny Holmes (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
 - [ ] Nick Jonas (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
 - [ ] David Ryan Harris (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
