@@ -1,6 +1,6 @@
-# Pop rock
+# Darksynth
 
-A genre that blends catchy pop melodies and song structures with rock instrumentation and energy, often featuring guitar-driven arrangements and strong vocal hooks.
+Darker, more aggressive offshoot of synthwave, influenced by horror film scores, industrial, and heavy metal.
 
 ```dataviewjs
 const genre = dv.current().file.name;

@@ -1,6 +1,6 @@
-# Pop rock
+# Schlager
 
-A genre that blends catchy pop melodies and song structures with rock instrumentation and energy, often featuring guitar-driven arrangements and strong vocal hooks.
+European popular music style built on catchy, sentimental melodies and light lyrics, strongly associated with Melodifestivalen and Eurovision in Scandinavia.
 
 ```dataviewjs
 const genre = dv.current().file.name;

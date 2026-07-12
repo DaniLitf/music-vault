@@ -2,15 +2,15 @@
 
 ## Artists
 
-> last updated: 2026-07-12T15:07 · unfixed: 22 · last QC position: T/The Prayer Chain
+> last updated: 2026-07-12T16:14 · unfixed: 30 · last QC position: T/The Prayer Chain
 
 ### Summary
-- **Total artist entries**: 778 (719 with a page on disk + 59 queued with no page yet)
-- **Fully OK [x]**: 766
+- **Total artist entries**: 779 (719 with a page on disk + 60 queued with no page yet)
+- **Fully OK [x]**: 767
 - **Needs fixes [ ]**: 22 (22 queued/no page yet see below)
 - **Last updated**: 2026-07-12
 
-- **Fully OK [x]**: 766
+- **Fully OK [x]**: 767
 
 ## Issue Breakdown
 
@@ -838,11 +838,22 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Swirling Eddies | connections (Gene Eugene) |
 | [x] | B/Bon Voyage | connections (Jason Martin) |
 | [x] | F/Fold Zandura | connections (Jyro Xhan) |
-| [ ] | J/Jonas Brothers | |
+| [x] | J/Jonas Brothers | - |
 | [ ] | W/Wayo Dayo | |
+| [x] | D/DNCE | - |
+| [ ] | S/Semi Precious Weapons | |
+| [x] | O/Obituary | - |
+| [ ] | S/Six Feet Under | |
+| [ ] | T/Tardy Brothers | |
+| [ ] | G/Gorgoroth | |
+| [ ] | D/Deicide | |
+| [ ] | C/Catastrophic | |
+| [ ] | M/Mince | |
+| [ ] | C/Cancer | |
+| [ ] | H/Hacride | |
 
 ## Members
-> last updated: 2026-07-12T15:07 · unfixed: 12
+> last updated: 2026-07-12T16:14 · unfixed: 35
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -2307,10 +2318,33 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Chris Bailey (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
 - [ ] Joshua Dunham (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
 - [ ] Marcus Kincy (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
+- [ ] Joe Jonas (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] Kevin Jonas (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] Greg Garbowsky (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] Jack Lawless (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] John Lloyd Taylor (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] Alexander Noyes (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] Jake Morelli (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] Elijah Shaw (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] Ryan Liestman (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] JinJoo Lee (batch: 2026-07-12T15:30, from: [[Artists/D/DNCE]])
+- [ ] Cole Whittle (batch: 2026-07-12T15:30, from: [[Artists/D/DNCE]])
+- [ ] John Tardy (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] Terry Butler (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] Kendall Andrews (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] Allen West (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] Daniel Tucker (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] James Murphy (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] Frank Watkins (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] Ralph Santolla (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] Jerome Grable (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] Jerry Tidwell (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [ ] Adrien Grousset (batch: 2026-07-12T16:14, from: [[Artists/C/Carpenter Brut]])
+- [ ] Florent Marcadet (batch: 2026-07-12T16:14, from: [[Artists/C/Carpenter Brut]])
 
 ## Producers
 
-> last updated: 2026-07-11T12:00 ·unfixed: 1
+> last updated: 2026-07-12T15:20 ·unfixed: 3
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -2568,6 +2602,9 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 
 - [x] Brownmark (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
 - [ ] David Z (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [ ] Jon Bellion (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+- [ ] Steve Greenberg (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
+
 
 
 

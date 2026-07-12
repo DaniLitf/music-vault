@@ -1,10 +1,10 @@
-# Death metal
+# Funk-pop
 
-**Death metal** is an extreme subgenre of heavy metal music that typically employs heavily distorted guitars, tremolo picking, deep growling vocals, blast beat drumming, and complex song structures.
+**Funk-pop** is a genre blending funk rhythms and grooves with pop song structures and melodies.
 
 ```dataviewjs
-// Automatically list artists with genre: "Death metal" in frontmatter
-const genre = "Death metal";
+// Automatically list artists with genre: "Funk-pop" in frontmatter
+const genre = "Funk-pop";
 const pages = dv.pages(`"Artists"`).where(p => {
   const g = p.genre;
   if (!g) return false;

@@ -1,6 +1,6 @@
-# Pop rock
+# Synthwave
 
-A genre that blends catchy pop melodies and song structures with rock instrumentation and energy, often featuring guitar-driven arrangements and strong vocal hooks.
+Electronic music genre drawing on 1980s film soundtracks, video game music, and synth-pop, characterised by retro-futuristic synthesizer aesthetics.
 
 ```dataviewjs
 const genre = dv.current().file.name;
