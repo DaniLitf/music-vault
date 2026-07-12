@@ -15,6 +15,7 @@ John Fields is an American record producer and multi-instrumentalist known for h
 ## Associated Projects
 
 - [[Artists/T/The Dead Daisies]] – *The Dead Daisies* (2013)
+- [[Artists/N/Nick Jonas and the Administration]] – *Who I Am* (2010)
 
 ## Sources
 - Wikipedia
