@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Members/A/Alex Albert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Alex Albert"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "896c41b3bb47d9e6",
   "lastOpenFiles": [
+    "Members/C/Chris Bailey.md",
+    "Members/A/Alex Albert.md",
+    "readme.md",
     "sync.ffs_lock",
     "Studios/B/Blackbird Studio.md",
     "Members/M/Marcus Kincy.md",
     "Members/J/Joshua Dunham.md",
-    "Members/C/Chris Bailey.md",
     "Members/D/David Ryan Harris.md",
     "Members/N/Nick Jonas.md",
     "Artists/N/Nick Jonas and the Administration.md",
@@ -212,7 +214,6 @@
     "Members/D/David Raven.md",
     "Members/T/Tim Chandler.md",
     "Members/N/Neal Langford.md",
-    "Members/J/Jesse Sandoval.md",
     "Producers/V",
     "Studios/I",
     "Ny mapp",

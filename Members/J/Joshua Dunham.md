@@ -10,7 +10,7 @@ nationality: American
 
 **Guitarist. American.**
 
-Joshua Dunham is an American guitarist who toured with Nick Jonas and the Administration during their 2011 tour, playing rhythm and lead guitar.
+Joshua Dunham is an American guitarist who toured with Nick Jonas and the Administration during their 2011 tour, playing rhythm and lead guitar. He provided additional guitar support for the band's live performances of tracks from the *Who I Am* album.
 
 ## Associated Artists
 
