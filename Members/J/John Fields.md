@@ -15,6 +15,7 @@ John Fields is an American record producer and multi-instrumentalist who has wor
 ## Associated Artists
 
 - [[Artists/T/The Dead Daisies]] – bass, guitar, keyboards, percussion (2013)
+- [[Artists/N/Nick Jonas and the Administration]] – bass, producer (2009–2011, 2016)
 
 ## Sources
 - Wikipedia

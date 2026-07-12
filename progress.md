@@ -2,7 +2,7 @@
 
 ## Artists
 
-> last updated: 2026-07-11T12:00 Â· unfixed: 21 Â· last QC position: T/The Prayer Chain
+> last updated: 2026-07-12T15:06 · unfixed: 21 · last QC position: T/The Prayer Chain
 
 ### Summary
 - **Total artist entries**: 778 (719 with a page on disk + 59 queued with no page yet)
@@ -807,7 +807,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | L/L.A. Guns | - |
 | [x] | C/Captain Hollywood Project | - |
 | [x] | 0-9/94 East | - |
-| [ ] | N/Nick Jonas and the Administration | - |
+| [x] | N/Nick Jonas and the Administration | - |
 | [ ] | T/3rdeyegirl | - |
 | [ ] | W/Wendy & Lisa | - |
 | [x] | M/Mazarati | - |
@@ -838,9 +838,10 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Swirling Eddies | connections (Gene Eugene) |
 | [x] | B/Bon Voyage | connections (Jason Martin) |
 | [x] | F/Fold Zandura | connections (Jyro Xhan) |
+| [ ] | J/Jonas Brothers | |
 
 ## Members
-> last updated: 2026-07-11T12:00 Â· unfixed: 8
+> last updated: 2026-07-12T15:06 · unfixed: 13
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -2300,6 +2301,11 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Marr Starr (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
 - [ ] Aaron Paul Keith (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
 - [ ] Lenny Holmes (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [ ] Nick Jonas (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
+- [ ] David Ryan Harris (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
+- [ ] Chris Bailey (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
+- [ ] Joshua Dunham (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
+- [ ] Marcus Kincy (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
 
 ## Producers
 
