@@ -1,25 +1,21 @@
 ---
-real_name: Scott Atkins
+real_name:
 also_known_as:
 birth_date:
 death_date:
-nationality: British
+nationality:
 ---
 
 # Scott Atkins
 
-**Record producer and engineer. British.**
+**Record producer. British.**
 
-Scott Atkins is a British metal record producer and owner of Grindstone Studio in Suffolk, England. He produced Benediction's comeback album *Scriptures* (2020) and *Ravage of Empires* (2025), helping the band recapture their classic sound. Atkins has worked with numerous metal acts including Cradle of Filth, Sylosis, and Vader.
+Scott Atkins is a British record producer and engineer known for his work with extreme metal acts including Benediction, Amon Amarth, and Cradle of Filth.
 
 ## Associated Projects
 
-- [[Artists/B/Benediction]] – *Scriptures* (2020)
-- [[Artists/B/Benediction]] – *Ravage of Empires* (2025)
-- [[Artists/C/Cradle of Filth]]
-- Sylosis
-- Vader
+- [[Artists/B/Benediction]] – *Grind Madness of the Academics of Death* (1997)
 
 ## Sources
-- [Grindstone Studio](https://www.grindstonerecording.com/)
-- [Metal Archives – Scott Atkins](https://www.metal-archives.com/artists/Scott_Atkins/135331)
+
+- [Discogs/Scott Atkins](https://www.discogs.com/artist/1604273-Scott-Atkins)

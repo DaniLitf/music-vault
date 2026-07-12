@@ -3,22 +3,19 @@ real_name:
 also_known_as:
 birth_date:
 death_date:
-nationality: American
+nationality:
 ---
 
 # Dust Brothers
 
-**Record production duo. American.**
+**Record producer. American.**
 
-The Dust Brothers are an American record production duo consisting of John King and Mike Simpson, known for their innovative sample-based production on albums such as Beastie Boys' *Paul's Boutique*, Beck's *Odelay*, and the *Fight Club* soundtrack. They produced Vince Neil's second solo album *Carved in Stone* (1995).
-
-Also listed as an artist: see [[Artists/T/The Dust Brothers]].
+The Dust Brothers are an American production duo consisting of Michael Simpson and John King, known for their sample-based production work with Beck, Beastie Boys, and Vince Neil.
 
 ## Associated Projects
 
-- [[Artists/V/Vince Neil]] – *Carved in Stone* (1995)
+- [[Artists/V/Vince Neil]] – *Exposed* (1993)
 
 ## Sources
 
-- Wikipedia
-- Discogs
+- [Wikipedia/Dust Brothers](https://en.wikipedia.org/wiki/Dust_Brothers)

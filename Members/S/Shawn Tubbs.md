@@ -8,14 +8,14 @@ nationality: American
 
 # Shawn Tubbs
 
-**Guitarist. Born ?.**
+**Guitarist. American.**
 
-Shawn Tubbs is a guitarist who has toured or recorded with The Violet Burning. His guitar work appeared on recordings and in live shows.
+Shawn Tubbs is a guitarist who played with The Violet Burning, contributing guitar work to the American alternative rock band.
 
 ## Associated Artists
+
 - [[Artists/T/The Violet Burning]] – guitar
 
-## Biography
-
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Shawn Tubbs](https://en.wikipedia.org/wiki/Shawn_Tubbs)

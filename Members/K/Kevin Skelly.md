@@ -8,16 +8,15 @@ nationality: American
 
 # Kevin Skelly
 
-**Bassist, keyboardist. American.**
+**Bassist. American.**
 
-Kevin Skelly is an American musician best known as the bassist and keyboardist for the Cleveland thrash metal band Hatrix, a position he has held since the band's formation in 1989. He has also played bass for Integrity and the cover band S.O.S., and performed in the band Hollow.
+Kevin Skelly is a bassist known for playing with Integrity (1999) and Hatrix. He contributed bass work to both American heavy metal and hardcore projects.
 
 ## Associated Artists
 
-- [[Artists/H/Hatrix]] – bass, keyboards (1989–present)
-- [[Artists/I/Integrity]] – bass
-- [[Artists/H/Hollow (band)]] – bass
+- [[Artists/I/Integrity]] – bass (1999)
+- [[Artists/H/Hatrix]] – bass
 
 ## Sources
 
-- [Kevin Skelly — Metal Archives](https://www.metal-archives.com/artists/Kevin_Skelly/199345)
+- [Wikipedia: Kevin Skelly](https://en.wikipedia.org/wiki/Kevin_Skelly)

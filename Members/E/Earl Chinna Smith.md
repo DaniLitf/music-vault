@@ -1,17 +1,21 @@
 ---
-real_name: Earl Smith
-also_known_as: Earl "Chinna" Smith
+real_name:
+also_known_as: Chinna
 birth_date:
 death_date:
 nationality: Jamaican
 ---
 
-**Guitarist. Jamaican.**
+# Earl Chinna Smith
 
-Earl "Chinna" Smith is a Jamaican guitarist and session musician who played guitar with Bob Marley and the Wailers in 1975–1976, contributing to the album *Rastaman Vibration*. He has been a prolific session musician in Jamaican music, working with many reggae artists.
+**Guitarist. Born ?.**
+
+Earl "Chinna" Smith is a Jamaican guitarist best known as a longtime member of Bob Marley and the Wailers. He joined the group in the 1970s and contributed lead guitar to classic reggae recordings, including the albums *Natty Dread* (1974) and *Rastaman Vibration* (1976). Smith has also been an prolific session musician, playing on hundreds of reggae recordings.
 
 ## Associated Artists
-- [[Artists/B/Bob Marley]] – guitar (1975–1976)
+- [[Artists/B/Bob Marley and the Wailers]] – guitar (1970s)
+
+## Biography
 
 ## Sources
-- [Wikipedia – Bob Marley and the Wailers](https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers)
+- Wikipedia

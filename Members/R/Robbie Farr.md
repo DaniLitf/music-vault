@@ -8,14 +8,14 @@ nationality: American
 
 # Robbie Farr
 
-**Guitarist. Born ?.**
+**Guitarist. American.**
 
-Robbie Farr is a guitarist who has toured or recorded with The Violet Burning. He played guitar on recordings and in live performances with the band.
+Robbie Farr is a guitarist who played with The Violet Burning, contributing guitar work to the American alternative rock band.
 
 ## Associated Artists
+
 - [[Artists/T/The Violet Burning]] – guitar
 
-## Biography
-
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Robbie Farr](https://en.wikipedia.org/wiki/Robbie_Farr)

@@ -24,6 +24,9 @@ Defecation is a deathgrind side project formed by Righteous Pigs guitarist Mitch
 - [[Members/M/Mitch Harris]] – guitar, bass, vocals (1987–1992, 2000–present)
 - [[Members/M/Mick Harris]] – drums, vocals (1987–1989)
 
+### Past Touring & Session Members
+- [[Members/D/Danny Lilker]] – bass (1989; studio bass on *Purity Dilution*)
+
 ## Connections
 
 - [[Artists/N/Napalm Death]] – Mitch Harris, Mick Harris (both were members of Napalm Death)

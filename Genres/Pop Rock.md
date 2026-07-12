@@ -1,6 +1,6 @@
-# Pop Rock
+# Pop rock
 
-Pop music with rock instrumentation and production, emphasizing catchy melodies, hooks, and accessible song structures.
+A music genre that combines pop song structures with rock instrumentation, typically featuring catchy melodies, hook-driven choruses, and accessible arrangements.
 
 ```dataviewjs
 const genre = dv.current().file.name;

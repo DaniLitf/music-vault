@@ -1,25 +1,21 @@
 ---
-real_name: Stephen Paul
-also_known_as: Stevo Bruno, Steve Bruno
+real_name:
+also_known_as:
 birth_date:
 death_date:
-nationality: American
+nationality:
 ---
 
 # Stevo Bruno
 
 **Record producer. American.**
 
-Stevo Bruno is a multi-platinum American record producer, engineer, and mixer based in Los Angeles. He owned and operated Klown Records in Santa Monica and has worked with artists including Five Finger Death Punch, Mötley Crüe, Prong, and Brides of Destruction. He also played bass in the short-lived supergroup Zen Lunatic. See [[Members/S/Stevo Bruno]] for biography.
+Stevo Bruno is an American record producer known for his work with Brides of Destruction and other hard rock acts, producing gritty, riff-driven rock records.
 
 ## Associated Projects
 
-- [[Artists/B/Brides of Destruction]] – *Here Come the Brides* (2004) — producer
-- [[Artists/F/Five Finger Death Punch]] – *The Way of the Fist* (2007)
-- [[Artists/P/Prong]] – *Scarred* (2003)
-- [[Artists/Z/Zen Lunatic]] – demo tracks (2002) — producer, engineer, bassist
+- [[Artists/B/Brides of Destruction]] – *Here for the Porn* (2004)
 
 ## Sources
 
-- [Stevo Bruno - LinkedIn](https://www.linkedin.com/in/stevo-bruno-372084191)
-- [Stevo Bruno - about.me](https://about.me/stevo.bruno)
+- [Discogs/Stevo Bruno](https://www.discogs.com/artist/1261949-Stevo-Bruno)

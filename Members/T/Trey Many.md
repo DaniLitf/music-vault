@@ -14,9 +14,11 @@ Trey Many is an American drummer who played for Starflyer 59 from 2006 to 2019, 
 ## Associated Artists
 
 - [[Artists/S/Starflyer 59]] – drums (2006–2019)
-- [[Artists/V/Velour 100]] – drums
+- [[Artists/V/Velour 100]] – drums (1990s)
 - [[Artists/H/His Name Is Alive]] – drums
-- [[Artists/L/Lo Tom]] – drums
+- [[Artists/L/Lo Tom]] – drums (2016–present)
+- [[Artists/P/Pedro the Lion]] – touring drums
+- [[Artists/W/White Lighter]] – drums, vocals (2000s)
 
 ## Sources
 

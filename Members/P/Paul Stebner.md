@@ -8,14 +8,14 @@ nationality: American
 
 # Paul Stebner
 
-**Guitarist. Born ?.**
+**Guitarist. American.**
 
-Paul Stebner is a guitarist who has performed with The Violet Burning.
+Paul Stebner is a guitarist who played with The Violet Burning, contributing guitar work to the American alternative rock band.
 
 ## Associated Artists
+
 - [[Artists/T/The Violet Burning]] – guitar
 
-## Biography
-
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Paul Stebner](https://en.wikipedia.org/wiki/Paul_Stebner)

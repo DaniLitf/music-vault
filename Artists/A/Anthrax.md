@@ -37,6 +37,7 @@ genre:
 - [[Members/J/Jonathan Donais]] – lead guitar (2013–present)
 
 ### Past
+- [[Members/D/Danny Lilker]] – bass (1981–1984)
 - [[Members/N/Neil Turbin]] – vocals (1981–1984)
 - [[Members/D/Dan Spitz]] – lead guitar (1983–1995, 2005–2007)
 - [[Members/J/John Bush]] – vocals (1992–2005, 2007–2010)

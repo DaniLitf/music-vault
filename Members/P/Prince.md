@@ -18,6 +18,7 @@ Prince Rogers Nelson was an American musician who was one of the most influentia
 - [[Artists/T/The Revolution]] — bandleader (1984–1986)
 - [[Artists/N/New Power Generation]] — bandleader (1991–2013)
 - [[Artists/T/The Time]] — writer, producer (as Jamie Starr)
+- [[Artists/0-9/94 East]] — session guitarist, bassist (1975–1979)
 
 ## Sources
 - Wikipedia

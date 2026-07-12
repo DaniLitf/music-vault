@@ -1,21 +1,22 @@
 ---
-real_name:
+real_name: Robert Blotzer
 also_known_as:
-birth_date:
+birth_date: 1958-10-22
 death_date:
 nationality: American
 ---
 
-**Drummer.**
+# Bobby Blotzer
 
-Bobby Blotzer is an American drummer best known as the longtime drummer for the glam metal band RATT, which he co-founded in the early 1980s. He was a member of RATT for most of the band's career, appearing on all of their studio albums. He also founded the hard rock supergroup Angel City Outlaws featuring John Corabi, Robbie Crane, and Keri Kelli, and participated in the Twenty 4 Seven project.
+**Drummer. American.**
+
+Bobby Blotzer is an American drummer best known as the longtime drummer of the hard rock band Ratt, a role he held from 1982 to 1992 and again from 1996 to 2014. He was a key part of Ratt's commercial peak during the 1980s glam metal era and has also been involved with other projects including Angel City Outlaws.
 
 ## Associated Artists
 
-- [[Artists/A/Angel City Outlaws]] – drums (2005–2006)
 - [[Artists/R/Ratt]] – drums (1982–1992, 1996–2014)
+- [[Artists/A/Angel City Outlaws]] – drums
 
 ## Sources
 
-- Wikipedia – [Bobby Blotzer](https://en.wikipedia.org/wiki/Bobby_Blotzer)
-- Discogs – [Bobby Blotzer](https://www.discogs.com/artist/509127-Bobby-Blotzer)
+- [Wikipedia: Bobby Blotzer](https://en.wikipedia.org/wiki/Bobby_Blotzer)

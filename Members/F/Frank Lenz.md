@@ -13,6 +13,7 @@ Frank Lenz is an American drummer and multi-instrumentalist from Southern Califo
 
 ## Associated Artists
 
+- [[Artists/F/Fold Zandura]] – drums, vocals (1995–present)
 - [[Artists/T/The Lassie Foundation]] – drums, keyboards (1997–2000)
 - [[Artists/S/Starflyer 59]] – drums, keyboards (2003–2005, 2019–present)
 - [[Artists/L/Lo Tom]] – drums

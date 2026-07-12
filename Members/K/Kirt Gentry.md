@@ -8,14 +8,14 @@ nationality: American
 
 # Kirt Gentry
 
-**Bassist. Born ?.**
+**Bassist. American.**
 
-Kirt Gentry is a bassist who has toured or recorded with The Violet Burning. He provided bass guitar on some of the band's recordings and live performances.
+Kirt Gentry is a bassist who played with The Violet Burning, providing bass guitar for the American alternative rock band.
 
 ## Associated Artists
+
 - [[Artists/T/The Violet Burning]] – bass
 
-## Biography
-
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Kirt Gentry](https://en.wikipedia.org/wiki/Kirt_Gentry)

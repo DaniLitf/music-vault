@@ -108,6 +108,7 @@ Starflyer 59 is an American alternative rock band founded in 1993 by Jason Marti
 - [[Artists/A/Adam Again]] – Gene Eugene (frontman), Frank Lenz (occasional contributor)
 - [[Artists/L/Lo Tom]] – Jason Martin, Trey Many, TW Walsh (members alongside David Bazan)
 - [[Artists/N/Neon Horse]] – Jason Martin, Steven Dail (members)
+- [[Artists/B/Bon Voyage]] – Jason Martin (side project of Jason Martin with his wife Julie)
 
 ## Sources
 

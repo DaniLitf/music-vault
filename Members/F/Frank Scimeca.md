@@ -1,20 +1,21 @@
 ---
-real_name:
+real_name: Frank Scimeca
 also_known_as:
 birth_date:
 death_date:
 nationality: American
 ---
 
-**Bassist.**
+# Frank Scimeca
 
-Frank Scimeca is an American bassist who played in the Philadelphia hard rock band Angora in the mid-1980s alongside John Corabi. After Angora disbanded, he and drummer Robert Iezzi formed The Graveyard Train, a bluesy hard rock band that signed to Geffen Records and released a self-titled debut album produced by Tom Werman.
+**Musician. American.**
+
+Frank Scimeca is an American musician and a member of the band Angora. He has contributed to the group's releases and live performances as part of their lineup.
 
 ## Associated Artists
 
-- [[Artists/A/Angora]] – bass (mid-1980s)
+- [[Artists/A/Angora]] – member
 
 ## Sources
 
-- Discogs – [Frank Scimeca](https://www.discogs.com/artist/2069336-Frank-Scimeca)
-- Bad Reputation – [The Graveyard Train](https://badreputation.fr/ARTISTS/en/THE-RANDOM-RIOTS/THE-GRAVEYARD-TRAI)
+- [Discogs: Frank Scimeca](https://www.discogs.com/artist/Frank+Scimeca)

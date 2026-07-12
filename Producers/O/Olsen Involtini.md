@@ -1,20 +1,22 @@
 ---
-real_name: Olsen Involtini
-nationality: German
+real_name:
+also_known_as:
+birth_date:
+death_date:
+nationality:
 ---
 
 # Olsen Involtini
 
-**Record producer and sound engineer. German.**
+**Record producer. Swedish.**
 
-Olsen Involtini is a Berlin-based record producer and sound engineer known for his work with Rammstein on their recent studio albums. He also serves as a guitarist for the band Emigrate and as Rammstein's live sound engineer. Following producer Jacob Hellner's departure after the Paris live album in 2017, Involtini took over production duties for Rammstein's subsequent studio releases, bringing a fresh production approach to the band's industrial metal sound.
+Olsen Involtini is a Swedish record producer who worked with Rammstein on their later albums, contributing to the band's refined industrial metal production.
 
 ## Associated Projects
 
-- [[Artists/R/Rammstein]] – *Rammstein* (2019)
-- [[Artists/R/Rammstein]] – *Zeit* (2022)
+- [[Artists/R/Rammstein]] – *Reise, Reise* (2004)
+- [[Artists/R/Rammstein]] – *Rosenrot* (2005)
 
 ## Sources
 
-- Rammstein Official Sources
-- AllMusic
+- [Discogs/Olsen Involtini](https://www.discogs.com/artist/1063553-Olsen-Involtini)

@@ -15,8 +15,9 @@ Steven Dail is an American bassist from California, active since 1996. He is bes
 
 - [[Artists/S/Starflyer 59]] – bass (2006–present)
 - [[Artists/P/Project 86]] – bass, guitar (1997–2010)
-- [[Artists/N/Neon Horse]] – bass (2007–2009)
-- [[Artists/W/White Lighter]] – bass (2010–present)
+- [[Artists/N/Neon Horse]] – bass, vocals (2005–2008)
+- [[Artists/V/Velour 100]] – bass (1990s)
+- [[Artists/W/White Lighter]] – bass (2000s)
 
 ## Sources
 

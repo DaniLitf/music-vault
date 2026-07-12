@@ -1,28 +1,21 @@
 ---
 real_name: Tony Dawson-Harrison
 also_known_as: Captain Hollywood
-birth_date:
+birth_date: 1962-08-09
 death_date:
 nationality: American
 ---
 
 # Tony Dawson-Harrison
 
-**Rapper, singer, dancer, and record producer. American.**
+**MC, rapper, dancer, choreographer. American.**
 
-Tony Dawson-Harrison, known professionally as Captain Hollywood, is an American rapper, singer, dancer, and record producer who was instrumental in the early 1990s Eurodance scene. He first gained fame as the frontman and co-founder of Twenty 4 Seven alongside Ruud van Rijen, then left to form his own highly successful project Captain Hollywood Project, best known for the hit "More and More".
+Tony Dawson-Harrison (born August 9, 1962, Newark, New Jersey) is an American rapper, singer, dancer, and music producer best known as the creator and frontman of the Eurodance project Captain Hollywood Project. After serving in the U.S. Army in Germany, he settled there in 1983 and became one of the first breakdance artists in Europe, performing on national television. He was a member of the Eurodance group Twenty 4 Seven before launching Captain Hollywood Project in 1992, which became a global success with hits including "More and More." He also works as a choreographer for major artists and continues to tour worldwide.
 
 ## Associated Artists
-
-- [[Artists/T/Twenty 4 Seven]] – rap, co-producer (1990–1991)
-- [[Artists/C/Captain Hollywood Project]] – founder, frontman (1992–present)
-
-## Biography
-
-Tony Dawson-Harrison was born in Newark, New Jersey. He gained the nickname "Captain Hollywood" while serving as a US Army captain in Germany, where he entertained fellow soldiers with dance routines. After his military service, he became a choreographer for the German TV show Formel Eins and co-founded Twenty 4 Seven in 1989. He left in 1991 to focus on his own project, Captain Hollywood Project, which achieved worldwide success with "More and More" in 1992.
+- [[Artists/C/Captain Hollywood Project]] – MC, rapper, production (1992–present)
+- [[Artists/T/Twenty 4 Seven]] – member
 
 ## Sources
-
-- Wikipedia
-- Discogs
-- AllMusic
+- [Wikipedia: Captain Hollywood Project](https://en.wikipedia.org/wiki/Captain_Hollywood_Project)
+- [Discogs: Captain Hollywood](https://www.discogs.com/artist/31937-Captain-Hollywood)

@@ -16,6 +16,11 @@ Jason Martin is an American musician best known as the founder, guitarist, and v
 - [[Artists/S/Starflyer 59]] – guitar, vocals (1993–present)
 - [[Artists/L/Lo Tom]] – guitar
 - [[Artists/N/Neon Horse]] – guitar, vocals
+- [[Artists/V/Velour 100]] – guitar (1990s)
+- [[Artists/W/White Lighter]] – guitar, vocals (2000s)
+- [[Artists/B/Bon Voyage]] – guitar, songwriting (1995–present)
+- [[Artists/D/Dance House Children]] – keyboards, vocals (1991–1992)
+- [[Artists/J/Joy Electric]] – occasional contributor (brother Ronnie Martin's project)
 
 ## Sources
 

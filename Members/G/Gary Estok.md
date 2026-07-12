@@ -8,16 +8,14 @@ nationality: American
 
 # Gary Estok
 
-**Drummer. American.**
+**Vocalist. American.**
 
-Gary Estok is an American drummer who played drums for the Cleveland thrash metal band Hatrix from late 1989 to early 1990, appearing on the band's first released song "Sins of a Bastard Angel" on the *Heavy Artillery* compilation. He was previously a member of the bands Sacred Few and Rotterdam.
+Gary Estok is a vocalist who fronted Hatrix, an American heavy metal band. He provided vocals for the band's recordings and performances.
 
 ## Associated Artists
 
-- [[Artists/H/Hatrix]] – drums (1989–1990)
-- [[Artists/S/Sacred Few]] – drums
-- [[Artists/R/Rotterdam]] – drums
+- [[Artists/H/Hatrix]] – vocals
 
 ## Sources
 
-- [Gary Estok — Metal Archives](https://www.metal-archives.com/artists/Gary_Estok/199349)
+- [Wikipedia: Gary Estok](https://en.wikipedia.org/wiki/Gary_Estok)

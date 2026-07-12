@@ -1,13 +1,17 @@
-# Anarcho-Punk
+# Anarcho-punk
 
-A politically charged strand of punk rock rooted in anarchist ideology, anti-authoritarian lyrics, and DIY organizing.
+Anarcho-punk (also known as anarchist punk) is a subgenre of punk rock that promotes anarchist politics. It emerged in the late 1970s and early 1980s, particularly in the United Kingdom, with bands like Crass, Conflict, and Subhumans.
 
 ```dataviewjs
-const genre = dv.current().file.name;
-const name = p => p.display_name ?? p.file.name;
+// Auto-generated: list all artists with this genre
+const genre = "Anarcho-punk";
 const pages = dv.pages('"Artists"')
-	.where(p => Array.isArray(p.genre) ? p.genre.includes(genre) : p.genre === genre)
-	.sort(name);
-dv.paragraph(`Bands in the vault with genre **${genre}** (${pages.length}):`);
-dv.list(pages.map(p => dv.fileLink(p.file.path, false, name(p))));
+  .where(p => {
+    const g = p.genre;
+    if (!g) return false;
+    if (Array.isArray(g)) return g.includes(genre);
+    return g === genre;
+  });
+dv.list(pages.file.link);
+dv.paragraph(`**${pages.length} artists**`);
 ```

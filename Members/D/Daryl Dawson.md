@@ -1,6 +1,6 @@
 ---
 real_name:
-also_known_as: Black Cherry
+also_known_as:
 birth_date:
 death_date:
 nationality: American
@@ -8,14 +8,14 @@ nationality: American
 
 # Daryl Dawson
 
-**Bassist, guitarist. Born ?.**
+**Guitarist. American.**
 
-Daryl Dawson, also known as Black Cherry, is a bassist and guitarist who has performed with The Violet Burning. He has been a consistent presence in the band's lineup across multiple albums and tours.
+Daryl Dawson is a guitarist who played with The Violet Burning, contributing guitar work to the American alternative rock band's music.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – bass, guitar
 
-## Biography
+- [[Artists/T/The Violet Burning]] – guitar
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Daryl Dawson](https://en.wikipedia.org/wiki/Daryl_Dawson)

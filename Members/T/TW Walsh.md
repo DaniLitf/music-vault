@@ -14,8 +14,9 @@ TW Walsh is an American mastering engineer and musician who has worked extensive
 ## Associated Artists
 
 - [[Artists/S/Starflyer 59]] – mastering, synth (2013–2019)
-- [[Artists/P/Pedro the Lion]] – guitar
-- [[Artists/L/Lo Tom]] – guitar, vocals
+- [[Artists/P/Pedro the Lion]] – guitar, bass, drums, keys (2000–2006)
+- [[Artists/L/Lo Tom]] – guitar, vocals (2016–present)
+- [[Artists/H/Headphones]] – member (2005)
 
 ## Sources
 

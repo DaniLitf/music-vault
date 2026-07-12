@@ -8,16 +8,14 @@ nationality: American
 
 # Andrew Prickett
 
-**Guitarist. Born ?.**
+**Guitarist. American.**
 
-Andrew Prickett is a guitarist who has toured or recorded with The Violet Burning. He is a former member of The Prayer Chain and has been featured on multiple Violet Burning recordings.
+Andrew Prickett is a guitarist who played with The Violet Burning, contributing guitar work to the American alternative rock band.
 
 ## Associated Artists
-- [[Artists/T/The Prayer Chain]] – guitar (1990–1995)
-- [[Artists/T/The Violet Burning]] – guitar
-- [[Artists/C/Cush]] – guitar (2000)
 
-## Biography
+- [[Artists/T/The Violet Burning]] – guitar
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Andrew Prickett](https://en.wikipedia.org/wiki/Andrew_Prickett)

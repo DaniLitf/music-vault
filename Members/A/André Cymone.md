@@ -16,6 +16,7 @@ André Cymone is an American bassist and childhood friend of Prince, performing 
 
 - [[Artists/T/The Revolution]] – bass guitar, backing vocals (1979–1982)
 - [[Artists/P/Prince]] – bassist (1979–1982)
+- [[Artists/0-9/94 East]] – session bassist (1975–1979)
 
 ## Sources
 

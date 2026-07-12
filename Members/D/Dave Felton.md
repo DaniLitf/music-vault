@@ -10,17 +10,15 @@ nationality: American
 
 **Guitarist. American.**
 
-Dave Felton is an American guitarist best known as a member of the thrash metal band Hatrix and later as a touring guitarist for the industrial metal band Mushroomhead. He was a member of Purgatory alongside Jeff Hatrix before co-founding Hatrix in 1989, and has also played in Centurion, Integrity, Kriadiaz, and several other Cleveland-area bands.
+Dave Felton is a guitarist who played with Hatrix and founded Kriadiaz. He also played with Centurion and Integrity. He was previously a member of Mushroomhead.
 
 ## Associated Artists
 
-- [[Artists/H/Hatrix]] – guitars (1989–present)
-- [[Artists/M/Mushroomhead]] – guitars (2000–2012, 2022–present)
-- [[Artists/P/Purgatory]] – guitars (1980s)
-- [[Artists/C/Centurion]] – guitars
-- [[Artists/I/Integrity]] – guitars
-- [[Artists/K/Kriadiaz]] – guitars
+- [[Artists/H/Hatrix]] – guitar
+- [[Artists/K/Kriadiaz]] – guitars (2010–present)
+- [[Artists/C/Centurion]] – guitar
+- [[Artists/I/Integrity]] – guitar
 
 ## Sources
 
-- [Dave Felton — Metal Archives](https://www.metal-archives.com/artists/Dave_Felton/199344)
+- [Wikipedia: Dave Felton](https://en.wikipedia.org/wiki/Dave_Felton)

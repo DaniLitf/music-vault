@@ -1,6 +1,6 @@
-# Indie Rock
+# Indie rock
 
-A genre of rock music that originated in the United States and United Kingdom in the 1980s, characterised by its independent approach to production and distribution, typically released on independent record labels.
+A genre of rock music that originated in the 1970s and 1980s from the independent music underground, characterised by a DIY ethos and diverse stylistic approaches.
 
 ```dataviewjs
 const genre = dv.current().file.name;

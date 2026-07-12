@@ -8,14 +8,14 @@ nationality: American
 
 # Kevin Buhler
 
-**Guitarist, bassist. Born ?.**
+**Drummer. American.**
 
-Kevin Buhler is a guitarist and bassist who has performed with The Violet Burning. He has played multiple roles in the band, switching between guitar and bass as needed.
+Kevin Buhler is a drummer who played with The Violet Burning, contributing percussion to the American alternative rock band's recordings.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – guitar, bass
 
-## Biography
+- [[Artists/T/The Violet Burning]] – drums
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Kevin Buhler](https://en.wikipedia.org/wiki/Kevin_Buhler)

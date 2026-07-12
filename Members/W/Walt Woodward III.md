@@ -14,6 +14,7 @@ Walt Woodward III was an American drummer best known for his work with Shark Isl
 
 - [[Artists/S/Shark Island]] – drums
 - [[Artists/T/The Scream]] – drums, backing vocals (1990–1993)
+- [[Artists/D/DC-10]] – drums
 
 ## Sources
 

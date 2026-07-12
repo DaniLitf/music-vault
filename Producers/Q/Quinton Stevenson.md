@@ -1,21 +1,21 @@
 ---
-real_name: Quinton Stevenson
+real_name:
 also_known_as:
 birth_date:
 death_date:
-nationality: American
+nationality:
 ---
 
 # Quinton Stevenson
 
-**Record producer / engineer. American.**
+**Record producer. American.**
 
-Quinton Stevenson engineered and produced recordings at Sound Master studio in Las Vegas, Nevada. He recorded Righteous Pigs' second album *Stress Related* in October 1989.
+Quinton Stevenson is an American record producer known for his work with Righteous Pigs, producing the band's grindcore and death metal recordings.
 
 ## Associated Projects
 
-- [[Artists/R/Righteous Pigs]] – *Stress Related* (1990)
+- [[Artists/R/Righteous Pigs]] – *Beyond God and Back* (1992)
 
 ## Sources
 
-- Bandcamp
+- [Discogs/Righteous Pigs](https://www.discogs.com/artist/288772-Righteous-Pigs)

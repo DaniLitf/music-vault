@@ -1,6 +1,6 @@
 # Alternative rock
 
-Genre of rock music that emerged from the independent music underground of the 1970s and became widely popular in the 1990s.
+Alternative rock is a genre of rock music that emerged from the independent music underground of the 1970s and became widely popular in the 1990s. It encompasses a diverse range of subgenres and styles united by their departure from mainstream rock conventions.
 
 ```dataviewjs
 const genre = dv.current().file.name;

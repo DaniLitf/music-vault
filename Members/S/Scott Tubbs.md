@@ -8,14 +8,14 @@ nationality: American
 
 # Scott Tubbs
 
-**Bassist. Born ?.**
+**Guitarist. American.**
 
-Scott Tubbs is a bassist who has toured or recorded with The Violet Burning.
+Scott Tubbs is a guitarist who played with The Violet Burning, contributing guitar work to the American alternative rock band.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – bass
 
-## Biography
+- [[Artists/T/The Violet Burning]] – guitar
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Scott Tubbs](https://en.wikipedia.org/wiki/Scott_Tubbs)

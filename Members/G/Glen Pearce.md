@@ -8,14 +8,14 @@ nationality: American
 
 # Glen Pearce
 
-**Guitarist. Born ?.**
+**Drummer. American.**
 
-Glen Pearce is a guitarist who has toured or recorded with The Violet Burning. He contributed guitar work to the band's recordings and live shows.
+Glen Pearce is a drummer who played with The Violet Burning, contributing drums to the American alternative rock band.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – guitar
 
-## Biography
+- [[Artists/T/The Violet Burning]] – drums
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Glen Pearce](https://en.wikipedia.org/wiki/Glen_Pearce)

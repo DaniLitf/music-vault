@@ -1,13 +1,17 @@
-# Hardcore Punk
+# Hardcore punk
 
-An aggressive, fast, and intense subgenre of punk known for its speed, shouted vocals, and uncompromising DIY ethos.
+Hardcore punk (often abbreviated as hardcore) is a punk rock music genre and subculture that originated in the late 1970s. It is generally faster, harder, and more aggressive than other forms of punk rock.
 
 ```dataviewjs
-const genre = dv.current().file.name;
-const name = p => p.display_name ?? p.file.name;
+// Auto-generated: list all artists with this genre
+const genre = "Hardcore punk";
 const pages = dv.pages('"Artists"')
-	.where(p => Array.isArray(p.genre) ? p.genre.includes(genre) : p.genre === genre)
-	.sort(name);
-dv.paragraph(`Bands in the vault with genre **${genre}** (${pages.length}):`);
-dv.list(pages.map(p => dv.fileLink(p.file.path, false, name(p))));
+  .where(p => {
+    const g = p.genre;
+    if (!g) return false;
+    if (Array.isArray(g)) return g.includes(genre);
+    return g === genre;
+  });
+dv.list(pages.file.link);
+dv.paragraph(`**${pages.length} artists**`);
 ```

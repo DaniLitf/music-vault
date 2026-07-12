@@ -1,13 +1,17 @@
 # Death metal
 
-Extreme metal subgenre characterized by heavily distorted guitars, deep growling vocals, blast beats, and dark lyrical themes. Originating in the mid-1980s, it became one of the most prominent extreme metal styles worldwide.
+An extreme heavy metal subgenre that emerged in the mid-1980s, characterised by heavily distorted guitars, deep growling vocals, blast beat drumming, and lyrics focused on violence, death, horror, and the occult.
 
 ```dataviewjs
-const genre = dv.current().file.name;
-const name = p => p.display_name ?? p.file.name;
+// Auto-generated: list all artists with this genre
+const genre = "Death metal";
 const pages = dv.pages('"Artists"')
-	.where(p => Array.isArray(p.genre) ? p.genre.includes(genre) : p.genre === genre)
-	.sort(name);
-dv.paragraph(`Bands in the vault with genre **${genre}** (${pages.length}):`);
-dv.list(pages.map(p => dv.fileLink(p.file.path, false, name(p))));
+  .where(p => {
+    const g = p.genre;
+    if (!g) return false;
+    if (Array.isArray(g)) return g.includes(genre);
+    return g === genre;
+  });
+dv.list(pages.file.link);
+dv.paragraph(`**${pages.length} artists**`);
 ```

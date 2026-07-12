@@ -29,7 +29,7 @@ Jimmy Jam and Terry Lewis are an American songwriting and record production duo 
 ## Connections
 
 - [[Artists/T/The Time]] – Jimmy Jam, Terry Lewis (met as members of The Time)
-- [[Artists/F/Flyte Tyme]] – Jimmy Jam, Terry Lewis (Met in Flyte Tyme)
+- [[Artists/F/Flyte Tyme]] – Jimmy Jam, Terry Lewis (met and played together in Flyte Tyme)
 - [[Artists/P/Prince]] – Jimmy Jam, Terry Lewis (associates, discovered by Prince)
 
 ## Sources

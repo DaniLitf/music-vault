@@ -3,17 +3,19 @@ real_name:
 also_known_as:
 birth_date:
 death_date:
-nationality: American
+nationality:
 ---
 
 # Sir Arthur Payson
 
-**Record producer.**
+**Record producer. American.**
 
-Sir Arthur Payson is an American record producer and engineer who produced Ratt's 1990 album *Detonator*.
+Sir Arthur Payson is an American record producer known for his work with Ratt and other hard rock acts, producing polished studio recordings.
 
 ## Associated Projects
+
 - [[Artists/R/Ratt]] – *Detonator* (1990)
 
 ## Sources
-- Discogs – [Sir Arthur Payson](https://www.discogs.com/artist/420348-Sir-Arthur-Payson)
+
+- [Discogs/Sir Arthur Payson](https://www.discogs.com/artist/279664-Sir-Arthur-Payson)

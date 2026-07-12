@@ -8,14 +8,14 @@ nationality: American
 
 # Jason Pickersgill
 
-**Bassist. Born ?.**
+**Drummer. American.**
 
-Jason Pickersgill is a bassist who has toured or recorded with The Violet Burning.
+Jason Pickersgill is a drummer who played with The Violet Burning, contributing percussion to the American alternative rock band.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – bass
 
-## Biography
+- [[Artists/T/The Violet Burning]] – drums
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Jason Pickersgill](https://en.wikipedia.org/wiki/Jason_Pickersgill)

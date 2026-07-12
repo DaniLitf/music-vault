@@ -1,5 +1,5 @@
 ---
-real_name:
+real_name: Chad Channing
 also_known_as:
 birth_date: 1967-01-31
 death_date:
@@ -8,15 +8,16 @@ nationality: American
 
 # Chad Channing
 
-**Drummer. Born January 31, 1967.**
+**Drummer. American.**
 
-Chad Channing is an American musician best known as the drummer for the grunge band [[Artists/N/Nirvana]] from 1988 to 1990. He played on the band's critically acclaimed debut album *Bleach* (1989), helping establish Nirvana's early raw, abrasive sound. After leaving Nirvana, Channing continued making music with various projects including the Fire Ants and Can of Clouds.
+Chad Channing is an American drummer best known as the original drummer for Nirvana, performing on their debut album Bleach and the single "Polly" from Nevermind before being replaced by Dave Grohl in 1990. After leaving Nirvana, he played with several bands including Fire Ants and The Methodists throughout the 1990s.
 
 ## Associated Artists
 
 - [[Artists/N/Nirvana]] – drums (1988–1990)
+- [[Artists/F/Fire Ants]] – drums (1992)
+- [[Artists/T/The Methodists]] – drums (1998)
 
 ## Sources
 
-- Wikipedia
-- AllMusic
+- [Wikipedia: Chad Channing](https://en.wikipedia.org/wiki/Chad_Channing)

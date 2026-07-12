@@ -1,6 +1,6 @@
-# Noise Pop
+# Noise pop
 
-A genre of alternative rock that combines the melodic sensibilities of pop with the distorted guitars and feedback of noise rock.
+A style of alternative rock that combines pop song structures with dissonant, distorted, or otherwise noisy instrumentation, pioneered by bands like The Jesus and Mary Chain, Dinosaur Jr., and My Bloody Valentine.
 
 ```dataviewjs
 const genre = dv.current().file.name;

@@ -10,14 +10,12 @@ nationality: American
 
 **Guitarist. American.**
 
-Marko Vukcevich is an American guitarist best known as the live second guitarist for the Cleveland thrash metal band Hatrix, a position he held from 1990 onward. He was originally a member of the Cleveland thrash band Trëllebörg alongside Steve Felton, and also played guitar for Mushroomhead from 1999 to 2006, contributing to their turntable and sample work.
+Marko Vukcevich is a guitarist known for playing with Hatrix and later with Mushroomhead. He contributed guitar work to both American heavy metal and industrial projects.
 
 ## Associated Artists
 
-- [[Artists/H/Hatrix]] – guitars (live, 1990–present)
-- [[Artists/M/Mushroomhead]] – DJ, turntables, samples, guitars (1999–2006)
-- [[Artists/T/Trëllebörg]] – guitars
+- [[Artists/H/Hatrix]] – guitar
 
 ## Sources
 
-- [Marko Vukcevich — Metal Archives](https://www.metal-archives.com/artists/Marko_Vukcevich/199348)
+- [Wikipedia: Marko Vukcevich](https://en.wikipedia.org/wiki/Marko_Vukcevich)

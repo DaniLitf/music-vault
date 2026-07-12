@@ -36,3 +36,4 @@ Flyte Tyme was a Minneapolis funk band formed in the early 1970s that served as 
 
 ## Sources
 - Wikipedia
+- Discogs

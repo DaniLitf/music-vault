@@ -11,6 +11,7 @@ nationality: American
 
 ## Associated Artists
 - [[Artists/F/Frank Zappa]]
+- [[Artists/G/Grand Funk Railroad]] – producer of *Good Singin', Good Playin'* (1976)
 
 ## Sources
 - Wikipedia

@@ -8,14 +8,14 @@ nationality: American
 
 # David Archuletta II
 
-**Guitarist. Born ?.**
+**Guitarist. American.**
 
-David Archuletta II is a guitarist who has toured or recorded with The Violet Burning. He contributed guitar parts to the band's recordings.
+David Archuletta II is a guitarist who played with The Violet Burning, contributing guitar work to the American alternative rock band.
 
 ## Associated Artists
+
 - [[Artists/T/The Violet Burning]] – guitar
 
-## Biography
-
 ## Sources
-- Wikipedia
+
+- [Wikipedia: David Archuletta II](https://en.wikipedia.org/wiki/David_Archuletta_II)

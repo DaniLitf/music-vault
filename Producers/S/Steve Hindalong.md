@@ -1,22 +1,21 @@
 ---
-real_name: Steve Hindalong
+real_name:
 also_known_as:
 birth_date:
 death_date:
-nationality: American
+nationality:
 ---
 
 # Steve Hindalong
 
-**Record producer, drummer, songwriter. American.**
+**Record producer. American.**
 
-Steve Hindalong is an American record producer and musician best known as the drummer of the Christian rock band The Choir and as a prolific producer of Christian alternative rock albums. He produced all three studio albums by [[Artists/T/The Prayer Chain]] — *The Neverland Sessions* (1992), *Shawl* (1993), and *Mercury* (1995) — at Neverland Studios. He has also produced albums for [[Artists/S/Starflyer 59]], The Choir, and numerous other artists in the Christian alternative scene.
+Steve Hindalong is an American record producer and drummer for The Choir, known for his production work with The Prayer Chain and other Christian alternative rock artists.
 
 ## Associated Projects
 
-- [[Artists/T/The Prayer Chain]] – *The Neverland Sessions* (1992), *Shawl* (1993), *Mercury* (1995)
+- [[Artists/T/The Prayer Chain]] – *Mercury* (1995)
 
 ## Sources
 
-- Wikipedia
-- Discogs
+- [AllMusic/Steve Hindalong](https://www.allmusic.com/artist/steve-hindalong-mn0000271287)

@@ -1,15 +1,21 @@
 ---
-nationality: American
+real_name:
+also_known_as:
+birth_date:
+death_date:
+nationality:
 ---
 
-**Record producer and musician. American.**
+# Terry Scott Taylor
 
-Terry Scott Taylor is a record producer and musician best known as the frontman of the band Daniel Amos and as a member of Lost Dogs and The Swirling Eddies. He has produced albums for a variety of artists in the Christian alternative and indie rock scenes.
+**Record producer. American.**
+
+Terry Scott Taylor is an American musician and record producer, a founding member of Daniel Amos who produced albums for Starflyer 59 and other alternative and Christian rock artists.
 
 ## Associated Projects
 
-- [[Artists/S/Starflyer 59]] – *Leave Here a Stranger* (2001)
+- [[Artists/S/Starflyer 59]] – *Silver* (1998)
 
 ## Sources
 
-- Wikipedia
+- [AllMusic/Terry Scott Taylor](https://www.allmusic.com/artist/terry-scott-taylor-mn0000111972)

@@ -19,6 +19,7 @@ Steve "Skinny" Felton is an American musician and the founding drummer and visua
 - [[Artists/H/Hatrix]] – drums
 - [[Artists/T/Tenafly Viper]] – drums
 - [[Artists/S/Scelestus]] – drums
+- [[Artists/T/Trëllebörg]] – drums (1986–1989)
 
 ## Sources
 

@@ -16,7 +16,7 @@ Bruce Kulick is an American hard rock guitarist best known as the lead guitarist
 
 - [[Artists/K/KISS]] – lead guitar (1984–1996)
 - [[Artists/U/Union]] – guitar (1997–2002, 2005)
-- [[Artists/G/Grand Funk Railroad]] – guitar (2000s)
+- [[Artists/G/Grand Funk Railroad]] – lead guitar (2000–2023, 2025)
 - [[Artists/E/ESP]] – guitar (1990s–present)
 - [[Artists/B/Blackjack]] – guitar (1979–1981)
 

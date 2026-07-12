@@ -14,6 +14,8 @@ Jeff Cloud is an American musician best known as the bassist for Starflyer 59 fr
 ## Associated Artists
 
 - [[Artists/S/Starflyer 59]] – bass (1997–2004)
+- [[Artists/V/Velour 100]] – guitar (1990s)
+- [[Artists/W/White Lighter]] – guitar (2000s)
 - [[Artists/J/Joy Electric]] – synthesizers (1996–2002)
 
 ## Sources

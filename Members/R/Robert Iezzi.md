@@ -1,20 +1,21 @@
 ---
-real_name:
+real_name: Robert Iezzi
 also_known_as:
 birth_date:
 death_date:
 nationality: American
 ---
 
-**Drummer.**
+# Robert Iezzi
 
-Robert Iezzi is an American drummer who played in the Philadelphia hard rock band Angora in the mid-1980s alongside John Corabi. After Angora disbanded, he and bassist Frank Scimeca formed The Graveyard Train, a bluesy hard rock band that signed to Geffen Records and released a self-titled debut album in the early 1990s.
+**Musician. American.**
+
+Robert Iezzi is an American musician and a member of the band Angora. He has contributed to the group's releases and live performances as part of their lineup.
 
 ## Associated Artists
 
-- [[Artists/A/Angora]] – drums (mid-1980s)
+- [[Artists/A/Angora]] – member
 
 ## Sources
 
-- Discogs – [Angora (3)](https://www.discogs.com/artist/3851751-Angora-3)
-- Bad Reputation – [The Graveyard Train](https://badreputation.fr/ARTISTS/en/THE-RANDOM-RIOTS/THE-GRAVEYARD-TRAI)
+- [Discogs: Robert Iezzi](https://www.discogs.com/artist/Robert+Iezzi)

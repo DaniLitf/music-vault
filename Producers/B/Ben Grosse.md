@@ -1,21 +1,21 @@
 ---
-real_name: Benjamin Boaz Grosse
+real_name:
 also_known_as:
 birth_date:
 death_date:
-nationality: American
+nationality:
 ---
 
 # Ben Grosse
 
-**Record producer, mixer. American.**
+**Record producer. American.**
 
-Ben Grosse is an American record producer and mixer known for his signature hard rock and metal sound. He has produced and mixed albums for Disturbed, Marilyn Manson, Filter, Sevendust, Breaking Benjamin, Alter Bridge, and Thirty Seconds to Mars, among many others. Grosse owns and operates The Mix Room in Burbank, California.
+Ben Grosse is an American record producer and mixer known for his work with The Dead Daisies, Marilyn Manson, and Filter, specializing in hard rock and industrial rock production.
 
 ## Associated Projects
-- [[Artists/T/The Dead Daisies]] – *Holy Ground* (2021), *Radiance* (2022)
+
+- [[Artists/T/The Dead Daisies]] – *Revolución* (2013)
 
 ## Sources
-- Wikipedia
-- AllMusic
-- Discogs
+
+- [AllMusic/Ben Grosse](https://www.allmusic.com/artist/ben-grosse-mn0000492213)

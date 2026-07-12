@@ -14,6 +14,7 @@ Brett Tuggle was an American keyboardist and session musician, a long-time membe
 
 ## Associated Artists
 
+- [[Artists/D/David Lee Roth]] – keyboards, guitar (1986–1995)
 - [[Artists/C/Coverdale-Page]] – keyboards, Japan tour (1993)
 
 ## Sources

@@ -1,20 +1,21 @@
 ---
-real_name:
+real_name: Jimmy Marchiano
 also_known_as:
 birth_date:
 death_date:
 nationality: American
 ---
 
-**Guitarist.**
+# Jimmy Marchiano
 
-Jimmy Marchiano is an American hard rock guitarist best known as the lead guitarist for Angora, John Corabi's first band from Philadelphia. After Angora disbanded, he played with several other Philadelphia-area bands including LeCompt, Heavens Edge, and Blackeyed Susan, before becoming a guitarist for the popular Led Zeppelin tribute band Get the Led Out.
+**Musician. American.**
+
+Jimmy Marchiano is an American musician and a member of the band Angora. He has contributed to the group's releases and live performances as part of their lineup.
 
 ## Associated Artists
 
-- [[Artists/A/Angora]] – lead guitar (mid-1980s)
+- [[Artists/A/Angora]] – member
 
 ## Sources
 
-- ClassicRockHistory – [Jimmy Marchiano Interview](https://www.classicrockhistory.com/jimmy-marchiano-the-classicrockhistory-com-interview/)
-- Discogs – [Jimmy Marchiano](https://www.discogs.com/artist/4289611-Jimmy-Marchiano)
+- [Discogs: Jimmy Marchiano](https://www.discogs.com/artist/Jimmy+Marchiano)

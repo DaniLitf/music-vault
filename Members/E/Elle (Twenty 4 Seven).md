@@ -6,17 +6,15 @@ death_date:
 nationality: Dutch
 ---
 
-# Elle
+# Elle (Twenty 4 Seven)
 
-**Singer. Dutch.**
+**Vocalist. Born ?.**
 
-Elle is a Dutch singer who briefly performed as the vocalist of Twenty 4 Seven in 2007. She contributed to the single "Like Flames" during a short-lived revival of the project.
+Elle is a Dutch vocalist who performed as a member of the Eurodance group Twenty 4 Seven during their later period. She contributed vocals to the group's recordings and live performances.
 
 ## Associated Artists
+- [[Artists/T/Twenty 4 Seven]] – vocals
 
-- [[Artists/T/Twenty 4 Seven]] – vocals (2007)
+## Biography
 
 ## Sources
-
-- Wikipedia
-- Discogs

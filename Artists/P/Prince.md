@@ -58,6 +58,7 @@ Prince is a solo artist. See [[Members/P/Prince]] for biography.
 - [[Artists/M/Michael Jackson]] – Prince (competitive rivalry defined 1980s pop; their parallel careers were frequently compared)
 - [[Artists/L/Lenny Kravitz]] – Prince (performed together at *Rave Un2 the Year 2000*)
 - [[Artists/S/Stevie Wonder]] – Prince (played guitar on Stevie Wonder's "So What the Fuss", 2005)
+- [[Artists/0-9/94 East]] – Prince (played guitar and bass on early recordings by Pepé Willie's band, 1975–1979)
 
 ## Sources
 - Wikipedia

@@ -39,14 +39,13 @@ Exploding Flowers is a Los Angeles-based quartet known for their guitar-driven p
 ### Notable Guests
 - Suki Ewers – vocals (Opal, Mazzy Star)
 - Rachel Love – vocals (Dolly Mixture)
-- Jowe Head – ? (Swell Maps, Television Personalities)
+- [[Members/J/Jowe Head]] – multi-instrumentalist (Swell Maps, Television Personalities)
 
 ## Connections
 
 - [[Artists/T/The Lassie Foundation]] – Happy Tsugawa-Banta (vibraphonist/keyboardist)
+- [[Artists/T/The Moon Upstairs]] – Josh Mancell, Mark Sogomian, Sharif Dumani (three members from The Moon Upstairs)
 - [[Artists/R/Ray Barbee]] – Happy Tsugawa-Banta (performed together)
-- [[Artists/M/Mazzy Star]] – Suki Ewers (guest vocalist)
-- [[Artists/T/The Moon Upstairs]] – Josh Mancell, Mark Sogomian (both members)
 
 ## Sources
 

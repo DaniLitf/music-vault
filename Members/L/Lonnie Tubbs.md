@@ -8,14 +8,14 @@ nationality: American
 
 # Lonnie Tubbs
 
-**Drummer. Born ?.**
+**Guitarist. American.**
 
-Lonnie Tubbs is a drummer who has toured or recorded with The Violet Burning. He was part of the band's early rhythm section, contributing drums on recordings and tours.
+Lonnie Tubbs is a guitarist who played with The Violet Burning, contributing guitar work to the American alternative rock band.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – drums
 
-## Biography
+- [[Artists/T/The Violet Burning]] – guitar
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Lonnie Tubbs](https://en.wikipedia.org/wiki/Lonnie_Tubbs)

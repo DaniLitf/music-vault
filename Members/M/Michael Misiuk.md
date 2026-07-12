@@ -8,14 +8,14 @@ nationality: American
 
 # Michael Misiuk
 
-**Guitarist. Born ?.**
+**Drummer. American.**
 
-Michael Misiuk is a guitarist who has toured or recorded with The Violet Burning. He contributed to the band's earlier lineup during their formative years.
+Michael Misiuk is a drummer who played with The Violet Burning, contributing drums to the American alternative rock band.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – guitar
 
-## Biography
+- [[Artists/T/The Violet Burning]] – drums
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Michael Misiuk](https://en.wikipedia.org/wiki/Michael_Misiuk)

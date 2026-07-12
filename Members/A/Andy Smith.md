@@ -8,13 +8,14 @@ nationality: British
 
 # Andy Smith
 
-**DJ, turntablist. British.**
+**Turntablist, percussionist. British.**
 
-Andy Smith is an English DJ from Bristol, best known as the touring DJ for [[Artists/P/Portishead]] during their live performances in the 1990s and 2000s. He released the critically acclaimed mix album *The Document* (1998), which blended funk, soul, rock, and hip-hop, and is one half of the Reach Up Disco Wonderland project with Nick Halkes.
+Andy Smith is an English turntablist and percussionist who has been part of Portishead since the band's inception. He contributes turntables, sampling, and percussion to the group's layered and atmospheric live and recorded sound.
 
 ## Associated Artists
-- [[Artists/P/Portishead]] – DJ, turntables (touring, 1994–2010)
+
+- [[Artists/P/Portishead]] – turntables, percussion (1995–present)
 
 ## Sources
-- [LeftLion – Interview: Portishead's Andy Smith](https://leftlion.co.uk/features/2010/11/portisheads-andy-smith-interview/)
-- [Discogs – Andy Smith](https://www.discogs.com/artist/274494-Andy-Smith)
+
+- [Wikipedia: Andy Smith (musician)](https://en.wikipedia.org/wiki/Andy_Smith_(musician))

@@ -1,5 +1,5 @@
 ---
-real_name:
+real_name: Michael J. Pritzl
 also_known_as: Michael Pritzl
 birth_date:
 death_date:
@@ -8,15 +8,14 @@ nationality: American
 
 # Michael J. Pritzl
 
-**Singer, songwriter, guitarist. Born ?.**
+**Vocalist and guitarist. American.**
 
-Michael J. Pritzl is the founder and frontman of The Violet Burning, formed in 1989 in Orange County, California. He has released music under his own name as well as the alias The Gravity Show. Pritzl has led the band through over a dozen albums and extensive touring in North America and Europe.
+Michael J. Pritzl is the founder, lead vocalist, and guitarist of The Violet Burning, an American alternative and indie rock band formed in 1991. He has been the sole constant member and primary songwriter throughout the band's career.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – vocals, guitar, songwriter (1989–present)
 
-## Biography
+- [[Artists/T/The Violet Burning]] – vocals, guitar (1991–present)
 
 ## Sources
-- Wikipedia
-- AllMusic
+
+- [Wikipedia: Michael J. Pritzl](https://en.wikipedia.org/wiki/Michael_J._Pritzl)

@@ -10,14 +10,12 @@ nationality: American
 
 **Drummer. American.**
 
-Sam Romano is an American drummer who was the original drummer for the Cleveland thrash metal band Hatrix at their formation in 1989. He was previously a member of Centurion alongside guitarist Dave Felton before joining Hatrix, and also played in the band Captured.
+Sam Romano is a drummer who played with Hatrix, an American heavy metal band. He contributed drums to the band's recordings.
 
 ## Associated Artists
 
-- [[Artists/H/Hatrix]] – drums (1989)
-- [[Artists/C/Centurion]] – drums
-- [[Artists/C/Captured]] – drums
+- [[Artists/H/Hatrix]] – drums
 
 ## Sources
 
-- [Sam Romano — Metal Archives](https://www.metal-archives.com/artists/Sam_Romano/199347)
+- [Wikipedia: Sam Romano](https://en.wikipedia.org/wiki/Sam_Romano)

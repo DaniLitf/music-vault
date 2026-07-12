@@ -8,14 +8,14 @@ nationality: American
 
 # James Banuelos
 
-**Percussionist. Born ?.**
+**Bassist. American.**
 
-James Banuelos is a percussionist who has toured or recorded with The Violet Burning. He added percussion textures to the band's recordings and live performances.
+James Banuelos is a bassist who played with The Violet Burning, providing bass guitar for the American alternative rock band.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – percussion
 
-## Biography
+- [[Artists/T/The Violet Burning]] – bass
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: James Banuelos](https://en.wikipedia.org/wiki/James_Banuelos)

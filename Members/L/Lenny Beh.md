@@ -8,14 +8,14 @@ nationality: American
 
 # Lenny Beh
 
-**Drummer, violinist. Born ?.**
+**Guitarist. American.**
 
-Lenny Beh is a drummer and violinist who has performed with The Violet Burning. He is one of the core members of the band's current lineup, contributing both rhythm section and string arrangements.
+Lenny Beh is a guitarist who played with The Violet Burning, contributing guitar and backing vocals to the American alternative rock band's recordings and live performances.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – drums, violin
 
-## Biography
+- [[Artists/T/The Violet Burning]] – guitar, backing vocals
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Lenny Beh](https://en.wikipedia.org/wiki/Lenny_Beh)

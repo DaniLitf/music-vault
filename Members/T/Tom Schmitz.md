@@ -15,6 +15,7 @@ Tom Schmitz, known professionally as Shmotz, is an American musician best known 
 ## Associated Artists
 
 - [[Artists/M/Mushroomhead]] – keyboards, samples (1993–2015)
+- [[Artists/T/Trëllebörg]] – bass (1986–1989)
 
 ## Sources
 

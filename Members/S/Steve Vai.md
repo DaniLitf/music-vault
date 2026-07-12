@@ -14,6 +14,7 @@ Steve Vai is an American guitarist widely regarded as one of the greatest rock g
 
 ## Associated Artists
 - [[Artists/F/Frank Zappa]] — guitarist, transcriptionist (1980–1983)
+- [[Artists/D/David Lee Roth]] — lead guitarist (1985–1988)
 - [[Artists/W/Whitesnake]] — lead guitarist (1989–1990)
 - [[Artists/S/Steve Vai]] — solo career (1983–present)
 

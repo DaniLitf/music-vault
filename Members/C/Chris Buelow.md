@@ -8,14 +8,14 @@ nationality: American
 
 # Chris Buelow
 
-**Guitarist. Born ?.**
+**Bassist. American.**
 
-Chris Buelow is a guitarist who has performed with The Violet Burning. He has contributed to the band's sound as part of both their recording and touring lineups.
+Chris Buelow is a bassist who played with The Violet Burning, providing bass guitar for the American alternative rock band.
 
 ## Associated Artists
-- [[Artists/T/The Violet Burning]] – guitar
 
-## Biography
+- [[Artists/T/The Violet Burning]] – bass
 
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Chris Buelow](https://en.wikipedia.org/wiki/Chris_Buelow)

@@ -11,6 +11,7 @@ Electric Lady Studios is one of the most iconic and prestigious recording facili
 
 ## Albums Recorded Here
 
+- [[Artists/A/Alice Cooper]] – *Welcome to My Nightmare* (1975)
 - [[Artists/O/Ozzy Osbourne]] – *Ozzmosis* (1995)
 
 ## Sources

@@ -8,14 +8,14 @@ nationality: American
 
 # Michael Kalmar
 
-**Drummer. Born ?.**
+**Drummer. American.**
 
-Michael Kalmar is a drummer who has toured or recorded with The Violet Burning. He played drums on recordings and was part of the band's rotating rhythm section.
+Michael Kalmar is a drummer who played with The Violet Burning, contributing drums to the American alternative rock band.
 
 ## Associated Artists
+
 - [[Artists/T/The Violet Burning]] – drums
 
-## Biography
-
 ## Sources
-- Wikipedia
+
+- [Wikipedia: Michael Kalmar](https://en.wikipedia.org/wiki/Michael_Kalmar)

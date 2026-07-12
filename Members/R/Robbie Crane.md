@@ -1,21 +1,23 @@
 ---
-real_name:
+real_name: Robbie Crane
 also_known_as:
-birth_date:
+birth_date: 1967
 death_date:
 nationality: American
 ---
 
-**Bassist.**
+# Robbie Crane
 
-Robbie Crane is an American hard rock bassist who played with RATT from the early 2000s, replacing Juan Croucier. He also joined Bobby Blotzer's Angel City Outlaws project alongside John Corabi and Keri Kelli, and has performed with other rock acts including Vince Neil and Adler's Appetite.
+**Bassist. American.**
+
+Robbie Crane is an American bassist best known for his tenure with Ratt from 2002 to 2012. Beyond Ratt, he has played bass with several notable acts including Black Label Society and Vince Neil's solo band, as well as Angel City Outlaws.
 
 ## Associated Artists
 
-- [[Artists/A/Angel City Outlaws]] – bass (2005–2006)
-- [[Artists/R/Ratt]] – bass (2000–present)
+- [[Artists/R/Ratt]] – bass (2002–2012)
+- [[Artists/B/Black Label Society]] – bass
+- [[Artists/A/Angel City Outlaws]] – bass
 
 ## Sources
 
-- Wikipedia – [Robbie Crane](https://en.wikipedia.org/wiki/Robbie_Crane)
-- Discogs – [Robbie Crane](https://www.discogs.com/artist/1125550-Robbie-Crane)
+- [Wikipedia: Robbie Crane](https://en.wikipedia.org/wiki/Robbie_Crane)

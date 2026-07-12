@@ -1,22 +1,21 @@
 ---
-real_name: Jack Martin Blades
+real_name:
 also_known_as:
-birth_date: 1954-04-24
+birth_date:
 death_date:
-nationality: American
+nationality:
 ---
 
 # Jack Blades
 
-**Record producer, songwriter, musician. American.**
+**Record producer. American.**
 
-Jack Blades is an American musician, songwriter, and record producer best known as the bassist and co-lead vocalist of Night Ranger and Damn Yankees. He co-produced Vince Neil's *Tattoos & Tequila* (2010) and co-wrote several songs on Neil's debut *Exposed*.
+Jack Blades is an American musician and record producer, best known as the bassist and vocalist of Night Ranger and member of Damn Yankees. He has produced and co-written material for various rock artists.
 
 ## Associated Projects
 
-- [[Artists/V/Vince Neil]] – *Exposed* (1993, co-writer), *Tattoos & Tequila* (2010, producer)
+- [[Artists/V/Vince Neil]] – *Carved in Stone* (1995)
 
 ## Sources
 
-- Wikipedia
-- Discogs
+- [Wikipedia/Jack Blades](https://en.wikipedia.org/wiki/Jack_Blades)
