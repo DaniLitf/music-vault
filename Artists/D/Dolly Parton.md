@@ -16,22 +16,22 @@ Dolly Parton is a solo artist. See [[Members/D/Dolly Parton]] for biography.
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *Hello, I'm Dolly* | 1967 | | |
-| *Just Because I'm a Woman* | 1968 | | |
-| *In the Good Old Days (When Times Were Bad)* | 1969 | | |
-| *My Blue Ridge Mountain Boy* | 1969 | | |
-| *The Fairest of Them All* | 1970 | | |
-| *The Golden Streets of Glory* | 1971 | | |
-| *Joshua* | 1971 | | |
-| *Coat of Many Colors* | 1971 | | |
-| *Touch Your Woman* | 1972 | | |
-| *My Favorite Songwriter, Porter Wagoner* | 1972 | | |
-| *My Tennessee Mountain Home* | 1973 | | |
-| *Bubbling Over* | 1973 | | |
+| *Hello, I'm Dolly* | 1967 | [[Producers/B/Bob Ferguson]] | |
+| *Just Because I'm a Woman* | 1968 | [[Producers/B/Bob Ferguson]] | |
+| *In the Good Old Days (When Times Were Bad)* | 1969 | [[Producers/B/Bob Ferguson]] | |
+| *My Blue Ridge Mountain Boy* | 1969 | [[Producers/B/Bob Ferguson]] | |
+| *The Fairest of Them All* | 1970 | [[Producers/B/Bob Ferguson]] | |
+| *The Golden Streets of Glory* | 1971 | [[Producers/B/Bob Ferguson]] | |
+| *Joshua* | 1971 | [[Producers/B/Bob Ferguson]] | |
+| *Coat of Many Colors* | 1971 | [[Producers/B/Bob Ferguson]] | |
+| *Touch Your Woman* | 1972 | [[Producers/B/Bob Ferguson]] | |
+| *My Favorite Songwriter, Porter Wagoner* | 1972 | [[Producers/B/Bob Ferguson]] | |
+| *My Tennessee Mountain Home* | 1973 | [[Producers/B/Bob Ferguson]] | |
+| *Bubbling Over* | 1973 | [[Producers/B/Bob Ferguson]] | |
 | *Jolene* | 1974 | [[Producers/B/Bob Ferguson]] | [[Studios/R/RCA Studio B]] |
-| *Love Is Like a Butterfly* | 1974 | | |
-| *The Bargain Store* | 1975 | | |
-| *Dolly* | 1975 | | |
+| *Love Is Like a Butterfly* | 1974 | [[Producers/B/Bob Ferguson]] | |
+| *The Bargain Store* | 1975 | [[Producers/B/Bob Ferguson]] | |
+| *Dolly* | 1975 | [[Producers/B/Bob Ferguson]] | |
 | *All I Can Do* | 1976 | | |
 | *New Harvest...First Gathering* | 1977 | | |
 | *Here You Come Again* | 1977 | [[Producers/G/Gary Klein]] | |

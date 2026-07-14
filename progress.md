@@ -887,9 +887,10 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [ ] | C/Cilver |  |
 | [ ] | S/Sons of Apollo |  |
 | [ ] | W/Whom Gods Destroy |  |
+| [ ] | M/Meat Beat Manifesto |  |
 
 ## Members
-> last updated: 2026-07-13T05:22 · unfixed: 90
+> last updated: 2026-07-13T18:43 · unfixed: 92
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -2442,10 +2443,12 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Rafael M. Espinosa (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
 - [ ] Jan Dewulf (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
 - [ ] Kip Hanrahan (batch: 2026-07-13T05:22, from: [[Producers/K/Kip Hanrahan]])
+- [ ] Jack Dangers (batch: 2026-07-13T05:25, from: [[Producers/J/Jack Dangers]])
+- [ ] Bob Ferguson (batch: 2026-07-13T18:43, from: [[Producers/B/Bob Ferguson]])
 
 ## Producers
 
-> last updated: 2026-07-13T05:25 · unfixed: 84
+> last updated: 2026-07-13T18:43 · unfixed: 82
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -2662,8 +2665,8 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Christian Edgren (batch: 2026-07-13T01:00, from: [[Artists/D/Dia Psalma]])
 - [x] Kip Hanrahan (batch: 2026-07-13T01:00, from: [[Artists/A/Astor Piazzolla]])
 - [x] Lucas Banker (batch: 2026-07-13T02:00, from: [[Artists/D/Divine Heresy]])
-- [ ] Jack Dangers (batch: 2026-07-13T02:00, from: [[Artists/D/Dj Spooky]])
-- [ ] Bob Ferguson (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
+- [x] Jack Dangers (batch: 2026-07-13T02:00, from: [[Artists/D/Dj Spooky]])
+- [x] Bob Ferguson (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
 - [ ] Gary Klein (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
 - [ ] Mike Post (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
 - [ ] Tom Wilson (batch: 2026-07-13T05:00, from: [[Artists/F/Frank Zappa]])
