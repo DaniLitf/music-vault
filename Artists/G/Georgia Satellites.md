@@ -17,7 +17,7 @@ genre:
 | *Georgia Satellites* | 1986 | [[Producers/J/Jeff Glixman]] | Axis Studios, Cheshire Sound Studios (Atlanta, GA) |
 | *Open All Night* | 1988 | [[Producers/J/Jeff Glixman]] | |
 | *In the Land of Salvation and Sin* | 1989 | [[Producers/J/Joe Hardy]] | |
-| *Shaken Not Stirred* | 1996 | Charlie Jensen, Oli Poulsen | |
+| *Shaken Not Stirred* | 1996 | [[Producers/C/Charlie Jensen]], [[Producers/O/Oli Poulsen]] | |
 
 ### Live Albums
 | Album | Year |

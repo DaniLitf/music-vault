@@ -9,7 +9,7 @@ nationality: Swedish
 **Tobias Forge is a Swedish musician and the founder and sole constant member of Ghost, who has performed under various "Papa Emeritus" and "Cardinal Copia" personas.**
 
 ## Associated Artists
-- [[Artists/G/Ghost]]
+- [[Artists/G/Ghost]] – lead vocals, producer (2006–present; as Papa Emeritus I–IV, Cardinal Copia, Gene Walker)
 
 ## Sources
 - Wikipedia

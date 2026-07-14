@@ -35,9 +35,9 @@ Dolly Parton is a solo artist. See [[Members/D/Dolly Parton]] for biography.
 | *All I Can Do* | 1976 | | |
 | *New Harvest...First Gathering* | 1977 | | |
 | *Here You Come Again* | 1977 | [[Producers/G/Gary Klein]] | |
-| *Heartbreaker* | 1978 | | |
-| *Great Balls of Fire* | 1979 | | |
-| *Dolly, Dolly, Dolly* | 1980 | | |
+| *Heartbreaker* | 1978 | [[Producers/G/Gary Klein]] | |
+| *Great Balls of Fire* | 1979 | [[Producers/G/Gary Klein]] | |
+| *Dolly, Dolly, Dolly* | 1980 | [[Producers/G/Gary Klein]] | |
 | *9 to 5 and Odd Jobs* | 1980 | [[Producers/M/Mike Post]] | |
 | *Heartbreak Express* | 1982 | | |
 | *Burlap & Satin* | 1983 | | |

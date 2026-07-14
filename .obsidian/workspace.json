@@ -11,10 +11,14 @@
             "id": "896c41b3bb47d9e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafvy"
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ]
@@ -181,6 +185,25 @@
   },
   "active": "896c41b3bb47d9e6",
   "lastOpenFiles": [
+    "Producers/C/Chad Blinman.md",
+    "Producers/B/Bruno Kramm.md",
+    "Producers/T/Tobias Forge.md",
+    "Producers/D/Dave Grohl.md",
+    "Producers/K/Klas Åhlund.md",
+    "Members/O/Oli Poulsen.md",
+    "Producers/O/Oli Poulsen.md",
+    "Producers/C/Charlie Jensen.md",
+    "Producers/J/Joe Hardy.md",
+    "Producers/J/Jeff Glixman.md",
+    "Members/G/Greg Kurstin.md",
+    "Producers/G/Greg Kurstin.md",
+    "Producers/N/Nick Raskulinecz.md",
+    "Producers/T/Tom Wilson.md",
+    "Members/M/Mike Post.md",
+    "Producers/M/Mike Post.md",
+    "Producers/G/Gary Klein.md",
+    "CLAUDE.md",
+    "readme.md",
     "Studios/R/Rumbo Recorders.md.tmp.60040.5b1512063ebc",
     "Members/B/Bob Ferguson.md",
     "Producers/B/Bob Ferguson.md",
@@ -197,25 +220,6 @@
     "progress.md.tmp.10696.754e7fcf962f",
     "progress.md.tmp.10696.37f1508c7832",
     "progress.md.tmp.10696.c542970d8ece",
-    "progress.md.tmp.10696.81278f9d293c",
-    "progress.md.tmp.10696.7dd808d9497b",
-    "Members/J/Jan Dewulf.md",
-    "Members/R/Rafael M. Espinosa.md",
-    "Members/I/Ivan Iusco.md",
-    "Members/D/Dirk Ivens.md",
-    "Artists/D/Dive.md",
-    "Members/M/Martin Söffker.md",
-    "Members/R/Ringo Müller.md",
-    "Members/S/Stefan Siegl.md",
-    "Members/D/Damian Hrunka.md",
-    "Members/K/Kain Gabriel Simon.md",
-    "Members/M/Michael Schmid.md",
-    "Members/J/Jakob Lang.md",
-    "Members/C/Chad Blinman.md",
-    "Members/D/Daniel Galda.md",
-    "Members/B/Bruno Kramm.md",
-    "Members/S/Stefan Ackermann.md",
-    "Artists/D/Das Ich.md",
-    "Members/M/Mark 'Oh.md"
+    "progress.md.tmp.10696.81278f9d293c"
   ]
 }

@@ -18,6 +18,7 @@ Dave Grohl is one of the most versatile and celebrated musicians in rock history
 - [[Artists/Q/Queens of the Stone Age]] – drums (2002–2004, 2013)
 - [[Artists/T/Them Crooked Vultures]] – drums (2009–2010)
 - [[Artists/T/The Prodigy]] – guest drums on "Run with the Wolves" (2009)
+- [[Artists/G/Ghost]] – producer, *If You Have Ghost* EP (2013)
 
 ## Sources
 - Wikipedia
