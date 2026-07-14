@@ -9,18 +9,44 @@ genre:
 
 **Fear Factory are an American industrial metal band formed in Los Angeles in 1990, known for their machine-like precision and dystopian themes blending down-tuned guitar riffs with electronic production, achieving commercial success with *Demanufacture* (1995) and *Obsolete* (1998).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1992 | *Soul of a New Machine* | debut album |
-| 1995 | *Demanufacture* | breakthrough; industrial metal landmark |
-| 1998 | *Obsolete* | concept album |
-| 2001 | *Digimortal* | |
-| 2004 | *Archetype* | reunion album |
-| 2005 | *Transgression* | |
-| 2010 | *Mechanize* | |
-| 2012 | *The Industrialist* | |
-| 2015 | *Genexus* | |
-| 2021 | *Aggression Continuum* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Soul of a New Machine* | 1992 | [[Producers/C/Colin Richardson]] | Grand Master Ltd., Hollywood |
+| *Demanufacture* | 1995 | Colin Richardson, Rhys Fulber, Greg Reely | Bearsville Studios |
+| *Obsolete* | 1998 | Fear Factory, Rhys Fulber, Greg Reely | Mushroom Studios, Vancouver |
+| *Digimortal* | 2001 | Fear Factory, Rhys Fulber | Ocean Studio, Burbank |
+| *Archetype* | 2004 | Fear Factory, Rhys Fulber | Rumbo Recorders |
+| *Transgression* | 2005 | Fear Factory, Toby Wright | Track Record Studios |
+| *Mechanize* | 2010 | Rhys Fulber | Surplus Studio, Van Nuys |
+| *The Industrialist* | 2012 | Rhys Fulber, Fear Factory | Surplus Studio, Van Nuys |
+| *Genexus* | 2015 | Fear Factory, Rhys Fulber | |
+| *Aggression Continuum* | 2021 | Dino Cazares, Rhys Fulber, Damien Rainaud | |
+
+### EPs
+| EP | Year |
+|----|------|
+| *Fear Is the Mindkiller* | 1993 |
+| *Burn* | 1997 |
+| *The Gabber Mixes* | 1997 |
+| *Resurrection* | 1998 |
+| *Live on the Sunset Strip* | 2005 |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *Messiah* | 1999 |
+| *Hatefiles* | 2003 |
+| *The Best of Fear Factory* | 2006 |
+| *The Complete Roadrunner Collection 1992–2001* | 2012 |
+
+### Remix Albums
+| Album | Year |
+|-------|------|
+| *Remanufacture (Cloning Technology)* | 1997 |
+| *Recoded* | 2022 |
 
 ## Members
 

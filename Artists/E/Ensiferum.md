@@ -9,17 +9,45 @@ genre:
 
 **Ensiferum are a Finnish folk metal band formed in Helsinki in 1995, known for their energetic blend of melodic death metal with folk instruments and Viking-era themes, and for guitarist/vocalist Jari Mäenpää's founding role before he left to form Wintersun.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2001 | *Ensiferum* | debut album |
-| 2004 | *Iron* | last album with Jari Mäenpää |
-| 2007 | *Victory Songs* | first with Petri Lindroos on vocals |
-| 2008 | *From Afar* | |
-| 2012 | *Unsung Heroes* | |
-| 2015 | *One Man Army* | |
-| 2017 | *Two Paths* | |
-| 2020 | *Thalassic* | |
-| 2023 | *Winter Storm* | |
+## Discography
+
+### Demos
+| Release | Year |
+|---------|------|
+| *Demo* | 1997 |
+| *Demo II* | 1998 |
+| *Demo III: Hero in a Dream* | 1999 |
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Ensiferum* | 2001 | | Sundi-Coop Studios |
+| *Iron* | 2004 | Flemming Rasmussen | Sweet Silence Studios, Copenhagen |
+| *Victory Songs* | 2007 | Janne Joutsenniemi | Sonic Pump Studios |
+| *From Afar* | 2009 | Tero Kinnunen, Janne Joutsenniemi | Petrax Studios; E-Major Studios |
+| *Unsung Heroes* | 2012 | Hiili Hiilesmaa | Petrax Studios; Sound Supreme Recording Studio |
+| *One Man Army* | 2015 | Anssi Kippo | Astia-studio, Lappeenranta |
+| *Two Paths* | 2017 | Anssi Kippo | Astia-Studio, Lappeenranta |
+| *Thalassic* | 2020 | Janne Joutsenniemi | Petrax Studio; Sonic Pump Studios; Fascination Street Studios |
+| *Winter Storm* | 2024 | Janne Joutsenniemi, Ensiferum | Petrax Studio; Sonic Pump Studios; Fascination Street Studios |
+
+### EPs
+| Release | Year |
+|---------|------|
+| *Dragonheads* | 2006 |
+
+### Live Albums
+| Release | Year | Notes |
+|---------|------|-------|
+| *10th Anniversary Live* | 2006 | DVD, recorded at Nosturi, Helsinki |
+| *Ensiferum Acoustic Live @ On the Rocks* | 2017 | DVD |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *1997–1999* | 2005 |
+| *Suomi Warmetal* | 2014 |
+| *Two Decades of Greatest Sword Hits* | 2016 |
 
 ## Members
 

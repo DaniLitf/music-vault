@@ -8,11 +8,24 @@ genre:
 
 **Feeling B were an East German punk band formed in East Berlin in 1983, historically significant as the early band of Christian "Flake" Lorenz and Paul Landers, who would later become founding members of Rammstein.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1989 | *Hea Hea Hea* | debut album |
-| 1991 | *Auf dem Teppich bleiben* | |
-| 1993 | *Still* | final album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Hea Hoa Hoa Hea Hea Hoa* | 1989 | | Amiga Studio, Berlin |
+| *Wir kriegen Euch alle* | 1991 | Feeling B (self-produced) | |
+| *Die Maske des Roten Todes* | 1993 | | Vielklang Studio, Berlin |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *Live* (unofficial cassette) | undated |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *Grün & Blau* | 2007 |
 
 ## Members
 

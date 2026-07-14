@@ -8,12 +8,52 @@ genre:
 
 **Emperor are a Norwegian black metal band formed in Larvik in 1991, widely regarded as one of the most important and influential black metal acts ever, blending raw black metal aggression with orchestral and atmospheric elements on landmark albums like *In the Nightside Eclipse* (1994) and *Anthems to the Welkin at Dusk* (1997).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1994 | *In the Nightside Eclipse* | landmark debut album |
-| 1997 | *Anthems to the Welkin at Dusk* | |
-| 1999 | *IX Equilibrium* | |
-| 2001 | *Prometheus: The Discipline of Fire & Demise* | final studio album before disbandment |
+## Discography
+
+### Demos
+| Release | Year |
+|---------|------|
+| *Wrath of the Tyrant* | 1992 |
+| *Call from the Grave* | 1992 |
+
+### EPs
+| Release | Year | Studio |
+|---------|------|--------|
+| *Emperor* | 1993 | |
+| *Reverence* | 1997 | [[Studios/G/Grieghallen]] |
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *In the Nightside Eclipse* | 1994 | Emperor, Pytten | [[Studios/G/Grieghallen]] |
+| *Anthems to the Welkin at Dusk* | 1997 | Eirik "Pytten" Hundvin, Ihsahn, Samoth | [[Studios/G/Grieghallen]] |
+| *IX Equilibrium* | 1999 | Emperor, Thorbjørn Akkerhaugen | Akkerhaugen Lydstudio |
+| *Prometheus: The Discipline of Fire & Demise* | 2001 | Ihsahn | Symphonique Studios; Akkerhaugen Lydstudio |
+
+### Live Albums
+| Album | Year | Producer |
+|-------|------|----------|
+| *Emperial Live Ceremony* | 2000 | |
+| *Live Inferno* | 2009 | Thorbjørn Akkerhaugen, Emperor |
+
+### Compilations
+| Release | Year |
+|---------|------|
+| *Scattered Ashes: A Decade of Emperial Wrath* | 2003 |
+| *Emperial Vinyl Presentation* | 2001 |
+| *The Complete Works* | 2017 |
+
+### Splits
+| Release | Year | With |
+|---------|------|------|
+| *Hordanes Land* | 1993 | Enslaved |
+| *Thorns vs. Emperor* | 1999 | Thorns |
+| *True Kings of Norway* | 2000 | Dimmu Borgir, Immortal, Ancient, Arcturus |
+
+### Singles
+| Song | Year |
+|------|------|
+| "Thus Spake the Nightspirit" / "Inno a Satana" | 2009 |
 
 ## Members
 

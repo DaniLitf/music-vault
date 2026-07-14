@@ -9,15 +9,34 @@ genre:
 
 **Faith No More are an American alternative metal band formed in San Francisco in 1979, known for defying genre classification and blending metal, funk, rap, and art rock — achieving mainstream success with *The Real Thing* (1989) and the hit "Epic."**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1985 | *We Care a Lot* | debut album |
-| 1987 | *Introduce Yourself* | |
-| 1989 | *The Real Thing* | breakthrough; contains "Epic" |
-| 1992 | *Angel Dust* | artistic peak |
-| 1995 | *King for a Day... Fool for a Lifetime* | |
-| 1997 | *Album of the Year* | |
-| 2015 | *Sol Invictus* | reunion album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *We Care a Lot* | 1985 | [[Producers/M/Matt Wallace]] | [[Studios/P/Prairie Sun Studios]] |
+| *Introduce Yourself* | 1987 | Matt Wallace, [[Producers/S/Steve Berlin]] | Studio D, Sausalito |
+| *The Real Thing* | 1989 | Matt Wallace | Studio D, Sausalito |
+| *Angel Dust* | 1992 | Matt Wallace | Coast Recorders, San Francisco |
+| *King for a Day... Fool for a Lifetime* | 1995 | Andy Wallace | Bearsville Studios |
+| *Album of the Year* | 1997 | [[Producers/R/Roli Mosimann]] | Brilliant Studios, San Francisco |
+| *Sol Invictus* | 2015 | [[Members/B/Billy Gould]] | Estudios Koolarrow, Oakland |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *Live at the Brixton Academy* | 1991 |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *Who Cares a Lot? The Greatest Hits* | 1998 |
+| *This Is It: The Best of Faith No More* | 2003 |
+| *Epic and Other Hits* | 2005 |
+| *The Platinum Collection* | 2006 |
+| *The Works* | 2008 |
+| *The Very Best Definitive Ultimate Greatest Hits Collection* | 2009 |
+| *Midlife Crisis: The Very Best of Faith No More* | 2010 |
 
 ## Members
 

@@ -11,12 +11,46 @@ genre:
 
 Fatboy Slim is a solo artist. See [[Members/N/Norman Cook]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1996 | *Better Living Through Chemistry* | debut album |
-| 1998 | *You've Come a Long Way, Baby* | breakthrough; contains "Praise You" |
-| 2000 | *Halfway Between the Gutter and the Stars* | |
-| 2004 | *Palookaville* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Better Living Through Chemistry* | 1996 | [[Members/N/Norman Cook]] | The House of Love, Brighton |
+| *You've Come a Long Way, Baby* | 1998 | Norman Cook | The House of Love, Brighton |
+| *Halfway Between the Gutter and the Stars* | 2000 | Norman Cook | |
+| *Palookaville* | 2004 | Norman Cook | |
+
+### EPs
+| EP | Year |
+|----|------|
+| *Halfway Between the Gutter and the Guardian* | 2001 |
+| *My Game* | 2002 |
+| *Illuminati* | 2002 |
+| *Camber Sands* | 2002 |
+| *The Pimp* | 2002 |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *On the Floor at the Boutique* | 1998 |
+| *Live on Brighton Beach* | 2002 |
+| *Big Beach Boutique II* | 2002 |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *Signature Series Volume 1* | 2000 |
+| *The Fatboy Slim/Norman Cook Collection* | 2000 |
+| *The Greatest Hits – Why Try Harder* | 2006 |
+| *Best of the Bootlegs* | 2011 |
+
+### Remix Albums
+| Album | Year |
+|-------|------|
+| *The Greatest Hits – Remixed* | 2007 |
+| *Fatboy Slim vs. Australia* | 2018 |
+| *Fatboy Slim vs. New Zealand* | 2019 |
 
 ## Members
 

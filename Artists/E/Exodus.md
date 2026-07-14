@@ -8,19 +8,35 @@ genre:
 
 **Exodus are an American thrash metal band formed in Richmond, California in 1979, widely considered one of the founding fathers of Bay Area thrash metal alongside Metallica and Slayer, known for guitarist Kirk Hammett (later of Metallica) being an early member.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1985 | *Bonded by Blood* | debut; thrash metal landmark |
-| 1987 | *Pleasures of the Flesh* | |
-| 1989 | *Fabulous Disaster* | |
-| 1990 | *Impact Is Imminent* | |
-| 1992 | *Force of Habit* | |
-| 1997 | *Another Lesson in Violence* | live album, reunion |
-| 2004 | *Tempo of the Damned* | comeback album |
-| 2007 | *The Atrocity Exhibition... Exhibit A* | |
-| 2010 | *Exhibit B: The Human Condition* | |
-| 2014 | *Blood In, Blood Out* | |
-| 2021 | *Persona Non Grata* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Bonded by Blood* | 1985 | [[Producers/M/Mark Whitaker]] | [[Studios/P/Prairie Sun Studios]] |
+| *Pleasures of the Flesh* | 1987 | Exodus, Marc Senasac | Alpha & Omega, San Francisco |
+| *Fabulous Disaster* | 1989 | Marc Senasac, [[Members/G/Gary Holt]], Rick Hunolt | Alpha & Omega, San Francisco |
+| *Impact Is Imminent* | 1990 | Gary Holt, Rick Hunolt | [[Studios/M/Music Grinder Studios]] |
+| *Force of Habit* | 1992 | Chris Tsangarides | [[Studios/R/Record Plant]] |
+| *Tempo of the Damned* | 2004 | [[Producers/A/Andy Sneap]] | Tsunami Recordings |
+| *Shovel Headed Kill Machine* | 2005 | Gary Holt | Trident Studio |
+| *The Atrocity Exhibition... Exhibit A* | 2007 | Andy Sneap | |
+| *Let There Be Blood* | 2008 | Gary Holt | |
+| *Exhibit B: The Human Condition* | 2010 | Andy Sneap | |
+| *Blood In, Blood Out* | 2014 | Exodus (self-produced) | Studio D, Sausalito |
+| *Persona Non Grata* | 2021 | Exodus (self-produced) | |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *Good Friendly Violent Fun* | 1991 |
+| *Another Lesson in Violence* | 1997 |
+| *Live at the DNA 2004* | 2005 |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *The Best of Exodus: Lessons in Violence* | 1992 |
 
 ## Members
 

@@ -8,9 +8,14 @@ genre:
 
 **Fecal Matter were a short-lived American punk band formed in Aberdeen, Washington in 1985, historically significant as the first band of Kurt Cobain and Krist Novoselic before they formed Nirvana.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1985 | *Illiteracy Will Prevail* | demo tape; only release |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Illiteracy Will Prevail* (demo tape) | 1985–86 | | Home 4-track recording, Mari Earl's residence, SeaTac, WA |
+
+Note: the recording widely circulated under this title on bootleg vinyl/YouTube is a documented 1996–97 hoax and not the genuine tape; only the track "Spank Thru" from the real session was ever officially released (on Nirvana's *Sliver: The Best of the Box*, 2005).
 
 ## Members
 

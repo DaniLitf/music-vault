@@ -9,9 +9,17 @@ genre:
 
 **Eyes Adrift were an American alternative rock supergroup formed in 2001, consisting of Curt Kirkwood (Meat Puppets), Krist Novoselic (Nirvana), and Bud Gaugh (Sublime), who released one album before dissolving in 2003.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2002 | *Eyes Adrift* | sole album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Eyes Adrift* | 2002 | Eyes Adrift (self-produced) | Wire Recording, Austin, TX |
+
+### Singles
+| Single | Year |
+|--------|------|
+| "Alaska" | 2003 |
 
 ## Members
 

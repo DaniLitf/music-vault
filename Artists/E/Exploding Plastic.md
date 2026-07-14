@@ -9,9 +9,12 @@ genre:
 
 **Exploding Plastic is a Swedish industrial and experimental electronic project from the 1990s.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1993 | *Exploding Plastic* | debut release |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Exploding Plastic* | 1993 | | |
 
 ## Members
 

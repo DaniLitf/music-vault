@@ -39,10 +39,13 @@ genre:
 - [[Members/G/Greg Christian]] – bass (1983–1996, 2005–2014)
 - [[Members/L/Louie Clemente]] – drums (1983–1992)
 - [[Members/G/Gene Hoglan]] – drums (2009–2011)
+- [[Members/J/James Murphy]] – guitar (2007–2011)
 
 ## Connections
 
 - [[Artists/S/Slayer]] – Dave Lombardo, who joined Testament in 2023, was the longtime drummer of Slayer (1982–2013 with gaps), and also played in Fantômas
+- [[Artists/D/Death]] – James Murphy (guitarist for Testament 2007–2011, also played guitar on Death's *Spiritual Healing*)
+- [[Artists/O/Obituary]] – James Murphy (guitarist for Testament, also a former Obituary lead guitarist)
 
 ## Sources
 - Wikipedia

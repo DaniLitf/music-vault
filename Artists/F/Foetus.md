@@ -11,18 +11,23 @@ genre:
 
 J.G. Thirlwell is a solo artist. See [[Members/J/J.G. Thirlwell]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1981 | *Deaf* | debut |
-| 1982 | *Ache* | |
-| 1983 | *Hole* | |
-| 1984 | *Nail* | |
-| 1985 | *Thaw* | |
-| 1995 | *Gash* | |
-| 1997 | *Null* | |
-| 2000 | *Flow* | |
-| 2005 | *Love* | |
-| 2009 | *Damp* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Deaf* (as You've Got Foetus on Your Breath) | 1981 | | |
+| *Ache* (as You've Got Foetus on Your Breath) | 1982 | | |
+| *Hole* (as Scraping Foetus Off the Wheel) | 1984 | | |
+| *Nail* (as Scraping Foetus Off the Wheel) | 1985 | | |
+| *Thaw* (as Foetus Interruptus) | 1988 | | |
+| *Gash* | 1995 | | |
+| *Flow* | 2001 | | |
+| *Love* | 2005 | | |
+| *Vein* | 2007 | | |
+| *Hide* | 2010 | | |
+| *Soak* | 2013 | | |
+| *Halt* | 2025 | | |
 
 ## Members
 

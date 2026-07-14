@@ -9,16 +9,68 @@ genre:
 
 **Enigma is a German-Romanian new age and ambient project created by Michael Cretu in Munich in 1990, known for blending Gregorian chant samples, world music, and electronic dance music, achieving massive international success with "Sadeness (Part I)" and the album *MCMXC a.D.* (1990).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1990 | *MCMXC a.D.* | debut; global hit with "Sadeness (Part I)" |
-| 1993 | *The Cross of Changes* | contains "Return to Innocence" |
-| 1996 | *Le Roi est mort, vive le Roi!* | |
-| 2000 | *The Screen Behind the Mirror* | |
-| 2003 | *Voyageur* | |
-| 2008 | *Seven Lives Many Faces* | |
-| 2016 | *The Fall of a Rebel Angel* | |
-| 2021 | *The Fall of a Rebel Angel – Rerfix* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *MCMXC a.D.* | 1990 | Michael Cretu | A.R.T. Studios, Ibiza |
+| *The Cross of Changes* | 1993 | Michael Cretu | A.R.T. Studios, Ibiza |
+| *Le Roi Est Mort, Vive Le Roi!* | 1996 | Michael Cretu | A.R.T. Studios, Ibiza |
+| *The Screen Behind the Mirror* | 2000 | Michael Cretu | A.R.T. Studios, Ibiza |
+| *Voyageur* | 2003 | Michael Cretu | A.R.T. Studios, Ibiza |
+| *A Posteriori* | 2006 | Michael Cretu | "Alchemist" (mobile studio) |
+| *Seven Lives Many Faces* | 2008 | Michael Cretu | "Alchemist" (mobile studio) |
+| *The Fall of a Rebel Angel* | 2016 | Michael Cretu | "Merlin" (mobile studio) |
+
+### EPs
+| Release | Year | Producer |
+|---------|------|----------|
+| *Eppur si muove* | 2006 | Michael Cretu |
+
+### Singles
+| Song | Year |
+|------|------|
+| "Sadeness Pt. I" | 1990 |
+| "Principles of Lust" | 1990 |
+| "Mea Culpa Pt. II" | 1991 |
+| "The Rivers of Belief" | 1991 |
+| "Carly's Song" | 1993 |
+| "Return to Innocence" | 1994 |
+| "The Eyes of Truth" | 1994 |
+| "Age of Loneliness" | 1994 |
+| "Out from the Deep" | 1994 |
+| "Beyond the Invisible" | 1996 |
+| "T.N.T. for the Brain" | 1997 |
+| "Gravity of Love" | 1999 |
+| "Push the Limits" | 2000 |
+| "Turn Around" | 2001 |
+| "Voyageur" | 2003 |
+| "Boum-Boum" | 2004 |
+| "Hello and Welcome" | 2006 |
+| "Goodbye Milky Way" | 2006 |
+| "Seven Lives" / "La Puerta del Cielo" | 2008 |
+| "The Same Parents" | 2009 |
+| "MMX" | 2010 |
+| "Sadeness Pt. II" | 2016 |
+| "Amen" | 2016 |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *In the Beginning...* (promo) | 1997 |
+| *Trilogy* | 1998 |
+| *Love Sensuality Devotion: The Greatest Hits* | 2001 |
+| *15 Years After* | 2005 |
+| *The Platinum Collection* | 2009 |
+| *Enigma: Classic Album Selection* | 2013 |
+
+### Remix Albums
+| Album | Year |
+|-------|------|
+| *Love Sensuality Devotion: The Remix Collection* | 2001 |
+| *The Dusted Variations* | 2005 |
+| *A Posteriori (Private Lounge Remixes)* | 2007 |
 
 ## Members
 

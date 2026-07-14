@@ -12,6 +12,7 @@ Blackbird Studio is a state-of-the-art recording facility in Nashville, Tennesse
 ## Albums Recorded Here
 
 - [[Artists/N/Nick Jonas and the Administration]] – *Who I Am* (2010)
+- [[Artists/G/Ghost]] – *Infestissumam* (2013)
 
 ## Sources
 - Wikipedia: [Blackbird Studio](https://en.wikipedia.org/wiki/Blackbird_Studio)

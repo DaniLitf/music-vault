@@ -15,6 +15,8 @@ Logan Mader is a Canadian musician, guitarist, and record producer, formerly of 
 ## Associated Projects
 
 - [[Artists/B/Brave the Cold]] – *Scars of Life* (2020)
+- [[Artists/D/Divine Heresy]] – *Bleed the Fifth* (2007)
+- [[Artists/D/Divine Heresy]] – *Bringer of Plagues* (2009)
 
 ## Sources
 

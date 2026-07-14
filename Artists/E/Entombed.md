@@ -9,15 +9,58 @@ genre:
 
 **Entombed are a Swedish death metal band formed in Stockholm in 1987 (as Nihilist), widely credited as pioneers of the Swedish death metal sound defined by the HM-2 pedal "chainsaw" guitar tone; they later evolved toward a bluesy "death 'n' roll" style.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1990 | *Left Hand Path* | landmark debut; defines Swedish death metal |
-| 1991 | *Clandestine* | |
-| 1993 | *Wolverine Blues* | death 'n' roll pivot |
-| 1996 | *DCLXVI To Ride, Shoot Straight and Speak the Truth* | |
-| 1997 | *Same Difference* | |
-| 2003 | *Morning Star* | |
-| 2007 | *Serpent Saints* | |
+*Note: in 2014 the L.G. Petrov-led lineup rebranded as Entombed A.D. following a trademark dispute over the "Entombed" name; Wikipedia treats it as a related but separate entity.*
+
+## Discography
+
+### Demos
+| Release | Year |
+|---------|------|
+| *But Life Goes On* | 1989 |
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Left Hand Path* | 1990 | Tomas Skogsberg | Sunlight Studio, Stockholm |
+| *Clandestine* | 1991 | Tomas Skogsberg | |
+| *Wolverine Blues* | 1993 | Tomas Skogsberg | |
+| *DCLXVI: To Ride, Shoot Straight and Speak the Truth* | 1997 | Tomas Skogsberg | Sunlight Studio, Stockholm |
+| *Same Difference* | 1998 | Daniel Rey | Polar Studios, Stockholm |
+| *Uprising* | 2000 | Nico Elgstrand, Entombed | Das Boot Studios |
+| *Morning Star* | 2001 | | |
+| *Inferno* | 2003 | Pelle "Wigwam" Gunnerfeldt | Atlantis; Gröndahl; Toytown Studios |
+| *Serpent Saints: The Ten Amendments* | 2007 | Entombed (self-produced) | Sound Land Studios; Alta Studio Barn; Gomorrah Rehearsal Studio; Threeman HQ |
+
+### EPs
+| Release | Year | Producer |
+|---------|------|----------|
+| *Crawl* | 1991 | Tomas Skogsberg |
+| *Stranger Aeons* | 1992 | |
+| *Hollowman* | 1993 | Entombed, Tomas Skogsberg |
+| *Wreckage* | 1997 | |
+| *Black Juju* | 1999 | |
+| *When in Sodom* | 2006 | |
+
+### Live Albums
+| Album | Year | Notes |
+|-------|------|-------|
+| *Monkey Puss (Live in London)* | 1999 | recorded 1992, London Astoria |
+| *Unreal Estate* | 2005 | orchestral/ballet live recording |
+| *Clandestine Live* | 2017 | |
+
+### Compilations
+| Album | Year | Producer |
+|-------|------|----------|
+| *Entombed* (EP compilation) | 1997 | Tomas Skogsberg |
+| *Sons of Satan Praise the Lord* | 2002 | |
+
+### Splits
+| Release | Year | With |
+|---------|------|------|
+| *King Kong 4* | 1993 | Doll Squad, Teddybears |
+| "Night of the Vampire" / "I Hate People" | 1995 | The New Bomb Turks |
+| *Candlemass vs. Entombed* | 2013 | Candlemass |
+| *Drowned* | 2013 | Evile |
 
 ## Members
 

@@ -11,6 +11,7 @@ Studio 606 is a recording studio in Northridge, in the Los Angeles area, built b
 
 ## Albums Recorded Here
 - [[Artists/A/Alkaline Trio]] – *Blood, Hair, and Eyeballs* (2024)
+- [[Artists/G/Ghost]] – *If You Have Ghost* (2013)
 
 ## Sources
 - Wikipedia

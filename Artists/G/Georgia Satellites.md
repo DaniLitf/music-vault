@@ -9,11 +9,20 @@ genre:
 
 **Georgia Satellites were an American rock band formed in Atlanta, Georgia in 1980, known for their raw, back-to-basics Southern rock sound and the hit "Keep Your Hands to Yourself" (1986).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1986 | *Georgia Satellites* | debut album; contains "Keep Your Hands to Yourself" |
-| 1988 | *Open All Night* | |
-| 1989 | *In the Land of Salvation and Sin* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Georgia Satellites* | 1986 | [[Producers/J/Jeff Glixman]] | Axis Studios, Cheshire Sound Studios (Atlanta, GA) |
+| *Open All Night* | 1988 | [[Producers/J/Jeff Glixman]] | |
+| *In the Land of Salvation and Sin* | 1989 | [[Producers/J/Joe Hardy]] | |
+| *Shaken Not Stirred* | 1996 | Charlie Jensen, Oli Poulsen | |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *Lightnin' in a Bottle: The Official Live Album* | 2022 |
 
 ## Members
 

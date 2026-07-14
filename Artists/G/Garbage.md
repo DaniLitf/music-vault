@@ -9,15 +9,24 @@ genre:
 
 **Garbage are a Scottish-American alternative rock band formed in Madison, Wisconsin in 1993 by producer Butch Vig alongside three musicians from Spooner/Firetown, known for blending distorted guitar with electronic production and fronted by Shirley Manson.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1995 | *Garbage* | debut album; contains "Stupid Girl" |
-| 1998 | *Version 2.0* | |
-| 2001 | *beautifulgarbage* | |
-| 2005 | *Bleed Like Me* | |
-| 2012 | *Not Your Kind of People* | reunion album |
-| 2016 | *Strange Little Birds* | |
-| 2022 | *No Gods No Masters* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Garbage* | 1995 | [[Producers/B/Butch Vig]] | Smart Studios (Madison, WI) |
+| *Version 2.0* | 1998 | [[Producers/B/Butch Vig]] | Smart Studios (Madison, WI) |
+| *beautifulgarbage* | 2001 | [[Producers/B/Butch Vig]] | Smart Studios (Madison, WI) |
+| *Bleed Like Me* | 2005 | [[Producers/B/Butch Vig]] | Smart Studios (Madison, WI); Sound City Studios (Van Nuys, CA) |
+| *Not Your Kind of People* | 2012 | [[Producers/B/Butch Vig]] | Smart Studios (Madison, WI); EastWest Studios (Hollywood, CA) |
+| *Strange Little Birds* | 2016 | [[Producers/B/Butch Vig]] | |
+| *No Gods No Masters* | 2021 | [[Producers/B/Butch Vig]] | |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *Absolute Garbage* | 2007 |
+| *Anthology* | 2022 |
 
 ## Members
 

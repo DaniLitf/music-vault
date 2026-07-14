@@ -12,6 +12,7 @@ Rumbo Recorders was a recording studio in Canoga Park, Los Angeles, California, 
 ## Albums Recorded Here
 
 - [[Artists/V/Vince Neil]] – *Exposed* (1993)
+- [[Artists/F/Fear Factory]] – *Archetype* (2004)
 
 ## Sources
 

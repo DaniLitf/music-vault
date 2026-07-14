@@ -8,9 +8,13 @@ genre:
 
 **Giants in the Trees are an American rock band formed in 2016 by Krist Novoselic (formerly of Nirvana) and singer Jillian Raye.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2019 | *Giants in the Trees* | debut album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Giants in the Trees* | 2017 | | |
+| *Volume 2* | 2019 | [[Producers/J/Jack Endino]] | |
 
 ## Members
 

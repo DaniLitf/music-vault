@@ -9,17 +9,35 @@ genre:
 
 **Filter are an American industrial rock band formed in 1993 by Richard Patrick, who had previously been a touring guitarist for Nine Inch Nails, known for the hit "Hey Man Nice Shot" and the platinum album *Short Bus* (1995).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1995 | *Short Bus* | debut; contains "Hey Man Nice Shot" |
-| 1999 | *(What's This For...!) Title of Record* | contains "Take a Picture" |
-| 2002 | *The Amalgamut* | |
-| 2004 | *The Very Best Things (1995–2008)* | compilation |
-| 2008 | *Anthems for the Damned* | |
-| 2010 | *The Trouble with Angels* | |
-| 2013 | *The Sun Comes Out Tonight* | |
-| 2016 | *Crazy Eyes* | |
-| 2019 | *Murica* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Short Bus* | 1995 | [[Producers/B/Brian Liesegang]], Richard Patrick | rented house, Rocky River, Ohio |
+| *Title of Record* | 1999 | [[Producers/B/Ben Grosse]], Richard Patrick, Rae DiLeo | Abyssinian Sons, Chicago |
+| *The Amalgamut* | 2002 | Ben Grosse, Richard Patrick, Rae DiLeo | |
+| *Anthems for the Damned* | 2008 | Josh Abraham, Rae DiLeo | |
+| *The Trouble with Angels* | 2010 | Richard Patrick, Bob Marlette | |
+| *The Sun Comes Out Tonight* | 2013 | Richard Patrick, Bob Marlette | |
+| *Crazy Eyes* | 2016 | Richard Patrick, Oumi Kapila | Studio 11:11 |
+| *The Algorithm* | 2023 | Richard Patrick, [[Producers/B/Brian Virtue]] | |
+
+### EPs
+| EP | Year |
+|----|------|
+| *Erkenntnistheorie* | 1994 |
+| *Title of EP* | 2000 |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *The Very Best Things (1995–2008)* | 2009 |
+
+### Remix Albums
+| Album | Year |
+|-------|------|
+| *Remixes for the Damned* | 2008 |
 
 ## Members
 
