@@ -18,8 +18,8 @@ Frank Zappa is a solo artist. See [[Members/F/Frank Zappa]] for biography.
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
 | *Freak Out!* (with the Mothers of Invention) | 1966 | [[Producers/T/Tom Wilson]] | |
-| *Absolutely Free* (with the Mothers of Invention) | 1967 | | |
-| *We're Only in It for the Money* (with the Mothers of Invention) | 1968 | | |
+| *Absolutely Free* (with the Mothers of Invention) | 1967 | [[Producers/T/Tom Wilson]] | |
+| *We're Only in It for the Money* (with the Mothers of Invention) | 1968 | [[Producers/T/Tom Wilson]] (exec.) | |
 | *Lumpy Gravy* | 1968 | | |
 | *Cruising with Ruben & the Jets* (with the Mothers of Invention) | 1968 | | |
 | *Uncle Meat* (with the Mothers of Invention) | 1969 | | |

@@ -890,7 +890,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [ ] | M/Meat Beat Manifesto |  |
 
 ## Members
-> last updated: 2026-07-13T18:43 · unfixed: 92
+> last updated: 2026-07-14T10:34 · unfixed: 95
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -2427,28 +2427,31 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Richard Broadhead (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
 - [ ] Geoff Pinckney (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
 - [ ] Mark 'Oh (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
-- [ ] Stefan Ackermann (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Bruno Kramm (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Daniel Galda (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Chad Blinman (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Jakob Lang (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Michael Schmid (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Kain Gabriel Simon (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Damian Hrunka (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Stefan Siegl (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Ringo Müller (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
-- [ ] Martin Söffker (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [x] Stefan Ackermann (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – touring vocalist, not a producer
+- [x] Bruno Kramm (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [x] Daniel Galda (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – touring keyboardist, not a producer
+- [x] Chad Blinman (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [x] Jakob Lang (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – touring drummer, not a producer
+- [x] Michael Schmid (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – touring keyboardist, not a producer
+- [x] Kain Gabriel Simon (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – touring keyboardist, not a producer
+- [x] Damian Hrunka (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – touring keyboardist, not a producer
+- [x] Stefan Siegl (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – touring keyboardist, not a producer
+- [x] Ringo Müller (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – touring keyboardist, not a producer
+- [x] Martin Söffker (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – touring keyboardist, not a producer
 - [x] Dirk Ivens (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
 - [ ] Ivan Iusco (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
 - [ ] Rafael M. Espinosa (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
 - [ ] Jan Dewulf (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
-- [ ] Kip Hanrahan (batch: 2026-07-13T05:22, from: [[Producers/K/Kip Hanrahan]])
-- [ ] Jack Dangers (batch: 2026-07-13T05:25, from: [[Producers/J/Jack Dangers]])
-- [ ] Bob Ferguson (batch: 2026-07-13T18:43, from: [[Producers/B/Bob Ferguson]])
+- [x] Kip Hanrahan (batch: 2026-07-13T05:22, from: [[Producers/K/Kip Hanrahan]])
+- [x] Jack Dangers (batch: 2026-07-13T05:25, from: [[Producers/J/Jack Dangers]])
+- [x] Bob Ferguson (batch: 2026-07-13T18:43, from: [[Producers/B/Bob Ferguson]])
+- [ ] Mike Post (batch: 2026-07-14T10:30, from: [[Producers/M/Mike Post]])
+- [ ] Greg Kurstin (batch: 2026-07-14T10:32, from: [[Producers/G/Greg Kurstin]])
+- [ ] Oli Poulsen (batch: 2026-07-14T10:34, from: [[Producers/O/Oli Poulsen]])
 
 ## Producers
 
-> last updated: 2026-07-13T18:43 · unfixed: 82
+> last updated: 2026-07-14T10:38 · unfixed: 55
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -2667,18 +2670,18 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Lucas Banker (batch: 2026-07-13T02:00, from: [[Artists/D/Divine Heresy]])
 - [x] Jack Dangers (batch: 2026-07-13T02:00, from: [[Artists/D/Dj Spooky]])
 - [x] Bob Ferguson (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
-- [ ] Gary Klein (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
-- [ ] Mike Post (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
-- [ ] Tom Wilson (batch: 2026-07-13T05:00, from: [[Artists/F/Frank Zappa]])
-- [ ] Nick Raskulinecz (batch: 2026-07-13T05:00, from: [[Artists/F/Foo Fighters]])
-- [ ] Greg Kurstin (batch: 2026-07-13T05:00, from: [[Artists/F/Foo Fighters]])
-- [ ] Jeff Glixman (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
-- [ ] Joe Hardy (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
-- [ ] Charlie Jensen (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
-- [ ] Oli Poulsen (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
-- [ ] Klas Åhlund (batch: 2026-07-13T05:00, from: [[Artists/G/Ghost]])
-- [ ] Dave Grohl [producer] (batch: 2026-07-13T05:00, from: [[Artists/G/Ghost]])
-- [ ] Tobias Forge [producer] (batch: 2026-07-13T05:00, from: [[Artists/G/Ghost]])
+- [x] Gary Klein (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
+- [x] Mike Post (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
+- [x] Tom Wilson (batch: 2026-07-13T05:00, from: [[Artists/F/Frank Zappa]])
+- [x] Nick Raskulinecz (batch: 2026-07-13T05:00, from: [[Artists/F/Foo Fighters]])
+- [x] Greg Kurstin (batch: 2026-07-13T05:00, from: [[Artists/F/Foo Fighters]])
+- [x] Jeff Glixman (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
+- [x] Joe Hardy (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
+- [x] Charlie Jensen (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
+- [x] Oli Poulsen (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
+- [x] Klas Åhlund (batch: 2026-07-13T05:00, from: [[Artists/G/Ghost]])
+- [x] Dave Grohl [producer] (batch: 2026-07-13T05:00, from: [[Artists/G/Ghost]])
+- [x] Tobias Forge [producer] (batch: 2026-07-13T05:00, from: [[Artists/G/Ghost]])
 - [ ] George Massenburg (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
 - [ ] Steve Buckingham (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
 - [ ] Kent Wells (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
@@ -2746,6 +2749,6 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Olaf Wollschläger (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
 - [ ] Mark Hockings [producer] (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
 - [ ] Richard Silverthorn [producer] (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
-- [ ] Bruno Kramm [producer] (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [x] Bruno Kramm [producer] (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]]) – duplicate
 - [ ] Dirk Ivens [producer] (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
 - [ ] Ivan Iusco (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])

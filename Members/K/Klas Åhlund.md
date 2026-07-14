@@ -14,6 +14,7 @@ He co-wrote "With Every Heartbeat" and "Dancing on My Own" for Robyn, and has wo
 - [[Artists/T/Teddybears]]
 - [[Artists/C/Caesars]]
 - [[Artists/R/Robyn]]
+- [[Artists/G/Ghost]] – producer (2015, 2022)
 
 ## Sources
 - Wikipedia

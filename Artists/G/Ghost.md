@@ -14,19 +14,19 @@ genre:
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *Opus Eponymous* | 2010 | Tobias Forge (as "Gene Walker") | |
-| *Infestissumam* | 2013 | Nick Raskulinecz | [[Studios/B/Blackbird Studio]] |
-| *Meliora* | 2015 | Klas Åhlund | [[Studios/E/EastWest Studios]] |
+| *Opus Eponymous* | 2010 | [[Producers/T/Tobias Forge]] (as "Gene Walker") | |
+| *Infestissumam* | 2013 | [[Producers/N/Nick Raskulinecz]] | [[Studios/B/Blackbird Studio]] |
+| *Meliora* | 2015 | [[Producers/K/Klas Åhlund]] | [[Studios/E/EastWest Studios]] |
 | *Prequelle* | 2018 | [[Producers/T/Tom Dalgety]] | |
-| *Impera* | 2022 | Klas Åhlund | |
-| *Skeletá* | 2025 | Tobias Forge (as "Gene Walker") | |
+| *Impera* | 2022 | [[Producers/K/Klas Åhlund]] | |
+| *Skeletá* | 2025 | [[Producers/T/Tobias Forge]] (as "Gene Walker") | |
 
 ### EPs
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *If You Have Ghost* | 2013 | Dave Grohl | [[Studios/S/Studio 606]] |
+| *If You Have Ghost* | 2013 | [[Producers/D/Dave Grohl]] | [[Studios/S/Studio 606]] |
 | *Popestar* | 2016 | [[Producers/T/Tom Dalgety]] | |
-| *Seven Inches of Satanic Panic* | 2019 | Tobias Forge (as "Gene Walker") | |
+| *Seven Inches of Satanic Panic* | 2019 | [[Producers/T/Tobias Forge]] (as "Gene Walker") | |
 | *Phantomime* | 2023 | [[Producers/R/Rich Costey]] | |
 
 ### Live Albums
