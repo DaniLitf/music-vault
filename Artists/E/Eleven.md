@@ -9,12 +9,29 @@ genre:
 
 **Eleven were an American alternative rock band from Los Angeles, active 1990–1999, consisting of Alain Johannes, Natasha Shneider, and Jack Irons, known for their psychedelic heaviness and for their close association with Chris Cornell and the Seattle scene.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1991 | *Eleven* | debut album |
-| 1993 | *Thunk* | |
-| 1995 | *Avantgardedog* | |
-| 1997 | *Howling Book* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Awake in a Dream* | 1991 | Eleven, E.T. Thorngren | |
+| *Eleven* | 1993 | Eleven, Pat McCarthy | [[Studios/M/Music Grinder Studios]] |
+| *Thunk* | 1995 | Eleven | Sunset Sound, Ocean Way Recording, Westlake Studios |
+| *Avantgardedog* | 2000 | Eleven | 11AD (band's home studio) |
+| *Howling Book* | 2003 | Eleven | 11AD (band's home studio) |
+
+### EPs
+| Release | Year |
+|---------|------|
+| *This Little Finger* | 2011 |
+
+### Singles
+| Song | Year |
+|------|------|
+| "Vowel Movement" | 1991 |
+| "Rainbow's End" | 1991 |
+| "Why" | 1995 |
+| "All Falls Away" / "You're Not Alone" | 2000 |
 
 ## Members
 

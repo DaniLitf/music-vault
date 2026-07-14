@@ -36,10 +36,13 @@ The band's evolution from brutal speed/death metal to highly technical, progress
 - [[Members/G/Gene Hoglan]] – drums (*Individual Thought Patterns*, *Symbolic*)
 - [[Members/R/Richard Christy]] – drums (*The Sound of Perseverance*)
 - [[Members/S/Shannon Hamm]] – guitar (1996–2001)
+- [[Members/J/James Murphy]] – guitar (*Spiritual Healing*, 1989–1990)
 
 ## Connections
 
 - [[Artists/T/Testament]] – Gene Hoglan (drummer on Death's *Individual Thought Patterns* and *Symbolic*, also a member of Testament) and Steve DiGiorgio (bassist across multiple Death albums, also Testament's bassist)
+- [[Artists/O/Obituary]] – James Murphy (guitarist on Death's *Spiritual Healing*, also a former Obituary lead guitarist)
+- [[Artists/C/Cancer]] – James Murphy (guitarist on Death's *Spiritual Healing*, also a former Cancer guitarist)
 
 ## Sources
 - Wikipedia

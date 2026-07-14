@@ -16,7 +16,7 @@ genre:
 ## Members
 
 ### Core / Official Members
-- Eamon Downes — production
+- [[Members/E/Eamon Downes]] — production
 
 ## Connections
 

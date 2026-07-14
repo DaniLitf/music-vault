@@ -27,10 +27,10 @@ genre:
 ### Past Members
 - [[Members/S/Stuart Toolin]] — guitar (1989–1996)
 - [[Members/J/Johnny A. Carter]] — drums (1997–2002)
+- [[Members/J/Jim Davies]] — guitar (1998–2002)
 
 ## Connections
-
-No confirmed shared-member connections to other vault artists.
+- [[Artists/T/The Prodigy]] – Jim Davies (touring/recording guitarist for both bands)
 
 ## Sources
 - Wikipedia

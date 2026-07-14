@@ -1,8 +1,8 @@
 ---
-real name: David Eric Grohl
-also known as: Dave Grohl
-birth date: 1969-01-14
-death date:
+real_name: David Eric Grohl
+also_known_as: Dave Grohl
+birth_date: 1969-01-14
+death_date:
 nationality: American
 ---
 
@@ -17,6 +17,7 @@ Dave Grohl is one of the most versatile and celebrated musicians in rock history
 - [[Artists/F/Foo Fighters]] – lead vocals, guitar (1994–present)
 - [[Artists/Q/Queens of the Stone Age]] – drums (2002–2004, 2013)
 - [[Artists/T/Them Crooked Vultures]] – drums (2009–2010)
+- [[Artists/T/The Prodigy]] – guest drums on "Run with the Wolves" (2009)
 
 ## Sources
 - Wikipedia

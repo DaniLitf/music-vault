@@ -9,11 +9,19 @@ genre:
 
 **Freak Power were a British acid jazz and funk project formed in 1993 by Norman Cook (later known as Fatboy Slim) and vocalist Ashley Slater, known for the UK hit "Turn On, Tune In, Cop Out" (1993).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1993 | *Turn On, Tune In, Cop Out* | debut single; UK top 30 hit |
-| 1995 | *Drive-Thru Booty* | debut album |
-| 1996 | *More of Everything for Everybody* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Drive-Thru Booty* | 1994 | | |
+| *More of Everything for Everybody* | 1996 | | |
+
+### Singles
+| Song | Year |
+|------|------|
+| "Turn On, Tune In, Cop Out" | 1993 |
+| "Rush" | 1994 |
 
 ## Members
 

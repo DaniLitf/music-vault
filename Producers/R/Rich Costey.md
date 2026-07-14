@@ -17,6 +17,7 @@ Rich Costey is a Grammy-winning producer and mixer known for his meticulous, dyn
 - [[Artists/M/Muse]] – *Absolution* (2003)
 - [[Artists/M/Muse]] – *Black Holes and Revelations* (2006)
 - [[Artists/M/Muse]] – *Simulation Theory* (2018)
+- [[Artists/G/Ghost]] – *Phantomime* (2023)
 
 ## Sources
 - Wikipedia

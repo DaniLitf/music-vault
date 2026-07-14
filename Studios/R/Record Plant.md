@@ -14,6 +14,7 @@ The Record Plant is a renowned recording studio complex originally founded in Ne
 - [[Artists/A/Alice Cooper]] – *School's Out* (1972), *Billion Dollar Babies* (1973), *Muscle of Love* (1973), *Welcome to My Nightmare* (1975)
 - [[Artists/V/Vince Neil]] – *Exposed* (1993)
 - [[Artists/P/Prince]] – *For You* (1978)
+- [[Artists/E/Exodus]] – *Force of Habit* (1992)
 
 ## Sources
 - Wikipedia

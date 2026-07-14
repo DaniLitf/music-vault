@@ -2,15 +2,13 @@
 
 ## Artists
 
-> last updated: 2026-07-12T16:14 · unfixed: 30 · last QC position: T/The Prayer Chain
+> last updated: 2026-07-13T05:00 · unfixed: 326 · last QC position: T/The Prodigy
 
 ### Summary
-- **Total artist entries**: 779 (719 with a page on disk + 60 queued with no page yet)
-- **Fully OK [x]**: 767
-- **Needs fixes [ ]**: 22 (22 queued/no page yet see below)
-- **Last updated**: 2026-07-12
-
-- **Fully OK [x]**: 767
+- **Total artist entries**: 780 (720 with a page on disk + 60 queued with no page yet)
+- **Fully OK [x]**: 764
+- **Needs fixes [ ]**: 25 (22 queued/no page yet + Death, Testament, Liquid flagged after linkless-page audit; Cancer created as new stub, see below)
+- **Last updated**: 2026-07-13
 
 ## Issue Breakdown
 
@@ -18,7 +16,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 
 | Issue | Pages affected | How measured |
 |-------|---------------|--------------|
-| discography | 313 | Pages with no `## Discography` heading at all. Does not additionally count pages that have the heading but are missing a Producer or Studio column. |
+| discography | 296 | Recomputed 2026-07-13. Pages with no `## Discography` heading at all. Does not additionally count pages that have the heading but are missing a Producer or Studio column. |
 | yaml | 172 | Pages with at least one lowercase genre entry in frontmatter (should be capitalised per convention). |
 | uncategorized-members | 123 | Pages with a `## Members` section but no `### Core/Official/Current/Past/Notable/Touring/Session/Guests` subheading. |
 | connections | 0 | No pages currently flagged; does not count pages whose Connections lines don't name the shared member — that requires reading each section individually. |
@@ -35,37 +33,51 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 
 | Status | Path | Issues |
 |--------|------|--------|
+| [x] | 0-9/+44 | - |
 | [x] | 0-9/12 Rounds | - |
-
-| [x] | 0-9/1900 | - |
+| [ ] | 0-9/1900 | discography |
 | [x] | 0-9/1914 | - |
+| [x] | 0-9/2 Unlimited | - |
 | [x] | 0-9/30 Seconds to Mars | - |
 | [x] | 0-9/3rd Secret | - |
 | [x] | 0-9/50 Cent | - |
 | [x] | 0-9/808 State | - |
 | [x] | 0-9/88 Fingers Louie | - |
-| [x] | G/G-Unit | - |
+| [x] | 0-9/94 East | - |
+| [x] | A/A Canorous Quintet | - |
 | [x] | A/A Guy Called Gerald | - |
 | [x] | A/A Perfect Circle | - |
 | [x] | A/ACDC | - |
+| [x] | A/Adam Again | connections (Gene Eugene) |
+| [x] | A/Adrenaline Mob | - |
 | [x] | A/Afasi & Filthy | - |
 | [x] | A/AFX | - |
 | [x] | A/Against | - |
 | [x] | A/Against Me! | - |
+| [x] | A/Agnostic Front | - |
 | [x] | A/Air | - |
+| [x] | A/Airiel | - |
 | [x] | A/Alanis Morissette | - |
 | [x] | A/Alarma Man | - |
+| [x] | A/Alice Cooper | - |
 | [x] | A/Alice in Chains | - |
-| [x] | A/Alice in Videoland | - |
+| [ ] | A/Alice in Videoland | members (Members section names Lisa Lindén/Martin Brelin, but sources say founding members are Toril Lindqvist/Calle Lundgren — needs verification) |
 | [x] | A/Alkaline Trio | - |
+| [x] | A/All | - |
 | [x] | A/All Ends | - |
+| [x] | A/All Eyes West | - |
 | [x] | A/Altamont | - |
 | [x] | A/Amaranthe | - |
 | [x] | A/Amon Amarth | - |
 | [x] | A/Amon Tobin | - |
+| [x] | A/And One | - |
+| [x] | A/Angel City Outlaws | - |
 | [x] | A/Angels & Airwaves | - |
 | [x] | A/Angine de Poitrine | - |
+| [x] | A/Angora | - |
 | [x] | A/Anthrax | - |
+| [x] | A/Anti | - |
+| [x] | A/Antietam Creek | - |
 | [x] | A/Aphex Twin | - |
 | [x] | A/Arch Enemy | - |
 | [x] | A/Army of Anyone | - |
@@ -86,7 +98,10 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | B/Beats International | - |
 | [x] | B/Beck | - |
 | [x] | B/Behemoth | - |
+| [x] | B/Benediction | - |
+| [x] | B/Beth Gibbons | - |
 | [x] | B/Big Dumb Face | - |
+| [x] | B/Bird of Ill Omen | - |
 | [x] | B/Biting Tongues | - |
 | [x] | B/Björk | - |
 | [x] | B/Black Flag | - |
@@ -102,519 +117,729 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | B/Bob Log III | - |
 | [x] | B/Bob Marley | - |
 | [x] | B/Bolt Thrower | - |
+| [x] | B/Bon Voyage | connections (Jason Martin) |
 | [x] | B/Borknagar | - |
 | [x] | B/Box Car Racer | - |
 | [x] | B/Boys Noize | - |
+| [x] | B/Brave the Cold | - |
 | [x] | B/Brian Eno | - |
+| [x] | B/Brides of Destruction | - |
 | [x] | B/British Lion | - |
 | [x] | B/Broder Daniel | - |
 | [x] | B/Buck-Tick | - |
+| [x] | B/Bunny Wailer | - |
 | [x] | C/Cabaret Voltaire | - |
 | [x] | C/Caesars | - |
+| [ ] | C/Cancer | new-stub (created during linkless-page audit; needs full Workflow 1 research pass) |
 | [x] | C/Candlemass | - |
+| [x] | C/Captain Hollywood Project | - |
+| [x] | C/Captured | - |
 | [x] | C/Carcass | - |
 | [x] | C/Cari Lekebusch | - |
 | [x] | C/Carola | - |
 | [x] | C/Caroline af Ugglas | - |
 | [x] | C/Carpenter Brut | - |
+| [x] | C/Carter Tutti | - |
+| [x] | C/Carter Tutti Void | - |
+| [ ] | C/Catastrophic |  |
+| [x] | C/Catherine | - |
 | [x] | C/Caustic Window | - |
 | [x] | C/Cemetary | - |
+| [x] | C/Centurion | - |
 | [x] | C/Ceremonial Oath | - |
+| [x] | C/Chaos UK | - |
 | [x] | C/Chicago | - |
 | [x] | C/Children of Bodom | - |
+| [x] | C/Chris and Cosey | - |
 | [x] | C/Clawfinger | - |
 | [x] | C/Clutch | - |
 | [x] | C/Cocteau Twins | - |
 | [x] | C/Coil | - |
 | [x] | C/Coldplay | - |
 | [x] | C/Combichrist | - |
-| [x] | C/Corpo-Mente | - |
+| [ ] | C/Corpo-Mente | yaml (frontmatter says Swedish/genre implies Swedish pop; sources say this is a French project — nationality/genre needs correction) |
+| [x] | C/COUM Transmissions | - |
 | [x] | C/Coverdale-Page | - |
 | [x] | C/Cradle of Filth | - |
 | [x] | C/Crystal Fairy | - |
 | [x] | C/Cubanate | - |
 | [x] | C/Cult of Luna | - |
+| [x] | C/Culture (American band) | - |
+| [x] | C/Curl Up and Die | - |
+| [x] | C/Cush | - |
+| [x] | C/Cypress Hill | - |
+| [x] | D/Dag Nasty | - |
+| [x] | D/Darby Crash Band | - |
 | [x] | D/Dark Tranquillity | - |
+| [x] | D/Dashboard Mary | - |
 | [x] | D/David Bowie | - |
+| [x] | D/David Lee Roth | - |
 | [x] | D/David Pajo | - |
+| [x] | D/DAF | - |
+| [ ] | D/DAF.Partei | |
+| [x] | D/DC-10 | - |
 | [x] | D/Dead Can Dance | - |
+| [x] | D/Dead Child | - |
+| [x] | D/Dead Ending | - |
 | [x] | D/Dead Kennedys | - |
-| [x] | D/Death | - |
+| [ ] | D/Death | member-links (was missing James Murphy in Members/Connections; fixed) |
 | [x] | D/Death Grips | - |
-| [x] | D/Death Hawks | - |
+| [ ] | D/Death Hawks | yaml (page said Stockholm/Swedish; sources say Tampere, Finland — nationality needs correction) |
 | [x] | D/Deep Purple | - |
+| [x] | D/Defecation | - |
 | [x] | D/Deftones | - |
+| [ ] | D/Deicide |  |
 | [x] | D/Depeche Mode | - |
+| [ ] | D/Der Plan | |
 | [x] | D/Descendents | - |
+| [x] | D/Desecration | - |
 | [x] | D/Destruction | - |
 | [x] | D/Detektivbyrån | - |
 | [x] | D/Devo | - |
 | [x] | D/Devouring Mothers | - |
-| [x] | D/Di Leva | - |
+| [ ] | D/Di Leva | yaml (real_name/birth_date on page may be wrong — sources say Sven Thomas Magnusson, b. 1963-10-23, not Magnus Christian Persson Lagerström, b. 1958 — needs verification) |
 | [x] | D/Dia Psalma | - |
 | [x] | D/Die Krupps | - |
+| [x] | D/Digital Underground | - |
 | [x] | D/Dimension Zero | - |
 | [x] | D/Dimmu Borgir | - |
 | [x] | D/Dio | - |
+| [x] | D/Discharge | - |
+| [x] | D/Discount | - |
 | [x] | D/Dissection | - |
 | [x] | D/Disturbed | - |
-| [x] | D/Divine Heresy | - |
-| [x] | D/Dj Shadow | - |
-| [x] | D/Dj Spooky | - |
+| [ ] | D/Divine Heresy | yaml (genre entries lowercase) |
+| [ ] | D/Dj Shadow | yaml (genre entries lowercase); bio says born Hayward, CA but sources say San Jose, CA — needs verification |
+| [ ] | D/Dj Spooky | yaml (genre entries lowercase) |
+| [x] | D/DNCE | - |
 | [x] | D/Dog Blood | - |
 | [x] | D/Dolly Parton | - |
-| [x] | D/Doo Rag | - |
-| [x] | D/Down | - |
-| [x] | D/DragonForce | - |
+| [ ] | D/Doo Rag | yaml (genre entries lowercase) |
+| [x] | D/Doom (British band) | - |
+| [ ] | D/Down | yaml (genre entries lowercase) |
+| [x] | D/Dr. Dre | - |
+| [ ] | D/DragonForce | yaml (genre entries lowercase) |
 | [x] | D/Drain S.T.H. | - |
 | [x] | D/Dream Theater | - |
-| [x] | D/Drums & Tuba | - |
-| [x] | E/Earth, Wind & Fire | - |
+| [x] | D/Driller Killer (band) | - |
+| [x] | D/Dritt Skit | - |
+| [ ] | D/Drums & Tuba | member-links, yaml (summary line says formed in New Orleans but sources say Austin, TX; core member "Neil Carlson" unconfirmed/possibly wrong per sources — needs verification) |
+| [x] | D/Duraluxe | - |
+| [ ] | E/Earth, Wind & Fire | yaml (genre entries lowercase) |
 | [x] | E/Ebba Grön | - |
-| [x] | E/Edie Brickell & New Bohemians | - |
-| [x] | E/Eek-A-Mouse | - |
+| [x] | E/Eddie Money | - |
+| [ ] | E/Edie Brickell & New Bohemians | yaml (genre entries lowercase), member-links (Paul "Wix" Wickliffe not linked) |
+| [ ] | E/Eek-A-Mouse | yaml (genre entries lowercase, uncertain if Genres/Singjay page exists) |
 | [x] | E/Einstürzende Neubauten | - |
 | [x] | E/Electric Callboy | - |
 | [x] | E/Eleven | - |
 | [x] | E/Eläkeläiset | - |
 | [x] | E/Emigrate | - |
+| [x] | E/Eminem | - |
 | [x] | E/Emmylou Harris | - |
 | [x] | E/Emperor | - |
 | [x] | E/Enigma | - |
 | [x] | E/Ensiferum | - |
-| [x] | E/Entombed | - |
+| [ ] | E/Entombed | connections (Entombed A.D. spinoff/lineage not yet reflected) |
 | [x] | E/Enya | - |
 | [x] | E/Error | - |
+| [x] | E/ESP | - |
+| [x] | E/Ex Deo | - |
 | [x] | E/Excel | - |
-| [x] | E/Excessive Force | - |
+| [ ] | E/Excessive Force | members (Sascha Konietzko/Buzz McCoy have no member pages yet; frontmatter member data was wrong, corrected) |
 | [x] | E/Exodus | - |
 | [x] | E/Explode and Make Up | - |
-| [x] | E/Exploding Plastic | - |
+| [x] | E/Exploding Flowers | - |
+| [ ] | E/Exploding Plastic | sources (only Discogs; extremely obscure act, no second source found) |
 | [x] | E/Extreme | - |
+| [x] | E/Extreme Noise Terror | - |
+| [x] | E/Eye of Purgatory | - |
 | [x] | E/Eyes Adrift | - |
+| [x] | F/F-Minus | - |
 | [x] | F/Face to Face | - |
 | [x] | F/Faith No More | - |
 | [x] | F/Fantômas | - |
-| [x] | F/Far & Son | - |
+| [ ] | F/Far & Son | sources (only Discogs/Spotify; Swedish Wikipedia/Last.fm entries not directly fetchable — needs manual spot-check) |
 | [x] | F/Fatboy Slim | - |
 | [x] | F/Fear Factory | - |
 | [x] | F/Fecal Matter | - |
+| [ ] | F/Fehlfarben | |
 | [x] | F/Feeling B | - |
+| [x] | F/Fenix TX | - |
 | [x] | F/Fever Ray | - |
 | [x] | F/Filter | - |
 | [x] | F/Finger Eleven | - |
-| [x] | F/First Aid Kit | - |
-| [x] | F/Flipper | - |
+| [ ] | F/First Aid Kit | yaml (genre entries lowercase) |
+| [x] | F/FLAG | - |
+| [ ] | F/Flipper | yaml (genre entries lowercase) |
+| [x] | F/Floor | - |
 | [x] | F/Flotsam and Jetsam | - |
-| [x] | F/Foetus | - |
-| [x] | F/Foo Fighters | - |
-| [x] | F/Frank Zappa | - |
-| [x] | F/Freak Power | - |
-| [x] | F/Front 242 | - |
-| [x] | G/Gamla Pengar | - |
-| [x] | G/Garbage | - |
+| [x] | F/Flyte Tyme | - |
+| [ ] | F/Foetus | yaml (genre entries lowercase) |
+| [x] | F/Fold Zandura | connections (Jyro Xhan) |
+| [ ] | F/Foo Fighters | yaml (genre entries lowercase) |
+| [ ] | F/Frank Zappa | yaml (genre entries lowercase) |
+| [ ] | F/Freak Power | yaml (genre entries lowercase) |
+| [ ] | F/Front 242 | yaml (genre entries lowercase) |
+| [x] | G/G-Unit | - |
+| [ ] | G/Gamla Pengar | yaml (genre entries lowercase), sources (only Discogs; extremely obscure act, no second source found) |
+| [x] | G/Gang of Four | - |
+| [ ] | G/Garbage | yaml (genre entries lowercase) |
 | [x] | G/Genesis | - |
-| [x] | G/Georgia Satellites | - |
-| [x] | G/Ghost | - |
-| [x] | G/Giants in the Trees | - |
-| [x] | G/Godflesh | - |
-| [x] | G/Gojira | - |
-| [x] | G/Goldie | - |
+| [ ] | G/Georgia Satellites | yaml (genre entries lowercase) |
+| [x] | G/Get the Girl | - |
+| [ ] | G/Ghost | yaml (genre entries lowercase) |
+| [ ] | G/Giants in the Trees | yaml (genre entries lowercase) |
+| [ ] | G/Godflesh | discography |
+| [ ] | G/Gojira | discography |
+| [ ] | G/Goldie | discography |
 | [x] | G/Goon | - |
-| [x] | G/Goran Bregović | - |
-| [x] | G/Gorillaz | - |
-| [x] | G/GosT | - |
-| [x] | G/Graveyard | - |
-| [x] | G/Green River | - |
-| [x] | G/Grinderman | - |
-| [x] | G/Guns N' Roses | - |
+| [ ] | G/Goran Bregović | discography |
+| [x] | G/Goregäng | - |
+| [x] | G/Gorerotted | - |
+| [ ] | G/Gorgoroth |  |
+| [x] | G/Gorilla Biscuits | - |
+| [ ] | G/Gorillaz | discography |
+| [ ] | G/GosT | discography |
+| [x] | G/Grand Funk Railroad | - |
+| [ ] | G/Graveyard | discography |
+| [ ] | G/Green River | discography |
+| [ ] | G/Grinderman | discography |
+| [ ] | G/Guns N' Roses | discography |
+| [ ] | H/Hacride |  |
 | [x] | H/Hagfish | - |
-| [x] | H/Hammerfall | - |
-| [x] | H/Hans Zimmer | - |
-| [x] | H/Hater | - |
+| [ ] | H/Hammerfall | discography |
+| [ ] | H/Hans Zimmer | discography |
+| [ ] | H/Hater | discography |
+| [x] | H/Hatrix | - |
 | [x] | H/Hawkwind | - |
 | [x] | H/Hazen Street | - |
 | [x] | H/HEALTH | - |
 | [x] | H/Heavens | - |
-| [x] | H/Heilung | - |
-| [x] | H/Helloween | - |
-| [x] | H/Helmet | - |
-| [x] | H/Hole | - |
-| [x] | H/Hooja | - |
-| [x] | H/Hoola Bandoola Band | - |
-| [x] | H/Hot Tuna | - |
+| [ ] | H/Heilung | discography |
+| [ ] | H/Helloween | discography |
+| [ ] | H/Helmet | discography |
+| [x] | H/Hi Tek 3 | - |
+| [x] | H/His Name Is Alive | connections (Trey Many) |
+| [ ] | H/Hole | discography |
+| [ ] | H/Hollow (band) | discography |
+| [x] | H/Homemade Sin | - |
+| [ ] | H/Hooja | discography |
+| [ ] | H/Hoola Bandoola Band | discography |
+| [ ] | H/Hot Tuna | discography |
 | [x] | H/Hot Water Music | - |
 | [x] | H/House of Pain | - |
+| [x] | H/Household Gods | - |
 | [x] | H/How to Destroy Angels | - |
-| [x] | H/Hypocrisy | - |
+| [ ] | H/Hypocrisy | discography |
 | [x] | I/Ian Hunter | - |
-| [x] | I/Iggy Pop | - |
+| [ ] | I/Iggy Pop | discography |
 | [x] | I/Igorrr | - |
 | [x] | I/Imperiet | - |
 | [x] | I/In Flames | - |
-| [x] | I/In Slaughter Natives | - |
+| [ ] | I/In Slaughter Natives | discography |
 | [x] | I/Infectious Grooves | - |
-| [x] | I/Iron Maiden | - |
-| [x] | I/Izzy Stradlin and the Ju Ju Hounds | - |
-| [x] | J/Jack White | - |
-| [x] | J/Jamiroquai | - |
-| [x] | J/Jane's Addiction | - |
-| [x] | J/Janis Joplin | - |
-| [x] | J/Jean-Michel Jarre | - |
-| [x] | J/Jeff Mills | - |
-| [x] | J/Jefferson Airplane | - |
-| [x] | J/Jefferson Starship | - |
+| [x] | I/Inhuman Condition | - |
+| [x] | I/Integrity | - |
+| [x] | I/Interpol | - |
+| [ ] | I/Iron Maiden | discography |
+| [ ] | I/Izzy Stradlin and the Ju Ju Hounds | discography |
+| [ ] | J/Jack White | discography |
+| [ ] | J/Jamiroquai | discography |
+| [ ] | J/Jane's Addiction | discography |
+| [ ] | J/Janis Joplin | discography |
+| [ ] | J/Jean-Michel Jarre | discography |
+| [ ] | J/Jeff Mills | discography |
+| [ ] | J/Jefferson Airplane | discography |
+| [ ] | J/Jefferson Starship | discography |
 | [x] | J/Jellyfish | - |
-| [x] | J/Jesu | - |
-| [x] | J/Jethro Tull | - |
-| [x] | J/Jimi Hendrix | - |
-| [x] | J/Jimmy Cliff | - |
-| [x] | J/Johnny Cash | - |
-| [x] | J/Johnossi | - |
-| [x] | J/Josh Wink | - |
-| [x] | J/Joy Division | - |
-| [x] | J/Juan Atkins | - |
+| [ ] | J/Jesu | discography |
+| [ ] | J/Jethro Tull | discography |
+| [ ] | J/Jimi Hendrix | discography |
+| [ ] | J/Jimmy Cliff | discography |
+| [x] | J/Jimmy Jam and Terry Lewis | - |
+| [ ] | J/Johnny Cash | discography |
+| [ ] | J/Johnossi | discography |
+| [x] | J/Jonas Brothers | - |
+| [ ] | J/Josh Wink | discography |
+| [ ] | J/Joy Division | discography |
+| [x] | J/Joy Electric | connections (Jeff Cloud) |
+| [ ] | J/Juan Atkins | discography |
 | [x] | J/Jubilee | - |
-| [x] | J/Juno Reactor | - |
+| [x] | J/Judas Priest | - |
+| [ ] | J/Juno Reactor | discography |
 | [x] | K/Kate Bush | - |
-| [x] | K/KGC | - |
-| [x] | K/Killing Joke | - |
-| [x] | K/King Crimson | - |
-| [x] | K/King Gizzard and the Lizard Wizard | - |
-| [x] | K/Kings of Chaos | - |
-| [x] | K/Kleerup | - |
-| [x] | K/KMFDM | - |
-| [x] | K/Korn | - |
-| [x] | K/Kraftwerk | - |
-| [x] | K/Kreator | - |
-| [x] | K/Kula Shaker | - |
-| [x] | K/Kyuss | - |
-| [x] | L/Ladytron | - |
-| [x] | L/Laibach | - |
-| [x] | L/Lamb | - |
-| [x] | L/Lamb of God | - |
-| [x] | L/Lard | - |
-| [x] | L/Laurent Garnier | - |
-| [x] | L/Led Zeppelin | - |
+| [ ] | K/KGC | discography |
+| [x] | K/Kidd Kidd | - |
+| [x] | K/Kill Division | - |
+| [ ] | K/Killing Joke | discography |
+| [ ] | K/King Crimson | discography |
+| [ ] | K/King Gizzard and the Lizard Wizard | discography |
+| [x] | K/King Kong | - |
+| [ ] | K/Kings of Chaos | discography |
+| [x] | K/KISS | - |
+| [ ] | K/Kleerup | discography |
+| [x] | K/Klubbheads | - |
+| [ ] | K/KMFDM | discography |
+| [ ] | K/Korn | discography |
+| [ ] | K/Kraftwerk | discography |
+| [ ] | K/Kreator | discography |
+| [x] | K/Kriadiaz | - |
+| [ ] | K/Kula Shaker | discography |
+| [ ] | K/Kyuss | discography |
+| [x] | L/L.A. Guns | - |
+| [x] | L/La Coka Nostra | - |
+| [ ] | L/Ladytron | discography |
+| [ ] | L/Laibach | discography |
+| [ ] | L/Lamb | discography |
+| [ ] | L/Lamb of God | discography |
+| [ ] | L/Lard | discography |
+| [x] | L/Last in Line | - |
+| [ ] | L/Laurent Garnier | discography |
+| [ ] | L/Led Zeppelin | discography |
 | [x] | L/Lee Perry | - |
-| [x] | L/Leila K | - |
-| [x] | L/Leningrad Cowboys | - |
-| [x] | L/Lenny Kravitz | - |
-| [x] | L/LFO | - |
-| [x] | L/Likk | - |
-| [x] | L/Lilla Sällskapet | - |
-| [x] | L/Lily Allen | - |
+| [ ] | L/Leila K | discography |
+| [ ] | L/Leningrad Cowboys | discography |
+| [ ] | L/Lenny Kravitz | discography |
+| [ ] | L/LFO | discography |
+| [ ] | L/Liaisons Dangereuses | |
+| [ ] | L/Likk | discography |
+| [ ] | L/Lilla Sällskapet | discography |
+| [ ] | L/Lily Allen | discography |
 | [x] | L/Limp Bizkit | - |
-| [x] | L/Lindemann (band) | - |
-| [x] | L/Liquid | - |
-| [x] | L/Liquid Tension Experiment | - |
-| [x] | L/Lisa Gerrard | - |
-| [x] | L/Lita Ford | - |
-| [x] | L/Loaded | - |
-| [x] | L/Lok | - |
-| [x] | L/Looptroop | - |
-| [x] | L/Lorde | - |
+| [ ] | L/Lindemann (band) | discography |
+| [x] | L/Linkin Park | - |
+| [ ] | L/Liquid | member-links (Eamon Downes was plaintext, no member page; fixed), discography |
+| [ ] | L/Liquid Tension Experiment | discography |
+| [ ] | L/Lisa Gerrard | discography |
+| [ ] | L/Lita Ford | discography |
+| [x] | L/Little Giant Drug | - |
+| [x] | L/Lloyd Banks | - |
+| [x] | L/Lo Tom | connections (Jason Martin, Trey Many, TW Walsh) |
+| [ ] | L/Loaded | discography |
+| [ ] | L/Lok | discography |
+| [ ] | L/Looptroop | discography |
+| [ ] | L/Lorde | discography |
+| [x] | L/Lost Dogs | connections (Gene Eugene) |
 | [x] | L/Lostprophets | - |
-| [x] | L/Louise Hoffsten | - |
-| [x] | L/Love Battery | - |
-| [x] | L/Lucky People Center | - |
-| [x] | L/Lykke Li | - |
+| [ ] | L/Louise Hoffsten | discography |
+| [ ] | L/Love Battery | discography |
+| [ ] | L/Lucky People Center | discography |
+| [ ] | L/Lykke Li | discography |
 | [x] | M/M83 | - |
-| [x] | M/Mad Season | - |
-| [x] | M/Madonna | - |
-| [x] | M/Maja Francis | - |
-| [x] | M/Malfunkshun | - |
-| [x] | M/Marilyn Manson | - |
-| [x] | M/Maskinen | - |
-| [x] | M/Massive Attack | - |
-| [x] | M/Mastodon | - |
-| [x] | M/Mayhem | - |
-| [x] | M/MC Tunes | - |
-| [x] | M/MC50 | - |
-| [x] | M/MDFMK | - |
-| [x] | M/Meat Puppets | - |
-| [x] | M/Megadeth | - |
-| [x] | M/Merit Hemmingson | - |
-| [x] | M/Merzbow | - |
-| [x] | M/Meshuggah | - |
+| [ ] | M/Mad Season | discography |
+| [x] | M/Madball | - |
+| [x] | M/Madhouse | - |
+| [ ] | M/Madonna | discography |
+| [x] | M/Mai Lan | - |
+| [ ] | M/Maja Francis | discography |
+| [ ] | M/Malfunkshun | discography |
+| [ ] | M/Marilyn Manson | discography |
+| [ ] | M/Maskinen | discography |
+| [x] | M/Massacre | - |
+| [x] | M/Massacre Guys | - |
+| [ ] | M/Massive Attack | discography |
+| [ ] | M/Mastodon | discography |
+| [ ] | M/Mau Mau | |
+| [ ] | M/Mayhem | discography |
+| [x] | M/Mazarati | - |
+| [ ] | M/MC Tunes | discography |
+| [ ] | M/MC50 | discography |
+| [ ] | M/MDFMK | discography |
+| [ ] | M/Meat Puppets | discography |
+| [x] | M/Meathook Seed | - |
+| [x] | M/Medicine | - |
+| [ ] | M/Megadeth | discography |
+| [x] | M/Mercy Killers | - |
+| [ ] | M/Merit Hemmingson | discography |
+| [ ] | M/Merzbow | discography |
+| [ ] | M/Meshuggah | discography |
 | [x] | M/Metallica | - |
-| [x] | M/Methods of Mayhem | - |
-| [x] | M/Michael Jackson | - |
-| [x] | M/Mike Oldfield | - |
-| [x] | M/Mind Funk | - |
-| [x] | M/Minenwerfer | - |
-| [x] | M/Ministry | - |
-| [x] | M/Moby | - |
-| [x] | M/Moder Jords Massiva | - |
-| [x] | M/Monster & Maskiner | - |
-| [x] | M/Monster Magnet | - |
-| [x] | M/Mortiis | - |
-| [x] | M/Mother Love Bone | - |
+| [ ] | M/Methods of Mayhem | discography |
+| [ ] | M/Michael Jackson | discography |
+| [ ] | M/Mike Oldfield | discography |
+| [ ] | M/Mince |  |
+| [ ] | M/Mind Funk | discography |
+| [ ] | M/Minenwerfer | discography |
+| [ ] | M/Ministry | discography |
+| [x] | M/Mobb Deep | - |
+| [ ] | M/Moby | discography |
+| [ ] | M/Moder Jords Massiva | discography |
+| [ ] | M/Monster & Maskiner | discography |
+| [ ] | M/Monster Magnet | discography |
+| [x] | M/Morning Again | - |
+| [ ] | M/Mortiis | discography |
+| [ ] | M/Mother Love Bone | discography |
 | [x] | M/Mott the Hoople | - |
-| [x] | M/Motörhead | - |
-| [x] | M/Mr. Bungle | - |
-| [x] | M/Mudhoney | - |
-| [x] | M/Mumford & Sons | - |
+| [ ] | M/Motörhead | discography |
+| [ ] | M/Mr. Bungle | discography |
+| [ ] | M/Mudhoney | discography |
+| [ ] | M/Mumford & Sons | discography |
 | [x] | M/Murder Inc. | - |
 | [x] | M/Muse | - |
 | [x] | M/Mushroomhead | - |
-| [x] | M/My Head | - | QC ✓
-| [x] | M/My Life With the Thrill Kill Kult | - |
-| [x] | M/Mötley Crüe | - |
+| [x] | M/My Head | - |
+| [ ] | M/My Life With the Thrill Kill Kult | discography |
+| [ ] | M/Mötley Crüe | discography |
+| [x] | N/Naked Raygun | - |
 | [x] | N/Napalm Death | - |
-| [x] | N/Nationalteatern | - |
-| [x] | N/Nektar | - |
+| [x] | N/Nate Dogg | - |
+| [ ] | N/Nationalteatern | discography |
+| [x] | N/Necromancing the Stone | - |
+| [ ] | N/Nektar | discography |
+| [x] | N/Neon Horse | connections (Jason Martin, Steven Dail) |
 | [x] | N/Netherwilds | - |
+| [x] | N/New Power Generation | - |
 | [x] | N/Newsted | - |
 | [x] | N/Nick Cave and the Bad Seeds | - |
+| [x] | N/Nick Jonas and the Administration | - |
 | [x] | N/Nico | - |
-| [x] | N/Nile | - |
+| [ ] | N/Nile | discography |
 | [x] | N/Nine Inch Nails | - |
 | [x] | N/Nine Inch Noize | - |
 | [x] | N/Nirvana | - |
 | [x] | N/Nitzer Ebb | - |
-| [x] | N/No Doubt | - |
-| [x] | N/No WTO Combo | - |
+| [ ] | N/No Doubt | discography |
+| [ ] | N/No WTO Combo | discography |
+| [x] | N/Noise By Numbers | - |
+| [x] | N/None | - |
+| [x] | O/Obituary | - |
+| [x] | O/October Faction | - |
 | [x] | O/OLD | - |
+| [x] | O/Olivia | - |
+| [x] | O/On Bodies | - |
 | [x] | O/One Day as a Lion | - |
+| [x] | O/Open Hand | - |
 | [x] | O/Opeth | - |
 | [x] | O/Orange | - |
 | [x] | O/Orgasm Death Gimmick | - |
+| [x] | O/Outlawz | - |
 | [x] | O/Overkill | - |
 | [x] | O/Ozzy Osbourne | - |
 | [x] | P/Pain | - |
 | [x] | P/Pantera | - |
 | [x] | P/Papa M | - |
+| [x] | P/Papa Roach | - |
 | [x] | P/Paper Mice | - |
 | [x] | P/Paradise Lost | - |
 | [x] | P/Parliament-Funkadelic | - |
 | [x] | P/Pearl Jam | - |
+| [x] | P/Pedro the Lion | connections (TW Walsh, Frank Lenz) |
 | [x] | P/Pentagram | - |
 | [x] | P/Perturbator | - |
 | [x] | P/Peter Gabriel | - |
-| [x] | P/Petter | - |
+| [ ] | P/Peter Tosh | - |
+| [ ] | P/Petter | discography |
+| [ ] | P/Phobia (band) | - |
 | [x] | P/Pig | - |
 | [x] | P/Pigface | - |
 | [x] | P/Pink Floyd | - |
-| [x] | P/Pitchshifter | - |
+| [ ] | P/Pitchshifter | discography |
 | [x] | P/Pixies | - |
-| [x] | P/Pizzaman | - |
+| [ ] | P/Pizzaman | discography |
 | [x] | P/PJ Harvey | - |
-| [x] | P/Plaid | - |
-| [x] | P/Polygon Window | - |
+| [ ] | P/Plaid | discography |
+| [x] | P/Poison the Well | - |
+| [ ] | P/Polygon Window | discography |
 | [x] | P/Porno for Pyros | - |
 | [x] | P/Portishead | - |
-| [x] | P/Powerwolf | - |
-| [x] | P/Primal Scream | - |
+| [ ] | P/Powerwolf | discography |
+| [ ] | P/Primal Scream | discography |
 | [x] | P/Primus | - |
 | [x] | P/Prince | - |
-| [x] | P/Probot | - |
-| [x] | P/Project One | - |
-| [x] | P/Propellerheads | - |
-| [x] | P/Prophets of Rage | - |
-| [x] | P/Psychic TV | - |
-| [x] | P/Public Enemy | - |
-| [x] | P/Public Image Ltd | - |
+| [ ] | P/Probot | discography |
+| [x] | P/Project 86 | connections (Steven Dail, Rob Withem) |
+| [ ] | P/Project One | discography |
+| [ ] | P/Propellerheads | discography |
+| [ ] | P/Prophets of Rage | discography |
+| [ ] | P/Psychic TV | discography |
+| [ ] | P/Public Enemy | discography |
+| [ ] | P/Public Image Ltd | discography |
+| [x] | P/Purgatory | - |
 | [x] | P/Puscifer | - |
+| [ ] | P/PAKT | |
 | [x] | Q/Queen | - |
 | [x] | Q/Queens of the Stone Age | - |
+| [ ] | R/Racer X | - |
 | [x] | R/Radiohead | - |
 | [x] | R/Rage Against the Machine | - |
-| [x] | R/Rainbow | - |
+| [ ] | R/Rainbow | discography |
 | [x] | R/Rammstein | - |
 | [x] | R/Rasputina | - |
+| [x] | R/Ratt | - |
+| [ ] | R/Ray & Anita | - |
 | [x] | R/Recoil | - |
-| [x] | R/Red Hot Chili Peppers | - |
+| [ ] | R/Red Hot Chili Peppers | discography |
 | [x] | R/Red Snapper | - |
 | [x] | R/Redd Kross | - |
 | [x] | R/Refused | - |
 | [x] | R/REM | - |
 | [x] | R/Renholdër | - |
 | [x] | R/Revolting Cocks | - |
-| [x] | R/Richard Cheese | - |
+| [x] | R/Ribspreader | - |
+| [ ] | R/Richard Cheese | discography |
+| [x] | R/Righteous Pigs | - |
 | [x] | R/Rise Against | - |
 | [x] | R/Rob Zombie | - |
 | [x] | R/Robyn | - |
 | [x] | R/Rocket From The Crypt | - |
-| [x] | R/Rollins Band | - |
+| [ ] | R/Rollins Band | discography |
+| [x] | R/Rotterdam | - |
 | [x] | R/Roy Harper | - |
+| [x] | R/Royal Trux | - |
 | [x] | R/Ruby My Dear | - |
 | [x] | R/Röyksopp | - |
-| [x] | S/S.P.O.C.K | - |
-| [x] | S/S.U.N. Project | - |
+| [ ] | S/S.P.O.C.K | discography |
+| [ ] | S/S.U.N. Project | discography |
 | [x] | S/Sabaton | - |
-| [x] | S/Sagor & Swing | - |
-| [x] | S/Sahara Hotnights | - |
+| [x] | S/Sacred Few | - |
+| [ ] | S/Sagor & Swing | discography |
+| [ ] | S/Sahara Hotnights | discography |
 | [x] | S/Saint Asonia | - |
-| [x] | S/Samson | - |
-| [x] | S/Sanctum | - |
-| [x] | S/Sandoz | - |
+| [ ] | S/Samson | discography |
+| [ ] | S/Sanctum | discography |
+| [ ] | S/Sandoz | discography |
 | [x] | S/Satellite Party | - |
-| [x] | S/Schwein | - |
-| [x] | S/Scott Weiland & The Wildabouts | - |
-| [x] | S/Scream | - |
-| [x] | S/Screamin' Jay Hawkins | - |
-| [x] | S/Screaming Trees | - |
+| [x] | S/Scars on Broadway | - |
+| [ ] | S/Schwein | discography |
+| [ ] | S/Scorn | - |
+| [ ] | S/Scott Weiland & The Wildabouts | discography |
+| [ ] | S/Scream | discography |
+| [ ] | S/Screamin' Jay Hawkins | discography |
+| [ ] | S/Screaming Trees | discography |
 | [x] | S/Seether | - |
-| [x] | S/Sex Pistols | - |
-| [x] | S/Shellac | - |
+| [ ] | S/Semi Precious Weapons |  |
+| [ ] | S/Sex Pistols | discography |
+| [x] | S/Sha Money XL | - |
+| [x] | S/Shai Hulud | - |
+| [ ] | S/Shark Island | - |
+| [ ] | S/Shellac | discography |
 | [x] | S/Shot Baker | - |
-| [x] | S/Siouxsie and the Banshees | - |
-| [x] | S/Sixx A.M. | - |
-| [x] | S/Skin Yard | - |
-| [x] | S/Skinhate | - |
+| [x] | S/Sick of It All | - |
+| [x] | S/Simple Creatures | - |
+| [x] | S/Sinsaenum | - |
+| [ ] | S/Siouxsie and the Banshees | discography |
+| [ ] | S/Six Feet Under |  |
+| [ ] | S/Sixx A.M. | discography |
+| [ ] | S/Skin Yard | discography |
+| [ ] | S/Skinhate | discography |
 | [x] | S/Skinny Puppy | - |
-| [x] | S/Skrillex | - |
-| [x] | S/SL2 | - |
-| [x] | S/Slagsmålsklubben | - |
+| [ ] | S/Skrillex | discography |
+| [ ] | S/SL2 | discography |
+| [ ] | S/Slagsmålsklubben | discography |
 | [x] | S/Slapstick | - |
-| [x] | S/Slash's Snakepit | - |
+| [ ] | S/Slash | - |
+| [ ] | S/Slash's Snakepit | discography |
 | [x] | S/Slayer | - |
-| [x] | S/Slick Idiot | - |
+| [ ] | S/Slick Idiot | discography |
 | [x] | S/Slint | - |
 | [x] | S/Slipknot | - |
+| [x] | S/Smoke & Mirrors | - |
 | [x] | S/Smoking Popes | - |
-| [x] | S/Sneaker Pimps | - |
-| [x] | S/Snook | - |
+| [x] | S/Snap! | - |
+| [ ] | S/Sneaker Pimps | discography |
+| [ ] | S/Snook | discography |
 | [x] | S/Social Distortion | - |
-| [x] | S/Sodom | - |
+| [ ] | S/Sodom | discography |
 | [x] | S/Soilwork | - |
-| [x] | S/Sonar | - |
+| [ ] | S/Sonar | discography |
 | [x] | S/Sonic Youth | - |
 | [x] | S/Soundgarden | - |
-| [x] | S/Sparks | - |
-| [x] | S/Spinal Tap | - |
-| [x] | S/Spiralarms | - |
-| [x] | S/Spiritualized | - |
-| [x] | S/Squarepusher | - |
-| [x] | S/Stabbing Westward | - |
+| [ ] | S/Sparks | discography |
+| [ ] | S/Spinal Tap | discography |
+| [ ] | S/Spiralarms | discography |
+| [ ] | S/Spiritualized | discography |
+| [ ] | S/Squarepusher | discography |
+| [ ] | S/Stabbing Westward | discography |
 | [x] | S/Staind | - |
-| [x] | S/Status Quo | - |
-| [x] | S/Stereolab | - |
-| [x] | S/Steve Vai | - |
-| [x] | S/Stevens Seagulls | - |
-| [x] | S/Stevie Wonder | - |
-| [x] | S/Stone Sour | - |
-| [x] | S/Stone Temple Pilots | - |
-| [x] | S/Storängens | - |
-| [x] | S/Straitjacket | - |
-| [x] | S/Strasse | - |
-| [x] | S/Suicidal Tendencies | - |
+| [x] | S/Starflyer 59 | - |
+| [ ] | S/Status Quo | discography |
+| [ ] | S/Stereolab | discography |
+| [ ] | S/Steve Vai | discography |
+| [ ] | S/Stevens Seagulls | discography |
+| [ ] | S/Stevie Wonder | discography |
+| [x] | S/Stick To Your Guns | - |
+| [ ] | S/Stone Sour | discography |
+| [ ] | S/Stone Temple Pilots | discography |
+| [x] | S/Story of the Year | - |
+| [ ] | S/Storängens | discography |
+| [ ] | S/Straitjacket | discography |
+| [ ] | S/Strasse | discography |
+| [ ] | S/Suicidal Tendencies | discography |
+| [x] | S/Susanne Sundfør | - |
+| [x] | S/SWA | - |
 | [x] | S/Swans | - |
-| [x] | S/Sweet 75 | - |
-| [x] | S/Sweet Exorcist | - |
-| [x] | S/Symphony X | - |
+| [ ] | S/Sweet 75 | discography |
+| [ ] | S/Sweet Exorcist | discography |
+| [ ] | S/Symphony X | discography |
 | [x] | S/System of a Down | - |
+| [ ] | S/The Skatalites | - |
+| [ ] | T/3rdeyegirl | - |
+| [ ] | T/T99 | - |
 | [x] | T/Taking Back Sunday | - |
 | [x] | T/Talk Show | - |
-| [x] | T/Talking Heads | - |
-| [x] | T/Tangerine Dream | - |
+| [ ] | T/Talking Heads | discography |
+| [ ] | T/Tangerine Dream | discography |
 | [x] | T/Tapeworm | - |
-| [x] | T/Technohead | - |
+| [ ] | T/Tardy Brothers |  |
+| [x] | T/Team Ghost | - |
+| [ ] | T/Technohead | discography |
+| [x] | T/Technotronic | - |
 | [x] | T/Teddybears | - |
+| [x] | T/Telefon Tel Aviv | - |
 | [x] | T/Temple of the Dog | - |
-| [x] | T/Ten Inch Men | - |
-| [x] | T/Testament | - |
+| [ ] | T/Ten Inch Men | discography |
+| [ ] | T/Testament | member-links (was missing James Murphy in Members/Connections; fixed) |
+| [x] | T/The (International) Noise Conspiracy | - |
+| [x] | T/The Absence | - |
+| [x] | T/The Aquabats | - |
 | [x] | T/The Beatles | - |
-| [x] | T/The Beautiful South | - |
-| [x] | T/The Birthday Party | - |
-| [x] | T/The Breeders | - |
-| [x] | T/The Brighton Port Authority | - |
-| [x] | T/The Chemical Brothers | - |
-| [x] | T/The Cramps | - |
-| [x] | T/The Creatures | - |
-| [x] | T/The Crystal Method | - |
-| [x] | T/The Cult | - |
+| [ ] | T/The Beautiful South | discography |
+| [ ] | T/The Birthday Party | discography |
+| [x] | T/The Bollweevils | - |
+| [x] | T/The Bomb | - |
+| [ ] | T/The Breeders | discography |
+| [ ] | T/The Brighton Port Authority | discography |
+| [ ] | T/The Chemical Brothers | discography |
+| [ ] | T/The Cramps | discography |
+| [ ] | T/The Creatures | discography |
+| [ ] | T/The Crystal Method | discography |
+| [ ] | T/The Cult | discography |
 | [x] | T/The Cure | - |
 | [x] | T/The Damage Manual | - |
 | [x] | T/The Damning Well | - |
+| [x] | T/The Dead Daisies | - |
 | [x] | T/The Dead Weather | - |
 | [x] | T/The Dillinger Escape Plan | - |
 | [x] | T/The Distillers | - |
 | [x] | T/The Doors | - |
-| [x] | T/The Dust Brothers | - |
+| [ ] | T/The Dust Brothers | discography |
+| [ ] | T/The Dwarves | - |
+| [x] | T/The Esoteric | - |
 | [x] | T/The Falcon | - |
-| [x] | T/The Future Sound of London | - |
-| [x] | T/The Germs | - |
+| [x] | T/The Family | - |
+| [ ] | T/The Featherz | - |
+| [x] | T/The For Carnation | - |
+| [ ] | T/The Future Sound of London | discography |
+| [x] | T/The Game | - |
+| [ ] | T/The Germs | discography |
 | [x] | T/The Greenhornes | - |
 | [x] | T/The Halo Effect | - |
 | [x] | T/The Heads | - |
-| [x] | T/The Hellacopters | - |
-| [x] | T/The Hives | - |
-| [x] | T/The Housemartins | - |
-| [x] | T/The (International) Noise Conspiracy | - |
+| [ ] | T/The Hellacopters | discography |
+| [ ] | T/The Hives | discography |
+| [ ] | T/The Housemartins | discography |
 | [x] | T/The Icarus Line | - |
-| [x] | T/The Inchtabokatables | - |
-| [x] | T/The Jesus Lizard | - |
+| [ ] | T/The Inchtabokatables | discography |
+| [ ] | T/The Jesus Lizard | discography |
 | [x] | T/The Kills | - |
-| [x] | T/The KLF | - |
-| [x] | T/The Knife | - |
-| [x] | T/The Latin Kings | - |
-| [x] | T/The Legendary Pink Dots | - |
+| [ ] | T/The KLF | discography |
+| [ ] | T/The Knife | discography |
+| [x] | T/The Lassie Foundation | - |
+| [x] | T/The Last | - |
+| [ ] | T/The Latin Kings | discography |
+| [ ] | T/The Legendary Pink Dots | discography |
 | [x] | T/The Mars Volta | - |
-| [x] | T/The Melvins | - |
-| [x] | T/The Mighty Dub Katz | - |
+| [ ] | T/The Melvins | discography |
+| [x] | T/The Methadones | - |
+| [ ] | T/The Mighty Dub Katz | discography |
+| [x] | T/The Mighty Mighty Bosstones | - |
 | [x] | T/The Modern Lovers | - |
+| [x] | T/The Nervous Return | - |
 | [x] | T/The New Regime | - |
 | [x] | T/The Offspring | - |
-| [x] | T/The Orb | - |
+| [ ] | T/The Orb | discography |
+| [x] | T/The Prayer Chain | - |
 | [x] | T/The Prodigy | - |
 | [x] | T/The Raconteurs | - |
+| [x] | T/The Revolution | - |
 | [x] | T/The Rolling Stones | - |
+| [x] | T/The Romanovs | - |
+| [ ] | T/The Rotted | - |
+| [x] | T/The Scream | - |
+| [x] | T/The Shins | connections (Richard Swift) |
 | [x] | T/The Smashing Pumpkins | - |
 | [x] | T/The Snakes | - |
-| [x] | T/The Soundtrack of Our Lives | - |
-| [x] | T/The Stooges | - |
+| [ ] | T/The Soundtrack of Our Lives | discography |
+| [ ] | T/The Stooges | discography |
 | [x] | T/The Suicide Machines | - |
-| [x] | T/The Tuss | - |
-| [x] | T/The Vandals | - |
+| [x] | T/The Swirling Eddies | connections (Gene Eugene) |
+| [x] | T/The Time | - |
+| [ ] | T/The Tuss | discography |
+| [ ] | T/The Upsetters | - |
+| [ ] | T/The Vandals | discography |
 | [x] | T/The Velvet Underground | - |
+| [x] | T/The Violet Burning | - |
 | [x] | T/The White Stripes | - |
 | [x] | T/The Who | - |
-| [x] | T/The Wondergirls | - |
+| [ ] | T/The Wondergirls | discography |
+| [x] | T/The Yayhoos | - |
 | [x] | T/Them Crooked Vultures | - |
-| [x] | T/Thåström | - |
 | [x] | T/Three Days Grace | - |
 | [x] | T/Thrice | - |
-| [x] | T/Throbbing Gristle | - |
+| [ ] | T/Throbbing Gristle | discography |
+| [x] | T/Thug Life | - |
+| [x] | T/Thåström | - |
 | [x] | T/Tiamat | - |
-| [x] | T/Timbuktu | - |
+| [ ] | T/Tigertailz | - |
+| [ ] | T/Timbuktu | discography |
+| [x] | T/Timescape Zero | - |
 | [x] | T/Tin Machine | - |
+| [ ] | T/To-Mera | - |
 | [x] | T/Tokyo Police Club | - |
 | [x] | T/Tom Tom Club | - |
-| [x] | T/Tom Waits | - |
+| [ ] | T/Tom Waits | discography |
+| [x] | T/Tomorrows Gone | - |
+| [x] | T/Tony Yayo | - |
 | [x] | T/Tool | - |
-| [x] | T/Tori Amos | - |
+| [ ] | T/Tori Amos | discography |
 | [x] | T/Tortoise | - |
-| [x] | T/Trance Dance | - |
-| [x] | T/Tricky | - |
-| [x] | T/Truly | - |
+| [ ] | T/Trance Dance | discography |
+| [x] | T/Transplants | - |
+| [ ] | T/Trap Them | - |
+| [ ] | T/Tricky | discography |
+| [ ] | T/Truly | discography |
+| [x] | T/Trëllebörg | - |
+| [x] | T/Tupac Shakur | - |
+| [x] | T/Turn of the Screw | - |
 | [x] | T/Tweaker | - |
-| [x] | T/Twin Pigs | - |
+| [x] | T/Twenty 4 Seven | - |
+| [ ] | T/Twin Pigs | discography |
 | [x] | T/Twisted Sister | - |
 | [x] | T/Type O Negative | - |
 | [x] | U/U2 | - |
 | [x] | U/Ulver | - |
-| [x] | U/Underground Resistance | - |
+| [x] | U/Uncle Murda | - |
+| [ ] | U/Underground Resistance | discography |
 | [x] | U/Underworld | - |
+| [x] | U/Union | - |
 | [x] | V/Van Halen | - |
+| [x] | V/Velour 100 | connections (Trey Many) |
 | [x] | V/Velvet Revolver | - |
-| [x] | V/Veronica Maggio | - |
-| [x] | V/Veruca Salt | - |
-| [x] | V/Void | - |
+| [x] | V/Venom | - |
+| [x] | V/Venom Inc. | - |
+| [ ] | V/Veronica Maggio | discography |
+| [ ] | V/Veruca Salt | discography |
+| [x] | V/Vince Neil | - |
+| [ ] | V/Void | discography |
 | [x] | V/Voivod | - |
-| [x] | V/Volcano | - |
+| [ ] | V/Volcano | discography |
 | [x] | W/Wasted Youth | - |
 | [x] | W/Watain | - |
+| [ ] | W/Wayo Dayo |  |
 | [x] | W/Ween | - |
 | [x] | W/Wellwater Conspiracy | - |
+| [ ] | W/Wendy & Lisa | - |
 | [x] | W/West Indian Girl | - |
 | [x] | W/What Is This | - |
+| [x] | W/White Heat | - |
+| [x] | W/White Lighter | connections (Steven Dail, Trey Many) |
+| [x] | W/White Sea | - |
 | [x] | W/White Zombie | - |
 | [x] | W/Whitesnake | - |
 | [x] | W/Whitney Houston | - |
 | [x] | W/Whourkr | - |
-| [x] | W/Will Oldham | - |
+| [ ] | W/Will Oldham | discography |
 | [x] | W/Wings | - |
 | [x] | W/Wintergatan | - |
 | [x] | W/Wintersun | - |
@@ -622,238 +847,50 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | W/Wolfsbane | - |
 | [x] | W/Wrangler | - |
 | [x] | Y/YE | - |
-| [x] | Z/Zwan | - |
-| [x] | T/Tupac Shakur | - |
-| [x] | D/Digital Underground | - |
-| [x] | T/Thug Life | - |
-| [x] | O/Outlawz | - |
-| [x] | K/Kidd Kidd | - |
-| [x] | U/Uncle Murda | - |
-| [x] | D/Dr. Dre | - |
-| [x] | E/Eminem | - |
-| [x] | L/Lloyd Banks | - |
-| [x] | M/Mobb Deep | - |
-| [x] | N/Nate Dogg | - |
-| [x] | O/Olivia | - |
-| [x] | S/Sha Money XL | - |
-| [x] | T/The Game | - |
-| [x] | T/Tony Yayo | - |
-| [x] | Y/Young Buck | - |
-| [x] | C/Culture (American band) | - |
-| [x] | M/Morning Again | - |
-| [x] | B/Bird of Ill Omen | - |
-| [x] | D/Discount | - |
-| [x] | T/Telefon Tel Aviv | - |
-| [x] | T/The Esoteric | - |
-| [x] | O/Open Hand | - |
-| [x] | T/Turn of the Screw | - |
-| [x] | 0-9/+44 | - |
-| [x] | T/The Aquabats | - |
-| [x] | T/Transplants | - |
-| [x] | S/Simple Creatures | - |
-| [x] | F/Fenix TX | - |
-| [x] | T/The Nervous Return | - |
-| [x] | M/Mercy Killers | - |
-| [x] | G/Get the Girl | - |
-| [x] | S/Shai Hulud | - |
-| [x] | P/Poison the Well | - |
-| [x] | F/Floor | - |
-| [x] | T/The For Carnation | - |
-| [x] | K/King Kong | - |
-| [x] | R/Royal Trux | - |
-| [x] | D/Dead Child | - |
 | [x] | Y/Yeah Yeah Yeahs | - |
-| [x] | I/Interpol | - |
-| [x] | H/Household Gods | - |
-| [x] | G/Gang of Four | - |
-| [x] | T/Timescape Zero | - |
-| [x] | O/On Bodies | - |
-| [x] | A/All | - |
-| [x] | A/Anti | - |
-| [x] | D/Dag Nasty | - |
-| [x] | F/FLAG | - |
-| [x] | M/Massacre Guys | - |
-| [x] | S/SWA | - |
-| [x] | T/The Last | - |
-| [x] | T/The Absence | - |
-| [x] | V/Venom Inc. | - |
-| [x] | M/Massacre | - |
-| [x] | I/Inhuman Condition | - |
-| [x] | N/Necromancing the Stone | - |
-| [x] | R/Ribspreader | - |
-| [x] | G/Goregäng | - |
-| [x] | E/Ex Deo | - |
-| [x] | K/Kill Division | - |
-| [x] | E/Eye of Purgatory | - |
-| [x] | S/Smoke & Mirrors | - |
-| [x] | D/Dritt Skit | - |
-| [x] | A/Adrenaline Mob | - |
-| [x] | T/The Bomb | - |
-| [x] | T/The Methadones | - |
-| [x] | N/Naked Raygun | - |
-| [x] | T/The Bollweevils | - |
-| [x] | C/Curl Up and Die | - |
-| [x] | A/Airiel | - |
-| [x] | T/Tomorrows Gone | - |
-| [x] | Z/Zero in Trust | - |
-| [x] | N/Noise By Numbers | - |
-| [x] | D/Dead Ending | - |
-| [x] | A/All Eyes West | - |
-| [x] | R/Rise Against | - |
-| [x] | B/Beth Gibbons | - |
-| [x] | F/F-Minus | - |
-| [x] | L/Linkin Park | - |
-| [x] | L/La Coka Nostra | - |
-| [x] | V/Venom | - |
-| [x] | M/Massacre | - |
-| [x] | C/Catherine | - |
-| [x] | T/The Yayhoos | - |
-| [x] | H/Homemade Sin | - |
-| [x] | D/Darby Crash Band | - |
-| [x] | S/Scars on Broadway | - |
-| [x] | C/Cypress Hill | - |
-| [x] | K/Klubbheads | - |
-| [x] | C/Chris and Cosey | - |
-| [x] | C/Carter Tutti | - |
-| [x] | C/Carter Tutti Void | - |
-| [x] | C/COUM Transmissions | - |
-| [x] | L/Last in Line | - |
-| [x] | O/October Faction | - |
-| [x] | G/Gorilla Biscuits | - |
-| [x] | M/Madball | - |
-| [x] | P/Papa Roach | - |
-| [x] | S/Sick of It All | - |
-| [x] | S/Stick To Your Guns | - |
-| [x] | S/Story of the Year | - |
-| [x] | T/The Mighty Mighty Bosstones | - |
-| [x] | A/A Canorous Quintet | - |
-| [x] | N/None | - |
-| [x] | T/Team Ghost | - |
-| [x] | M/Medicine | - |
-| [x] | M/Mai Lan | - |
-| [x] | T/The Romanovs | - |
-| [x] | W/White Sea | - |
-| [x] | Z/Zola Jesus | - |
-| [x] | S/Susanne Sundfør | - |
-| [x] | A/Agnostic Front | - |
-| [x] | S/Sinsaenum | - |
-| [x] | B/Brave the Cold | - |
-| [x] | D/Defecation | - |
-| [x] | T/The Lassie Foundation | - |
-| [x] | T/The Violet Burning | - |
-| [x] | H/Hatrix | - |
-| [x] | P/Purgatory | - |
-| [x] | B/Benediction | - |
-| [x] | E/Extreme Noise Terror | - |
-| [x] | T/The Scream | - |
-| [x] | A/Angora | - |
-| [x] | U/Union | - |
-| [x] | L/Little Giant Drug | - |
-| [x] | M/Meathook Seed | - |
-| [x] | R/Righteous Pigs | - |
-| [x] | R/Ratt | - |
-| [x] | B/Brides of Destruction | - |
-| [x] | T/The Dead Daisies | - |
-| [x] | A/Angel City Outlaws | - |
-| [x] | T/Twenty 4 Seven | - |
+| [x] | Y/Young Buck | - |
 | [x] | Z/Zen Lunatic | - |
-| [x] | E/ESP | - |
-| [x] | A/Antietam Creek | - |
-| [x] | M/Madhouse | - |
-| [x] | N/New Power Generation | - |
-| [x] | T/The Revolution | - |
-| [x] | T/The Time | - |
-| [x] | T/The Prayer Chain | - |
-| [x] | S/Starflyer 59 | - |
-| [x] | C/Cush | - |
-| [x] | E/Exploding Flowers | - |
-| [x] | D/Duraluxe | - |
-| [x] | I/Integrity | - |
-| [x] | T/Trëllebörg | - |
-| [x] | C/Centurion | - |
-| [x] | H/Hollow (band) | - |
-| [x] | K/Kriadiaz | - |
-| [x] | S/Sacred Few | - |
-| [x] | R/Rotterdam | - |
-| [x] | C/Captured | - |
-| [x] | W/White Heat | - |
-| [x] | C/Chaos UK | - |
-| [x] | D/Desecration | - |
-| [x] | D/Discharge | - |
-| [x] | D/Doom (British band) | - |
-| [x] | D/Driller Killer (band) | - |
-| [x] | G/Gorerotted | - |
-| [ ] | P/Phobia (band) | - |
-| [ ] | S/Scorn | - |
-| [ ] | T/The Dwarves | - |
-| [ ] | T/The Featherz | - |
-| [ ] | T/The Rotted | - |
-| [ ] | T/Tigertailz | - |
-| [ ] | T/To-Mera | - |
-| [ ] | T/Trap Them | - |
-| [x] | D/Dashboard Mary | - |
-| [x] | D/DC-10 | - |
-| [x] | J/Judas Priest | - |
-| [ ] | R/Racer X | - |
-| [ ] | S/Shark Island | - |
-| [x] | K/KISS | - |
-| [x] | G/Grand Funk Railroad | - |
-| [ ] | S/Slash | - |
-| [x] | A/Alice Cooper | - |
-| [x] | V/Vince Neil | - |
-| [x] | D/David Lee Roth | - |
-| [x] | E/Eddie Money | - |
-| [ ] | O/Obituary | - |
-| [x] | L/L.A. Guns | - |
-| [x] | C/Captain Hollywood Project | - |
-| [x] | 0-9/94 East | - |
-| [x] | N/Nick Jonas and the Administration | - |
-| [ ] | T/3rdeyegirl | - |
-| [ ] | W/Wendy & Lisa | - |
-| [x] | M/Mazarati | - |
-| [x] | T/The Family | - |
-| [x] | F/Flyte Tyme | - |
-| [x] | J/Jimmy Jam and Terry Lewis | - |
-| [x] | S/Snap! | - |
-| [x] | T/Technotronic | - |
-| [x] | H/Hi Tek 3 | - |
-| [ ] | T/T99 | - |
-| [x] | 0-9/2 Unlimited | - |
-| [ ] | R/Ray & Anita | - |
-| [x] | B/Bunny Wailer | - |
-| [ ] | P/Peter Tosh | - |
-| [ ] | S/The Skatalites | - |
-| [ ] | T/The Upsetters | - |
-| [x] | T/The Shins | connections (Richard Swift) |
-| [x] | J/Joy Electric | connections (Jeff Cloud) |
-| [x] | P/Project 86 | connections (Steven Dail, Rob Withem) |
-| [x] | A/Adam Again | connections (Gene Eugene) |
-| [x] | L/Lo Tom | connections (Jason Martin, Trey Many, TW Walsh) |
-| [x] | N/Neon Horse | connections (Jason Martin, Steven Dail) |
-| [x] | W/White Lighter | connections (Steven Dail, Trey Many) |
-| [x] | V/Velour 100 | connections (Trey Many) |
-| [x] | H/His Name Is Alive | connections (Trey Many) |
-| [x] | P/Pedro the Lion | connections (TW Walsh, Frank Lenz) |
-| [x] | L/Lost Dogs | connections (Gene Eugene) |
-| [x] | T/The Swirling Eddies | connections (Gene Eugene) |
-| [x] | B/Bon Voyage | connections (Jason Martin) |
-| [x] | F/Fold Zandura | connections (Jyro Xhan) |
-| [x] | J/Jonas Brothers | - |
-| [ ] | W/Wayo Dayo | |
-| [x] | D/DNCE | - |
-| [ ] | S/Semi Precious Weapons | |
-| [x] | O/Obituary | - |
-| [ ] | S/Six Feet Under | |
-| [ ] | T/Tardy Brothers | |
-| [ ] | G/Gorgoroth | |
-| [ ] | D/Deicide | |
-| [ ] | C/Catastrophic | |
-| [ ] | M/Mince | |
-| [ ] | C/Cancer | |
-| [ ] | H/Hacride | |
+| [x] | Z/Zero in Trust | - |
+| [x] | Z/Zola Jesus | - |
+| [x] | Z/Zwan | - |
+| [x] | I/Icon of Coil | - |
+| [x] | A/Apoptygma Berzerk | - |
+| [ ] | C/Cadaver |  |
+| [ ] | C/Celtic Frost |  |
+| [ ] | D/Doctor Midnight & The Mercy Cult |  |
+| [ ] | F/Fairlight Children |  |
+| [ ] | G/God Seed |  |
+| [ ] | M/Magenta (Norwegian band) |  |
+| [ ] | S/Satyricon |  |
+| [ ] | T/The Kovenant |  |
+| [x] | V/VNV Nation | - |
+| [ ] | A/AFI |  |
+| [ ] | A/Angels and Agony |  |
+| [ ] | B/Bruderschaft |  |
+| [x] | M/Mesh | - |
+| [ ] | D/De/Vision |  |
+| [ ] | I/Iris (American band) |  |
+| [ ] | T/Tenek |  |
+| [x] | D/Das Ich | - |
+| [ ] | A/And One |  |
+| [ ] | A/Atrocity |  |
+| [ ] | F/Funker Vogt |  |
+| [ ] | W/Wumpscut |  |
+| [x] | D/Dive | - |
+| [ ] | A/Absolute Body Control |  |
+| [ ] | B/Blok 57 |  |
+| [ ] | C/Controlled Bleeding |  |
+| [ ] | D/Diskonnekted |  |
+| [ ] | K/Kirlian Camera |  |
+| [ ] | K/Klinik |  |
+| [ ] | A/Asia |  |
+| [ ] | C/Cilver |  |
+| [ ] | S/Sons of Apollo |  |
+| [ ] | W/Whom Gods Destroy |  |
+| [ ] | M/Meat Beat Manifesto |  |
 
 ## Members
-> last updated: 2026-07-12T16:14 · unfixed: 35
+> last updated: 2026-07-13T18:43 · unfixed: 92
 
 - [x] Filthy (batch: 2026-07-02T15:00, from: [[Artists/A/Afasi & Filthy]])
 - [x] Finn Eriksson (batch: 2026-07-02T15:00, from: [[Artists/S/S.P.O.C.K]])
@@ -2305,14 +2342,14 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Jason 71 (batch: 2026-07-09T09:00, from: [[Artists/C/Cush]])
 
 
-- [ ] Sir Casey Terry (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
-- [ ] Romeo (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
-- [ ] Craig Powell (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
-- [ ] Kevin Patricks (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
-- [ ] Tony Christian (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
-- [ ] Marr Starr (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [x] Sir Casey Terry (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [x] Romeo (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [x] Craig Powell (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [x] Kevin Patricks (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [x] Tony Christian (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [x] Marr Starr (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
 - [x] Aaron Paul Keith (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
-- [ ] Lenny Holmes (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
+- [x] Lenny Holmes (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
 - [ ] Nick Jonas (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
 - [ ] David Ryan Harris (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
 - [ ] Chris Bailey (batch: 2026-07-12T15:06, from: [[Artists/N/Nick Jonas and the Administration]])
@@ -2334,17 +2371,84 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [ ] Kendall Andrews (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
 - [ ] Allen West (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
 - [ ] Daniel Tucker (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
-- [ ] James Murphy (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
+- [x] James Murphy (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
 - [ ] Frank Watkins (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
 - [ ] Ralph Santolla (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
 - [ ] Jerome Grable (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
 - [ ] Jerry Tidwell (batch: 2026-07-12T15:45, from: [[Artists/O/Obituary]])
 - [ ] Adrien Grousset (batch: 2026-07-12T16:14, from: [[Artists/C/Carpenter Brut]])
 - [ ] Florent Marcadet (batch: 2026-07-12T16:14, from: [[Artists/C/Carpenter Brut]])
+- [x] Sharky (batch: 2026-07-13T00:00, from: [[Artists/T/The Prodigy]])
+- [x] Jim Davies (batch: 2026-07-13T00:00, from: [[Artists/T/The Prodigy]])
+- [x] Gizz Butt (batch: 2026-07-13T00:00, from: [[Artists/T/The Prodigy]])
+- [ ] Eamon Downes (batch: 2026-07-13T00:15, from: [[Artists/L/Liquid]])
+- [ ] Frej Larsson (batch: 2026-07-13T04:00, from: [[Artists/F/Far & Son]])
+- [ ] Simon Gärdenfors (batch: 2026-07-13T04:00, from: [[Artists/F/Far & Son]])
+- [ ] Steve Naghavi (batch: 2026-07-13T04:15, from: [[Artists/A/And One]])
+- [ ] Joke Jay (batch: 2026-07-13T04:15, from: [[Artists/A/And One]])
+- [ ] Nico Wieditz (batch: 2026-07-13T04:15, from: [[Artists/A/And One]])
+- [ ] Chris Ruiz (batch: 2026-07-13T04:15, from: [[Artists/A/And One]])
+- [ ] Gio van Oli (batch: 2026-07-13T04:15, from: [[Artists/A/And One]])
+- [ ] Annelie Bertilsson (batch: 2026-07-13T04:15, from: [[Artists/A/And One]])
+- [ ] Alex Two (batch: 2026-07-13T04:15, from: [[Artists/A/And One]])
+- [ ] Rick Schah (batch: 2026-07-13T04:15, from: [[Artists/A/And One]])
+- [ ] Robert Görl (batch: 2026-07-13T04:25, from: [[Artists/D/DAF]])
+- [ ] Gabi Delgado-López (batch: 2026-07-13T04:25, from: [[Artists/D/DAF]])
+- [ ] Kurt Dahlke (batch: 2026-07-13T04:25, from: [[Artists/D/DAF]])
+- [ ] Chrislo Haas (batch: 2026-07-13T04:25, from: [[Artists/D/DAF]])
+- [ ] Michael Kemner (batch: 2026-07-13T04:25, from: [[Artists/D/DAF]])
+- [ ] Wolfgang Spelmans (batch: 2026-07-13T04:25, from: [[Artists/D/DAF]])
+- [ ] Andy LaPlegua (batch: 2026-07-13T04:40, from: [[Artists/I/Icon of Coil]])
+- [ ] Sebastian Komor (batch: 2026-07-13T04:40, from: [[Artists/I/Icon of Coil]])
+- [ ] Stephan Groth (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Ted Skogmann (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Jonas Groth (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Audun Stengel (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Geir Bratland (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Fredrik Brarud (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Brandon Smith (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Jon Erik Martinsen (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Per Aksel Lundgreen (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Anders Odden (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Thomas Jakobsen (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Fredrik Darum (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Leandra Ophelia Dax (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Ronan Harris (batch: 2026-07-13T04:50, from: [[Artists/V/VNV Nation]])
+- [ ] Mark Jackson (batch: 2026-07-13T04:50, from: [[Artists/V/VNV Nation]])
+- [ ] Mike Wimer (batch: 2026-07-13T04:50, from: [[Artists/V/VNV Nation]])
+- [ ] David Gerlach (batch: 2026-07-13T04:50, from: [[Artists/V/VNV Nation]])
+- [ ] Gabriel Shaw (batch: 2026-07-13T04:50, from: [[Artists/V/VNV Nation]])
+- [ ] Chris Roberts (batch: 2026-07-13T04:50, from: [[Artists/V/VNV Nation]])
+- [ ] Mark Hockings (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Richard Silverthorn (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Neil Taylor (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Sean Suleman (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Vaughn George (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Richard Broadhead (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Geoff Pinckney (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Mark 'Oh (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Stefan Ackermann (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Bruno Kramm (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Daniel Galda (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Chad Blinman (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Jakob Lang (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Michael Schmid (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Kain Gabriel Simon (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Damian Hrunka (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Stefan Siegl (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Ringo Müller (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Martin Söffker (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [x] Dirk Ivens (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
+- [ ] Ivan Iusco (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
+- [ ] Rafael M. Espinosa (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
+- [ ] Jan Dewulf (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
+- [ ] Kip Hanrahan (batch: 2026-07-13T05:22, from: [[Producers/K/Kip Hanrahan]])
+- [ ] Jack Dangers (batch: 2026-07-13T05:25, from: [[Producers/J/Jack Dangers]])
+- [ ] Bob Ferguson (batch: 2026-07-13T18:43, from: [[Producers/B/Bob Ferguson]])
 
 ## Producers
 
-> last updated: 2026-07-12T15:20 ·unfixed: 3
+> last updated: 2026-07-13T18:43 · unfixed: 82
 
 - [x] George Clinton (batch: 2026-07-02T05:00, from: [[Artists/P/Parliament-Funkadelic]])
 - [x] Terry Date (batch: 2026-07-02T05:00, from: [[Artists/S/Staind]])
@@ -2555,57 +2659,93 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 - [x] Randy Gonce (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
 - [x] Frank Romano (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
 - [x] Tony Ross (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
-- [x] Andy Boyer (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
-- [x] Mark Gibbs (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
-- [x] Mike Tucker (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
-- [x] Al Berrios (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
-- [x] Ed Whittingler (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
-- [x] Kenny Easterly Jr. (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
-- [x] Tommy Church (batch: 2026-07-06T14:45, from: [[Artists/P/Purgatory]])
-- [x] Scott Atkins (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
-- [x] Mick Harris (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
-- [x] Paul Johnston (batch: 2026-07-06T15:45, from: [[Artists/B/Benediction]])
-- [x] Colin Richardson (batch: 2026-07-06T16:00, from: [[Artists/E/Extreme Noise Terror]])
-- [x] Curt Cuomo (batch: 2026-07-06T17:30, from: [[Artists/U/Union]])
-- [x] Bob Marlette (batch: 2026-07-06T17:30, from: [[Artists/U/Union]])
-- [x] Russ Russell (batch: 2026-07-06T23:50, from: [[Artists/M/Meathook Seed]])
-- [x] Quinton Stevenson (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
-- [x] Stefan Otto (batch: 2026-07-07T10:00, from: [[Artists/R/Righteous Pigs]])
-- [x] Beau Hill (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
-- [x] Sir Arthur Payson (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
-- [x] Richie Zito (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
-- [x] Michael Elvis Baskette (batch: 2026-07-07T03:50, from: [[Artists/R/Ratt]])
-- [x] Stevo Bruno (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
-- [x] Andy Johns (batch: 2026-07-07T04:00, from: [[Artists/B/Brides of Destruction]])
-- [x] Ben Grosse (batch: 2026-07-07T10:30, from: [[Artists/T/The Dead Daisies]])
-- [x] Ruud van Rijen (batch: 2026-07-07T16:00, from: [[Artists/T/Twenty 4 Seven]])
-- [x] Jack Blades (batch: 2026-07-07T16:30, from: [[Artists/V/Vince Neil]])
-- [x] Dust Brothers (batch: 2026-07-07T16:30, from: [[Artists/V/Vince Neil]])
-- [x] Prince Rogers Nelson (batch: 2026-07-07T19:20, from: [[Artists/N/New Power Generation]])
-- [x] Steve Hindalong (batch: 2026-07-07T20:00, from: [[Artists/T/The Prayer Chain]])
-- [x] Michael Münzing (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
-- [x] Luca Anzilotti (batch: 2026-07-08T10:00, from: [[Artists/S/Snap!]])
-- [x] Jo Bogaert (batch: 2026-07-08T10:00, from: [[Artists/T/Technotronic]])
-- [x] Jean-Paul De Coster (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
-- [x] Phil Wilde (batch: 2026-07-08T15:00, from: [[Artists/0-9/2 Unlimited]])
-- [x] Coxsone Dodd (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
-- [x] Chris Blackwell (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
-- [x] Lee Scratch Perry (batch: 2026-07-08T15:30, from: [[Artists/B/Bob Marley]])
-- [x] Gene Eugene (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
-- [x] Terry Scott Taylor (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
-- [x] Jason Martin (batch: 2026-07-08T16:30, from: [[Artists/S/Starflyer 59]])
-
-
-
-
-
-
-- [x] Brownmark (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
-- [ ] David Z (batch: 2026-07-11T22:08, from: [[Artists/M/Mazarati]])
-- [ ] Jon Bellion (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
-- [ ] Steve Greenberg (batch: 2026-07-12T15:20, from: [[Artists/J/Jonas Brothers]])
-
-
-
-
-
+- [x] Andy Boyer (b
+- [x] Filthy (batch: 2026-07-13T01:00, from: [[Artists/A/Afasi & Filthy]])
+- [x] Ron Thal (batch: 2026-07-13T01:00, from: [[Artists/A/Art of Anarchy]])
+- [x] Christian Edgren (batch: 2026-07-13T01:00, from: [[Artists/D/Dia Psalma]])
+- [x] Kip Hanrahan (batch: 2026-07-13T01:00, from: [[Artists/A/Astor Piazzolla]])
+- [x] Lucas Banker (batch: 2026-07-13T02:00, from: [[Artists/D/Divine Heresy]])
+- [x] Jack Dangers (batch: 2026-07-13T02:00, from: [[Artists/D/Dj Spooky]])
+- [x] Bob Ferguson (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
+- [ ] Gary Klein (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
+- [ ] Mike Post (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
+- [ ] Tom Wilson (batch: 2026-07-13T05:00, from: [[Artists/F/Frank Zappa]])
+- [ ] Nick Raskulinecz (batch: 2026-07-13T05:00, from: [[Artists/F/Foo Fighters]])
+- [ ] Greg Kurstin (batch: 2026-07-13T05:00, from: [[Artists/F/Foo Fighters]])
+- [ ] Jeff Glixman (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
+- [ ] Joe Hardy (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
+- [ ] Charlie Jensen (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
+- [ ] Oli Poulsen (batch: 2026-07-13T05:00, from: [[Artists/G/Georgia Satellites]])
+- [ ] Klas Åhlund (batch: 2026-07-13T05:00, from: [[Artists/G/Ghost]])
+- [ ] Dave Grohl [producer] (batch: 2026-07-13T05:00, from: [[Artists/G/Ghost]])
+- [ ] Tobias Forge [producer] (batch: 2026-07-13T05:00, from: [[Artists/G/Ghost]])
+- [ ] George Massenburg (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
+- [ ] Steve Buckingham (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
+- [ ] Kent Wells (batch: 2026-07-13T02:00, from: [[Artists/D/Dolly Parton]])
+- [ ] Warren Riker (batch: 2026-07-13T02:00, from: [[Artists/D/Down]])
+- [ ] Karl Groom (batch: 2026-07-13T02:00, from: [[Artists/D/DragonForce]])
+- [ ] Pat Moran (batch: 2026-07-13T02:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
+- [ ] Tony Berg (batch: 2026-07-13T02:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
+- [ ] Bryce Goggin (batch: 2026-07-13T02:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
+- [ ] Kyle Crusham (batch: 2026-07-13T02:00, from: [[Artists/E/Edie Brickell & New Bohemians]])
+- [ ] Linval Thompson (batch: 2026-07-13T02:00, from: [[Artists/E/Eek-A-Mouse]])
+- [ ] Henry "Junjo" Lawes (batch: 2026-07-13T02:00, from: [[Artists/E/Eek-A-Mouse]])
+- [ ] Maurice White [producer] (batch: 2026-07-13T02:00, from: [[Artists/E/Earth, Wind & Fire]])
+- [ ] Gareth Jones (batch: 2026-07-13T03:00, from: [[Artists/E/Einstürzende Neubauten]])
+- [ ] Jon Caffery (batch: 2026-07-13T03:00, from: [[Artists/E/Einstürzende Neubauten]])
+- [ ] Boris Wilsdorf (batch: 2026-07-13T03:00, from: [[Artists/E/Einstürzende Neubauten]])
+- [ ] Kristian Kohlmannslehner (batch: 2026-07-13T03:00, from: [[Artists/E/Electric Callboy]])
+- [ ] E.T. Thorngren (batch: 2026-07-13T03:00, from: [[Artists/E/Eleven]])
+- [ ] Pat McCarthy (batch: 2026-07-13T03:00, from: [[Artists/E/Eleven]])
+- [ ] Ray Ellis (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Brian Ahern (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Paul Kennerley (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Emory Gordy Jr. (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Richard Bennett (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Allen Reynolds (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Daniel Lanois (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Malcolm Burn (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Jay Joyce (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Glyn Johns (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Mark Knopfler [producer] (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Chuck Ainlay (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Joe Henry (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Buddy Miller (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Guy Fletcher (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] James Austin (batch: 2026-07-13T03:00, from: [[Artists/E/Emmylou Harris]])
+- [ ] Pytten (Eirik Hundvin) (batch: 2026-07-13T03:00, from: [[Artists/E/Emperor]])
+- [ ] Thorbjørn Akkerhaugen (batch: 2026-07-13T03:00, from: [[Artists/E/Emperor]])
+- [ ] Michael Cretu [producer] (batch: 2026-07-13T03:00, from: [[Artists/E/Enigma]])
+- [ ] Janne Joutsenniemi (batch: 2026-07-13T03:00, from: [[Artists/E/Ensiferum]])
+- [ ] Tero Kinnunen (batch: 2026-07-13T03:00, from: [[Artists/E/Ensiferum]])
+- [ ] Hiili Hiilesmaa (batch: 2026-07-13T03:00, from: [[Artists/E/Ensiferum]])
+- [ ] Anssi Kippo (batch: 2026-07-13T03:00, from: [[Artists/E/Ensiferum]])
+- [ ] Tomas Skogsberg (batch: 2026-07-13T03:00, from: [[Artists/E/Entombed]])
+- [ ] Daniel Rey (batch: 2026-07-13T03:00, from: [[Artists/E/Entombed]])
+- [ ] Nico Elgstrand (batch: 2026-07-13T03:00, from: [[Artists/E/Entombed]])
+- [ ] Pelle "Wigwam" Gunnerfeldt (batch: 2026-07-13T03:00, from: [[Artists/E/Entombed]])
+- [ ] Nicky Ryan (batch: 2026-07-13T03:00, from: [[Artists/E/Enya]])
+- [ ] Mark Whitaker (batch: 2026-07-13T04:00, from: [[Artists/E/Exodus]])
+- [ ] Andy Sneap (batch: 2026-07-13T04:00, from: [[Artists/E/Exodus]])
+- [ ] Chris Tsangarides (batch: 2026-07-13T04:00, from: [[Artists/E/Exodus]])
+- [ ] Steve Berlin (batch: 2026-07-13T04:00, from: [[Artists/F/Faith No More]])
+- [ ] Roli Mosimann (batch: 2026-07-13T04:00, from: [[Artists/F/Faith No More]])
+- [ ] Rhys Fulber (batch: 2026-07-13T04:00, from: [[Artists/F/Fear Factory]])
+- [ ] Greg Reely (batch: 2026-07-13T04:00, from: [[Artists/F/Fear Factory]])
+- [ ] Toby Wright (batch: 2026-07-13T04:00, from: [[Artists/F/Fear Factory]])
+- [ ] Damien Rainaud (batch: 2026-07-13T04:00, from: [[Artists/F/Fear Factory]])
+- [ ] Dino Cazares [producer] (batch: 2026-07-13T04:00, from: [[Artists/F/Fear Factory]])
+- [ ] Brian Liesegang (batch: 2026-07-13T04:00, from: [[Artists/F/Filter]])
+- [ ] Oumi Kapila (batch: 2026-07-13T04:00, from: [[Artists/F/Filter]])
+- [ ] Andy LaPlegua [producer] (batch: 2026-07-13T04:40, from: [[Artists/I/Icon of Coil]])
+- [ ] Sebastian Komor [producer] (batch: 2026-07-13T04:40, from: [[Artists/I/Icon of Coil]])
+- [ ] Stephan Groth [producer] (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Geir Bratland [producer] (batch: 2026-07-13T04:45, from: [[Artists/A/Apoptygma Berzerk]])
+- [ ] Ronan Harris [producer] (batch: 2026-07-13T04:50, from: [[Artists/V/VNV Nation]])
+- [ ] Gareth Jones (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Olaf Wollschläger (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Mark Hockings [producer] (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Richard Silverthorn [producer] (batch: 2026-07-13T04:55, from: [[Artists/M/Mesh]])
+- [ ] Bruno Kramm [producer] (batch: 2026-07-13T05:00, from: [[Artists/D/Das Ich]])
+- [ ] Dirk Ivens [producer] (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])
+- [ ] Ivan Iusco (batch: 2026-07-13T05:05, from: [[Artists/D/Dive]])

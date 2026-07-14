@@ -8,9 +8,12 @@ genre:
 
 **Gamla Pengar ("Old Money") are a Swedish hip-hop duo formed in Stockholm, known for their sharp, introspective lyrics about Swedish society and class.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2000 | *Gamla Pengar* | debut album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Gamla Pengar* | 2000 | | |
 
 ## Members
 

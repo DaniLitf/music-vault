@@ -15,6 +15,8 @@ Tom Dalgety is a British record producer known for his work with Pixies, Ghost, 
 ## Associated Projects
 
 - [[Artists/P/Pixies]] – *Head Carrier* (2016)
+- [[Artists/G/Ghost]] – *Popestar* (2016)
+- [[Artists/G/Ghost]] – *Prequelle* (2018)
 
 ## Sources
 

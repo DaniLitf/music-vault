@@ -9,12 +9,31 @@ genre:
 
 **Fantômas are an American avant-garde metal supergroup formed in 1998 by Mike Patton, blending metal, grindcore, and film score aesthetics into abstract, largely non-lyrical compositions — named after the French pulp fiction villain.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1999 | *Fantômas* | debut album |
-| 2001 | *The Director's Cut* | covers of film and TV themes |
-| 2004 | *Delìrium Còrdia* | single 74-minute composition |
-| 2005 | *Suspended Animation* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Fantômas* | 1999 | [[Members/M/Mike Patton]] | Brilliant Studios, San Francisco |
+| *The Director's Cut* | 2001 | Mike Patton | Grandmaster Recorders, Hollywood |
+| *Delìrium Còrdia* | 2004 | Mike Patton | Sound Factory, Hollywood |
+| *Suspended Animation* | 2005 | Mike Patton | Sound Factory, Hollywood |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *Millennium Monsterwork* (as The Fantômas Melvins Big Band) | 2002 |
+| *The Director's Cut Live: A New Year's Revolution* | 2011 |
+
+### Compilations
+| Album | Year |
+|-------|------|
+| *Wunderkammer* | 2014 |
+
+### Splits
+| Release | Year |
+|---------|------|
+| *Sugar Daddy Live Split Series* (with Melvins) | 2012–2013 |
 
 ## Members
 

@@ -9,10 +9,13 @@ genre:
 
 **Divine Heresy are an American metal band formed in Los Angeles in 2006 by guitarist Dino Cazares, who had previously co-founded Fear Factory, producing a heavier, more technical style of groove/death metal.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2007 | *Bleed the Fifth* | debut album |
-| 2009 | *Bringer of Plagues* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Bleed the Fifth* | 2007 | [[Producers/L/Logan Mader]] | [[Studios/U/Undercity Studios]] |
+| *Bringer of Plagues* | 2009 | [[Producers/L/Logan Mader]], [[Producers/L/Lucas Banker]] | [[Studios/E/Edge of the Earth Studios]] |
 
 ## Members
 

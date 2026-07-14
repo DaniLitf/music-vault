@@ -15,6 +15,7 @@ Jack Endino is a legendary Seattle-based engineer and producer best known for hi
 ## Associated Projects
 
 - [[Artists/N/Nirvana]] – *Bleach* (1989)
+- [[Artists/G/Giants in the Trees]] – *Volume 2* (2019)
 
 ## Sources
 
