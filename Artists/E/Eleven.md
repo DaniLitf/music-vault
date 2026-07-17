@@ -14,8 +14,8 @@ genre:
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *Awake in a Dream* | 1991 | Eleven, E.T. Thorngren | |
-| *Eleven* | 1993 | Eleven, Pat McCarthy | [[Studios/M/Music Grinder Studios]] |
+| *Awake in a Dream* | 1991 | Eleven, [[Producers/E/E.T. Thorngren]] | |
+| *Eleven* | 1993 | Eleven, [[Producers/P/Pat McCarthy]] | [[Studios/M/Music Grinder Studios]] |
 | *Thunk* | 1995 | Eleven | Sunset Sound, Ocean Way Recording, Westlake Studios |
 | *Avantgardedog* | 2000 | Eleven | 11AD (band's home studio) |
 | *Howling Book* | 2003 | Eleven | 11AD (band's home studio) |

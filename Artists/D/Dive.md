@@ -18,19 +18,19 @@ Dive is a Belgian electronic body music project formed in 1990 by Dirk Ivens (fo
 ### Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *Dive* | 1990 | Dirk Ivens | |
-| *First Album* | 1992 | Dirk Ivens | |
-| *Live Action* | 1992 | Dirk Ivens | |
-| *Inside Out* | 1993 | Dirk Ivens | |
-| *Concrete Jungle* | 1993 | Dirk Ivens, Ivan Iusco | |
-| *No Pain - No Game* | 1994 | Dirk Ivens | |
-| *Box* | 1995 | Dirk Ivens | |
-| *Grinding Walls* | 1995 | Dirk Ivens | |
-| *Snakedressed* | 1997 | Dirk Ivens, Ivan Iusco | |
-| *True Lies* | 1999 | Dirk Ivens, Ivan Iusco | |
-| *Behind the Sun* | 2004 | Dirk Ivens, Rafael M. Espinosa | |
-| *Underneath* | 2017 | Dirk Ivens, Ivan Iusco, Rafael M. Espinosa | |
-| *Where Do We Go From Here?* | 2020 | Dirk Ivens, Jan Dewulf | |
+| *Dive* | 1990 | [[Producers/D/Dirk Ivens]] | |
+| *First Album* | 1992 | [[Producers/D/Dirk Ivens]] | |
+| *Live Action* | 1992 | [[Producers/D/Dirk Ivens]] | |
+| *Inside Out* | 1993 | [[Producers/D/Dirk Ivens]] | |
+| *Concrete Jungle* | 1993 | [[Producers/D/Dirk Ivens]], [[Producers/I/Ivan Iusco]] | |
+| *No Pain - No Game* | 1994 | [[Producers/D/Dirk Ivens]] | |
+| *Box* | 1995 | [[Producers/D/Dirk Ivens]] | |
+| *Grinding Walls* | 1995 | [[Producers/D/Dirk Ivens]] | |
+| *Snakedressed* | 1997 | [[Producers/D/Dirk Ivens]], [[Producers/I/Ivan Iusco]] | |
+| *True Lies* | 1999 | [[Producers/D/Dirk Ivens]], [[Producers/I/Ivan Iusco]] | |
+| *Behind the Sun* | 2004 | [[Producers/D/Dirk Ivens]], Rafael M. Espinosa | |
+| *Underneath* | 2017 | [[Producers/D/Dirk Ivens]], [[Producers/I/Ivan Iusco]], Rafael M. Espinosa | |
+| *Where Do We Go From Here?* | 2020 | [[Producers/D/Dirk Ivens]], Jan Dewulf | |
 
 ### Singles & EPs
 - *Final Report* (1992)

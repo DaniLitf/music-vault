@@ -25,16 +25,16 @@ genre:
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *In the Nightside Eclipse* | 1994 | Emperor, Pytten | [[Studios/G/Grieghallen]] |
-| *Anthems to the Welkin at Dusk* | 1997 | Eirik "Pytten" Hundvin, Ihsahn, Samoth | [[Studios/G/Grieghallen]] |
-| *IX Equilibrium* | 1999 | Emperor, Thorbjørn Akkerhaugen | Akkerhaugen Lydstudio |
+| *In the Nightside Eclipse* | 1994 | Emperor, [[Producers/P/Pytten]] | [[Studios/G/Grieghallen]] |
+| *Anthems to the Welkin at Dusk* | 1997 | [[Producers/P/Pytten|Eirik "Pytten" Hundvin]], Ihsahn, Samoth | [[Studios/G/Grieghallen]] |
+| *IX Equilibrium* | 1999 | Emperor, [[Producers/T/Thorbjørn Akkerhaugen]] | Akkerhaugen Lydstudio |
 | *Prometheus: The Discipline of Fire & Demise* | 2001 | Ihsahn | Symphonique Studios; Akkerhaugen Lydstudio |
 
 ### Live Albums
 | Album | Year | Producer |
 |-------|------|----------|
 | *Emperial Live Ceremony* | 2000 | |
-| *Live Inferno* | 2009 | Thorbjørn Akkerhaugen, Emperor |
+| *Live Inferno* | 2009 | [[Producers/T/Thorbjørn Akkerhaugen]], Emperor |
 
 ### Compilations
 | Release | Year |

@@ -56,15 +56,15 @@ genre:
 - [[Members/M/Markus Toivonen]] — guitar (founder; 1995–present)
 - [[Members/S/Sami Hinkka]] — bass (2004–present)
 - [[Members/J/Janne Parviainen]] — drums (2005–present)
-- Pekka Montin — keyboards (2020–present)
+- [[Members/P/Pekka Montin]] — keyboards (2020–present)
 
 ### Past Members
 - [[Members/J/Jari Mäenpää]] — vocals, guitar (1995–2004; founder; went on to form [[Artists/W/Wintersun]])
-- Jukka-Pekka Miettinen — bass (2001–2004)
-- Kimmo Miettinen — drums (1997–2003)
-- Oliver Fokin — drums (1995–1997)
-- Meiju Enho — keyboards (2001–2007)
-- Emmi Silvennoinen — keyboards (2007–2016)
+- [[Members/J/Jukka-Pekka Miettinen]] — bass (2001–2004)
+- [[Members/K/Kimmo Miettinen]] — drums (1997–2003)
+- [[Members/O/Oliver Fokin]] — drums (1995–1997)
+- [[Members/M/Meiju Enho]] — keyboards (2001–2007)
+- [[Members/E/Emmi Silvennoinen]] — keyboards (2007–2016)
 
 ## Connections
 

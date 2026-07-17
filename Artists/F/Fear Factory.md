@@ -15,15 +15,15 @@ genre:
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
 | *Soul of a New Machine* | 1992 | [[Producers/C/Colin Richardson]] | Grand Master Ltd., Hollywood |
-| *Demanufacture* | 1995 | Colin Richardson, Rhys Fulber, Greg Reely | Bearsville Studios |
-| *Obsolete* | 1998 | Fear Factory, Rhys Fulber, Greg Reely | Mushroom Studios, Vancouver |
-| *Digimortal* | 2001 | Fear Factory, Rhys Fulber | Ocean Studio, Burbank |
-| *Archetype* | 2004 | Fear Factory, Rhys Fulber | Rumbo Recorders |
-| *Transgression* | 2005 | Fear Factory, Toby Wright | Track Record Studios |
-| *Mechanize* | 2010 | Rhys Fulber | Surplus Studio, Van Nuys |
-| *The Industrialist* | 2012 | Rhys Fulber, Fear Factory | Surplus Studio, Van Nuys |
-| *Genexus* | 2015 | Fear Factory, Rhys Fulber | |
-| *Aggression Continuum* | 2021 | Dino Cazares, Rhys Fulber, Damien Rainaud | |
+| *Demanufacture* | 1995 | Colin Richardson, [[Producers/R/Rhys Fulber]], [[Producers/G/Greg Reely]] | Bearsville Studios |
+| *Obsolete* | 1998 | Fear Factory, [[Producers/R/Rhys Fulber]], [[Producers/G/Greg Reely]] | Mushroom Studios, Vancouver |
+| *Digimortal* | 2001 | Fear Factory, [[Producers/R/Rhys Fulber]] | Ocean Studio, Burbank |
+| *Archetype* | 2004 | Fear Factory, [[Producers/R/Rhys Fulber]] | Rumbo Recorders |
+| *Transgression* | 2005 | Fear Factory, [[Producers/T/Toby Wright]] | Track Record Studios |
+| *Mechanize* | 2010 | [[Producers/R/Rhys Fulber]] | Surplus Studio, Van Nuys |
+| *The Industrialist* | 2012 | [[Producers/R/Rhys Fulber]], Fear Factory | Surplus Studio, Van Nuys |
+| *Genexus* | 2015 | Fear Factory, [[Producers/R/Rhys Fulber]] | |
+| *Aggression Continuum* | 2021 | [[Producers/D/Dino Cazares]], [[Producers/R/Rhys Fulber]], [[Producers/D/Damien Rainaud]] | |
 
 ### EPs
 | EP | Year |
