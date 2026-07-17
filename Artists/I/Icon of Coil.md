@@ -18,9 +18,9 @@ Icon of Coil is a Norwegian electronic music band established as a solo project 
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *Serenity Is the Devil* | 2000 | Andy LaPlegua, Sebastian Komor | Xenomorph Studio |
-| *The Soul Is in the Software* | 2002 | Andy LaPlegua, Sebastian Komor | |
-| *Machines Are Us* | 2004 | Andy LaPlegua, Sebastian Komor | |
+| *Serenity Is the Devil* | 2000 | [[Producers/A/Andy LaPlegua]], [[Producers/S/Sebastian Komor]] | Xenomorph Studio |
+| *The Soul Is in the Software* | 2002 | [[Producers/A/Andy LaPlegua]], [[Producers/S/Sebastian Komor]] | |
+| *Machines Are Us* | 2004 | [[Producers/A/Andy LaPlegua]], [[Producers/S/Sebastian Komor]] | |
 
 ### EPs / Singles
 | Title | Year |

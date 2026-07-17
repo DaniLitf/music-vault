@@ -19,14 +19,14 @@ Mesh is a British electronic alternative band formed in Bristol in 1991 by vocal
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *In This Place Forever* | 1996 | Mark Hockings, Richard Silverthorn | Urban Studios |
-| *The Point at Which It Falls Apart* | 1999 | Mark Hockings, Richard Silverthorn | Urban Studios |
-| *Who Watches Over Me?* | 2002 | Mark Hockings, Richard Silverthorn | Urban Studios |
-| *We Collide* | 2006 | Gareth Jones | |
-| *A Perfect Solution* | 2009 | Olaf Wollschläger | |
-| *Automation Baby* | 2013 | Olaf Wollschläger | |
-| *Looking Skyward* | 2016 | Olaf Wollschläger | Tonscheune Oleak |
-| *The Truth Doesn't Matter* | 2026 | Olaf Wollschläger | |
+| *In This Place Forever* | 1996 | [[Producers/M/Mark Hockings]], [[Producers/R/Richard Silverthorn]] | Urban Studios |
+| *The Point at Which It Falls Apart* | 1999 | [[Producers/M/Mark Hockings]], [[Producers/R/Richard Silverthorn]] | Urban Studios |
+| *Who Watches Over Me?* | 2002 | [[Producers/M/Mark Hockings]], [[Producers/R/Richard Silverthorn]] | Urban Studios |
+| *We Collide* | 2006 | [[Producers/G/Gareth Jones]] | |
+| *A Perfect Solution* | 2009 | [[Producers/O/Olaf Wollschläger]] | |
+| *Automation Baby* | 2013 | [[Producers/O/Olaf Wollschläger]] | |
+| *Looking Skyward* | 2016 | [[Producers/O/Olaf Wollschläger]] | Tonscheune Oleak |
+| *The Truth Doesn't Matter* | 2026 | [[Producers/O/Olaf Wollschläger]] | |
 
 ### Compilation and Live Albums
 - *Fragmente* (1998)

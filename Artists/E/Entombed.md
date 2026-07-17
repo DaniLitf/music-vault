@@ -72,11 +72,11 @@ genre:
 - [[Members/O/Orvar Säfström]] — bass (founder)
 
 ### Past Members
-- Johnny Dordevic — vocals (1991–1992)
-- David Blomqvist — bass (1987–1991)
-- Lars Rosenberg — bass (1991–1999)
-- Jörgen Sandström — bass (1999–2005, 2006–2014)
-- Peter Stjärnvind — drums (1997–2009)
+- [[Members/J/Johnny Dordevic]] — vocals (1991–1992)
+- [[Members/D/David Blomqvist]] — bass (1987–1991)
+- [[Members/L/Lars Rosenberg]] — bass (1991–1999)
+- [[Members/J/Jörgen Sandström]] — bass (1999–2005, 2006–2014)
+- [[Members/P/Peter Stjärnvind]] — drums (1997–2009)
 
 ## Connections
 

@@ -19,19 +19,19 @@ VNV Nation (Victory Not Vengeance) is a British-Irish electronic music project f
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *Advance and Follow* | 1995 | Ronan Harris | |
-| *Praise the Fallen* | 1998 | Ronan Harris | |
-| *Empires* | 1999 | Ronan Harris | |
-| *Futureperfect* | 2002 | Ronan Harris | |
-| *Matter + Form* | 2005 | Ronan Harris | |
-| *Judgement* | 2007 | Ronan Harris | |
-| *Of Faith, Power and Glory* | 2009 | Ronan Harris | |
-| *Automatic* | 2011 | Ronan Harris | |
-| *Transnational* | 2013 | Ronan Harris | |
-| *Noire* | 2018 | Ronan Harris | |
-| *Electric Sun* | 2023 | Ronan Harris | |
-| *Construct* | 2025 | Ronan Harris | |
-| *Destruct* | 2025 | Ronan Harris | |
+| *Advance and Follow* | 1995 | [[Producers/R/Ronan Harris]] | |
+| *Praise the Fallen* | 1998 | [[Producers/R/Ronan Harris]] | |
+| *Empires* | 1999 | [[Producers/R/Ronan Harris]] | |
+| *Futureperfect* | 2002 | [[Producers/R/Ronan Harris]] | |
+| *Matter + Form* | 2005 | [[Producers/R/Ronan Harris]] | |
+| *Judgement* | 2007 | [[Producers/R/Ronan Harris]] | |
+| *Of Faith, Power and Glory* | 2009 | [[Producers/R/Ronan Harris]] | |
+| *Automatic* | 2011 | [[Producers/R/Ronan Harris]] | |
+| *Transnational* | 2013 | [[Producers/R/Ronan Harris]] | |
+| *Noire* | 2018 | [[Producers/R/Ronan Harris]] | |
+| *Electric Sun* | 2023 | [[Producers/R/Ronan Harris]] | |
+| *Construct* | 2025 | [[Producers/R/Ronan Harris]] | |
+| *Destruct* | 2025 | [[Producers/R/Ronan Harris]] | |
 
 ## Members
 

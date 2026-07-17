@@ -14,19 +14,19 @@ genre:
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *MCMXC a.D.* | 1990 | Michael Cretu | A.R.T. Studios, Ibiza |
-| *The Cross of Changes* | 1993 | Michael Cretu | A.R.T. Studios, Ibiza |
-| *Le Roi Est Mort, Vive Le Roi!* | 1996 | Michael Cretu | A.R.T. Studios, Ibiza |
-| *The Screen Behind the Mirror* | 2000 | Michael Cretu | A.R.T. Studios, Ibiza |
-| *Voyageur* | 2003 | Michael Cretu | A.R.T. Studios, Ibiza |
-| *A Posteriori* | 2006 | Michael Cretu | "Alchemist" (mobile studio) |
-| *Seven Lives Many Faces* | 2008 | Michael Cretu | "Alchemist" (mobile studio) |
-| *The Fall of a Rebel Angel* | 2016 | Michael Cretu | "Merlin" (mobile studio) |
+| *MCMXC a.D.* | 1990 | [[Producers/M/Michael Cretu]] | A.R.T. Studios, Ibiza |
+| *The Cross of Changes* | 1993 | [[Producers/M/Michael Cretu]] | A.R.T. Studios, Ibiza |
+| *Le Roi Est Mort, Vive Le Roi!* | 1996 | [[Producers/M/Michael Cretu]] | A.R.T. Studios, Ibiza |
+| *The Screen Behind the Mirror* | 2000 | [[Producers/M/Michael Cretu]] | A.R.T. Studios, Ibiza |
+| *Voyageur* | 2003 | [[Producers/M/Michael Cretu]] | A.R.T. Studios, Ibiza |
+| *A Posteriori* | 2006 | [[Producers/M/Michael Cretu]] | "Alchemist" (mobile studio) |
+| *Seven Lives Many Faces* | 2008 | [[Producers/M/Michael Cretu]] | "Alchemist" (mobile studio) |
+| *The Fall of a Rebel Angel* | 2016 | [[Producers/M/Michael Cretu]] | "Merlin" (mobile studio) |
 
 ### EPs
 | Release | Year | Producer |
 |---------|------|----------|
-| *Eppur si muove* | 2006 | Michael Cretu |
+| *Eppur si muove* | 2006 | [[Producers/M/Michael Cretu]] |
 
 ### Singles
 | Song | Year |

@@ -17,7 +17,7 @@ genre:
 | *Pleasures of the Flesh* | 1987 | Exodus, Marc Senasac | Alpha & Omega, San Francisco |
 | *Fabulous Disaster* | 1989 | Marc Senasac, [[Members/G/Gary Holt]], Rick Hunolt | Alpha & Omega, San Francisco |
 | *Impact Is Imminent* | 1990 | Gary Holt, Rick Hunolt | [[Studios/M/Music Grinder Studios]] |
-| *Force of Habit* | 1992 | Chris Tsangarides | [[Studios/R/Record Plant]] |
+| *Force of Habit* | 1992 | [[Producers/C/Chris Tsangarides]] | [[Studios/R/Record Plant]] |
 | *Tempo of the Damned* | 2004 | [[Producers/A/Andy Sneap]] | Tsunami Recordings |
 | *Shovel Headed Kill Machine* | 2005 | Gary Holt | Trident Studio |
 | *The Atrocity Exhibition... Exhibit A* | 2007 | Andy Sneap | |

@@ -20,7 +20,7 @@ genre:
 | *Anthems for the Damned* | 2008 | Josh Abraham, Rae DiLeo | |
 | *The Trouble with Angels* | 2010 | Richard Patrick, Bob Marlette | |
 | *The Sun Comes Out Tonight* | 2013 | Richard Patrick, Bob Marlette | |
-| *Crazy Eyes* | 2016 | Richard Patrick, Oumi Kapila | Studio 11:11 |
+| *Crazy Eyes* | 2016 | Richard Patrick, [[Producers/O/Oumi Kapila]] | Studio 11:11 |
 | *The Algorithm* | 2023 | Richard Patrick, [[Producers/B/Brian Virtue]] | |
 
 ### EPs

@@ -15,7 +15,7 @@ genre:
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
 | *Bury Me in Vegas* | 2012 | | |
-| *We Are the Mess* | 2014 | Kristian Kohlmannslehner | [[Studios/K/Kohlekeller Studios]] |
+| *We Are the Mess* | 2014 | [[Producers/K/Kristian Kohlmannslehner]] | [[Studios/K/Kohlekeller Studios]] |
 | *Crystals* | 2015 | Eskimo Callboy (self-produced) | |
 | *The Scene* | 2017 | Eskimo Callboy, Marcel Neumann | |
 | *Rehab* | 2019 | Sky van Hoff, Johannes Weißschnur, Marco Bayati | |

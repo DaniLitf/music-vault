@@ -20,13 +20,13 @@ Apoptygma Berzerk (often abbreviated as APB or APOP) is a Norwegian electronic b
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *Soli Deo Gloria* | 1993 | Stephan Groth | |
-| *7* | 1996 | Stephan Groth, Geir Bratland | |
-| *Welcome to Earth* | 2000 | Stephan Groth, Geir Bratland | |
-| *Harmonizer* | 2002 | Stephan Groth, Geir Bratland | |
-| *You and Me Against the World* | 2005 | Stephan Groth | |
-| *Rocket Science* | 2009 | Stephan Groth | |
-| *Exit Popularity Contest* | 2016 | Stephan Groth, Jonas Groth | |
+| *Soli Deo Gloria* | 1993 | [[Producers/S/Stephan Groth]] | |
+| *7* | 1996 | [[Producers/S/Stephan Groth]], [[Producers/G/Geir Bratland]] | |
+| *Welcome to Earth* | 2000 | [[Producers/S/Stephan Groth]], [[Producers/G/Geir Bratland]] | |
+| *Harmonizer* | 2002 | [[Producers/S/Stephan Groth]], [[Producers/G/Geir Bratland]] | |
+| *You and Me Against the World* | 2005 | [[Producers/S/Stephan Groth]] | |
+| *Rocket Science* | 2009 | [[Producers/S/Stephan Groth]] | |
+| *Exit Popularity Contest* | 2016 | [[Producers/S/Stephan Groth]], Jonas Groth | |
 
 ### Live Albums
 - *APBL98* (1999)
