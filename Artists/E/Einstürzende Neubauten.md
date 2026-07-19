@@ -18,15 +18,15 @@ genre:
 | *Stahlmusik* | 1980 | Einstürzende Neubauten |
 | *Kollaps* | 1981 | Einstürzende Neubauten |
 | *Zeichnungen des Patienten O. T.* | 1983 | Einstürzende Neubauten |
-| *Halber Mensch* | 1985 | Gareth Jones, Einstürzende Neubauten |
-| *Fünf auf der nach oben offenen Richterskala* | 1987 | Gareth Jones, Einstürzende Neubauten |
+| *Halber Mensch* | 1985 | [[Producers/G/Gareth Jones]], Einstürzende Neubauten |
+| *Fünf auf der nach oben offenen Richterskala* | 1987 | [[Producers/G/Gareth Jones]], Einstürzende Neubauten |
 | *Haus der Lüge* | 1989 | Einstürzende Neubauten |
-| *Tabula Rasa* | 1993 | Einstürzende Neubauten, Jon Caffery |
-| *Ende Neu* | 1996 | Einstürzende Neubauten, Jon Caffery |
+| *Tabula Rasa* | 1993 | Einstürzende Neubauten, [[Producers/J/Jon Caffery]] |
+| *Ende Neu* | 1996 | Einstürzende Neubauten, [[Producers/J/Jon Caffery]] |
 | *Silence Is Sexy* | 2000 | Einstürzende Neubauten |
 | *Perpetuum Mobile* | 2004 | Einstürzende Neubauten |
 | *Alles wieder offen* | 2007 | Einstürzende Neubauten |
-| *Lament* | 2014 | Boris Wilsdorf, Einstürzende Neubauten |
+| *Lament* | 2014 | [[Producers/B/Boris Wilsdorf]], Einstürzende Neubauten |
 | *Alles in Allem* | 2020 | Einstürzende Neubauten |
 | *Rampen (apm: alien pop music)* | 2024 | |
 

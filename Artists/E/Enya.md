@@ -16,14 +16,14 @@ Enya is a solo artist. See [[Members/E/Enya]] for biography.
 ### Studio Albums
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
-| *Enya* (reissued 1992 as *The Celts*) | 1987 | Nicky Ryan | Aigle Studio, Dublin; BBC Enterprises Studio, London |
-| *Watermark* | 1988 | Nicky Ryan | Aigle Studio, Dublin; Orinoco Studios, London |
-| *Shepherd Moons* | 1991 | Nicky Ryan | Aigle Studio, Dublin; SARM West, London |
-| *The Memory of Trees* | 1995 | Nicky Ryan | Aigle Studio, Dublin |
-| *A Day Without Rain* | 2000 | Nicky Ryan | Aigle Studio, Dublin |
-| *Amarantine* | 2005 | Nicky Ryan | Aigle Studio, Dublin |
-| *And Winter Came...* | 2008 | Nicky Ryan | Aigle Studio, Dublin |
-| *Dark Sky Island* | 2015 | Nicky Ryan | Aigle Studio, Dublin |
+| *Enya* (reissued 1992 as *The Celts*) | 1987 | [[Producers/N/Nicky Ryan]] | Aigle Studio, Dublin; BBC Enterprises Studio, London |
+| *Watermark* | 1988 | [[Producers/N/Nicky Ryan]] | Aigle Studio, Dublin; Orinoco Studios, London |
+| *Shepherd Moons* | 1991 | [[Producers/N/Nicky Ryan]] | Aigle Studio, Dublin; SARM West, London |
+| *The Memory of Trees* | 1995 | [[Producers/N/Nicky Ryan]] | Aigle Studio, Dublin |
+| *A Day Without Rain* | 2000 | [[Producers/N/Nicky Ryan]] | Aigle Studio, Dublin |
+| *Amarantine* | 2005 | [[Producers/N/Nicky Ryan]] | Aigle Studio, Dublin |
+| *And Winter Came...* | 2008 | [[Producers/N/Nicky Ryan]] | Aigle Studio, Dublin |
+| *Dark Sky Island* | 2015 | [[Producers/N/Nicky Ryan]] | Aigle Studio, Dublin |
 
 ### EPs
 | Release | Year |

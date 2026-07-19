@@ -15,7 +15,7 @@ genre:
 | Year | Title | Producer | Studio | Notes |
 |------|-------|----------|--------|-------|
 | 1988 | *A Stroll in the Pork* | Raymond Watts | — | debut |
-| 1991 | *Praise the Lard* | Raymond Watts, Jon Caffery | — | |
+| 1991 | *Praise the Lard* | Raymond Watts, [[Producers/J/Jon Caffery]] | — | |
 | 1993 | *The Swining* | Raymond Watts | — | originally Japan release |
 | 1995 | *Sinsation* | Raymond Watts | Ranch Apocalypse, London | |
 | 1996 | *Wrecked* | Raymond Watts, Giles Littlefield, Julian Beeston, Rob Henry | — | |
