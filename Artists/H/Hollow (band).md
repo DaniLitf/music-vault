@@ -1,6 +1,6 @@
 ---
 genre:
-  - Heavy metal
+  - Heavy Metal
 ---
 
 # Hollow

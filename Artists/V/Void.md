@@ -8,9 +8,12 @@ genre:
 
 **Void were an American hardcore punk band formed in Washington D.C. in 1980, known for their chaotic, dissonant sound that pushed hardcore toward noise rock territory, best documented on the split LP *Faith/Void* with The Faith.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1983 | *Faith/Void* | split LP with The Faith on Dischord Records |
+## Discography
+
+### Splits
+| Album | Year | Notes |
+|-------|------|-------|
+| *Faith/Void* | 1983 | Split LP with The Faith on Dischord Records |
 
 ## Members
 

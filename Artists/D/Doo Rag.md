@@ -1,8 +1,8 @@
 ---
 genre:
-  - blues-punk
-  - lo-fi
-  - garage rock
+  - Blues-Punk
+  - Lo-Fi
+  - Garage Rock
 ---
 
 # Doo Rag

@@ -1,7 +1,7 @@
 ---
 genre:
-  - Swedish pop
-  - electronic
+  - Swedish Pop
+  - Electronic
 ---
 
 # Far & Son

@@ -1,8 +1,8 @@
 ---
 genre:
-  - industrial
+  - Industrial
   - EBM
-  - electro-industrial
+  - Electro-Industrial
 ---
 
 # Excessive Force

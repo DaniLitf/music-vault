@@ -10,14 +10,13 @@ nationality: British
 
 **Drummer. British.**
 
-Nate Gould was the drummer for The Rotted (formerly Gorerotted) from 2008 to 2014, replacing Junky Jon. He performed on *Get Dead or Die Trying* and *Ad Nauseam*.
+Nate Gould is an English musician, best known as the drummer of The Rotted, playing on *Get Dead or Die Trying* (2008) and *Ad Nauseam* (2011). Before joining The Rotted, he spent over three years as drummer for blackened murder metal band Screamin' Daemon, touring their debut album and recording their second before leaving to focus on The Rotted full-time. He remained with The Rotted until the band's split in 2014.
 
 ## Associated Artists
 
-- [[Artists/G/Gorerotted]] – drums (2008–2014)
 - [[Artists/T/The Rotted]] – drums (2008–2014)
+- [[Artists/S/Screamin' Daemon]] – drums
 
 ## Sources
-
-- [Wikipedia: Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)
-- [Metal Archives](https://www.metal-archives.com/bands/Gorerotted/2101)
+- Wikipedia: [Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)
+- Discogs

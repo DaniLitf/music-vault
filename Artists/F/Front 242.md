@@ -1,8 +1,8 @@
 ---
 genre:
   - EBM
-  - industrial
-  - electronic body music
+  - Industrial
+  - Electronic Body Music
 ---
 
 # Front 242

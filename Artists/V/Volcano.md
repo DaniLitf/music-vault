@@ -8,19 +8,23 @@ genre:
 
 **Volcano is a Swedish rock band.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2000 | *Volcano* | debut |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Volcano* | 2000 | — | — |
 
 ## Members
 
 ### Core / Official Members
-- [[Members/V/Volcano]] — see member page for details
+- [[Members/D/David Birde]] — vocals, guitar (1998–2003)
+- [[Members/P/Peter Engström]] — bass (1998–2003)
+- [[Members/J/Jonas Calden]] — drums (1998–2003)
 
 ## Connections
 
 No confirmed shared-member connections to other vault artists.
 
 ## Sources
-- Wikipedia
-- AllMusic
+- Discogs

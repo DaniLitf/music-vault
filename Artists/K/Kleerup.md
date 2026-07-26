@@ -1,8 +1,8 @@
 ---
 genre:
-  - electronic
-  - synth-pop
-  - pop
+  - Electronic
+  - Synth-Pop
+  - Pop
 ---
 
 # Kleerup
@@ -11,11 +11,14 @@ genre:
 
 Kleerup is a solo artist. See [[Members/A/Andreas Kleerup]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2008 | *Kleerup* | debut; features Robyn ("With Every Heartbeat") |
-| 2013 | *As If We Never Won* | |
-| 2020 | *Stories from the Lost & Found* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Kleerup* | 2008 | — | — |
+| *As If We Never Won* | 2013 | — | — |
+| *Stories from the Lost & Found* | 2020 | — | — |
 
 ## Members
 

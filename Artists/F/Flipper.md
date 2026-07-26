@@ -1,8 +1,8 @@
 ---
 genre:
-  - post-punk
-  - noise rock
-  - hardcore punk
+  - Post-Punk
+  - Noise Rock
+  - Hardcore Punk
 ---
 
 # Flipper

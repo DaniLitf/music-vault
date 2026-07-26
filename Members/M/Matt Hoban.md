@@ -10,13 +10,11 @@ nationality: British
 
 **Guitarist. British.**
 
-Matt Hoban, known as Robin Pants, was a guitarist for the deathgrind band Gorerotted from 2001 to 2007, performing on *Only Tools and Corpses* and *A New Dawn for the Dead*.
+See [[Members/M/Matt Robin Pants Hoban]] for the full biography and associated artists (The Agonyst, Gorerotted/The Rotted).
 
 ## Associated Artists
-
-- [[Artists/G/Gorerotted]] – guitar (2001–2007)
+- [[Artists/T/The Rotted]] – guitar (2001–2007) — see [[Members/M/Matt Robin Pants Hoban]]
 
 ## Sources
-
 - [Wikipedia: Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)
 - [Metal Archives](https://www.metal-archives.com/bands/Gorerotted/2101)

@@ -1,16 +1,19 @@
 ---
 genre:
-  - hard rock
-  - heavy metal
+  - Hard Rock
+  - Heavy Metal
 ---
 
 # Kings of Chaos
 
 **Kings of Chaos are an American hard rock supergroup founded in 2012 featuring a rotating cast of musicians from major rock bands, anchored by drummer Matt Sorum and including Duff McKagan of Guns N' Roses and Velvet Revolver.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2022 | *Devil's Work* | debut studio album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Devil's Work* | 2022 | — | — |
 
 ## Members
 

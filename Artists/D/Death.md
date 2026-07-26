@@ -14,15 +14,15 @@ The band's evolution from brutal speed/death metal to highly technical, progress
 ## Discography
 
 ### Studio Albums
-| Year | Title | Notes |
-|------|-------|-------|
-| 1987 | *Scream Bloody Gore* | Founding death metal document |
-| 1988 | *Leprosy* | |
-| 1990 | *Spiritual Healing* | |
-| 1991 | *Human* | Technical turn; landmark |
-| 1993 | *Individual Thought Patterns* | |
-| 1995 | *Symbolic* | |
-| 1998 | *The Sound of Perseverance* | Final album |
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Scream Bloody Gore* | 1987 | — | — |
+| *Leprosy* | 1988 | — | — |
+| *Spiritual Healing* | 1990 | — | — |
+| *Human* | 1991 | — | — |
+| *Individual Thought Patterns* | 1993 | — | — |
+| *Symbolic* | 1995 | — | — |
+| *The Sound of Perseverance* | 1998 | — | — |
 
 ## Members
 

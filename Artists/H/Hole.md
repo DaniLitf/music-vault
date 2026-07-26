@@ -1,20 +1,23 @@
 ---
 genre:
-  - alternative rock
-  - grunge
-  - punk rock
+  - Alternative Rock
+  - Grunge
+  - Punk Rock
 ---
 
 # Hole
 
 **Hole were an American rock band formed in Los Angeles in 1989 by vocalist/guitarist Courtney Love, known for their raw, confrontational albums like *Live Through This* (1994) — released days after Kurt Cobain's death — and Celebrity Skin (1998).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1991 | *Pretty on the Inside* | debut album |
-| 1994 | *Live Through This* | critically acclaimed; released same week as Kurt Cobain's death |
-| 1998 | *Celebrity Skin* | |
-| 2010 | *Nobody's Daughter* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Pretty on the Inside* | 1991 | — | — |
+| *Live Through This* | 1994 | — | — |
+| *Celebrity Skin* | 1998 | — | — |
+| *Nobody's Daughter* | 2010 | — | — |
 
 ## Members
 

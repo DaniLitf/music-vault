@@ -10,12 +10,14 @@ nationality: British
 
 **Guitarist. British.**
 
-Lakis Kyriacou was a touring guitarist for the deathgrind band Gorerotted in 1997, playing during the band's earliest live shows.
+Lakis Kyriacou is a guitarist who filled in for two Gorerotted shows in 1997 after guitarist Tim Carley broke his wrist. He later went on to play in Nemhain.
 
 ## Associated Artists
 
-- [[Artists/G/Gorerotted]] – guitar (touring 1997)
+- [[Artists/T/The Rotted]] – touring guitar (1997)
+- [[Artists/N/Nemhain]] – guitar
 
 ## Sources
-
-- [Wikipedia: Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)
+- Wikipedia: [Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)
+- Discogs
+- [Gorerotted: Line-up history](http://gorerotted.weebly.com/line-up-history.html)

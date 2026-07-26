@@ -1,25 +1,32 @@
 ---
 genre:
-  - post-metal
-  - shoegaze
-  - drone metal
-  - doom metal
+  - Post-Metal
+  - Shoegaze
+  - Drone Metal
+  - Doom Metal
 ---
 
 # Jesu
 
 **Jesu are a British post-metal band formed in Birmingham in 2003 by [[Members/J/Justin Broadrick]] as his main project following the dissolution of [[Artists/G/Godflesh]], blending shoegaze melody with heavy drone and doom metal textures.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2004 | *Jesu* | debut EP |
-| 2006 | *Jesu* | debut album |
-| 2007 | *Conqueror* | |
-| 2007 | *Lifeline* | EP |
-| 2009 | *Opiate Sun* | EP |
-| 2010 | *Infinity* | double album |
-| 2014 | *Everyday I Get Closer to the Light from Which I Came* | |
-| 2016 | *Pale Sketches* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Jesu* | 2006 | — | — |
+| *Conqueror* | 2007 | — | — |
+| *Infinity* | 2010 | — | — |
+| *Everyday I Get Closer to the Light from Which I Came* | 2014 | — | — |
+| *Pale Sketches* | 2016 | — | — |
+
+### EPs
+| Album | Year |
+|-------|------|
+| *Jesu* | 2004 |
+| *Lifeline* | 2007 |
+| *Opiate Sun* | 2009 |
 
 ## Members
 

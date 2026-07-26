@@ -1,7 +1,7 @@
 ---
-real_name: Gianpiero Piras
-also_known_as:
-birth_date:
+real_name: Gianpiero Giuseppe Piras
+also_known_as: Gian Pyres
+birth_date: 1973-10-20
 death_date:
 nationality: British
 ---
@@ -10,14 +10,11 @@ nationality: British
 
 **Guitarist. British.**
 
-Gianpiero Piras was a guitarist for the deathgrind band Gorerotted from 2007 to 2009, performing during the transition from Gorerotted to The Rotted.
+"Gianpiero Piras" is the birth name of guitarist Gian Pyres. See [[Members/G/Gian Pyres]] for the full biography and associated artists (Cradle of Filth, Extreme Noise Terror, Gorerotted/The Rotted).
 
 ## Associated Artists
-
-- [[Artists/G/Gorerotted]] – guitar (2007–2009)
-- [[Artists/T/The Rotted]] – guitar (2008–2009)
+- [[Artists/T/The Rotted]] – guitar (2007–2009) — see [[Members/G/Gian Pyres]]
 
 ## Sources
-
-- [Wikipedia: Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)
-- [Metal Archives](https://www.metal-archives.com/bands/Gorerotted/2101)
+- Wikipedia: [Gian Pyres](https://en.wikipedia.org/wiki/Gian_Pyres)
+- Wikipedia: [Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)

@@ -1,8 +1,8 @@
 ---
 genre:
-  - techno
-  - Detroit techno
-  - electronic
+  - Techno
+  - Detroit Techno
+  - Electronic
 ---
 
 # Jeff Mills
@@ -11,14 +11,17 @@ genre:
 
 Jeff Mills is a solo artist. See [[Members/J/Jeff Mills]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1993 | *Waveform Transmission Vol. 1* | debut solo album |
-| 1996 | *Lifelike* | |
-| 1998 | *The Other Day* | |
-| 2000 | *Metropolis* | film score collaboration |
-| 2002 | *The Occurrence* | |
-| 2005 | *Blue Potential* | with Montpellier Philharmonic |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Waveform Transmission Vol. 1* | 1993 | — | — |
+| *Lifelike* | 1996 | — | — |
+| *The Other Day* | 1998 | — | — |
+| *Metropolis* | 2000 | — | — |
+| *The Occurrence* | 2002 | — | — |
+| *Blue Potential* | 2005 | — | — |
 
 ## Members
 

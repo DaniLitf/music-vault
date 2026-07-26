@@ -30,6 +30,9 @@ genre:
 - [[Members/J/Jon Brännström]] – guitar (1994–1998, 2012–present)
 - [[Members/M/Magnus Björklund]] – bass (1992–1998, 2012–present)
 
+### Current Touring Band
+- [[Members/M/Mattias Bärjed]] – guitar (2015–present)
+
 ### Past Members
 - [[Members/P/Pär Hansson]] – bass (1991–1992)
 - [[Members/M/Magnus Höggren]] – guitar (1991–1993)

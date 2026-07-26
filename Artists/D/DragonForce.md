@@ -1,8 +1,8 @@
 ---
 genre:
-  - power metal
-  - extreme power metal
-  - speed metal
+  - Power Metal
+  - Extreme Power Metal
+  - Speed Metal
 ---
 
 # DragonForce

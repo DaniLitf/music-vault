@@ -1,8 +1,8 @@
 ---
 genre:
-  - film score
-  - orchestral
-  - electronic
+  - Film Score
+  - Orchestral
+  - Electronic
 ---
 
 # Hans Zimmer
@@ -11,17 +11,20 @@ genre:
 
 Hans Zimmer is a solo artist. See [[Members/H/Hans Zimmer]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1988 | *Rain Man* | breakthrough score |
-| 1994 | *The Lion King* | Academy Award winner |
-| 1995 | *Crimson Tide* | |
-| 2000 | *Gladiator* | |
-| 2003 | *The Last Samurai* | |
-| 2006 | *Pirates of the Caribbean: Dead Man's Chest* | |
-| 2010 | *Inception* | |
-| 2014 | *Interstellar* | |
-| 2021 | *Dune* | |
+## Discography
+
+### Film Scores
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Rain Man* | 1988 | — | — |
+| *The Lion King* | 1994 | — | — |
+| *Crimson Tide* | 1995 | — | — |
+| *Gladiator* | 2000 | — | — |
+| *The Last Samurai* | 2003 | — | — |
+| *Pirates of the Caribbean: Dead Man's Chest* | 2006 | — | — |
+| *Inception* | 2010 | — | — |
+| *Interstellar* | 2014 | — | — |
+| *Dune* | 2021 | — | — |
 
 ## Members
 

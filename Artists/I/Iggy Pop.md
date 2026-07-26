@@ -1,8 +1,8 @@
 ---
 genre:
-  - punk rock
-  - hard rock
-  - protopunk
+  - Punk Rock
+  - Hard Rock
+  - Protopunk
 ---
 
 # Iggy Pop
@@ -11,24 +11,27 @@ genre:
 
 Iggy Pop is a solo artist. See [[Members/I/Iggy Pop]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1977 | *The Idiot* | solo debut; with David Bowie |
-| 1977 | *Lust for Life* | contains "Lust for Life" and "The Passenger" |
-| 1979 | *New Values* | |
-| 1980 | *Soldier* | |
-| 1982 | *Zombie Birdhouse* | |
-| 1986 | *Blah-Blah-Blah* | comeback; with David Bowie |
-| 1988 | *Instinct* | |
-| 1990 | *Brick by Brick* | |
-| 1993 | *American Caesar* | |
-| 1996 | *Naughty Little Doggie* | |
-| 1999 | *Avenue B* | |
-| 2001 | *Beat 'em Up* | |
-| 2003 | *Skull Ring* | |
-| 2009 | *Preliminaires* | |
-| 2012 | *Après* | |
-| 2016 | *Post Pop Depression* | with Josh Homme |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The Idiot* | 1977 | David Bowie | — |
+| *Lust for Life* | 1977 | David Bowie | — |
+| *New Values* | 1979 | — | — |
+| *Soldier* | 1980 | — | — |
+| *Zombie Birdhouse* | 1982 | — | — |
+| *Blah-Blah-Blah* | 1986 | David Bowie | — |
+| *Instinct* | 1988 | — | — |
+| *Brick by Brick* | 1990 | — | — |
+| *American Caesar* | 1993 | — | — |
+| *Naughty Little Doggie* | 1996 | — | — |
+| *Avenue B* | 1999 | — | — |
+| *Beat 'em Up* | 2001 | — | — |
+| *Skull Ring* | 2003 | — | — |
+| *Preliminaires* | 2009 | — | — |
+| *Après* | 2012 | — | — |
+| *Post Pop Depression* | 2016 | Josh Homme | — |
 
 ## Members
 

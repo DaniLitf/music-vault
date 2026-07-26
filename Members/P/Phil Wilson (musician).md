@@ -1,5 +1,5 @@
 ---
-real_name:
+real_name: Phil Wilson
 also_known_as:
 birth_date:
 death_date:
@@ -8,14 +8,12 @@ nationality: British
 
 # Phil Wilson (musician)
 
-**Guitarist. Born ?.**
+**Bassist, vocalist. British.**
 
-Phil Wilson is a British guitarist who was a member of the deathgrind band Gorerotted. He contributed guitar to the band's recordings and live performances before the band transitioned to The Rotted.
+See [[Members/P/Phil Wilson]] for the full biography and associated artists (Regorge, Gorerotted/The Rotted). Note: bass/vocals, not guitar — corrected from an earlier stub.
 
 ## Associated Artists
-- [[Artists/G/Gorerotted]] – guitar
-
-## Biography
+- [[Artists/T/The Rotted]] – bass, vocals (2001–2008) — see [[Members/P/Phil Wilson]]
 
 ## Sources
 - Metal Archives

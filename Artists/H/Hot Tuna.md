@@ -1,26 +1,33 @@
 ---
 genre:
-  - blues rock
-  - folk rock
-  - acoustic blues
+  - Blues Rock
+  - Folk Rock
+  - Acoustic Blues
 ---
 
 # Hot Tuna
 
 **Hot Tuna are an American blues rock band formed in San Francisco in 1969 by Jorma Kaukonen and Jack Casady of Jefferson Airplane, initially as a side project that outlasted the parent band and continues to this day.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1970 | *Hot Tuna* | debut album |
-| 1971 | *First Pull Up, Then Pull Down* | live album |
-| 1972 | *Burgers* | |
-| 1973 | *The Phosphorescent Rat* | |
-| 1975 | *America's Choice* | |
-| 1976 | *Yellow Fever* | |
-| 1977 | *Hoppkorv* | |
-| 1978 | *Double Dose* | |
-| 1990 | *Pair a Dice Found* | reunion album |
-| 2011 | *Steady as She Goes* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Hot Tuna* | 1970 | — | — |
+| *Burgers* | 1972 | — | — |
+| *The Phosphorescent Rat* | 1973 | — | — |
+| *America's Choice* | 1975 | — | — |
+| *Yellow Fever* | 1976 | — | — |
+| *Hoppkorv* | 1977 | — | — |
+| *Double Dose* | 1978 | — | — |
+| *Pair a Dice Found* | 1990 | — | — |
+| *Steady as She Goes* | 2011 | — | — |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *First Pull Up, Then Pull Down* | 1971 |
 
 ## Members
 

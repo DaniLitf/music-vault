@@ -9,10 +9,17 @@ genre:
 
 **The Tuss is an alias widely believed to belong to [[Members/R/Richard D. James]] ([[Artists/A/Aphex Twin]]), used for a series of electro and acid techno releases on Rephlex Records in 2007.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2007 | *Rushup Edge* | sole full-length |
-| 2007 | *Confederation Trough* | EP |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Rushup Edge* | 2007 | Richard D. James | — |
+
+### EPs
+| Release | Year |
+|---------|------|
+| *Confederation Trough* | 2007 |
 
 ## Members
 

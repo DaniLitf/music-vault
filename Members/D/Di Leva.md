@@ -1,7 +1,7 @@
 ---
-real_name: Magnus Christian Persson Lagerström
+real_name: Sven Thomas Magnusson
 also_known_as: Di Leva
-birth_date: 1958-01-01
+birth_date: 1963-10-23
 nationality: Swedish
 ---
 

@@ -9,12 +9,22 @@ genre:
 
 **The Stooges were an American proto-punk band formed in Ann Arbor, Michigan in 1967 by Iggy Pop and the Asheton brothers, widely considered among the most influential bands in rock history and progenitors of punk rock.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1969 | *The Stooges* | debut; produced by John Cale |
-| 1970 | *Fun House* | landmark album |
-| 1973 | *Raw Power* | as Iggy and the Stooges; produced by David Bowie |
-| 2007 | *The Weirdness* | reunion album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The Stooges* | 1969 | John Cale | Hit Factory, New York |
+| *Fun House* | 1970 | Don Gallucci | Elektra Sound Recorders, Los Angeles |
+| *Raw Power* | 1973 | [[Producers/D/David Bowie]] | CBS Studios, London (as Iggy and the Stooges) |
+| *The Weirdness* | 2007 | Steve Albini | Electrical Audio, Chicago |
+
+### Live Albums
+| Album | Year | Notes |
+|-------|------|-------|
+| *Metallic K.O.* | 1976 | Recorded live 1973–1974 |
+| *Telluric Chaos* | 2005 | Reunion live album |
+| *Live at Goose Lake* | 2022 | Recorded 1970 |
 
 ## Members
 

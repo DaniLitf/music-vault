@@ -8,11 +8,18 @@ genre:
 
 **Truly were an American alternative rock band formed in Seattle in 1990, featuring Hiro Yamamoto who had been a founding member of Soundgarden and Mark Pickerel from Screaming Trees.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1993 | *Heart and Lungs* | debut EP |
-| 1995 | *Fast Stories...from Kid Coma* | debut full-length |
-| 1999 | *Feeling You Up* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Fast Stories...from Kid Coma* | 1995 | — | — |
+| *Feeling You Up* | 1999 | — | — |
+
+### EPs
+| Album | Year |
+|-------|------|
+| *Heart and Lungs* | 1993 |
 
 ## Members
 

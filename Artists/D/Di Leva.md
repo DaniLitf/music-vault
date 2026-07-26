@@ -1,15 +1,13 @@
 ---
 genre:
-  - pop
-  - new age
-  - spiritual pop
+  - Pop
+  - New Age
+  - Spiritual Pop
 ---
 
 # Di Leva
 
 **Di Leva is a Swedish pop and spiritual music artist, known for blending pop with themes of consciousness, spirituality, and personal growth.**
-
-Note: sources (Wikipedia, Discogs) consistently identify Di Leva as **Sven Thomas Magnusson**, born 1963-10-23 in Gävle — not "Magnus Christian Persson Lagerström, born 1958" as previously stated on this page. Flagging for correction in the `real_name`/`birth_date` frontmatter and on [[Members/D/Di Leva]]; not corrected here as it falls outside this discography fix.
 
 Di Leva is a solo artist. See [[Members/D/Di Leva]] for biography.
 

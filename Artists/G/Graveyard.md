@@ -9,14 +9,24 @@ genre:
 
 **Graveyard are a Swedish rock band formed in Gothenburg in 2006, known for their vintage hard rock sound influenced by 1970s blues-rock and heavy metal, achieving critical success with albums like *Hisingen Blues* (2011) and *Lights Out* (2012).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2008 | *Graveyard* | debut album |
-| 2011 | *Hisingen Blues* | |
-| 2012 | *Lights Out* | |
-| 2015 | *Innocence & Decadence* | |
-| 2018 | *Peace* | |
-| 2022 | *6* | |
+## Discography
+
+### Studio Albums
+| Album | Year |
+|-------|------|
+| *Graveyard* | 2007 |
+| *Hisingen Blues* | 2011 |
+| *Lights Out* | 2012 |
+| *Innocence & Decadence* | 2015 |
+| *Peace* | 2018 |
+| *6* | 2023 |
+
+### Singles
+| Single | Year | Notes |
+|--------|------|-------|
+| "Ancestors" / "Graveyard" | 2009 | split 7" with Ancestors |
+| "Hisingen Blues" | 2011 | 7" single |
+| "Goliath" | 2012 | 7" single |
 
 ## Members
 

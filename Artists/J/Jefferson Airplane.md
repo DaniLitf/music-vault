@@ -1,23 +1,26 @@
 ---
 genre:
-  - psychedelic rock
-  - folk rock
-  - acid rock
+  - Psychedelic Rock
+  - Folk Rock
+  - Acid Rock
 ---
 
 # Jefferson Airplane
 
 **Jefferson Airplane were an American psychedelic rock band formed in San Francisco in 1965, the first SF psychedelic band to achieve international commercial success, known for "White Rabbit" and "Somebody to Love," and who evolved into Jefferson Starship in 1974.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1966 | *Jefferson Airplane Takes Off* | debut album |
-| 1967 | *Surrealistic Pillow* | breakthrough; contains "White Rabbit" and "Somebody to Love" |
-| 1967 | *After Bathing at Baxter's* | |
-| 1968 | *Crown of Creation* | |
-| 1969 | *Volunteers* | |
-| 1971 | *Bark* | |
-| 1972 | *Long John Silver* | final studio album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Jefferson Airplane Takes Off* | 1966 | — | — |
+| *Surrealistic Pillow* | 1967 | — | — |
+| *After Bathing at Baxter's* | 1967 | — | — |
+| *Crown of Creation* | 1968 | — | — |
+| *Volunteers* | 1969 | — | — |
+| *Bark* | 1971 | — | — |
+| *Long John Silver* | 1972 | — | — |
 
 ## Members
 

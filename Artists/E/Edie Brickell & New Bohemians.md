@@ -1,8 +1,8 @@
 ---
 genre:
-  - alternative rock
-  - folk rock
-  - pop rock
+  - Alternative Rock
+  - Folk Rock
+  - Pop Rock
 ---
 
 # Edie Brickell & New Bohemians
@@ -52,7 +52,7 @@ genre:
 - [[Members/W/Wes Burt-Martin]] — guitar
 - [[Members/J/John Bush]] — drums
 - [[Members/M/Matt Chamberlain]] — drums (later)
-- Paul "Wix" Wickliffe — keyboards
+- [[Members/P/Paul Wickliffe]] — keyboards
 
 ## Connections
 

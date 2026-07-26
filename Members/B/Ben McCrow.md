@@ -1,6 +1,8 @@
 ---
 real_name: Ben McCrow
+also_known_as: Goreskin
 birth_date: 1981
+death_date:
 nationality: British
 ---
 
@@ -8,13 +10,12 @@ nationality: British
 
 **Vocalist. Born 1981 in Hounslow, London, England.**
 
-Ben McCrow is a British punk and death metal vocalist, best known for fronting Extreme Noise Terror since 2014 and previously serving as vocalist for Gorerotted and The Rotted. He replaced the late Phil Vane and has appeared on the self-titled ENT album and subsequent releases.
+Ben McCrow, known by the stage name Goreskin, is a British punk and death metal vocalist. He joined deathgrind band Gorerotted in 1999, delivering the deep death-growl half of the band's dual-vocal attack, and stayed through the band's 2008 rebrand as The Rotted and its eventual 2014 split, returning for the Gorerotted reunion announced in 2026. Since 2014 he has also fronted grindcore/crust punk pioneers Extreme Noise Terror, replacing the late Phil Vane.
 
 ## Associated Artists
 
 - [[Artists/E/Extreme Noise Terror]] – vocals (2014–present)
-- [[Artists/G/Gorerotted]] – vocals
-- [[Artists/T/The Rotted]] – vocals
+- [[Artists/T/The Rotted]] – vocals (1999–2014, 2026–present)
 
 ## Sources
 

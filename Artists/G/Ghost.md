@@ -1,8 +1,8 @@
 ---
 genre:
-  - heavy metal
-  - doom metal
-  - hard rock
+  - Heavy Metal
+  - Doom Metal
+  - Hard Rock
 ---
 
 # Ghost

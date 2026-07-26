@@ -1,16 +1,19 @@
 ---
 genre:
-  - Swedish pop
-  - country
+  - Swedish Pop
+  - Country
 ---
 
 # Hooja
 
 **Hooja are a Swedish pop/country duo.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2000 | *Hooja* | debut release |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Hooja* | 2000 | — | — |
 
 ## Members
 

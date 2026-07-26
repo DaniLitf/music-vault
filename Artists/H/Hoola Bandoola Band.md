@@ -1,22 +1,25 @@
 ---
 genre:
-  - progg
-  - folk rock
-  - Swedish rock
+  - Progg
+  - Folk Rock
+  - Swedish Rock
 ---
 
 # Hoola Bandoola Band
 
 **Hoola Bandoola Band were a Swedish progg and folk rock band formed in Gothenburg in 1971, one of the defining acts of the Swedish progg movement — a politically engaged, anti-commercial counter-culture scene — known for their rousing folk-inflected anthems.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1971 | *Vem kan man lita på?* | debut album |
-| 1972 | *Garanterat Individuell* | |
-| 1973 | *Det lönar sig att älska* | |
-| 1974 | *Stoppa matchen!* | |
-| 1975 | *Fri information* | |
-| 1976 | *Tio år* | final album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Vem kan man lita på?* | 1971 | — | — |
+| *Garanterat Individuell* | 1972 | — | — |
+| *Det lönar sig att älska* | 1973 | — | — |
+| *Stoppa matchen!* | 1974 | — | — |
+| *Fri information* | 1975 | — | — |
+| *Tio år* | 1976 | — | — |
 
 ## Members
 

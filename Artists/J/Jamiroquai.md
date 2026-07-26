@@ -1,24 +1,27 @@
 ---
 genre:
-  - funk
-  - acid jazz
-  - soul
+  - Funk
+  - Acid Jazz
+  - Soul
 ---
 
 # Jamiroquai
 
 **Jamiroquai are an English funk and acid jazz band formed in London in 1992, fronted by Jay Kay, known for their eclectic blend of funk, soul, and electronic music with hits like "Virtual Insanity," "Canned Heat," and "Cosmic Girl."**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1993 | *Emergency on Planet Earth* | debut album |
-| 1994 | *The Return of the Space Cowboy* | |
-| 1996 | *Travelling Without Moving* | contains "Virtual Insanity" and "Cosmic Girl" |
-| 1999 | *Synkronized* | |
-| 2001 | *A Funk Odyssey* | |
-| 2005 | *Dynamite* | |
-| 2010 | *Rock Dust Light Star* | |
-| 2017 | *Automaton* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Emergency on Planet Earth* | 1993 | — | — |
+| *The Return of the Space Cowboy* | 1994 | — | — |
+| *Travelling Without Moving* | 1996 | — | — |
+| *Synkronized* | 1999 | — | — |
+| *A Funk Odyssey* | 2001 | — | — |
+| *Dynamite* | 2005 | — | — |
+| *Rock Dust Light Star* | 2010 | — | — |
+| *Automaton* | 2017 | — | — |
 
 ## Members
 

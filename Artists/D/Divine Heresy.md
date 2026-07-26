@@ -1,8 +1,8 @@
 ---
 genre:
-  - groove metal
-  - industrial metal
-  - death metal
+  - Groove Metal
+  - Industrial Metal
+  - Death Metal
 ---
 
 # Divine Heresy

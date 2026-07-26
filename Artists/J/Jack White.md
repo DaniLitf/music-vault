@@ -1,8 +1,8 @@
 ---
 genre:
-  - rock
-  - garage rock
-  - blues rock
+  - Rock
+  - Garage Rock
+  - Blues Rock
 ---
 
 # Jack White
@@ -11,14 +11,17 @@ genre:
 
 Jack White is a solo artist. See [[Members/J/Jack White]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2012 | *Blunderbuss* | solo debut |
-| 2014 | *Lazaretto* | |
-| 2018 | *Boarding House Reach* | |
-| 2022 | *Fear of the Dawn* | |
-| 2022 | *Entering Heaven Alive* | |
-| 2024 | *No Name* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Blunderbuss* | 2012 | Jack White | — |
+| *Lazaretto* | 2014 | Jack White | — |
+| *Boarding House Reach* | 2018 | Jack White | — |
+| *Fear of the Dawn* | 2022 | Jack White | — |
+| *Entering Heaven Alive* | 2022 | Jack White | — |
+| *No Name* | 2024 | Jack White | — |
 
 ## Members
 

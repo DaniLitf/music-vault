@@ -1,26 +1,29 @@
 ---
 genre:
-  - power metal
-  - heavy metal
+  - Power Metal
+  - Heavy Metal
 ---
 
 # Hammerfall
 
 **Hammerfall are a Swedish power metal band formed in Gothenburg in 1993, credited with reviving the traditional heavy metal sound in Sweden during the 1990s with albums like *Glory to the Brave* (1997) and *Legacy of Kings* (1998).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1997 | *Glory to the Brave* | debut album |
-| 1998 | *Legacy of Kings* | |
-| 2000 | *Renegade* | |
-| 2002 | *Crimson Thunder* | |
-| 2005 | *Chapter V: Unbent, Unbowed, Unbroken* | |
-| 2009 | *No Sacrifice, No Victory* | |
-| 2011 | *Infected* | |
-| 2014 | *R3volution* | |
-| 2016 | *Built to Last* | |
-| 2019 | *Dominion* | |
-| 2022 | *Hammer of Dawn* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Glory to the Brave* | 1997 | — | — |
+| *Legacy of Kings* | 1998 | — | — |
+| *Renegade* | 2000 | — | — |
+| *Crimson Thunder* | 2002 | — | — |
+| *Chapter V: Unbent, Unbowed, Unbroken* | 2005 | — | — |
+| *No Sacrifice, No Victory* | 2009 | — | — |
+| *Infected* | 2011 | — | — |
+| *R3volution* | 2014 | — | — |
+| *Built to Last* | 2016 | — | — |
+| *Dominion* | 2019 | — | — |
+| *Hammer of Dawn* | 2022 | — | — |
 
 ## Members
 

@@ -1,8 +1,8 @@
 ---
 genre:
-  - sludge metal
-  - doom metal
-  - southern metal
+  - Sludge Metal
+  - Doom Metal
+  - Southern Metal
 ---
 
 # Down

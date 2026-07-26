@@ -1,8 +1,8 @@
 ---
 genre:
-  - techno
-  - Detroit techno
-  - electronic
+  - Techno
+  - Detroit Techno
+  - Electronic
 ---
 
 # Juan Atkins
@@ -11,12 +11,15 @@ genre:
 
 Juan Atkins is a solo artist. See [[Members/J/Juan Atkins]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1982 | *Alleys of Your Mind* | as Cybotron; first Detroit techno single |
-| 1988 | *Warzone* | as Underground Resistance |
-| 1991 | *Deep Space* | as Model 500 |
-| 1995 | *Wax Trax! Mastermix Vol. 3* | compilation contribution |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Alleys of Your Mind* | 1982 | — | — |
+| *Warzone* | 1988 | — | — |
+| *Deep Space* | 1991 | — | — |
+| *Wax Trax! Mastermix Vol. 3* | 1995 | — | — |
 
 ## Members
 

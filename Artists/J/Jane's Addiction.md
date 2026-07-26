@@ -1,21 +1,28 @@
 ---
 genre:
-  - alternative rock
-  - funk metal
-  - psychedelic rock
+  - Alternative Rock
+  - Funk Metal
+  - Psychedelic Rock
 ---
 
 # Jane's Addiction
 
 **Jane's Addiction are an American rock band formed in Los Angeles in 1985, pioneers of the alternative rock movement known for their genre-blending sound, confrontational performances, and founding of the Lollapalooza festival; guitarist Dave Navarro later joined the Red Hot Chili Peppers.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1987 | *Jane's Addiction* | debut; live album |
-| 1988 | *Nothing's Shocking* | studio debut |
-| 1990 | *Ritual de lo Habitual* | peak album |
-| 2003 | *Strays* | reunion album |
-| 2011 | *The Great Escape Artist* | |
+## Discography
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *Jane's Addiction* | 1987 |
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Nothing's Shocking* | 1988 | — | — |
+| *Ritual de lo Habitual* | 1990 | — | — |
+| *Strays* | 2003 | — | — |
+| *The Great Escape Artist* | 2011 | — | — |
 
 ## Members
 

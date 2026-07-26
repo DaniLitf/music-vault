@@ -1,8 +1,8 @@
 ---
 genre:
-  - folk
-  - indie folk
-  - country pop
+  - Folk
+  - Indie Folk
+  - Country Pop
 ---
 
 # First Aid Kit

@@ -1,8 +1,8 @@
 ---
 genre:
-  - experimental electronic
-  - abstract hip-hop
-  - illbient
+  - Experimental Electronic
+  - Abstract Hip-Hop
+  - Illbient
 ---
 
 # DJ Spooky

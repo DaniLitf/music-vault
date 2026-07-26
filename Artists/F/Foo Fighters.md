@@ -1,8 +1,8 @@
 ---
 genre:
-  - alternative rock
-  - hard rock
-  - post-grunge
+  - Alternative Rock
+  - Hard Rock
+  - Post-Grunge
 ---
 
 # Foo Fighters

@@ -1,8 +1,8 @@
 ---
 genre:
-  - southern rock
-  - hard rock
-  - roots rock
+  - Southern Rock
+  - Hard Rock
+  - Roots Rock
 ---
 
 # Georgia Satellites

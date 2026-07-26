@@ -1,8 +1,8 @@
 ---
 genre:
-  - reggae
-  - dancehall
-  - singjay
+  - Reggae
+  - Dancehall
+  - Singjay
 ---
 
 # Eek-A-Mouse

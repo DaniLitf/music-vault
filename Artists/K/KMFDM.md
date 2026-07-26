@@ -1,36 +1,38 @@
 ---
 genre:
-  - industrial rock
-  - industrial metal
-  - electronic
-  - aggrotech
+  - Industrial Rock
+  - Industrial Metal
+  - Electronic
+  - Aggrotech
 ---
 
 # KMFDM
 
 **KMFDM (Kein Mitleid für die Mehrheit — "No Pity for the Majority") are a German industrial rock band formed in Paris in 1984 by Sascha Konietzko, known for their heavy guitar/electronics hybrid, aggressive anti-establishment themes, and long-running releases on Wax Trax! Records.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1986 | *Что Делать? (What Is To Be Done?)* | debut |
-| 1988 | *Don't Blow Your Top* | |
-| 1989 | *UAIOE* | |
-| 1990 | *Naïve* | |
-| 1992 | *Money* | |
-| 1993 | *Angst* | |
-| 1994 | *Nihil* | |
-| 1995 | *Nihil* | US release |
-| 1996 | *Xtort* | |
-| 1997 | *Symbols* | |
-| 1999 | *Adios* | "final" album (band split/reformed) |
-| 2002 | *Attak* | reformation |
-| 2005 | *WWIII* | |
-| 2007 | *Tohuvabohu!* | |
-| 2009 | *Blitz* | |
-| 2011 | *WTF?!* | |
-| 2014 | *Our Time Will Come* | |
-| 2017 | *Hell Yeah* | |
-| 2022 | *Hyena* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Что Делать? (What Is To Be Done?)* | 1986 | — | — |
+| *Don't Blow Your Top* | 1988 | — | — |
+| *UAIOE* | 1989 | — | — |
+| *Naïve* | 1990 | — | — |
+| *Money* | 1992 | — | — |
+| *Angst* | 1993 | — | — |
+| *Nihil* | 1995 | — | — |
+| *Xtort* | 1996 | — | — |
+| *Symbols* | 1997 | — | — |
+| *Adios* | 1999 | — | — |
+| *Attak* | 2002 | — | — |
+| *WWIII* | 2005 | — | — |
+| *Tohuvabohu!* | 2007 | — | — |
+| *Blitz* | 2009 | — | — |
+| *WTF?!* | 2011 | — | — |
+| *Our Time Will Come* | 2014 | — | — |
+| *Hell Yeah* | 2017 | — | — |
+| *Hyena* | 2022 | — | — |
 
 ## Members
 

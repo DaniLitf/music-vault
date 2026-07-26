@@ -10,13 +10,11 @@ nationality: British
 
 **Vocalist. British.**
 
-Jason Merle, known as Mr. Gore, was the original high-pitched vocalist for the deathgrind band Gorerotted. He performed on the band's debut album *Mutilated in Minutes* and left the band in 2003 during their European tour.
+See [[Members/J/Jason Mr Gore Merle]] for the full biography and associated artists (Gorebound, Gorerotted/The Rotted).
 
 ## Associated Artists
-
-- [[Artists/G/Gorerotted]] – vocals (1997–2003)
+- [[Artists/T/The Rotted]] – vocals (1997–2003) — see [[Members/J/Jason Mr Gore Merle]]
 
 ## Sources
-
 - [Wikipedia: Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)
 - [Metal Archives](https://www.metal-archives.com/bands/Gorerotted/2101)

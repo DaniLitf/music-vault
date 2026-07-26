@@ -1,9 +1,9 @@
 ---
 genre:
-  - reggae
-  - ska
-  - roots reggae
-  - soul
+  - Reggae
+  - Ska
+  - Roots Reggae
+  - Soul
 ---
 
 # Jimmy Cliff
@@ -12,16 +12,19 @@ genre:
 
 Jimmy Cliff is a solo artist. See [[Members/J/Jimmy Cliff]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1969 | *Jimmy Cliff* | debut album |
-| 1972 | *The Harder They Come* | soundtrack; landmark |
-| 1974 | *Struggling Man* | |
-| 1975 | *Music Maker* | |
-| 1981 | *Give Thankx* | |
-| 1982 | *Special* | |
-| 1985 | *Cliff Hanger* | Grammy winner |
-| 2012 | *Rebirth* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Jimmy Cliff* | 1969 | — | — |
+| *The Harder They Come* | 1972 | — | — |
+| *Struggling Man* | 1974 | — | — |
+| *Music Maker* | 1975 | — | — |
+| *Give Thankx* | 1981 | — | — |
+| *Special* | 1982 | — | — |
+| *Cliff Hanger* | 1985 | — | — |
+| *Rebirth* | 2012 | — | — |
 
 ## Members
 
