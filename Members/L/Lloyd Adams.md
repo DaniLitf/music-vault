@@ -2,7 +2,7 @@
 real_name: Lloyd Adams
 also_known_as: Tin Leg
 birth_date:
-death_date: 2024-07
+death_date: 2024
 nationality: Jamaican
 ---
 

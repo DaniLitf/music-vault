@@ -2,7 +2,7 @@
 real_name: Stephen Wayne Finchum
 also_known_as: Ace Finchum
 birth_date:
-death_date: 2025-10
+death_date: 2025
 nationality: Welsh
 ---
 

@@ -2,11 +2,11 @@
 
 ## Artists
 
-> last updated: 2026-07-26T14:00 · unfixed: 192 · last QC position: K/KMFDM
+> last updated: 2026-07-18T19:15 · unfixed: 175 · last QC position: L/Lard
 
 ### Summary
 - **Total artist entries**: 780 (720 with a page on disk + 60 queued with no page yet)
-- **Fully OK [x]**: 899
+- **Fully OK [x]**: 909
 - **Needs fixes [ ]**: — (all previously flagged issues resolved)
 - **Last updated**: 2026-07-18
 
@@ -380,19 +380,19 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | K/Kleerup | - |
 | [x] | K/Klubbheads | - |
 | [x] | K/KMFDM | - |
-| [ ] | K/Korn | discography |
-| [ ] | K/Kraftwerk | discography |
-| [ ] | K/Kreator | discography |
+| [x] | K/Korn | - |
+| [x] | K/Kraftwerk | - |
+| [x] | K/Kreator | - |
 | [x] | K/Kriadiaz | - |
-| [ ] | K/Kula Shaker | discography |
-| [ ] | K/Kyuss | discography |
+| [x] | K/Kula Shaker | - |
+| [x] | K/Kyuss | - |
 | [x] | L/L.A. Guns | - |
 | [x] | L/La Coka Nostra | - |
-| [ ] | L/Ladytron | discography |
-| [ ] | L/Laibach | discography |
-| [ ] | L/Lamb | discography |
-| [ ] | L/Lamb of God | discography |
-| [ ] | L/Lard | discography |
+| [x] | L/Ladytron | - |
+| [x] | L/Laibach | - |
+| [x] | L/Lamb | - |
+| [x] | L/Lamb of God | - |
+| [x] | L/Lard | - |
 | [x] | L/Last in Line | - |
 | [ ] | L/Laurent Garnier | discography |
 | [ ] | L/Led Zeppelin | discography |
@@ -867,7 +867,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | A/Angels and Agony | - |
 | [x] | B/Bruderschaft | - |
 | [x] | M/Mesh | - |
-| [x] | D/De/Vision | - |
+| [x] | D/De Vision | - |
 | [x] | I/Iris (American band) | - |
 | [x] | T/Tenek | - |
 | [x] | D/Das Ich | - |

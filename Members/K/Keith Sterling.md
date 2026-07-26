@@ -1,7 +1,7 @@
 ---
 real_name: Keith Sterling-McLeod
 also_known_as:
-birth_date: 1952-01
+birth_date: 1952
 death_date:
 nationality: Jamaican
 ---

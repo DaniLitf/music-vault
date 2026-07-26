@@ -1,33 +1,35 @@
 ---
 genre:
-  - Punk Rock
-  - Indie Rock
+  - Electroclash
+  - Electronic
 ---
 
 # Fairlight Children
 
-**Swedish punk/indie band. Active 1990s.**
+**Norwegian electroclash side project. Active 2000s.**
 
-Fairlight Children are a Swedish punk and indie rock band active in the 1990s, part of the vibrant Swedish underground rock scene.
+Fairlight Children are an electroclash side project of Apoptygma Berzerk's Stephan Groth, named after the Fairlight CMI digital synthesizer emblematic of 1980s production. The project features two other contributors, known as Tiff and Marianne, though their exact roles beyond backing vocals are not publicly documented.
 
 ## Discography
 
-### Studio Albums
-| Album | Year | Producer | Studio |
-|-------|------|----------|--------|
-| *Fairlight Children* | 1995 | — | — |
+### Other Releases
+| Release | Year | Notes |
+|---------|------|-------|
+| *808bit* | — | Master release per Discogs |
 
 ## Members
 
 ### Core / Official Members
-- [[Members/J/Johan Giriton]] – vocals, guitar (1993–1998)
-- [[Members/S/Sofia Berntson]] – bass (1993–1998)
-- [[Members/P/Petter Söderström]] – drums (1993–1998)
+- [[Members/S/Stephan Groth]] – production, vocals
+
+### Notable Guests
+- Tiff – backing vocals
+- Marianne – backing vocals
 
 ## Connections
 
-No confirmed shared-member connections to other vault artists.
+- [[Artists/A/Apoptygma Berzerk]] – Stephan Groth (also the founder of Apoptygma Berzerk)
 
 ## Sources
-- Discogs
+- [Discogs: Fairlight Children – 808bit](https://www.discogs.com/master/143134-Fairlight-Children-808bit)
 - Last.fm

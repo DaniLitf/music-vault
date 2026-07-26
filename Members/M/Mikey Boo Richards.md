@@ -2,7 +2,7 @@
 real_name: Michael Richards
 also_known_as: Mikey Boo
 birth_date:
-death_date: 2021-11
+death_date: 2021
 nationality: Jamaican
 ---
 

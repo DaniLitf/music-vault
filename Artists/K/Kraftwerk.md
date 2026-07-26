@@ -1,29 +1,32 @@
 ---
 genre:
-  - electronic
-  - krautrock
-  - synth-pop
-  - electro
+  - Electronic
+  - Krautrock
+  - Synth-Pop
+  - Electro
 ---
 
 # Kraftwerk
 
 **Kraftwerk are a German electronic music group formed in Düsseldorf in 1970 by Ralf Hütter and Florian Schneider, widely regarded as the most influential electronic band in history, pioneering the use of synthesizers, drum machines, and vocoders to create pure electronic pop, and directly inspiring techno, hip-hop, and synth-pop.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1970 | *Kraftwerk* | debut |
-| 1971 | *Kraftwerk 2* | |
-| 1973 | *Ralf und Florian* | transition to electronic sound |
-| 1974 | *Autobahn* | international breakthrough |
-| 1975 | *Radio-Activity* | |
-| 1977 | *Trans-Europe Express* | landmark |
-| 1978 | *The Man-Machine* | "The Robots," "Neon Lights" |
-| 1981 | *Computer World* | landmark; hip-hop source material |
-| 1983 | *Techno Pop* | |
-| 1986 | *Electric Café* | |
-| 1991 | *The Mix* | remixed best-of |
-| 2003 | *Tour de France* | first new material since 1986 |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Kraftwerk* | 1970 | — | — |
+| *Kraftwerk 2* | 1971 | — | — |
+| *Ralf und Florian* | 1973 | — | — |
+| *Autobahn* | 1974 | — | — |
+| *Radio-Activity* | 1975 | — | — |
+| *Trans-Europe Express* | 1977 | — | — |
+| *The Man-Machine* | 1978 | — | — |
+| *Computer World* | 1981 | — | — |
+| *Techno Pop* | 1983 | — | — |
+| *Electric Café* | 1986 | — | — |
+| *The Mix* | 1991 | — | — |
+| *Tour de France* | 2003 | — | — |
 
 ## Members
 

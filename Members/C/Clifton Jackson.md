@@ -1,7 +1,7 @@
 ---
 real_name: Clifton Jackson
 also_known_as: Jackie Jackson
-birth_date: 1947-03
+birth_date: 1947
 death_date:
 nationality: Jamaican
 ---
