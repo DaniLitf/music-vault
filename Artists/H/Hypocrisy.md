@@ -1,26 +1,29 @@
 ---
 genre:
-  - death metal
-  - melodic death metal
+  - Death Metal
+  - Melodic Death Metal
 ---
 
 # Hypocrisy
 
 **Hypocrisy are a Swedish death metal band formed in 1991 by Peter Tägtgren, known for their evolving sound from brutal death metal toward more melodic and atmospheric territory, and for Tägtgren's parallel career as a sought-after producer for other metal bands.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1992 | *Penetralia* | debut album |
-| 1993 | *Osculum Obscenum* | |
-| 1994 | *The Fourth Dimension* | |
-| 1996 | *Abducted* | |
-| 1997 | *The Final Chapter* | |
-| 1999 | *Hypocrisy* | |
-| 2002 | *Catch 22* | |
-| 2004 | *The Arrival* | |
-| 2005 | *Virus* | |
-| 2013 | *End of Disclosure* | |
-| 2021 | *Worship* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Penetralia* | 1992 | — | — |
+| *Osculum Obscenum* | 1993 | — | — |
+| *The Fourth Dimension* | 1994 | — | — |
+| *Abducted* | 1996 | — | — |
+| *The Final Chapter* | 1997 | — | — |
+| *Hypocrisy* | 1999 | — | — |
+| *Catch 22* | 2002 | — | — |
+| *The Arrival* | 2004 | — | — |
+| *Virus* | 2005 | — | — |
+| *End of Disclosure* | 2013 | — | — |
+| *Worship* | 2021 | — | — |
 
 ## Members
 

@@ -114,7 +114,6 @@ Extreme Noise Terror (often abbreviated to ENT) are a British extreme metal band
 - [[Artists/D/Doom (British band)]] – Tony Dickens (drums), Pete Nash (bass), both former Doom members
 - [[Artists/D/Discharge]] – major influence; Phil Vane and Pete Hurley played in Discharge-influenced bands before ENT
 - [[Artists/S/Scorn]] – Mick Harris left ENT to form Scorn
-- [[Artists/G/Gorerotted]] – Ben McCrow (former frontman)
 - [[Artists/T/The Rotted]] – Ben McCrow (former frontman)
 - [[Artists/T/Trap Them]] – split 7-inch (2008)
 - [[Artists/D/Driller Killer (band)]] – split recording (2007)

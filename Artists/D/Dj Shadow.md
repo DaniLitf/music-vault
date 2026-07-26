@@ -1,8 +1,8 @@
 ---
 genre:
-  - trip-hop
-  - instrumental hip-hop
-  - electronica
+  - Trip Hop
+  - Instrumental Hip-Hop
+  - Electronica
 ---
 
 # DJ Shadow

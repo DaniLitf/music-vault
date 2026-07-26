@@ -1,7 +1,7 @@
 ---
 genre:
-  - Swedish hip-hop
-  - hip-hop
+  - Swedish Hip-Hop
+  - Hip-Hop
 ---
 
 # Gamla Pengar

@@ -1,10 +1,10 @@
 ---
 genre:
-  - country
-  - rockabilly
-  - folk
-  - gospel
-  - blues
+  - Country
+  - Rockabilly
+  - Folk
+  - Gospel
+  - Blues
 ---
 
 # Johnny Cash
@@ -13,19 +13,30 @@ genre:
 
 Johnny Cash is a solo artist. See [[Members/J/Johnny Cash]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1957 | *Johnny Cash with His Hot and Blue Guitar!* | debut album |
-| 1964 | *I Walk the Line* | |
-| 1968 | *Johnny Cash at Folsom Prison* | live landmark |
-| 1969 | *Johnny Cash at San Quentin* | live landmark |
-| 1994 | *American Recordings* | Rick Rubin collaboration; career renaissance |
-| 1996 | *Unchained* | |
-| 2000 | *American III: Solitary Man* | |
-| 2002 | *American IV: The Man Comes Around* | includes cover of Nine Inch Nails' "Hurt" |
-| 2003 | *Unearthed* | posthumous box set |
-| 2006 | *American V: A Hundred Highways* | posthumous |
-| 2010 | *American VI: Ain't No Grave* | posthumous |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Johnny Cash with His Hot and Blue Guitar!* | 1957 | — | — |
+| *I Walk the Line* | 1964 | — | — |
+| *American Recordings* | 1994 | Rick Rubin | — |
+| *Unchained* | 1996 | Rick Rubin | — |
+| *American III: Solitary Man* | 2000 | Rick Rubin | — |
+| *American IV: The Man Comes Around* | 2002 | Rick Rubin | — |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *Johnny Cash at Folsom Prison* | 1968 |
+| *Johnny Cash at San Quentin* | 1969 |
+
+### Posthumous Albums
+| Album | Year |
+|-------|------|
+| *Unearthed* | 2003 |
+| *American V: A Hundred Highways* | 2006 |
+| *American VI: Ain't No Grave* | 2010 |
 
 ## Members
 

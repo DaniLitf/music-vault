@@ -1,16 +1,19 @@
 ---
 genre:
-  - alternative rock
-  - grunge
+  - Alternative Rock
+  - Grunge
 ---
 
 # Hater
 
 **Hater were an American alternative rock band formed in Seattle in 1993, a side project featuring Ben Shepherd and Matt Cameron of Soundgarden alongside other musicians, releasing one album before Soundgarden's demands took precedence.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1993 | *Hater* | sole studio album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Hater* | 1993 | — | — |
 
 ## Members
 

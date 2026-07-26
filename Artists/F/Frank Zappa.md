@@ -1,9 +1,9 @@
 ---
 genre:
-  - experimental rock
-  - jazz fusion
-  - progressive rock
-  - comedy rock
+  - Experimental Rock
+  - Jazz Fusion
+  - Progressive Rock
+  - Comedy Rock
 ---
 
 # Frank Zappa

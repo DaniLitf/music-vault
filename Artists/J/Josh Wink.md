@@ -1,8 +1,8 @@
 ---
 genre:
-  - house
-  - techno
-  - electronic
+  - House
+  - Techno
+  - Electronic
 ---
 
 # Josh Wink
@@ -11,12 +11,14 @@ genre:
 
 Josh Wink is a solo artist. See [[Members/J/Josh Wink]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1995 | *Higher State of Consciousness* | breakthrough single |
-| 1995 | *Left Above the Clouds* | debut album |
-| 2000 | *When a Banana Was Just a Banana* | |
-| 2009 | *Heliosphere* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Left Above the Clouds* | 1995 | — | — |
+| *When a Banana Was Just a Banana* | 2000 | — | — |
+| *Heliosphere* | 2009 | — | — |
 
 ## Members
 

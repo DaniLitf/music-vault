@@ -9,13 +9,20 @@ genre:
 
 **Underground Resistance (UR) are an American electronic music collective formed in Detroit in 1989 by Mike Banks (Mad Mike) and Jeff Mills, pioneering a militant, uncompromising strain of Detroit techno that influenced the global techno underground.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1990 | *World 2 World* | debut EP |
-| 1992 | *Revolution for Change* | |
-| 1994 | *Galaxy 2 Galaxy* | |
-| 2000 | *The Turning Point* | |
-| 2002 | *Interstellar Fugitives 2: Destruction of Order* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Revolution for Change* | 1992 | — | — |
+| *Galaxy 2 Galaxy* | 1994 | — | — |
+| *The Turning Point* | 2000 | — | — |
+| *Interstellar Fugitives 2: Destruction of Order* | 2002 | — | — |
+
+### EPs
+| Album | Year |
+|-------|------|
+| *World 2 World* | 1990 |
 
 ## Members
 

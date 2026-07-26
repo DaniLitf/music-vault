@@ -72,6 +72,11 @@ Bob Marley and the Wailers were a Jamaican ska, rocksteady, and reggae band form
 - [[Members/E/Earl Chinna Smith]] – guitar (1975–1976)
 - [[Members/D/Donald Kinsey]] – guitar (1975–1976; died 2024)
 
+### Touring & Session Contributors
+- [[Members/H/Hugh Malcolm]] – drums (session/touring)
+- [[Members/M/Mikey Boo Richards|Mikey "Boo" Richards]] – drums (session/touring)
+- [[Members/V/Vin Gordon]] – trombone (session, *Exodus* and *Kaya*)
+
 ### Early Members
 - [[Members/J/Junior Braithwaite]] – vocals (1963–1964; died 1999)
 - [[Members/B/Beverley Kelso]] – backing vocals (1963–1965)
@@ -86,7 +91,7 @@ Bob Marley and the Wailers were a Jamaican ska, rocksteady, and reggae band form
 - [[Artists/P/Peter Tosh]] – Peter Tosh (founding member who left in 1974 and had a notable solo career)
 - [[Artists/B/Bunny Wailer]] – Bunny Wailer (founding member who left in 1974 and had a notable solo career)
 - [[Artists/L/Lee Perry]] – Lee "Scratch" Perry (produced the Wailers' 1970–1971 recordings)
-- [[Artists/T/The Upsetters]] – Aston Barrett, Carlton Barrett (the Barrett brothers were members of the Upsetters before joining the Wailers)
+- [[Artists/T/The Upsetters]] – Aston Barrett, Carlton Barrett (the Barrett brothers were members of the Upsetters before joining the Wailers); Hugh Malcolm, Mikey "Boo" Richards, and Vin Gordon also played with both bands
 
 ## Sources
 - [Wikipedia – Bob Marley and the Wailers](https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers)

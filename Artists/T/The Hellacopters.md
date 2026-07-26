@@ -30,6 +30,9 @@ genre:
 - [[Members/D/Dregen]] — guitar (1994–2001)
 - [[Members/K/Ken Sandin]] — bass (2001–2021)
 
+### Past Touring & Session Members
+- [[Members/M/Mattias Bärjed]] — session/touring guitar (1999–2005)
+
 ## Connections
 
 No confirmed shared-member connections to other vault artists.

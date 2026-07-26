@@ -1,44 +1,47 @@
 ---
 genre:
-  - progressive rock
-  - folk rock
-  - hard rock
+  - Progressive Rock
+  - Folk Rock
+  - Hard Rock
 ---
 
 # Jethro Tull
 
 **Jethro Tull are an English progressive rock band formed in Blackpool in 1967, led by vocalist and flautist Ian Anderson, best known for albums like *Aqualung* (1971) and *Thick as a Brick* (1972), and whose brief 1968 lineup included Tony Iommi before he departed to join Black Sabbath.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1968 | *This Was* | debut album |
-| 1969 | *Stand Up* | |
-| 1970 | *Benefit* | |
-| 1971 | *Aqualung* | breakthrough; signature album |
-| 1972 | *Thick as a Brick* | progressive rock landmark |
-| 1973 | *A Passion Play* | |
-| 1974 | *War Child* | |
-| 1975 | *Minstrel in the Gallery* | |
-| 1976 | *Too Old to Rock 'n' Roll: Too Young to Die!* | |
-| 1977 | *Songs from the Wood* | folk rock direction |
-| 1978 | *Heavy Horses* | |
-| 1979 | *Stormwatch* | |
-| 1980 | *A* | |
-| 1982 | *The Broadsword and the Beast* | |
-| 1984 | *Under Wraps* | |
-| 1987 | *Crest of a Knave* | Grammy winner |
-| 1989 | *Rock Island* | |
-| 1991 | *Catfish Rising* | |
-| 1999 | *J-Tull Dot Com* | |
-| 2003 | *The Jethro Tull Christmas Album* | |
-| 2022 | *The Zealot Gene* | return after 18-year gap |
-| 2023 | *RökFlöte* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *This Was* | 1968 | — | — |
+| *Stand Up* | 1969 | — | — |
+| *Benefit* | 1970 | — | — |
+| *Aqualung* | 1971 | — | — |
+| *Thick as a Brick* | 1972 | — | — |
+| *A Passion Play* | 1973 | — | — |
+| *War Child* | 1974 | — | — |
+| *Minstrel in the Gallery* | 1975 | — | — |
+| *Too Old to Rock 'n' Roll: Too Young to Die!* | 1976 | — | — |
+| *Songs from the Wood* | 1977 | — | — |
+| *Heavy Horses* | 1978 | — | — |
+| *Stormwatch* | 1979 | — | — |
+| *A* | 1980 | — | — |
+| *The Broadsword and the Beast* | 1982 | — | — |
+| *Under Wraps* | 1984 | — | — |
+| *Crest of a Knave* | 1987 | — | — |
+| *Rock Island* | 1989 | — | — |
+| *Catfish Rising* | 1991 | — | — |
+| *J-Tull Dot Com* | 1999 | — | — |
+| *The Jethro Tull Christmas Album* | 2003 | — | — |
+| *The Zealot Gene* | 2022 | — | — |
+| *RökFlöte* | 2023 | — | — |
 
 ## Members
 
 ### Core / Official Members
 - [[Members/I/Ian Anderson]] — vocals, flute, acoustic guitar (founding member, 1967–present)
-- Martin Barre — guitar (1968–2011)
+- [[Members/M/Martin Barre]] — guitar (1968–2011)
 
 ### Past Members
 - [[Members/T/Tony Iommi]] — guitar (1968; briefly; departed to form [[Artists/B/Black Sabbath]])

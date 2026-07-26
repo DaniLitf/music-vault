@@ -18,6 +18,7 @@ Geir Bratland was born in Narvik, Norway, and began his career as a keyboardist 
 - [[Artists/T/The Kovenant]] – live performances (2003–2009)
 - [[Artists/G/God Seed]] – keyboards (2012)
 - [[Artists/S/Satyricon]] – keyboards (*Nemesis Divina*, 1996)
+- [[Artists/M/Magenta (Norwegian band)]] – programming, keyboards
 
 ## Sources
 - Wikipedia: [Geir Bratland](https://en.wikipedia.org/wiki/Geir_Bratland)

@@ -52,6 +52,7 @@ The band's theatrical excess and controversially accessible approach to black me
 - [[Members/P/Paul Allender]] – guitar (1994–2014)
 - [[Members/G/Gian Pyres]] – guitar (1996–2000)
 - [[Members/N/Nick Barker]] – drums (1994–1999)
+- [[Members/D/Dave Infester Hirschheimer]] – drums (touring/session)
 - [[Members/C/Cronos]] – vocals (guest; also [[Artists/V/Venom]])
 
 ## Connections

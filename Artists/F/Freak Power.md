@@ -1,8 +1,8 @@
 ---
 genre:
-  - acid jazz
-  - funk
-  - breakbeat
+  - Acid Jazz
+  - Funk
+  - Breakbeat
 ---
 
 # Freak Power

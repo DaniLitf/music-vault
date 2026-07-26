@@ -15,7 +15,8 @@ Gareth Jones is a British record producer and sound engineer, renowned for his w
 ## Associated Projects
 
 - [[Artists/M/Mesh]] – *We Collide* (2006)
-- [[Artists/E/Einstürzende Neubauten]] – (multiple productions)
+- [[Artists/E/Einstürzende Neubauten]] – *Halber Mensch* (1985)
+- [[Artists/E/Einstürzende Neubauten]] – *Fünf auf der nach oben offenen Richterskala* (1987)
 
 ## Sources
 - Wikipedia: [Gareth Jones (producer)](https://en.wikipedia.org/wiki/Gareth_Jones_(producer))

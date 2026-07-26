@@ -1,20 +1,23 @@
 ---
 genre:
   - Alternative Rock
-  - Indie Rock
   - Grunge
+  - Indie Rock
 ---
 
 # Veruca Salt
 
 **Veruca Salt are an American alternative rock band formed in Chicago in 1992 by Nina Gordon and Louise Post, known for their twin-guitar attack, harmony vocals, and the hit singles "Seether" and "Volcano Girls."**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1994 | *American Thighs* | debut; "Seether" |
-| 1997 | *Eight Arms to Hold You* | major label; "Volcano Girls" |
-| 2000 | *Resolver* | post-Gordon split |
-| 2015 | *Ghost Notes* | reunion album with original lineup |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *American Thighs* | 1994 | — | — |
+| *Eight Arms to Hold You* | 1997 | — | — |
+| *Resolver* | 2000 | — | — |
+| *Ghost Notes* | 2015 | — | — |
 
 ## Members
 

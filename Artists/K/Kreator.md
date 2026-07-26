@@ -1,30 +1,33 @@
 ---
 genre:
-  - thrash metal
-  - heavy metal
+  - Thrash Metal
+  - Heavy Metal
 ---
 
 # Kreator
 
 **Kreator are a German thrash metal band formed in Essen in 1982, one of the "Big Three" of German thrash metal alongside Sodom and Destruction, known for their aggressive, politically charged style and albums like *Pleasure to Kill* (1986) and *Coma of Souls* (1990).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1985 | *Endless Pain* | debut |
-| 1986 | *Pleasure to Kill* | thrash landmark |
-| 1987 | *Terrible Certainty* | |
-| 1989 | *Extreme Aggression* | |
-| 1990 | *Coma of Souls* | |
-| 1992 | *Renewal* | experimental direction |
-| 1995 | *Cause for Conflict* | |
-| 1997 | *Outcast* | |
-| 1999 | *Endorama* | |
-| 2001 | *Violent Revolution* | return to thrash |
-| 2005 | *Enemy of God* | |
-| 2009 | *Hordes of Chaos* | |
-| 2012 | *Phantom Antichrist* | |
-| 2017 | *Gods of Violence* | |
-| 2022 | *Hate Über Alles* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Endless Pain* | 1985 | — | — |
+| *Pleasure to Kill* | 1986 | — | — |
+| *Terrible Certainty* | 1987 | — | — |
+| *Extreme Aggression* | 1989 | — | — |
+| *Coma of Souls* | 1990 | — | — |
+| *Renewal* | 1992 | — | — |
+| *Cause for Conflict* | 1995 | — | — |
+| *Outcast* | 1997 | — | — |
+| *Endorama* | 1999 | — | — |
+| *Violent Revolution* | 2001 | — | — |
+| *Enemy of God* | 2005 | — | — |
+| *Hordes of Chaos* | 2009 | — | — |
+| *Phantom Antichrist* | 2012 | — | — |
+| *Gods of Violence* | 2017 | — | — |
+| *Hate Über Alles* | 2022 | — | — |
 
 ## Members
 

@@ -1,21 +1,24 @@
 ---
 genre:
-  - stoner rock
-  - desert rock
-  - doom metal
-  - heavy metal
+  - Stoner Rock
+  - Desert Rock
+  - Doom Metal
+  - Heavy Metal
 ---
 
 # Kyuss
 
 **Kyuss were an American stoner rock band formed in Palm Desert, California in 1987, pioneers of the desert rock and stoner rock genres, best known for albums like *Blues for the Red Sun* (1992) and *Welcome to Sky Valley* (1994), and as the launching point for Josh Homme's career.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1991 | *Wretch* | debut |
-| 1992 | *Blues for the Red Sun* | stoner rock landmark |
-| 1994 | *Welcome to Sky Valley* | |
-| 1995 | *...And the Circus Leaves Town* | final album; band split |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Wretch* | 1991 | — | — |
+| *Blues for the Red Sun* | 1992 | — | — |
+| *Welcome to Sky Valley* | 1994 | — | — |
+| *...And the Circus Leaves Town* | 1995 | — | — |
 
 ## Members
 

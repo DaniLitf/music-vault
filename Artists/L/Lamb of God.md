@@ -1,26 +1,29 @@
 ---
 genre:
-  - groove metal
-  - heavy metal
-  - metalcore
+  - Groove Metal
+  - Heavy Metal
+  - Metalcore
 ---
 
 # Lamb of God
 
 **Lamb of God are an American heavy metal band formed in Richmond, Virginia in 1994 (originally as Burn the Priest), a leading act of the New Wave of American Heavy Metal known for their complex rhythmic attack and Randy Blythe's aggressive vocal delivery.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1999 | *Burn the Priest* | debut as Burn the Priest |
-| 2000 | *New American Gospel* | first as Lamb of God |
-| 2003 | *As the Palaces Burn* | |
-| 2004 | *Ashes of the Wake* | breakthrough |
-| 2006 | *Sacrament* | |
-| 2009 | *Wrath* | |
-| 2012 | *Resolution* | |
-| 2015 | *VII: Sturm und Drang* | |
-| 2020 | *Lamb of God* | |
-| 2022 | *Omens* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Burn the Priest* | 1999 | — | — |
+| *New American Gospel* | 2000 | — | — |
+| *As the Palaces Burn* | 2003 | — | — |
+| *Ashes of the Wake* | 2004 | — | — |
+| *Sacrament* | 2006 | — | — |
+| *Wrath* | 2009 | — | — |
+| *Resolution* | 2012 | — | — |
+| *VII: Sturm und Drang* | 2015 | — | — |
+| *Lamb of God* | 2020 | — | — |
+| *Omens* | 2022 | — | — |
 
 ## Members
 

@@ -1,25 +1,28 @@
 ---
 genre:
-  - power metal
-  - heavy metal
-  - speed metal
+  - Power Metal
+  - Heavy Metal
+  - Speed Metal
 ---
 
 # Helloween
 
 **Helloween are a German power metal band formed in Hamburg in 1984, widely credited as pioneers of European power metal — their *Keeper of the Seven Keys* two-album series (1987/1988) defined the genre.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1985 | *Helloween* | debut mini-LP |
-| 1987 | *Keeper of the Seven Keys Pt. I* | landmark album |
-| 1988 | *Keeper of the Seven Keys Pt. II* | |
-| 1994 | *Master of the Rings* | first with Andi Deris |
-| 1996 | *The Time of the Oath* | |
-| 1998 | *Better Than Raw* | |
-| 2000 | *The Dark Ride* | |
-| 2010 | *7 Sinners* | |
-| 2021 | *Helloween* | reunion album with classic lineup |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Helloween* | 1985 | — | — |
+| *Keeper of the Seven Keys Pt. I* | 1987 | — | — |
+| *Keeper of the Seven Keys Pt. II* | 1988 | — | — |
+| *Master of the Rings* | 1994 | — | — |
+| *The Time of the Oath* | 1996 | — | — |
+| *Better Than Raw* | 1998 | — | — |
+| *The Dark Ride* | 2000 | — | — |
+| *7 Sinners* | 2010 | — | — |
+| *Helloween* | 2021 | — | — |
 
 ## Members
 

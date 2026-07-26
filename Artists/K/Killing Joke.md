@@ -1,32 +1,35 @@
 ---
 genre:
-  - post-punk
-  - industrial rock
-  - gothic rock
-  - alternative metal
+  - Post-Punk
+  - Industrial Rock
+  - Gothic Rock
+  - Alternative Metal
 ---
 
 # Killing Joke
 
 **Killing Joke are an English post-punk band formed in London in 1978, known for their dense, intense sound blending industrial noise, rock, and tribal rhythms, and hugely influential on industrial metal, gothic rock, and alternative metal — notably Nirvana, who covered their song "Eighties."**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1980 | *Killing Joke* | debut album |
-| 1981 | *What's THIS For...!* | |
-| 1982 | *Revelations* | |
-| 1983 | *Fire Dances* | |
-| 1985 | *Night Time* | biggest commercial success; "Love Like Blood" |
-| 1986 | *Brighter Than a Thousand Suns* | |
-| 1988 | *Outside the Gate* | |
-| 1990 | *Extremities, Dirt and Various Repressed Emotions* | |
-| 1994 | *Pandemonium* | comeback |
-| 1996 | *Democracy* | |
-| 2003 | *Killing Joke* | reunion; Dave Grohl on drums |
-| 2006 | *Hosannas from the Basements of Hell* | |
-| 2010 | *Absolute Dissent* | |
-| 2012 | *MMXII* | |
-| 2015 | *Pylon* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Killing Joke* | 1980 | — | — |
+| *What's THIS For...!* | 1981 | — | — |
+| *Revelations* | 1982 | — | — |
+| *Fire Dances* | 1983 | — | — |
+| *Night Time* | 1985 | — | — |
+| *Brighter Than a Thousand Suns* | 1986 | — | — |
+| *Outside the Gate* | 1988 | — | — |
+| *Extremities, Dirt and Various Repressed Emotions* | 1990 | — | — |
+| *Pandemonium* | 1994 | — | — |
+| *Democracy* | 1996 | — | — |
+| *Killing Joke* | 2003 | — | — |
+| *Hosannas from the Basements of Hell* | 2006 | — | — |
+| *Absolute Dissent* | 2010 | — | — |
+| *MMXII* | 2012 | — | — |
+| *Pylon* | 2015 | — | — |
 
 ## Members
 

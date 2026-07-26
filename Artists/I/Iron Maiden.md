@@ -8,25 +8,28 @@ genre:
 
 **Iron Maiden are an English heavy metal band formed in Leyton, East London in 1975 by bassist Steve Harris, pioneers of the new wave of British heavy metal and one of the best-selling music acts of all time with over 130 million records sold.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1980 | *Iron Maiden* | debut |
-| 1981 | *Killers* | |
-| 1982 | *The Number of the Beast* | Bruce Dickinson debut |
-| 1983 | *Piece of Mind* | |
-| 1984 | *Powerslave* | |
-| 1986 | *Somewhere in Time* | |
-| 1988 | *Seventh Son of a Seventh Son* | |
-| 1990 | *No Prayer for the Dying* | |
-| 1992 | *Fear of the Dark* | |
-| 1995 | *The X Factor* | Blaze Bayley era |
-| 1998 | *Virtual XI* | |
-| 2000 | *Brave New World* | Dickinson returns |
-| 2003 | *Dance of Death* | |
-| 2006 | *A Matter of Life and Death* | |
-| 2010 | *The Final Frontier* | |
-| 2015 | *The Book of Souls* | |
-| 2021 | *Senjutsu* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Iron Maiden* | 1980 | — | — |
+| *Killers* | 1981 | — | — |
+| *The Number of the Beast* | 1982 | — | — |
+| *Piece of Mind* | 1983 | — | — |
+| *Powerslave* | 1984 | — | — |
+| *Somewhere in Time* | 1986 | — | — |
+| *Seventh Son of a Seventh Son* | 1988 | — | — |
+| *No Prayer for the Dying* | 1990 | — | — |
+| *Fear of the Dark* | 1992 | — | — |
+| *The X Factor* | 1995 | — | — |
+| *Virtual XI* | 1998 | — | — |
+| *Brave New World* | 2000 | — | — |
+| *Dance of Death* | 2003 | — | — |
+| *A Matter of Life and Death* | 2006 | — | — |
+| *The Final Frontier* | 2010 | — | — |
+| *The Book of Souls* | 2015 | — | — |
+| *Senjutsu* | 2021 | — | — |
 
 ## Members
 

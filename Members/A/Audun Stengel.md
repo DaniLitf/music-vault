@@ -14,6 +14,8 @@ Audun Stengel, also known as Angel, has played guitar for Apoptygma Berzerk acro
 ## Associated Artists
 
 - [[Artists/A/Apoptygma Berzerk]] – guitar (2002–2009, 2013–present)
+- [[Artists/T/The Kovenant]] – guitar
+- [[Artists/D/Doctor Midnight & The Mercy Cult]] – guitar (2009–2011)
 
 ## Sources
 - Wikipedia: [Apoptygma Berzerk](https://en.wikipedia.org/wiki/Apoptygma_Berzerk)

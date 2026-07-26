@@ -1,22 +1,25 @@
 ---
 genre:
-  - psychedelic rock
-  - britpop
-  - raga rock
+  - Psychedelic Rock
+  - Britpop
+  - Raga Rock
 ---
 
 # Kula Shaker
 
 **Kula Shaker are an English psychedelic rock band formed in London in 1995, known for their fusion of British rock and Indian classical influences, and who broke through with their debut album *K* (1996).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1996 | *K* | debut; UK #1 |
-| 1999 | *Peasants Pigs & Astronauts* | |
-| 2007 | *Strange Folk* | reunion album |
-| 2010 | *…And the Elephant is the Elephant* | |
-| 2016 | *K 2.0* | |
-| 2022 | *1st Congregational Church of Eternal Love and Free Hugs* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *K* | 1996 | — | — |
+| *Peasants Pigs & Astronauts* | 1999 | — | — |
+| *Strange Folk* | 2007 | — | — |
+| *…And the Elephant is the Elephant* | 2010 | — | — |
+| *K 2.0* | 2016 | — | — |
+| *1st Congregational Church of Eternal Love and Free Hugs* | 2022 | — | — |
 
 ## Members
 

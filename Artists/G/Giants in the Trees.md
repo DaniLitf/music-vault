@@ -1,7 +1,7 @@
 ---
 genre:
-  - alternative rock
-  - folk rock
+  - Alternative Rock
+  - Folk Rock
 ---
 
 # Giants in the Trees

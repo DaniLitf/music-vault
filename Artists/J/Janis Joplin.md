@@ -1,8 +1,8 @@
 ---
 genre:
-  - rock
-  - blues rock
-  - psychedelic rock
+  - Rock
+  - Blues Rock
+  - Psychedelic Rock
 ---
 
 # Janis Joplin
@@ -11,12 +11,19 @@ genre:
 
 Janis Joplin is a solo artist. See [[Members/J/Janis Joplin]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1967 | *Big Brother and the Holding Company* | debut with band |
-| 1968 | *Cheap Thrills* | breakthrough with Big Brother |
-| 1969 | *I Got Dem Ol' Kozmic Blues Again Mama!* | first solo album |
-| 1971 | *Pearl* | posthumous; contains "Me and Bobby McGee" |
+## Discography
+
+### Studio Albums (with Big Brother and the Holding Company)
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Big Brother and the Holding Company* | 1967 | — | — |
+| *Cheap Thrills* | 1968 | — | — |
+
+### Studio Albums (solo)
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *I Got Dem Ol' Kozmic Blues Again Mama!* | 1969 | — | — |
+| *Pearl* | 1971 | — | — |
 
 ## Members
 

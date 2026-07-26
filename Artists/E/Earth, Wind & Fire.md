@@ -1,9 +1,9 @@
 ---
 genre:
-  - funk
-  - soul
+  - Funk
+  - Soul
   - R&B
-  - disco
+  - Disco
 ---
 
 # Earth, Wind & Fire

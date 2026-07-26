@@ -1,9 +1,9 @@
 ---
 genre:
-  - rock
-  - psychedelic rock
-  - blues rock
-  - hard rock
+  - Rock
+  - Psychedelic Rock
+  - Blues Rock
+  - Hard Rock
 ---
 
 # Jimi Hendrix
@@ -12,13 +12,24 @@ genre:
 
 Jimi Hendrix is a solo artist. See [[Members/J/Jimi Hendrix]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1967 | *Are You Experienced* | debut album; landmark |
-| 1967 | *Axis: Bold as Love* | |
-| 1968 | *Electric Ladyland* | double album |
-| 1970 | *Band of Gypsys* | live album; final release in his lifetime |
-| 1971 | *The Cry of Love* | posthumous |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Are You Experienced* | 1967 | — | — |
+| *Axis: Bold as Love* | 1967 | — | — |
+| *Electric Ladyland* | 1968 | — | — |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *Band of Gypsys* | 1970 |
+
+### Posthumous Albums
+| Album | Year |
+|-------|------|
+| *The Cry of Love* | 1971 |
 
 ## Members
 

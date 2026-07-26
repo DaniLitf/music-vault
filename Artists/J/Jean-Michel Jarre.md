@@ -1,8 +1,8 @@
 ---
 genre:
-  - electronic
-  - ambient
-  - new age
+  - Electronic
+  - Ambient
+  - New Age
 ---
 
 # Jean-Michel Jarre
@@ -11,21 +11,24 @@ genre:
 
 Jean-Michel Jarre is a solo artist. See [[Members/J/Jean-Michel Jarre]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1973 | *Deserted Palace* | debut album |
-| 1976 | *Oxygène* | international breakthrough |
-| 1978 | *Équinoxe* | |
-| 1981 | *Magnetic Fields* | |
-| 1984 | *Zoolook* | |
-| 1986 | *Rendez-Vous* | |
-| 1988 | *Revolutions* | |
-| 1993 | *Chronologie* | |
-| 1997 | *Oxygène 7-13* | |
-| 2015 | *Electronica 1: The Time Machine* | |
-| 2016 | *Electronica 2: The Heart of Noise* | |
-| 2018 | *Équinoxe Infinity* | |
-| 2022 | *Oxymore* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Deserted Palace* | 1973 | — | — |
+| *Oxygène* | 1976 | — | — |
+| *Équinoxe* | 1978 | — | — |
+| *Magnetic Fields* | 1981 | — | — |
+| *Zoolook* | 1984 | — | — |
+| *Rendez-Vous* | 1986 | — | — |
+| *Revolutions* | 1988 | — | — |
+| *Chronologie* | 1993 | — | — |
+| *Oxygène 7-13* | 1997 | — | — |
+| *Electronica 1: The Time Machine* | 2015 | — | — |
+| *Electronica 2: The Heart of Noise* | 2016 | — | — |
+| *Équinoxe Infinity* | 2018 | — | — |
+| *Oxymore* | 2022 | — | — |
 
 ## Members
 

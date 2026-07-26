@@ -1,16 +1,19 @@
 ---
 genre:
-  - country
-  - rock
+  - Country
+  - Rock
 ---
 
 # KGC
 
 **KGC are an American country-rock side project formed by Kris Kristofferson, Billy Swan, and Stephen Bruton, releasing one self-titled album in 1995.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1995 | *KGC* | sole album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *KGC* | 1995 | — | — |
 
 ## Members
 

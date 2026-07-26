@@ -1,8 +1,8 @@
 ---
 genre:
-  - death metal
-  - death 'n' roll
-  - Swedish death metal
+  - Death Metal
+  - Death 'n' Roll
+  - Swedish Death Metal
 ---
 
 # Entombed
@@ -80,7 +80,7 @@ genre:
 
 ## Connections
 
-No confirmed shared-member connections to other vault artists.
+- [[Artists/E/Entombed A.D.]] — In 2014 the L.G. Petrov-led lineup rebranded as Entombed A.D. following a trademark dispute over the "Entombed" name.
 
 ## Sources
 - Wikipedia

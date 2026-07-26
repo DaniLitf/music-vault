@@ -1,8 +1,8 @@
 ---
 genre:
-  - alternative rock
-  - electronica
-  - trip-hop
+  - Alternative Rock
+  - Electronica
+  - Trip Hop
 ---
 
 # Garbage

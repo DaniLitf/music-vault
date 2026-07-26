@@ -1,22 +1,25 @@
 ---
 genre:
-  - electronic
-  - trip-hop
-  - drum and bass
+  - Electronic
+  - Trip Hop
+  - Drum and Bass
 ---
 
 # Lamb
 
 **Lamb are an English electronic music duo formed in Manchester in 1993, consisting of vocalist Lou Rhodes and producer/composer Andy Barlow, known for their atmospheric fusion of trip-hop, drum and bass, and jazz on albums like *Fear of Fours* (1999).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1996 | *Lamb* | debut album |
-| 1999 | *Fear of Fours* | |
-| 2001 | *What Sound* | |
-| 2003 | *Between Darkness and Wonder* | |
-| 2012 | *5* | reunion album |
-| 2014 | *Backspace Unwind* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Lamb* | 1996 | — | — |
+| *Fear of Fours* | 1999 | — | — |
+| *What Sound* | 2001 | — | — |
+| *Between Darkness and Wonder* | 2003 | — | — |
+| *5* | 2012 | — | — |
+| *Backspace Unwind* | 2014 | — | — |
 
 ## Members
 

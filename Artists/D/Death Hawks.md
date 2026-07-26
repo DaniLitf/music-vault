@@ -1,14 +1,12 @@
 ---
 genre:
-  - psychedelic rock
-  - space rock
+  - Psychedelic Rock
+  - Space Rock
 ---
 
 # Death Hawks
 
 **Death Hawks are a Finnish psychedelic/space rock band from Tampere, Finland, formed in 2010–2011, blending heavy psych with krautrock and vintage organ tones.**
-
-Note: this page previously listed the band as Swedish/Stockholm-based; Wikipedia, the band's official site, and Discogs consistently place them in Tampere, Finland. Flagging for correction — nationality/frontmatter should be updated in a follow-up pass (not corrected here as it falls outside this discography fix).
 
 ## Discography
 

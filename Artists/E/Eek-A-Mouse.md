@@ -1,8 +1,8 @@
 ---
 genre:
-  - reggae
-  - dancehall
-  - singjay
+  - Reggae
+  - Dancehall
+  - Singjay
 ---
 
 # Eek-A-Mouse
@@ -17,11 +17,11 @@ Eek-A-Mouse is a solo artist. See [[Members/E/Eek-A-Mouse]] for biography.
 | Album | Year | Producer | Studio |
 |-------|------|----------|--------|
 | *Bubble Up Yu Hip* | 1980 | [[Producers/L/Linval Thompson]] | |
-| *Wa-Do-Dem* | 1981 | [[Producers/H/Henry "Junjo" Lawes]] | |
-| *Skidip!* | 1982 | [[Producers/H/Henry "Junjo" Lawes]] | |
+| *Wa-Do-Dem* | 1981 | [[Producers/H/Henry Junjo Lawes]] | |
+| *Skidip!* | 1982 | [[Producers/H/Henry Junjo Lawes]] | |
 | *The Mouse and the Man* | 1983 | [[Producers/L/Linval Thompson]] | |
 | *Assassinator* | 1983 | | |
-| *Mouseketeer* | 1984 | [[Producers/H/Henry "Junjo" Lawes]] | |
+| *Mouseketeer* | 1984 | [[Producers/H/Henry Junjo Lawes]] | |
 | *The King and I* | 1985 | | |
 | *Eek-A-Nomics* | 1988 | | |
 | *U-Neek* | 1991 | | |

@@ -8,10 +8,17 @@ genre:
 
 **Izzy Stradlin and the Ju Ju Hounds was the debut solo project of former [[Artists/G/Guns N' Roses]] guitarist Izzy Stradlin, releasing one self-titled album in 1992 after Stradlin's departure from GN'R.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1992 | *Izzy Stradlin and the Ju Ju Hounds* | sole studio album |
-| 1993 | *Izzy Stradlin and the Ju Ju Hounds Live* | live EP |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Izzy Stradlin and the Ju Ju Hounds* | 1992 | — | — |
+
+### Live Albums
+| Album | Year |
+|-------|------|
+| *Izzy Stradlin and the Ju Ju Hounds Live* | 1993 |
 
 ## Members
 

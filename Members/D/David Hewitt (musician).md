@@ -1,6 +1,6 @@
 ---
-real_name:
-also_known_as:
+real_name: David Hewitt
+also_known_as: Dicksplash
 birth_date:
 death_date:
 nationality: British
@@ -8,14 +8,12 @@ nationality: British
 
 # David Hewitt (musician)
 
-**Drummer. Born ?.**
+**Guitarist. British.**
 
-David Hewitt is a British drummer who was a member of the deathgrind band Gorerotted. He contributed drums to the band's recordings and live performances.
+See [[Members/D/David Dicksplash Hewitt]] for the full biography and associated artists (Full of Hate, Gorerotted/The Rotted). Note: guitar, not drums — corrected from an earlier stub.
 
 ## Associated Artists
-- [[Artists/G/Gorerotted]] – drums
-
-## Biography
+- [[Artists/T/The Rotted]] – guitar (1999–2001) — see [[Members/D/David Dicksplash Hewitt]]
 
 ## Sources
 - Metal Archives

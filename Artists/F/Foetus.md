@@ -1,8 +1,8 @@
 ---
 genre:
-  - industrial
-  - no wave
-  - experimental
+  - Industrial
+  - No Wave
+  - Experimental
 ---
 
 # Foetus

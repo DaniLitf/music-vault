@@ -1,8 +1,8 @@
 ---
-real name: Dirk Verbeuren
-also known as:
-birth date: 1975-12-07
-death date:
+real_name: Dirk Verbeuren
+also_known_as:
+birth_date: 1975-12-07
+death_date:
 nationality: Belgian
 ---
 
@@ -15,6 +15,7 @@ Dirk Verbeuren is a Belgian drummer who was the drummer of Soilwork from 2005 to
 ## Associated Artists
 - [[Artists/S/Soilwork]] – drums (2005–2016)
 - [[Artists/M/Megadeth]] – drums (2016–present)
+- [[Artists/C/Cadaver]] – drums (2014–2024)
 
 ## Sources
 - Wikipedia

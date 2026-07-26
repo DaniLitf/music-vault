@@ -1,31 +1,34 @@
 ---
 genre:
-  - nu metal
-  - alternative metal
-  - hard rock
+  - Nu Metal
+  - Alternative Metal
+  - Hard Rock
 ---
 
 # Korn
 
 **Korn (stylized KoЯn) are an American nu metal band formed in Bakersfield, California in 1993, widely credited as pioneers of the nu metal genre, known for their downtuned 7-string guitars, hip-hop rhythmic influences, and Jonathan Davis's raw, confessional vocals.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1994 | *Neidermayer's Mind* | demo |
-| 1994 | *Korn* | debut album |
-| 1996 | *Life Is Peachy* | |
-| 1998 | *Follow the Leader* | commercial peak |
-| 1999 | *Issues* | |
-| 2002 | *Untouchables* | |
-| 2003 | *Take a Look in the Mirror* | |
-| 2005 | *See You on the Other Side* | |
-| 2007 | *Untitled* | |
-| 2010 | *Korn III: Remember Who You Are* | |
-| 2011 | *The Path of Totality* | dubstep influences |
-| 2013 | *The Paradigm Shift* | Brian Welch returns |
-| 2016 | *The Serenity of Suffering* | |
-| 2019 | *The Nothing* | |
-| 2022 | *Requiem* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Neidermayer's Mind* | 1994 | — | — |
+| *Korn* | 1994 | — | — |
+| *Life Is Peachy* | 1996 | — | — |
+| *Follow the Leader* | 1998 | — | — |
+| *Issues* | 1999 | — | — |
+| *Untouchables* | 2002 | — | — |
+| *Take a Look in the Mirror* | 2003 | — | — |
+| *See You on the Other Side* | 2005 | — | — |
+| *Untitled* | 2007 | — | — |
+| *Korn III: Remember Who You Are* | 2010 | — | — |
+| *The Path of Totality* | 2011 | — | — |
+| *The Paradigm Shift* | 2013 | — | — |
+| *The Serenity of Suffering* | 2016 | — | — |
+| *The Nothing* | 2019 | — | — |
+| *Requiem* | 2022 | — | — |
 
 ## Members
 

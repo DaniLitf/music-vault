@@ -1,23 +1,26 @@
 ---
 genre:
-  - electronic
-  - synth-pop
-  - electroclash
-  - shoegaze
+  - Electronic
+  - Synth-Pop
+  - Electroclash
+  - Shoegaze
 ---
 
 # Ladytron
 
 **Ladytron are an English electronic music band formed in Liverpool in 1999, known for their icy blend of synth-pop, electroclash, and shoegaze, with key albums like *Light & Magic* (2002) and *Witching Hour* (2005).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2001 | *604* | debut album |
-| 2002 | *Light & Magic* | |
-| 2005 | *Witching Hour* | breakthrough |
-| 2008 | *Velocifero* | |
-| 2011 | *Gravity the Seducer* | |
-| 2019 | *Ladytron* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *604* | 2001 | — | — |
+| *Light & Magic* | 2002 | — | — |
+| *Witching Hour* | 2005 | — | — |
+| *Velocifero* | 2008 | — | — |
+| *Gravity the Seducer* | 2011 | — | — |
+| *Ladytron* | 2019 | — | — |
 
 ## Members
 

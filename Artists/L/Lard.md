@@ -1,19 +1,22 @@
 ---
 genre:
-  - industrial rock
-  - punk rock
-  - hardcore punk
+  - Industrial Rock
+  - Punk Rock
+  - Hardcore Punk
 ---
 
 # Lard
 
 **Lard are an American industrial punk supergroup formed in 1988, featuring Jello Biafra of Dead Kennedys on vocals and Al Jourgensen and Paul Barker of Ministry on guitars and bass, combining punk provocation with industrial noise.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1989 | *The Power of Lard* | debut EP |
-| 1990 | *The Last Temptation of Reid* | debut album |
-| 1997 | *Pure Chewing Satisfaction* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The Power of Lard* | 1989 | — | — |
+| *The Last Temptation of Reid* | 1990 | — | — |
+| *Pure Chewing Satisfaction* | 1997 | — | — |
 
 ## Members
 

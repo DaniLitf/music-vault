@@ -10,22 +10,25 @@ genre:
 
 **Tom Waits (born 1949-12-07) is an American singer-songwriter, composer, and actor known for his distinctive gravelly voice and eclectic, experimental music spanning blues, jazz, vaudeville, and avant-garde rock.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1973 | *Closing Time* | debut |
-| 1974 | *The Heart of Saturday Night* | |
-| 1976 | *Small Change* | |
-| 1978 | *Blue Valentine* | |
-| 1980 | *Heartattack and Vine* | |
-| 1983 | *Swordfishtrombones* | experimental turn |
-| 1985 | *Rain Dogs* | widely considered masterpiece |
-| 1987 | *Franks Wild Years* | |
-| 1992 | *Bone Machine* | Grammy winner |
-| 1999 | *Mule Variations* | Grammy winner |
-| 2002 | *Alice* | |
-| 2002 | *Blood Money* | |
-| 2004 | *Real Gone* | |
-| 2011 | *Bad as Me* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Closing Time* | 1973 | — | — |
+| *The Heart of Saturday Night* | 1974 | — | — |
+| *Small Change* | 1976 | — | — |
+| *Blue Valentine* | 1978 | — | — |
+| *Heartattack and Vine* | 1980 | — | — |
+| *Swordfishtrombones* | 1983 | — | — |
+| *Rain Dogs* | 1985 | — | — |
+| *Franks Wild Years* | 1987 | — | — |
+| *Bone Machine* | 1992 | — | — |
+| *Mule Variations* | 1999 | — | — |
+| *Alice* | 2002 | — | — |
+| *Blood Money* | 2002 | — | — |
+| *Real Gone* | 2004 | — | — |
+| *Bad as Me* | 2011 | — | — |
 
 ## Members
 
