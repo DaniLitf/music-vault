@@ -1,28 +1,38 @@
 ---
 genre:
-  - Indie Pop
-  - Swedish Pop
-  - Folk Pop
+  - Instrumental
+  - Jazz
+  - Electronic
+  - Folk
 ---
 
 # Sagor & Swing
 
-**Sagor & Swing is a Swedish indie pop project by vocalist and songwriter [[Members/K/Kristian Anttila]], known for delicate, fairytale-tinged acoustic and electronic pop.**
+**Swedish instrumental duo from Stockholm. Active 1999–present.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2001 | *Sagor & Swing* | debut |
-| 2004 | *Kärlek och Längtan* | |
-| 2007 | *Naturkraft* | |
+Sagor & Swing ("Fairytales and Swing") are a Swedish instrumental duo consisting of Eric Malmberg on organ and Ulf Möller on drums, formed in 1999 and known for fusing jazz, electronic music, and Scandinavian folk traditions. Their track "Vals på vingar," from debut album *Orgelfärger*, was featured in the HBO series *Eastbound & Down* in 2013.
+
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Orgelfärger* | 2001 | - | - |
+| *Melodier och fåglar* | 2002 | - | - |
+| *Allt hänger samman* | 2003 | - | - |
+| *Orgelplaneten* | 2004 | - | - |
+| *Botvid Grenlunds park* | 2013 | - | - |
 
 ## Members
 
-Sagor & Swing is a solo project. See [[Members/K/Kristian Anttila]] for biography.
+### Core / Official Members
+- [[Members/E/Eric Malmberg]] — organ (1999–present, founding member)
+- [[Members/U/Ulf Möller]] — drums (1999–present, founding member)
 
 ## Connections
 
 No confirmed shared-member connections to other vault artists.
 
 ## Sources
-- Wikipedia
-- Discogs
+- [Wikipedia](https://en.wikipedia.org/wiki/Sagor_%26_Swing)
+- [Discogs](https://www.discogs.com/artist/146034-Sagor-Swing)

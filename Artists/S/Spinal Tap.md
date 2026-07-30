@@ -9,11 +9,16 @@ genre:
 
 **Spinal Tap is a fictional English heavy metal band created by actors Michael McKean, Christopher Guest, and Harry Shearer for Rob Reiner's 1984 mockumentary *This Is Spinal Tap*, parodying heavy metal excess with such accuracy that the film has become a genuine cult classic in both rock and comedy.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1984 | *This Is Spinal Tap* | soundtrack to the mockumentary |
-| 1992 | *Break Like the Wind* | studio album as the "real" band |
-| 2009 | *Back from the Dead* | live EP |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *This Is Spinal Tap* | 1984 | - | - |
+| *Break Like the Wind* | 1992 | - | - |
+
+### EPs
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Back from the Dead* | 2009 | - | - |
 
 ## Members
 

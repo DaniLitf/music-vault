@@ -8,11 +8,15 @@ genre:
 
 **Project One is a Dutch hardstyle duo formed by [[Members/W/Willem Rebergen]] (Headhunterz) and [[Members/J/Joram Metekohy]] (Wildstylez), two of the most prominent acts in the hardstyle genre.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2011 | *Hardstyle Mafia* | debut single |
-| 2012 | *Renegades* | |
-| 2015 | *The Anthem* | |
+## Discography
+
+### Singles
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Hardstyle Mafia* | 2011 | Project One | - |
+| *Renegades* | 2012 | Project One | - |
+| *The Anthem* | 2015 | Project One | - |
 
 ## Members
 

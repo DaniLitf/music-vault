@@ -9,13 +9,20 @@ genre:
 
 **The Creatures were a British post-punk duo formed in 1981 as a side project of [[Members/S/Siouxsie Sioux]] and drummer [[Members/B/Budgie]] from [[Artists/S/Siouxsie and the Banshees]], known for their percussive, exotic soundscapes.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1983 | *Feast* | debut |
-| 1989 | *Boomerang* | |
-| 1998 | *Anima Animus* | |
-| 2003 | *Hái!* | |
-| 2004 | *Hybrids* | compilation |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Feast* | 1983 | Mike Hedges, The Creatures | The Coach House, Berkshire |
+| *Boomerang* | 1989 | The Creatures | Castle Studios |
+| *Anima Animus* | 1998 | The Creatures | Worldwide International |
+| *Hái!* | 2003 | The Creatures | Worldwide International |
+
+### Compilations
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Hybrids* | 2004 | The Creatures | - |
 
 ## Members
 

@@ -1,19 +1,21 @@
 ---
 real_name: Barrett Martin
 also_known_as:
-birth_date:
+birth_date: 1967
 death_date:
 nationality: American
 ---
 
 # Barrett Martin
 
-**Drummer. American.**
+**American drummer. Born 1967.**
 
-Barrett Martin is an American drummer who was a member of [[Artists/S/Screaming Trees]], the grunge/alternative rock band from Seattle.
+Barrett Martin is an American drummer best known as the drummer of Mad Season and Screaming Trees. He is known for his powerful, versatile drumming style and has worked with various other Seattle-based bands.
 
 ## Associated Artists
-- [[Artists/S/Screaming Trees]] – drums
+
+- [[Artists/M/Mad Season]] — drums, founding member (1994–1999)
 
 ## Sources
-- [Wikipedia](https://en.wikipedia.org/wiki/Screaming_Trees)
+- Wikipedia
+- AllMusic

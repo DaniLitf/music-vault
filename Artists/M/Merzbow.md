@@ -11,13 +11,22 @@ genre:
 
 Merzbow is a solo artist. See [[Members/M/Masami Akita]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1982 | *Lowest Music & Arts 1980–1983* | early compilation |
-| 1996 | *Pulse Demon* | most cited album |
-| 1999 | *Merzbox* | 50-CD box set |
-| 2002 | *Merzbeat* | |
-| 2009 | *Kibako* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Lowest Music & Arts 1980–1983* | 1982 | Masami Akita | - |
+| *Pulse Demon* | 1996 | Masami Akita | - |
+| *Merzbeat* | 2002 | Masami Akita | - |
+| *Kibako* | 2009 | Masami Akita | - |
+
+### Box Sets
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Merzbox* | 1999 | Masami Akita | - |
 
 ## Members
 

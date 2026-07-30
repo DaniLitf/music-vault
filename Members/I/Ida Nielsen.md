@@ -16,7 +16,7 @@ Ida Nielsen is a Danish bassist who joined Prince's New Power Generation in 2010
 
 - [[Artists/N/New Power Generation]] – bass, vocals (2010–2013)
 - [[Artists/P/Prince]] – bassist, vocalist (2010–2016)
-- [[Artists/T/3rdeyegirl]] – bass, vocals (2013–2016)
+- [[Artists/0-9/3rdeyegirl]] – bass, vocals (2013–2016)
 
 ## Sources
 - Wikipedia

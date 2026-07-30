@@ -10,13 +10,14 @@ genre:
 
 **Screamin' Jay Hawkins** (born Jalacy Hawkins, July 18, 1929 – died February 12, 2000) was an American singer, songwriter, and actor, a pioneer of shock rock known for his flamboyant stage persona, coffin entrances, and the horror-blues classic "I Put a Spell on You" (1956).
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1958 | *At Home with Screamin' Jay Hawkins* | debut album |
-| 1969 | *What That Is!* | |
-| 1990 | *Stone Crazy* | |
-| 1991 | *Black Music for White People* | comeback |
-| 1994 | *Somethin' Funny Goin' On* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *At Home with Screamin' Jay Hawkins* | 1958 | - | - |
+| *What That Is!* | 1969 | - | - |
+| *Stone Crazy* | 1990 | - | - |
+| *Black Music for White People* | 1991 | - | - |
+| *Somethin' Funny Goin' On* | 1994 | - | - |
 
 ## Members
 

@@ -8,9 +8,10 @@ genre:
 
 **Scott Weiland & The Wildabouts was an American rock band formed in 2014 by [[Members/S/Scott Weiland]], who had previously fronted [[Artists/S/Stone Temple Pilots]] and [[Artists/V/Velvet Revolver]], as a vehicle for new material; Weiland died of an overdose on December 3, 2015.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2015 | *Blaster* | sole studio album; released months before Weiland's death |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Blaster* | 2015 | Doug Grean | - |
 
 ## Members
 

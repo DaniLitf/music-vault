@@ -10,17 +10,20 @@ genre:
 
 **The Chemical Brothers are an English electronic music duo formed in Manchester in 1991 by [[Members/T/Tom Rowlands]] and [[Members/E/Ed Simons]], pioneers of the big beat genre and one of the most successful electronic acts of the 1990s.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1995 | *Exit Planet Dust* | debut |
-| 1997 | *Dig Your Own Hole* | breakthrough; "Block Rockin' Beats" |
-| 1999 | *Surrender* | |
-| 2002 | *Come with Us* | |
-| 2005 | *Push the Button* | |
-| 2007 | *We Are the Night* | |
-| 2010 | *Further* | |
-| 2015 | *Born in the Echoes* | |
-| 2019 | *No Geography* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Exit Planet Dust* | 1995 | Tom Rowlands, Ed Simons | The Chemical Brothers' studio |
+| *Dig Your Own Hole* | 1997 | Tom Rowlands, Ed Simons | Orinoco Studios, London |
+| *Surrender* | 1999 | Tom Rowlands, Ed Simons | Miloco Studios, London |
+| *Come with Us* | 2002 | Tom Rowlands, Ed Simons | Miloco Studios, London |
+| *Push the Button* | 2005 | Tom Rowlands, Ed Simons | Miloco Studios, London |
+| *We Are the Night* | 2007 | Tom Rowlands, Ed Simons | Miloco Studios, London |
+| *Further* | 2010 | Tom Rowlands, Ed Simons | Miloco Studios, London |
+| *Born in the Echoes* | 2015 | Tom Rowlands, Ed Simons | Miloco Studios, London |
+| *No Geography* | 2019 | Tom Rowlands, Ed Simons | Miloco Studios, London |
 
 ## Members
 

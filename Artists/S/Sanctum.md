@@ -9,11 +9,12 @@ genre:
 
 **Sanctum is a Swedish psychedelic and experimental rock band formed in the early 1990s, known for blending krautrock influences with dark, droning textures.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1993 | *Sanctum* | debut |
-| 1995 | *Void* | |
-| 1998 | *Passage* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Sanctum* | 1993 | - | - |
+| *Void* | 1995 | - | - |
+| *Passage* | 1998 | - | - |
 
 ## Members
 

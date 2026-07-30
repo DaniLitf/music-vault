@@ -1,17 +1,21 @@
 ---
 genre:
-  - Heavy Metal
-  - Thrash Metal
-  - Doom Metal
+  - Heavy metal
+  - Thrash metal
+  - Doom metal
 ---
 
 # Probot
 
 **Probot was a heavy metal project by [[Members/D/Dave Grohl]] of [[Artists/F/Foo Fighters]] and [[Artists/N/Nirvana]], conceived as a tribute to his formative metal influences — featuring guest vocalists from many of the extreme metal bands he grew up listening to.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2004 | *Probot* | sole album; each track features a different guest vocalist |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Probot* | 2004 | Dave Grohl | - |
 
 ## Members
 

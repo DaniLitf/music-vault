@@ -9,21 +9,22 @@ genre:
 
 **Sodom are a German thrash metal band formed in Gelsenkirchen in 1981, one of the "Big Three" of German thrash metal alongside [[Artists/K/Kreator]] and [[Artists/D/Destruction]], known for their raw, aggressive sound and war-themed lyrics.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1986 | *Obsessed by Cruelty* | debut |
-| 1987 | *Persecution Mania* | |
-| 1989 | *Agent Orange* | landmark; widely considered their best |
-| 1990 | *Better Off Dead* | |
-| 1992 | *Tapping the Vein* | |
-| 1994 | *Get What You Deserve* | |
-| 1997 | *Til Death Do Us Unite* | |
-| 1999 | *Code Red* | |
-| 2001 | *M-16* | |
-| 2006 | *Sodom* | |
-| 2010 | *In War and Pieces* | |
-| 2016 | *Decision Day* | |
-| 2020 | *Genesis XIX* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Obsessed by Cruelty* | 1986 | Sodom | - |
+| *Persecution Mania* | 1987 | Harris Johns | - |
+| *Agent Orange* | 1989 | Harris Johns | - |
+| *Better Off Dead* | 1990 | Sodom | - |
+| *Tapping the Vein* | 1992 | Sodom | - |
+| *Get What You Deserve* | 1994 | Sodom | - |
+| *Til Death Do Us Unite* | 1997 | Sodom | - |
+| *Code Red* | 1999 | Sodom | - |
+| *M-16* | 2001 | Harris Johns | - |
+| *Sodom* | 2006 | Sodom | - |
+| *In War and Pieces* | 2010 | Sodom | - |
+| *Decision Day* | 2016 | Sodom | - |
+| *Genesis XIX* | 2020 | Siggi Bemm | - |
 
 ## Members
 

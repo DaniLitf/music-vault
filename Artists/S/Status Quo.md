@@ -9,17 +9,18 @@ genre:
 
 **Status Quo are an English rock band formed in London in 1962, one of the longest-running acts in British rock, known for their boogie-driven three-chord style and a string of hit singles spanning five decades.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1968 | *Picturesque Matchstickable Messages* | debut |
-| 1973 | *Piledriver* | first with boogie sound |
-| 1974 | *Hello!* | UK No. 1 |
-| 1975 | *On the Level* | UK No. 1 |
-| 1976 | *Blue for You* | |
-| 1982 | *1+9+8+2* | |
-| 1994 | *Thirsty Work* | |
-| 2005 | *The Party Ain't Over Yet* | |
-| 2019 | *Backbone* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Picturesque Matchstickable Messages from the Status Quo* | 1968 | Noel Walker | - |
+| *Piledriver* | 1973 | Status Quo | - |
+| *Hello!* | 1974 | Status Quo | - |
+| *On the Level* | 1975 | Status Quo | - |
+| *Blue for You* | 1976 | Status Quo | - |
+| *1+9+8+2* | 1982 | Status Quo | - |
+| *Thirsty Work* | 1994 | - | - |
+| *The Party Ain't Over Yet* | 2005 | - | - |
+| *Backbone* | 2019 | - | - |
 
 ## Members
 

@@ -10,23 +10,33 @@ genre:
 
 **Leningrad Cowboys are a Finnish rock band formed in Helsinki in 1986, known internationally for their absurdist humor, exaggeratedly tall pompadour hairstyles, pointed shoes, and the 1989 Jim Jarmusch road movie *Leningrad Cowboys Go America*.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1989 | *Let's Go* | debut album; *Leningrad Cowboys Go America* soundtrack |
-| 1990 | *Leningrad Cowboys Go America* | soundtrack |
-| 1992 | *Mongolian Barbecue* | |
-| 1993 | *Total Balalaika Show* | live with Red Army Choir |
-| 1994 | *Happy Together* | covers album |
-| 1997 | *Zombie Heaven* | |
-| 2012 | *Sauna Extravaganza* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Let's Go* | 1989 | - | - |
+| *Leningrad Cowboys Go America* | 1990 | - | - |
+| *Mongolian Barbecue* | 1992 | - | - |
+| *Happy Together* | 1994 | - | - |
+| *Zombie Heaven* | 1997 | - | - |
+| *Sauna Extravaganza* | 2012 | - | - |
+
+### Live Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Total Balalaika Show* | 1993 | - | - |
 
 ## Members
 
 ### Core / Official Members
-- Silu Seppälä — vocals (founding member)
-- Mato Valtonen — guitar
-- Sakke Järvenpää — drums
-- Various additional members
+- [[Members/S/Sakke Järvenpää]] — drums, vocals (1986–present, founding member)
+- [[Members/M/Mato Valtonen]] — guitar, vocals (1986–1997, founding member)
+
+### Past Touring & Session Members
+- [[Members/S/Silu Seppälä]] — bass (1989–2000)
 
 ## Connections
 

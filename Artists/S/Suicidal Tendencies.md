@@ -9,15 +9,16 @@ genre:
 
 **Suicidal Tendencies are an American hardcore punk and thrash metal band formed in Venice, California in 1980 by vocalist [[Members/M/Mike Muir]], one of the pioneers of crossover thrash — blending hardcore punk aggression with metal heaviness.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1983 | *Suicidal Tendencies* | debut; "Institutionalized" |
-| 1987 | *Join the Army* | |
-| 1988 | *How Will I Laugh Tomorrow When I Can't Even Smile Today* | |
-| 1990 | *Lights...Camera...Revolution!* | |
-| 1992 | *The Art of Rebellion* | commercial peak |
-| 1994 | *Suicidal for Life* | |
-| 2016 | *World Gone Mad* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Suicidal Tendencies* | 1983 | Glen E. Friedman | - |
+| *Join the Army* | 1987 | Suicidal Tendencies | - |
+| *How Will I Laugh Tomorrow When I Can't Even Smile Today* | 1988 | Suicidal Tendencies | - |
+| *Lights...Camera...Revolution!* | 1990 | Suicidal Tendencies | - |
+| *The Art of Rebellion* | 1992 | Suicidal Tendencies | - |
+| *Suicidal for Life* | 1994 | Suicidal Tendencies | - |
+| *World Gone Mad* | 2016 | Suicidal Tendencies | - |
 
 ## Members
 

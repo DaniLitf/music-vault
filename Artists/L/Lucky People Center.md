@@ -10,16 +10,20 @@ genre:
 
 **Lucky People Center were a Swedish electronic music group formed in Stockholm in the early 1990s, known for their eclectic blend of trip-hop, industrial, and ambient sounds, and the documentary film *Lucky People Center International* (1998).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1994 | *Lucky People Center* | debut album |
-| 1996 | *Second* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Lucky People Center* | 1994 | Lucky People Center | - |
+| *Second* | 1996 | Lucky People Center | - |
 
 ## Members
 
 ### Core / Official Members
-- Johan Söderberg — production, vocals
-- Ernst Billgren — production
+- [[Members/J/Johan Söderberg]] — production, vocals (founding member)
+- [[Members/E/Ernst Billgren]] — production (founding member)
 
 ## Connections
 

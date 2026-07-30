@@ -9,9 +9,10 @@ genre:
 
 **Stevens Seagulls is a Swedish rock and indie band.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2005 | *Stevens Seagulls* | debut |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Stevens Seagulls* | 2005 | - | - |
 
 ## Members
 

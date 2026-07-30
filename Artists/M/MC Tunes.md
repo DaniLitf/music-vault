@@ -11,9 +11,13 @@ genre:
 
 MC Tunes is a solo artist. See [[Members/M/MC Tunes]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1990 | *The North at Its Heights* | debut album; with 808 State |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The North at Its Heights* | 1990 | 808 State | - |
 
 ## Members
 

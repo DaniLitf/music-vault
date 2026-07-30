@@ -9,10 +9,14 @@ genre:
 
 **Lindemann are a German-Swedish industrial metal project formed in 2015 by Rammstein vocalist Till Lindemann and Hypocrisy/Pain founder Peter Tägtgren, combining Lindemann's operatic baritone with Tägtgren's production aesthetic.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2015 | *F&M* | debut; retitled 2019 |
-| 2019 | *F&M* | second album |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Skills in Pills* | 2015 | Peter Tägtgren | Abyss Studios |
+| *F&M* | 2019 | Peter Tägtgren | Abyss Studios |
 
 ## Members
 

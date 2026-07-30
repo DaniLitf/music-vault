@@ -15,7 +15,7 @@ Jeremy "Milky" Gray was an English guitarist and founding member of deathgrind b
 ## Associated Artists
 
 - [[Artists/T/The Rotted]] – guitar (1997–1999)
-- [[Artists/I/Infestation]] – guitar (1999–)
+- [[Artists/I/Infestation]] – guitar (1999–present)
 
 ## Sources
 - Wikipedia: [Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)

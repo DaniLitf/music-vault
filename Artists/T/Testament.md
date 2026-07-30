@@ -11,20 +11,20 @@ genre:
 ## Discography
 
 ### Studio Albums
-| Year | Title | Notes |
-|------|-------|-------|
-| 1987 | *The Legacy* | Debut; produced by Alex Perialas |
-| 1988 | *The New Order* | |
-| 1988 | *Practice What You Preach* | Commercial breakthrough |
-| 1990 | *Souls of Black* | |
-| 1992 | *The Ritual* | |
-| 1994 | *Low* | Groove metal influence |
-| 1997 | *Demonic* | Death metal influence |
-| 1999 | *The Gathering* | |
-| 2008 | *The Formation of Damnation* | Classic lineup reunion |
-| 2012 | *Dark Roots of Earth* | |
-| 2016 | *Brotherhood of the Snake* | |
-| 2020 | *Titans of Creation* | |
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The Legacy* | 1987 | Alex Perialas | Pyramid Sound Studios, Ithaca |
+| *The New Order* | 1988 | Alex Perialas | Pyramid Sound Studios, Ithaca |
+| *Practice What You Preach* | 1989 | Alex Perialas | Pyramid Sound Studios, Ithaca |
+| *Souls of Black* | 1990 | Alex Perialas | Fantasy Studios, Berkeley |
+| *The Ritual* | 1992 | Tony Platt | One on One Studios, North Hollywood |
+| *Low* | 1994 | Testament | Studio D, Sausalito |
+| *Demonic* | 1997 | Testament, Doug Hall | Driftwood Studios, Oakland |
+| *The Gathering* | 1999 | Chuck Billy, Eric Peterson | Driftwood Studios, Oakland |
+| *The Formation of Damnation* | 2008 | Andy Sneap | Backstage Studios, Derbyshire |
+| *Dark Roots of Earth* | 2012 | Andy Sneap | Backstage Studios, Derbyshire |
+| *Brotherhood of the Snake* | 2016 | Andy Sneap | Backstage Studios, Derbyshire |
+| *Titans of Creation* | 2020 | Chuck Billy, Eric Peterson | Sweetwater Studios, Fort Wayne |
 
 ## Members
 

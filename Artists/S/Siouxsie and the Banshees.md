@@ -9,19 +9,22 @@ genre:
 
 **Siouxsie and the Banshees were an English rock band formed in London in 1976 by [[Members/S/Siouxsie Sioux]] and [[Members/S/Steven Severin]], pioneers of post-punk and gothic rock whose dark, dramatic sound influenced countless artists.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1978 | *The Scream* | debut; landmark post-punk album |
-| 1979 | *Join Hands* | |
-| 1980 | *Kaleidoscope* | |
-| 1981 | *Juju* | |
-| 1982 | *A Kiss in the Dreamhouse* | |
-| 1984 | *Hyæna* | with Robert Smith on guitar |
-| 1986 | *Tinderbox* | |
-| 1987 | *Through the Looking Glass* | covers album |
-| 1988 | *Peepshow* | |
-| 1991 | *Superstition* | |
-| 1995 | *The Rapture* | final album |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The Scream* | 1978 | Steve Lillywhite | - |
+| *Join Hands* | 1979 | Nils Stevenson | - |
+| *Kaleidoscope* | 1980 | Siouxsie and the Banshees | - |
+| *Juju* | 1981 | Siouxsie and the Banshees | - |
+| *A Kiss in the Dreamhouse* | 1982 | Siouxsie and the Banshees | - |
+| *Hyæna* | 1984 | Siouxsie and the Banshees | - |
+| *Tinderbox* | 1986 | Siouxsie and the Banshees | - |
+| *Through the Looking Glass* | 1987 | Siouxsie and the Banshees | - |
+| *Peepshow* | 1988 | Siouxsie and the Banshees | - |
+| *Superstition* | 1991 | Stephen Hague | - |
+| *The Rapture* | 1995 | John Cale | - |
 
 ## Members
 

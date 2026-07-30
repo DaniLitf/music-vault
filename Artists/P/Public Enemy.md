@@ -1,24 +1,28 @@
 ---
 genre:
-  - Hip-Hop
-  - Political Rap
-  - East Coast Hip-Hop
+  - Hip hop
+  - Political rap
+  - East coast hip hop
 ---
 
 # Public Enemy
 
 **Public Enemy are an American hip-hop group formed in Long Island, New York in 1985, one of the most influential and politically charged hip-hop groups of all time, known for their confrontational lyrics addressing race, media, and government.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1987 | *Yo! Bum Rush the Show* | debut |
-| 1988 | *It Takes a Nation of Millions to Hold Us Back* | landmark; "Don't Believe the Hype," "Bring the Noise" |
-| 1990 | *Fear of a Black Planet* | "Fight the Power" |
-| 1991 | *Apocalypse 91... The Enemy Strikes Black* | |
-| 1994 | *Muse Sick-n-Hour Mess Age* | |
-| 1999 | *There's a Poison Goin On* | |
-| 2007 | *How You Sell Soul to a Soulless People Who Sold Their Soul?* | |
-| 2020 | *What You Gonna Do When the Grid Goes Down?* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Yo! Bum Rush the Show* | 1987 | The Bomb Squad | - |
+| *It Takes a Nation of Millions to Hold Us Back* | 1988 | The Bomb Squad | - |
+| *Fear of a Black Planet* | 1990 | The Bomb Squad | - |
+| *Apocalypse 91... The Enemy Strikes Black* | 1991 | The Bomb Squad | - |
+| *Muse Sick-n-Hour Mess Age* | 1994 | The Bomb Squad | - |
+| *There's a Poison Goin On* | 1999 | The Bomb Squad | - |
+| *How You Sell Soul to a Soulless People Who Sold Their Soul?* | 2007 | The Bomb Squad | - |
+| *What You Gonna Do When the Grid Goes Down?* | 2020 | The Bomb Squad | - |
 
 ## Members
 

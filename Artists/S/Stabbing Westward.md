@@ -9,13 +9,14 @@ genre:
 
 **Stabbing Westward are an American industrial rock band formed in Macomb, Illinois in 1985, who gained commercial visibility in the mid-1990s with their blend of aggressive guitars and dark synthesizers.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1994 | *Ungod* | debut |
-| 1996 | *Wither Blister Burn & Peel* | commercial peak; "Shame" |
-| 1998 | *Darkest Days* | |
-| 2001 | *Self-Titled* | final original album |
-| 2022 | *Chasing Ghosts* | reunion album |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Ungod* | 1994 | Edwin Anton | - |
+| *Wither Blister Burn & Peel* | 1996 | Stuart Ewan | - |
+| *Darkest Days* | 1998 | Stuart Ewan | - |
+| *Stabbing Westward* | 2001 | Stuart Ewan | - |
+| *Chasing Ghosts* | 2022 | - | - |
 
 ## Members
 

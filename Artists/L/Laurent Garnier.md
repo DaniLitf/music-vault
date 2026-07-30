@@ -11,14 +11,18 @@ genre:
 
 Laurent Garnier is a solo artist. See [[Members/L/Laurent Garnier]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1994 | *Shot in the Dark* | debut album |
-| 1997 | *30* | |
-| 2000 | *Unreasonable Behaviour* | |
-| 2005 | *The Cloud Making Machine* | |
-| 2009 | *Tales of a Kleptomaniac* | |
-| 2015 | *La Home Box* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Shot in the Dark* | 1994 | Laurent Garnier | - |
+| *30* | 1997 | Laurent Garnier | - |
+| *Unreasonable Behaviour* | 2000 | Laurent Garnier | - |
+| *The Cloud Making Machine* | 2005 | Laurent Garnier | - |
+| *Tales of a Kleptomaniac* | 2009 | Laurent Garnier | - |
+| *La Home Box* | 2015 | Laurent Garnier | - |
 
 ## Members
 

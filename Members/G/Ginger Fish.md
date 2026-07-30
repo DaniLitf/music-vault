@@ -1,19 +1,21 @@
 ---
 real_name: Kenneth Robert Wilson
 also_known_as: Ginger Fish
+birth_date: 1965-09-28
+death_date:
 nationality: American
 ---
 
-**Drummer. Former Marilyn Manson drummer, current Rob Zombie drummer.**
+# Ginger Fish
 
-Kenneth Robert Wilson, known professionally as Ginger Fish, is an American drummer best known for his 16-year tenure as drummer of industrial rock band Marilyn Manson (1995–2011). He is now the drummer for shock rock artist Rob Zombie, joining permanently in 2011. Rob Zombie has praised Ginger Fish as "more of a groove-style drummer" compared to his predecessor, appreciating his distinctive drumming approach that complements Zombie's heavy rock sound.
+**American drummer. Born 28 September 1965.**
+
+Kenneth Robert Wilson, known by his stage name Ginger Fish, is an American drummer who was Marilyn Manson's longest-serving drummer (1995–2011). After leaving Manson he joined Rob Zombie's touring and recording band.
 
 ## Associated Artists
 
-- [[Artists/M/Marilyn Manson]] – drums (1995–2011)
-- [[Artists/R/Rob Zombie]] – drums (2011–present)
+- [[Artists/M/Marilyn Manson]] — drums (1995–2011)
+- [[Artists/R/Rob Zombie]] — drums (2011–present)
 
 ## Sources
-
-- [Ginger Fish - Wikipedia](https://en.wikipedia.org/wiki/Ginger_Fish)
-- [Ginger Fish - Marilyn Manson Wiki](https://marilynmanson.fandom.com/wiki/Ginger_Fish)
+- Wikipedia

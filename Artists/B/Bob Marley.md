@@ -87,7 +87,7 @@ Bob Marley and the Wailers were a Jamaican ska, rocksteady, and reggae band form
 - [[Members/J/Jackie Mittoo]] – keyboards, musical director (1963–1967; died 1990)
 
 ## Connections
-- [[Artists/S/The Skatalites]] – Jackie Mittoo (keyboardist and musical director), Lloyd Knibbs (drummer) — The Skatalites were the house band at Studio One and played on the Wailers' early recordings
+- [[Artists/T/The Skatalites]] – Jackie Mittoo (keyboardist and musical director), Lloyd Knibbs (drummer) — The Skatalites were the house band at Studio One and played on the Wailers' early recordings
 - [[Artists/P/Peter Tosh]] – Peter Tosh (founding member who left in 1974 and had a notable solo career)
 - [[Artists/B/Bunny Wailer]] – Bunny Wailer (founding member who left in 1974 and had a notable solo career)
 - [[Artists/L/Lee Perry]] – Lee "Scratch" Perry (produced the Wailers' 1970–1971 recordings)

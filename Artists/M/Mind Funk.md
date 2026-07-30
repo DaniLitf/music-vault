@@ -9,10 +9,14 @@ genre:
 
 **Mind Funk were an American rock band formed in New York City in 1989, drawing members from various Seattle-adjacent circles including Mike McCready of Pearl Jam and involving connections to the Mad Season supergroup.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1992 | *Mind Funk* | debut album |
-| 1993 | *Dropped* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Mind Funk* | 1992 | Terry Date | - |
+| *Dropped* | 1993 | Mind Funk | - |
 
 ## Members
 

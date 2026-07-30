@@ -1,8 +1,8 @@
 ﻿---
-real name: Paul Bruce Dickinson
-also known as: Bruce Bruce (stage persona)
-birth date: 1958-08-07
-death date:
+real_name: Paul Bruce Dickinson
+also_known_as: Bruce Bruce
+birth_date: 1958-08-07
+death_date:
 nationality: British
 ---
 

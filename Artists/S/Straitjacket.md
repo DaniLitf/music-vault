@@ -8,9 +8,9 @@ genre:
 
 **Straitjacket is a Swedish rock band.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| TBD | *TBD* | |
+### Studio Albums
+
+*Discography to be completed.*
 
 ## Members
 

@@ -12,21 +12,25 @@ genre:
 
 Moby is a solo artist. See [[Members/M/Moby]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1992 | *Moby* | debut |
-| 1993 | *Early Underground* | |
-| 1995 | *Everything Is Wrong* | |
-| 1996 | *Animal Rights* | rock direction |
-| 1999 | *Play* | commercial peak; every track licensed |
-| 2002 | *18* | |
-| 2005 | *Hotel* | |
-| 2008 | *Last Night* | dance focus |
-| 2009 | *Wait for Me* | |
-| 2011 | *Destroyed* | |
-| 2013 | *Innocents* | |
-| 2016 | *Long Ambients 1* | ambient |
-| 2018 | *Everything Was Beautiful, and Nothing Hurt* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Moby* | 1992 | Moby | - |
+| *Early Underground* | 1993 | Moby | - |
+| *Everything Is Wrong* | 1995 | Moby | - |
+| *Animal Rights* | 1996 | Moby | - |
+| *Play* | 1999 | Moby | - |
+| *18* | 2002 | Moby | - |
+| *Hotel* | 2005 | Moby | - |
+| *Last Night* | 2008 | Moby | - |
+| *Wait for Me* | 2009 | Moby | - |
+| *Destroyed* | 2011 | Moby | - |
+| *Innocents* | 2013 | Moby | - |
+| *Long Ambients 1* | 2016 | Moby | - |
+| *Everything Was Beautiful, and Nothing Hurt* | 2018 | Moby | - |
 
 ## Members
 

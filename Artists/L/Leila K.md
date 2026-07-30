@@ -11,11 +11,15 @@ genre:
 
 Leila K is a solo artist. See [[Members/L/Leila K]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1990 | *Electric* | debut album (with Rob'n'Raz) |
-| 1992 | *Leila K* | first solo album |
-| 1993 | *Ca Fait Rire Les Oiseaux* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Electric* | 1990 | Rob'n'Raz | - |
+| *Leila K* | 1992 | Rob'n'Raz | - |
+| *Ca Fait Rire Les Oiseaux* | 1993 | - | - |
 
 ## Members
 

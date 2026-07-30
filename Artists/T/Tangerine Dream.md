@@ -10,18 +10,23 @@ genre:
 
 **Tangerine Dream are a German electronic music ensemble founded in West Berlin in 1967 by [[Members/E/Edgar Froese]], pioneers of the Berlin School of electronic music who helped define ambient and new age genres with their synthesizer-driven soundscapes.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1970 | *Electronic Meditation* | debut |
-| 1972 | *Zeit* | |
-| 1973 | *Atem* | |
-| 1974 | *Phaedra* | Virgin Records; international breakthrough |
-| 1975 | *Rubycon* | |
-| 1976 | *Ricochet* | live |
-| 1977 | *Stratosfear* | |
-| 1978 | *Cyclone* | |
-| 1980 | *Tangram* | |
-| 1988 | *Optical Race* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Electronic Meditation* | 1970 | Tangerine Dream | - |
+| *Zeit* | 1972 | Tangerine Dream | Dierks Studios, Stommeln |
+| *Atem* | 1973 | Tangerine Dream | Dierks Studios, Stommeln |
+| *Phaedra* | 1974 | Tangerine Dream | The Manor, Shipton-on-Cherwell |
+| *Rubycon* | 1975 | Tangerine Dream | The Manor, Shipton-on-Cherwell |
+| *Stratosfear* | 1976 | Tangerine Dream | Hansa Tonstudio, Berlin |
+| *Cyclone* | 1978 | Tangerine Dream | Audio City, Berlin |
+| *Tangram* | 1980 | Tangerine Dream | Polygon Studios, Berlin |
+| *Optical Race* | 1988 | Tangerine Dream | SyStudio, Berlin |
+
+### Live Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Ricochet* | 1975 | Tangerine Dream | Recorded live in Europe, mixed at The Manor |
 
 ## Members
 

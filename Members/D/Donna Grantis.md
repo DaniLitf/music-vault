@@ -16,7 +16,7 @@ Donna Grantis is a Canadian guitarist who joined Prince's New Power Generation i
 
 - [[Artists/N/New Power Generation]] – guitar (2010–2013)
 - [[Artists/P/Prince]] – guitarist (2010–2016)
-- [[Artists/T/3rdeyegirl]] – guitar (2013–2016)
+- [[Artists/0-9/3rdeyegirl]] – guitar (2013–2016)
 
 ## Sources
 - Wikipedia

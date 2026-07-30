@@ -8,10 +8,17 @@ genre:
 
 **The Germs were an American punk rock band formed in Los Angeles in 1977, one of the pioneering bands of hardcore punk, fronted by Darby Crash and featuring guitarist Pat Smear who later became a member of Nirvana and Foo Fighters.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1979 | *(GI)* | debut and only studio album; produced by Joan Jett |
-| 1981 | *Germicide* | live album; posthumous |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *(GI)* | 1979 | Joan Jett | Ted Spencer's Garage, LA |
+
+### Live Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Germicide* | 1981 | - | Recorded live at the Whisky a Go Go |
 
 ## Members
 

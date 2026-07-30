@@ -9,11 +9,12 @@ genre:
 
 **Sonar is a Belgian/Dutch electronic and jazz fusion project formed in the early 2000s, blending minimalist repetition with jazz improvisation and electronic processing.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2002 | *Sonar* | debut |
-| 2005 | *Static Motion* | |
-| 2008 | *Tranceparency* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Sonar* | 2002 | - | - |
+| *Static Motion* | 2005 | - | - |
+| *Tranceparency* | 2008 | - | - |
 
 ## Members
 

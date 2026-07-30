@@ -1,21 +1,23 @@
 ---
-real_name: Chrislo Haas
+real_name: Christian Haas
 also_known_as:
-birth_date: 1955-12-21
-death_date: 2004-01-31
+birth_date: 1960-10-24
+death_date: 2004-10-23
 nationality: German
 ---
 
 # Chrislo Haas
 
-**Electronic musician, bassist, saxophonist. Born December 21, 1955 — died January 31, 2004.**
+**German musician and producer. Born 24 October 1960, died 23 October 2004.**
 
-Chrislo Haas was a German musician who replaced Kurt Dahlke in DAF in 1979, playing electronic instruments, bass, and saxophone on *Die Kleinen und die Bösen*. After leaving DAF in 1981 he co-founded the influential EBM act Liaisons Dangereuses with Beate Bartel.
+Christian "Chrislo" Haas was a German musician and producer best known as the synthesizer and electronics player of Liaisons Dangereuses and an early member of DAF. He was a pioneering figure in German electronic body music (EBM) and industrial dance, and his work with Liaisons Dangereuses remains highly influential.
 
 ## Associated Artists
 
-- [[Artists/D/DAF]] – electronic instruments, bass, saxophone (1979–1981)
-- [[Artists/L/Liaisons Dangereuses]] – electronic instruments (1981–1982)
+- [[Artists/L/Liaisons Dangereuses]] — synthesizer, electronics, vocals, founding member (1981–1983)
+- [[Artists/D/DAF]] — synthesizer (early member)
 
 ## Sources
-- Discogs: [Chrislo Haas](https://www.discogs.com/artist/64554-Chrislo-Haas)
+- Wikipedia
+- AllMusic
+- Discogs

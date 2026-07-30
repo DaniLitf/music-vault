@@ -9,18 +9,21 @@ genre:
 
 **The Cult are an English rock band formed in Bradford in 1983, whose sound evolved from post-punk and gothic rock to hard rock, best known for albums *Love*, *Electric*, and *Sonic Temple*.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1984 | *Dreamtime* | debut |
-| 1985 | *Love* | gothic rock peak |
-| 1987 | *Electric* | hard rock turn; Rick Rubin |
-| 1989 | *Sonic Temple* | biggest commercial success |
-| 1991 | *Ceremony* | |
-| 1994 | *The Cult* | self-titled |
-| 2001 | *Beyond Good and Evil* | reunion |
-| 2007 | *Born into This* | |
-| 2012 | *Choice of Weapon* | |
-| 2016 | *Hidden City* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Dreamtime* | 1984 | John Brand, The Cult | Rockfield Studios, Wales |
+| *Love* | 1985 | Steve Brown | Jacob's Studios, Surrey |
+| *Electric* | 1987 | Rick Rubin | Electric Lady, New York |
+| *Sonic Temple* | 1989 | Bob Rock | Little Mountain Sound, Vancouver |
+| *Ceremony* | 1991 | Richie Zito | Miraval, France |
+| *The Cult* | 1994 | Bob Rock | Little Mountain Sound, Vancouver |
+| *Beyond Good and Evil* | 2001 | Bob Rock | The Warehouse, Vancouver |
+| *Born into This* | 2007 | Youth | The Church, London |
+| *Choice of Weapon* | 2012 | Bob Rock, Chris Goss | Schoolhouse Studios, Los Angeles |
+| *Hidden City* | 2016 | Bob Rock | The Garage, Los Angeles |
 
 ## Members
 

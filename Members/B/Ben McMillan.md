@@ -8,12 +8,12 @@ nationality: American
 
 # Ben McMillan
 
-**Bassist. American.**
+**Vocalist. American.**
 
-Ben McMillan is an American bassist who played with [[Artists/S/Skin Yard]], the Seattle-based grunge/noise rock band.
+Ben McMillan is an American vocalist who became the lead singer of [[Artists/S/Skin Yard]], the Seattle-based grunge band, in April 1985. He remained the band's frontman throughout its run, and died in 2008.
 
 ## Associated Artists
-- [[Artists/S/Skin Yard]] – bass
+- [[Artists/S/Skin Yard]] – vocals (1985–1992)
 
 ## Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Skin_Yard)

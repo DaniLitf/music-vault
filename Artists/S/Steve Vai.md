@@ -9,17 +9,22 @@ genre:
 
 **Steve Vai is an American guitarist, songwriter, and producer born June 6, 1960 in Carle Place, New York, widely regarded as one of the greatest rock guitarists in history, known for his virtuosic technique, innovative use of the whammy bar, and work with [[Artists/F/Frank Zappa]] and [[Artists/W/Whitesnake]].**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1984 | *Flex-Able* | debut solo album |
-| 1990 | *Passion and Warfare* | landmark; critical breakthrough |
-| 1993 | *Sex & Religion* | |
-| 1996 | *Alien Love Secrets* | EP |
-| 1996 | *Fire Garden* | |
-| 1999 | *The Ultra Zone* | |
-| 2001 | *The 7th Song: Enchanting Guitar Melodies* | |
-| 2012 | *The Story of Light* | |
-| 2022 | *Inviolate* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Flex-Able* | 1984 | Steve Vai | - |
+| *Passion and Warfare* | 1990 | Steve Vai | - |
+| *Sex & Religion* | 1993 | Steve Vai | - |
+| *Fire Garden* | 1996 | Steve Vai | - |
+| *The Ultra Zone* | 1999 | Steve Vai | - |
+| *The 7th Song: Enchanting Guitar Melodies* | 2001 | Steve Vai | - |
+| *The Story of Light* | 2012 | Steve Vai | - |
+| *Inviolate* | 2022 | Steve Vai | - |
+
+### EPs
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Alien Love Secrets* | 1996 | Steve Vai | - |
 
 ## Members
 

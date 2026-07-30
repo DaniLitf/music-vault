@@ -9,17 +9,26 @@ genre:
 
 **Plaid are a British electronic music duo consisting of [[Members/A/Andy Turner]] and [[Members/E/Ed Handley]], both formerly of The Black Dog, known for their warmly melodic take on IDM released primarily through Warp Records.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1993 | *Mbuki Mvuki* | debut (as Plaid) |
-| 1995 | *Not for Threes* | Warp debut |
-| 1997 | *Bytes* | with The Black Dog |
-| 1999 | *Rest Proof Clockwork* | |
-| 2001 | *Double Figure* | |
-| 2003 | *Spokes* | |
-| 2011 | *Scintilli* | |
-| 2014 | *Reachy Prints* | |
-| 2019 | *Polymer* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Mbuki Mvuki* | 1993 | Plaid | - |
+| *Not for Threes* | 1995 | Plaid | - |
+| *Rest Proof Clockwork* | 1999 | Plaid | - |
+| *Double Figure* | 2001 | Plaid | - |
+| *Spokes* | 2003 | Plaid | - |
+| *Scintilli* | 2011 | Plaid | - |
+| *Reachy Prints* | 2014 | Plaid | - |
+| *Polymer* | 2019 | Plaid | - |
+
+### Collaborative Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Bytes* | 1997 | The Black Dog, Plaid | - |
 
 ## Members
 

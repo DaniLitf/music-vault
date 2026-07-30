@@ -11,16 +11,20 @@ genre:
 
 Mortiis is a solo artist. See [[Members/M/Mortiis]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1994 | *Fodt til å Herske* | debut; dark ambient |
-| 1995 | *Ånden som Gjorde Opprør* | |
-| 1996 | *Crypt of the Wizard* | |
-| 1999 | *The Smell of Rain* | electronic/industrial shift |
-| 2001 | *The Stargate* | |
-| 2004 | *The Grudge* | industrial rock |
-| 2007 | *The Great Deceiver* | |
-| 2010 | *Perfectly Defect* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Fodt til å Herske* | 1994 | Mortiis | - |
+| *Ånden som Gjorde Opprør* | 1995 | Mortiis | - |
+| *Crypt of the Wizard* | 1996 | Mortiis | - |
+| *The Smell of Rain* | 1999 | Mortiis | - |
+| *The Stargate* | 2001 | Mortiis | - |
+| *The Grudge* | 2004 | Mortiis | - |
+| *The Great Deceiver* | 2007 | Mortiis | - |
+| *Perfectly Defect* | 2010 | Mortiis | - |
 
 ## Members
 

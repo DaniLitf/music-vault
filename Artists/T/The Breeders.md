@@ -9,14 +9,21 @@ genre:
 
 **The Breeders are an American alternative rock band formed in 1989 by [[Members/K/Kim Deal]] of [[Artists/P/Pixies]] and Tanya Donelly of Throwing Muses, who achieved commercial success with the 1993 single "Cannonball."**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1990 | *Pod* | debut; co-produced by Steve Albini |
-| 1992 | *Safari* | EP |
-| 1993 | *Last Splash* | breakthrough; "Cannonball" |
-| 2002 | *Title TK* | |
-| 2008 | *Mountain Battles* | |
-| 2018 | *All Nerve* | original *Last Splash* lineup reunion |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Pod* | 1990 | Steve Albini | Pacer, Boston |
+| *Last Splash* | 1993 | Kim Deal, Mark Freegard | Coast Recorders, San Francisco |
+| *Title TK* | 2002 | Steve Albini | Electrical Audio, Chicago |
+| *Mountain Battles* | 2008 | Moulder, Deal, et al. | Various |
+| *All Nerve* | 2018 | Steve Albini | Electrical Audio, Chicago |
+
+### EPs
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Safari* | 1992 | Steve Albini | - |
 
 ## Members
 

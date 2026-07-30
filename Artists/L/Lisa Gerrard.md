@@ -12,14 +12,18 @@ genre:
 
 Lisa Gerrard is a solo artist. See [[Members/L/Lisa Gerrard]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1995 | *The Mirror Pool* | debut solo album |
-| 1998 | *Duality* | with Patrick Cassidy |
-| 2000 | *Gladiator* | film score with Hans Zimmer |
-| 2003 | *The Silver Tree* | |
-| 2004 | *Immortal Memory* | with Patrick Cassidy |
-| 2012 | *Departum* | with Klaus Schulze |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The Mirror Pool* | 1995 | Lisa Gerrard, Pieter Bourke | - |
+| *Duality* | 1998 | Lisa Gerrard, Patrick Cassidy | - |
+| *Gladiator* | 2000 | Hans Zimmer, Lisa Gerrard | - |
+| *The Silver Tree* | 2003 | Lisa Gerrard | - |
+| *Immortal Memory* | 2004 | Lisa Gerrard, Patrick Cassidy | - |
+| *Departum* | 2012 | Lisa Gerrard, Klaus Schulze | - |
 
 ## Members
 

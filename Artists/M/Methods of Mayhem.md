@@ -9,10 +9,14 @@ genre:
 
 **Methods of Mayhem are an American rap rock project formed in 1999 by Tommy Lee after his departure from Mötley Crüe, featuring a rotating cast of collaborators including Stephen Perkins of Jane's Addiction on drums.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1999 | *Methods of Mayhem* | debut album |
-| 2010 | *A Public Disservice Announcement* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Methods of Mayhem* | 1999 | Scott Humphrey | - |
+| *A Public Disservice Announcement* | 2010 | Methods of Mayhem | - |
 
 ## Members
 

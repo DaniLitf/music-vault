@@ -1,6 +1,6 @@
 ---
 genre:
-  - Ambient Techno
+  - Ambient techno
   - Electronic
   - IDM
 ---
@@ -9,10 +9,19 @@ genre:
 
 **Polygon Window is an ambient techno alias of [[Members/R/Richard D. James]], the British electronic musician better known as [[Artists/A/Aphex Twin]], used for the 1993 Warp Records release *Surfing on Sine Waves*.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1993 | *Surfing on Sine Waves* | sole album; Warp Artificial Intelligence series |
-| 1993 | *Quoth* | EP |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Surfing on Sine Waves* | 1993 | Richard D. James | - |
+
+### EPs
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Quoth* | 1993 | Richard D. James | - |
 
 ## Members
 

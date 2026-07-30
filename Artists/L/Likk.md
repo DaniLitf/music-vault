@@ -1,16 +1,22 @@
 ---
 genre:
-  - Swedish Rock
-  - Indie Rock
+  - Swedish rock
+  - Indie rock
 ---
 
 # Likk
 
-**Likk is a Swedish rock band.**
+**Swedish rock band. Active 2005–present.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2005 | *Likk* | debut |
+Likk is a Swedish rock band that released their self-titled debut album in 2005.
+
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Likk* | 2005 | - | - |
 
 ## Members
 

@@ -1,8 +1,6 @@
 ---
 genre:
-  - Industrial
-  - Dance
-  - Electronic
+  - Industrial dance
   - Synth-pop
 ---
 
@@ -10,15 +8,19 @@ genre:
 
 **My Life With the Thrill Kill Kult (TKK) are an American industrial dance music band formed in Chicago in 1987, known for their provocative imagery, tongue-in-cheek sexuality, and campy fusion of industrial music, disco, and sleaze aesthetics, and for releasing on Wax Trax! Records.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1989 | *I See Good Spirits and I See Bad Spirits* | debut |
-| 1990 | *Confessions of a Knife* | |
-| 1991 | *Sexplosion!* | |
-| 1994 | *13 Above the Night* | |
-| 1995 | *Hit and Run Holiday* | |
-| 1997 | *A Strange Boutique* | |
-| 1999 | *The Unnatural World* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *I See Good Spirits and I See Bad Spirits* | 1989 | Buzz McCoy, Groovie Mann | - |
+| *Confessions of a Knife* | 1990 | Buzz McCoy | - |
+| *Sexplosion!* | 1991 | Buzz McCoy | - |
+| *13 Above the Night* | 1994 | Buzz McCoy | - |
+| *Hit and Run Holiday* | 1995 | Buzz McCoy | - |
+| *A Strange Boutique* | 1997 | Buzz McCoy | - |
+| *The Unnatural World* | 1999 | Buzz McCoy | - |
 
 ## Members
 

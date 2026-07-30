@@ -8,14 +8,19 @@ genre:
 
 **Scream are an American hardcore punk band formed in Bailey's Crossroads, Virginia in 1981, significant as the band where [[Members/D/Dave Grohl]] served as drummer (1986–1990) before being recruited by [[Artists/N/Nirvana]].**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1983 | *Still Screaming* | debut |
-| 1985 | *This Side Up* | |
-| 1986 | *Banging the Drum* | |
-| 1988 | *No More Censorship* | |
-| 1990 | *Fumble* | last album; Dave Grohl on drums |
-| 1993 | *Your Choice Live Series* | live |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Still Screaming* | 1983 | - | - |
+| *This Side Up* | 1985 | - | - |
+| *Banging the Drum* | 1986 | - | - |
+| *No More Censorship* | 1988 | - | - |
+| *Fumble* | 1990 | - | - |
+
+### Live Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Your Choice Live Series* | 1993 | - | - |
 
 ## Members
 

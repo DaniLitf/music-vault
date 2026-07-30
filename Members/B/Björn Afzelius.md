@@ -1,19 +1,20 @@
 ---
 real_name: Björn Afzelius
 also_known_as:
-birth_date: 1947
-death_date: 1999
+birth_date: 1947-01-27
+death_date: 1999-02-16
 nationality: Swedish
 ---
 
 # Björn Afzelius
 
-**Singer-songwriter. Swedish.**
+**Swedish guitarist and singer. Born 27 January 1947, died 16 February 1999.**
 
-Björn Afzelius was a Swedish singer-songwriter born in 1947 and died in 1999. He played with [[Artists/H/Hoola Bandoola Band]], the Swedish rock band.
+Björn Afzelius was a Swedish guitarist and singer best known as a member of Nationalteatern and as a successful solo artist. He died of lung cancer in 1999.
 
 ## Associated Artists
-- [[Artists/H/Hoola Bandoola Band]] – vocals, guitar
+
+- [[Artists/N/Nationalteatern]] — guitar (various years)
 
 ## Sources
-- [Wikipedia](https://en.wikipedia.org/wiki/Björn_Afzelius)
+- Wikipedia

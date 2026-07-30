@@ -8,10 +8,15 @@ genre:
 
 **Sex Pistols were an English punk rock band formed in London in 1975, whose brief, incendiary career ignited the British punk explosion and made them one of the most controversial and influential bands in music history.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1977 | *Never Mind the Bollocks, Here's the Sex Pistols* | sole studio album; "Anarchy in the U.K.," "God Save the Queen" |
-| 1979 | *The Great Rock 'n' Roll Swindle* | film soundtrack |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Never Mind the Bollocks, Here's the Sex Pistols* | 1977 | Chris Thomas | - |
+
+### Soundtracks
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The Great Rock 'n' Roll Swindle* | 1979 | - | - |
 
 ## Members
 

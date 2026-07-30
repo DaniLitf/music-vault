@@ -9,14 +9,15 @@ genre:
 
 **Stone Sour are an American rock band formed in Des Moines, Iowa in 1992 by [[Members/C/Corey Taylor]] and [[Members/J/Jim Root]], both also members of [[Artists/S/Slipknot]], serving as a heavier but more melodic creative outlet for Taylor outside of Slipknot.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2002 | *Stone Sour* | debut; "Bother" |
-| 2006 | *Come What(ever) May* | |
-| 2010 | *Audio Secrecy* | |
-| 2012 | *House of Gold & Bones Part 1* | concept album |
-| 2013 | *House of Gold & Bones Part 2* | |
-| 2017 | *Hydrograd* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Stone Sour* | 2002 | Tom Tatman | - |
+| *Come What(ever) May* | 2006 | Jim Mitchell | - |
+| *Audio Secrecy* | 2010 | Nick Raskulinecz | - |
+| *House of Gold & Bones Part 1* | 2012 | Jay Ruston | - |
+| *House of Gold & Bones Part 2* | 2013 | Jay Ruston | - |
+| *Hydrograd* | 2017 | Jay Ruston | - |
 
 ## Members
 

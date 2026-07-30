@@ -9,29 +9,33 @@ genre:
 
 **Monster Magnet are an American stoner rock band formed in Red Bank, New Jersey in 1989, fronted by Dave Wyndorf, known for their heavy, lysergic, science-fiction-tinged psychedelia and albums like *Dopes to Infinity* (1995) and *Powertrip* (1998).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1991 | *Spine of God* | debut album |
-| 1993 | *Superjudge* | |
-| 1995 | *Dopes to Infinity* | |
-| 1998 | *Powertrip* | commercial peak; "Space Lord" |
-| 2000 | *God Says No* | |
-| 2004 | *Monolithic Baby!* | |
-| 2007 | *4-Way Diablo* | |
-| 2010 | *Mastermind* | |
-| 2013 | *Last Patrol* | |
-| 2018 | *Mindfucker* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Spine of God* | 1991 | Dave Wyndorf | - |
+| *Superjudge* | 1993 | Dave Wyndorf | - |
+| *Dopes to Infinity* | 1995 | Dave Wyndorf | - |
+| *Powertrip* | 1998 | Dave Wyndorf | - |
+| *God Says No* | 2000 | Dave Wyndorf | - |
+| *Monolithic Baby!* | 2004 | Dave Wyndorf | - |
+| *4-Way Diablo* | 2007 | Dave Wyndorf | - |
+| *Mastermind* | 2010 | Dave Wyndorf | - |
+| *Last Patrol* | 2013 | Dave Wyndorf | - |
+| *Mindfucker* | 2018 | Dave Wyndorf | - |
 
 ## Members
 
 ### Core / Official Members
-- Dave Wyndorf — vocals, guitar (founding member)
-- Phil Caivano — guitar (1994–present)
-- Bob Pantella — drums (2002–present)
-- Chris Kosnik — bass (2013–present)
+- [[Members/D/Dave Wyndorf]] — vocals, guitar (founding member)
+- [[Members/P/Phil Caivano]] — guitar (1998–present)
+- [[Members/B/Bob Pantella]] — drums (2003–present)
+- [[Members/C/Chris Kosnik]] — bass (2013–present)
 
 ### Past Members
-- Ed Mundell — guitar (1992–2010)
+- [[Members/E/Ed Mundell]] — guitar (1992–2010)
 
 ## Connections
 

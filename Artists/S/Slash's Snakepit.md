@@ -8,10 +8,11 @@ genre:
 
 **Slash's Snakepit was an American hard rock band formed by [[Members/S/Slash]] in 1994 while on a hiatus from [[Artists/G/Guns N' Roses]], featuring fellow GN'R members and exploring a rawer blues-rock direction.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1995 | *It's Five O'Clock Somewhere* | debut |
-| 2000 | *Ain't Life Grand* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *It's Five O'Clock Somewhere* | 1995 | Jim Mitchell | - |
+| *Ain't Life Grand* | 2000 | - | - |
 
 ## Members
 
