@@ -35,7 +35,7 @@ To-Mera are a British progressive metal and jazz fusion band formed in London in
 
 ## Connections
 
-No confirmed shared-member connections to other vault artists.
+- [[Artists/H/Haken]] – Tom MacLean, Richard Henshall (both also members)
 
 ## Sources
 - Wikipedia

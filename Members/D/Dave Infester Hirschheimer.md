@@ -17,7 +17,7 @@ Dave "Infester" Hirschheimer was a drummer who briefly played for deathgrind ban
 - [[Artists/T/The Rotted]] – drums (1998)
 - [[Artists/I/Infestation]] – drums
 - [[Artists/C/Cradle of Filth]] – drums (touring/session)
-- [[Artists/D/Daken]] – vocals, guitar
+- [[Artists/D/Daken]] – vocals, guitar (founder)
 
 ## Sources
 - Wikipedia: [Gorerotted](https://en.wikipedia.org/wiki/Gorerotted)

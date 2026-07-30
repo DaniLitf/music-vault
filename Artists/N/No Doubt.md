@@ -10,21 +10,25 @@ genre:
 
 **No Doubt are an American rock band formed in Anaheim, California in 1986, fronted by Gwen Stefani, known for their blend of ska, punk, pop, and new wave, who broke through with *Tragic Kingdom* (1995) and its single "Don't Speak."**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1992 | *No Doubt* | debut |
-| 1995 | *Tragic Kingdom* | breakthrough; "Don't Speak," "Just a Girl" |
-| 2000 | *Return of Saturn* | |
-| 2001 | *Rock Steady* | |
-| 2012 | *Push and Shove* | reunion album |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *No Doubt* | 1992 | Dito Montiel | - |
+| *Tragic Kingdom* | 1995 | Matthew Wilder | - |
+| *Return of Saturn* | 2000 | Glen Ballard | - |
+| *Rock Steady* | 2001 | No Doubt | - |
+| *Push and Shove* | 2012 | Mark "Spike" Stent | - |
 
 ## Members
 
 ### Core / Official Members
-- Gwen Stefani — vocals (founding member)
-- Tom Dumont — guitar, keyboards (1988–present)
-- Tony Kanal — bass (1987–present)
-- Adrian Young — drums (1989–present)
+- [[Members/G/Gwen Stefani]] — vocals (founding member)
+- [[Members/T/Tom Dumont]] — guitar, keyboards (1988–present)
+- [[Members/T/Tony Kanal]] — bass (1987–present)
+- [[Members/A/Adrian Young]] — drums (1989–present)
 
 ## Connections
 

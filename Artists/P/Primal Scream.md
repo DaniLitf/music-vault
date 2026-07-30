@@ -1,26 +1,30 @@
 ---
 genre:
-  - Alternative Rock
-  - Indie Rock
+  - Alternative rock
+  - Indie rock
   - Electronic
-  - Acid House
+  - Acid house
 ---
 
 # Primal Scream
 
 **Primal Scream are a Scottish rock band formed in Glasgow in 1982, known for their genre-hopping style that encompassed indie rock, acid house, gospel, and psychedelic rock — epitomized by the landmark *Screamadelica* (1991), which fused rock with rave culture.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1989 | *Sonic Flower Groove* | debut |
-| 1991 | *Screamadelica* | Mercury Prize winner; "Loaded," "Come Together" |
-| 1994 | *Give Out But Don't Give Up* | |
-| 1997 | *Vanishing Point* | |
-| 2000 | *XTRMNTR* | |
-| 2002 | *Evil Heat* | |
-| 2006 | *Riot City Blues* | |
-| 2008 | *Beautiful Future* | |
-| 2013 | *More Light* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Sonic Flower Groove* | 1989 | Stephen Hague | - |
+| *Screamadelica* | 1991 | Andrew Weatherall | - |
+| *Give Out But Don't Give Up* | 1994 | George Clinton | - |
+| *Vanishing Point* | 1997 | Primal Scream | - |
+| *XTRMNTR* | 2000 | Primal Scream | - |
+| *Evil Heat* | 2002 | Kevin Shields | - |
+| *Riot City Blues* | 2006 | Primal Scream | - |
+| *Beautiful Future* | 2008 | Primal Scream | - |
+| *More Light* | 2013 | Primal Scream | - |
 
 ## Members
 

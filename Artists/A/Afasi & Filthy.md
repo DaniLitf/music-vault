@@ -41,8 +41,8 @@ Note: *Snus, Porr & Brännvin* is credited to "Motorisk Afasi & Spakur" (a diffe
 ## Members
 
 ### Core / Official Members
-- [[Members/A/Afasi]] — vocals
-- [[Members/F/Filthy]] — vocals
+- [[Members/H/Herbert Munkhammar]] — vocals, rap (2002–2009, founding member)
+- [[Members/M/Magnus Lidehäll]] — production (2002–2009, founding member)
 
 ## Connections
 

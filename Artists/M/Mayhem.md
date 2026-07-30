@@ -8,27 +8,37 @@ genre:
 
 **Mayhem are a Norwegian black metal band formed in Oslo in 1984, one of the most notorious and influential bands in metal history, central to the Norwegian black metal scene and associated with the church burnings and violence of the early 1990s Norwegian black metal milieu.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1987 | *Deathcrush* | debut EP |
-| 1994 | *De Mysteriis Dom Sathanas* | black metal landmark |
-| 2000 | *Grand Declaration of War* | |
-| 2004 | *Chimera* | |
-| 2007 | *Ordo Ad Chao* | |
-| 2014 | *Esoteric Warfare* | |
-| 2019 | *Daemon* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *De Mysteriis Dom Sathanas* | 1994 | Hellhammer | Grieghallen |
+| *Grand Declaration of War* | 2000 | Mayhem | Los Angeles |
+| *Chimera* | 2004 | Mayhem | Studio Studio |
+| *Ordo Ad Chao* | 2007 | Erik Avdeik | Studio Studio |
+| *Esoteric Warfare* | 2014 | Teloch | NBS Studio |
+| *Daemon* | 2019 | Teloch | NBS Studio |
+
+### EPs
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Deathcrush* | 1987 | Hellhammer | Studio Nord |
 
 ## Members
 
 ### Core / Official Members
-- Necrobutcher (Jørn Stubberud) — bass (1984–1991, 1995–present)
-- Hellhammer (Jan Axel Blomberg) — drums (1988–present; also in [[Artists/D/Dimmu Borgir]])
-- Attila Csihar — vocals (1992–1993, 2004–present)
+- [[Members/N/Necrobutcher]] — bass (1984–1991, 1995–present, founding member)
+- [[Members/H/Hellhammer]] — drums (1988–present; also in [[Artists/D/Dimmu Borgir]])
+- [[Members/A/Attila Csihar]] — vocals (1992–1993, 2004–present)
 
 ### Past Members
-- Euronymous (Øystein Aarseth) — guitar (1984–1993; died 1993)
-- Dead (Per Yngve Ohlin) — vocals (1988–1991; died 1991)
-- Maniac — vocals (1986–1987, 1995–2004)
+- [[Members/E/Euronymous]] — guitar (1984–1993, founding member; died 1993)
+- [[Members/D/Dead]] — vocals (1988–1991; died 1991)
+- [[Members/M/Maniac]] — vocals (1986–1987, 1995–2004)
+- [[Members/R/Rune Eriksen|Blasphemer]] — guitar (also in [[Artists/A/Aura Noir]])
 
 ## Connections
 

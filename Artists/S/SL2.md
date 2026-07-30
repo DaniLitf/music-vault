@@ -9,11 +9,16 @@ genre:
 
 **SL2 were a British breakbeat hardcore duo formed in 1990, best known for the rave classic "On a Ragga Tip" (1992), which reached No. 2 in the UK charts and became one of the definitive tracks of early 1990s rave culture.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1992 | *On a Ragga Tip* | single; UK No. 2 |
-| 1992 | *DJ's Take Control / Way in My Brain* | single |
-| 1993 | *Trance Style!* | debut album |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Trance Style!* | 1993 | SL2 | - |
+
+### Singles
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *On a Ragga Tip* | 1992 | SL2 | - |
+| *DJ's Take Control / Way in My Brain* | 1992 | SL2 | - |
 
 ## Members
 

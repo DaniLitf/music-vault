@@ -9,13 +9,14 @@ genre:
 
 **Shellac were an American post-hardcore band formed in Chicago in 1992 by producer and guitarist [[Members/S/Steve Albini]], one of the most respected and uncompromising acts in underground rock, known for their angular, minimalist approach and Albini's refusal to engage with mainstream music industry practices.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1994 | *At Action Park* | debut |
-| 1996 | *Terraform* | |
-| 2000 | *1000 Hurts* | |
-| 2007 | *Excellent Italian Greyhound* | |
-| 2024 | *To All Trains* | final album; released after Albini's death |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *At Action Park* | 1994 | Steve Albini | - |
+| *Terraform* | 1996 | Steve Albini | - |
+| *1000 Hurts* | 2000 | Steve Albini | - |
+| *Excellent Italian Greyhound* | 2007 | Steve Albini | - |
+| *To All Trains* | 2024 | Steve Albini | - |
 
 ## Members
 

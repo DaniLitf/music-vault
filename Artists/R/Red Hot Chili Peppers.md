@@ -7,22 +7,29 @@ genre:
 
 # Red Hot Chili Peppers
 
-**Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1983, one of the best-selling bands of all time, known for their fusion of funk, punk, psychedelic rock, and hip-hop.**
+**American rock band from Los Angeles. Active 1983–present.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1984 | *Red Hot Chili Peppers* | debut |
-| 1985 | *Freaky Styley* | produced by [[Producers/G/George Clinton]] |
-| 1987 | *The Uplift Mofo Party Plan* | first major commercial success |
-| 1989 | *Mother's Milk* | |
-| 1991 | *Blood Sugar Sex Magik* | breakthrough; produced by Rick Rubin |
-| 1995 | *One Hot Minute* | with Dave Navarro on guitar |
-| 1999 | *Californication* | comeback; massive commercial success |
-| 2002 | *By the Way* | |
-| 2006 | *Stadium Arcadium* | |
-| 2011 | *I'm with You* | |
-| 2016 | *The Getaway* | |
-| 2022 | *Unlimited Love* | John Frusciante returns |
+Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1983, one of the best-selling bands of all time, known for their fusion of funk, punk, psychedelic rock, and hip-hop.
+
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Red Hot Chili Peppers* | 1984 | Andy Gill | El Dorado Studios, Hollywood; Baby'O Recorders, Hollywood |
+| *Freaky Styley* | 1985 | George Clinton |opoly Sound, Hollywood |
+| *The Uplift Mofo Party Plan* | 1987 | Michael Beinhorn | El Dorado Studios, Hollywood |
+| *Mother's Milk* | 1989 | Michael Beinhorn | Ocean Way, Hollywood; Image Studios, Hollywood |
+| *Blood Sugar Sex Magik* | 1991 | Rick Rubin | The Mansion, Los Angeles |
+| *One Hot Minute* | 1995 | Rick Rubin | Sound Factory, Hollywood; Sound City, Van Nuys |
+| *Californication* | 1999 | Rick Rubin | Cello Studios, Hollywood |
+| *By the Way* | 2002 | Rick Rubin | Cello Studios, Hollywood; The Chateau Marmont Hotel, Los Angeles |
+| *Stadium Arcadium* | 2006 | Rick Rubin | The Mansion, Los Angeles; Sound City, Van Nuys |
+| *I'm with You* | 2011 | Rick Rubin | Shangri-La, Malibu; Cello Studios, Hollywood |
+| *The Getaway* | 2016 | Danger Mouse | Shangri-La, Malibu |
+| *Unlimited Love* | 2022 | Rick Rubin | Rock Im Park, Malibu; Sunset Sound, Hollywood |
+| *Return of the Dream Canteen* | 2022 | Rick Rubin | Rock Im Park, Malibu; Sunset Sound, Hollywood |
 
 ## Members
 

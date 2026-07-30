@@ -8,12 +8,21 @@ genre:
 
 **Minenwerfer are an American black metal band formed in 2007, known for their World War I-themed lyrics, raw atmospheric sound, and prolific releases on independent labels.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2009 | *Feuerwalze* | debut EP |
-| 2014 | *Verheerung* | |
-| 2018 | *Alpenpässe* | |
-| 2021 | *Krieg* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Verheerung* | 2014 | Minenwerfer | - |
+| *Alpenpässe* | 2018 | Minenwerfer | - |
+| *Krieg* | 2021 | Minenwerfer | - |
+
+### EPs
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Feuerwalze* | 2009 | Minenwerfer | - |
 
 ## Members
 

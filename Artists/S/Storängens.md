@@ -7,9 +7,9 @@ genre:
 
 **Storängens is a Swedish music project.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| TBD | *TBD* | |
+### Studio Albums
+
+*Discography to be completed.*
 
 ## Members
 

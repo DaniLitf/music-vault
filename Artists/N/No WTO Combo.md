@@ -8,9 +8,13 @@ genre:
 
 **No WTO Combo were an American punk supergroup formed in 1999 to protest the World Trade Organization ministerial conference in Seattle, featuring Jello Biafra of Dead Kennedys, Krist Novoselic of Nirvana, Kim Thayil of Soundgarden, and drummer Gina Mainwal.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2000 | *Live from the Battle in Seattle* | sole release; live album |
+## Discography
+
+### Live Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Live from the Battle in Seattle* | 2000 | No WTO Combo | - |
 
 ## Members
 
@@ -18,7 +22,7 @@ genre:
 - [[Members/J/Jello Biafra]] — vocals (also in [[Artists/D/Dead Kennedys]])
 - [[Members/K/Krist Novoselic]] — bass (also in [[Artists/N/Nirvana]])
 - [[Members/K/Kim Thayil]] — guitar (also in [[Artists/S/Soundgarden]])
-- Gina Mainwal — drums
+- [[Members/G/Gina Mainwal]] — drums
 
 ## Connections
 

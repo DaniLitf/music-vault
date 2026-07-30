@@ -1,27 +1,31 @@
 ---
 genre:
-  - Post-Punk
-  - Alternative Rock
-  - Experimental Rock
+  - Post-punk
+  - Alternative rock
+  - Experimental rock
 ---
 
 # Public Image Ltd
 
 **Public Image Ltd (PiL) are an English post-punk band formed in London in 1978 by [[Members/J/John Lydon]] after the dissolution of the [[Artists/S/Sex Pistols]], initially exploring abrasive, avant-garde territory before broadening their sound through the 1980s.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1978 | *First Issue* | debut |
-| 1979 | *Metal Box* | landmark post-punk/experimental album |
-| 1981 | *The Flowers of Romance* | |
-| 1984 | *This Is What You Want... This Is What You Get* | |
-| 1986 | *Album* | |
-| 1987 | *Happy?* | |
-| 1989 | *9* | |
-| 1992 | *That What Is Not* | |
-| 2012 | *This Is PiL* | reunion |
-| 2015 | *What the World Needs Now...* | |
-| 2023 | *End of World* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *First Issue* | 1978 | Public Image Ltd | - |
+| *Metal Box* | 1979 | Public Image Ltd | - |
+| *The Flowers of Romance* | 1981 | Public Image Ltd | - |
+| *This Is What You Want... This Is What You Get* | 1984 | Bob Thein | - |
+| *Album* | 1986 | Gibson | - |
+| *Happy?* | 1987 | Clive Langer | - |
+| *9* | 1989 | Andy Richards | - |
+| *That What Is Not* | 1992 | Dave McDonald | - |
+| *This Is PiL* | 2012 | Public Image Ltd | - |
+| *What the World Needs Now...* | 2015 | Public Image Ltd | - |
+| *End of World* | 2023 | Public Image Ltd | - |
 
 ## Members
 

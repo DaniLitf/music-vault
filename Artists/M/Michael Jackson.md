@@ -12,15 +12,19 @@ genre:
 
 Michael Jackson is a solo artist. See [[Members/M/Michael Jackson]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1972 | *Got to Be There* | debut solo album |
-| 1979 | *Off the Wall* | adult breakthrough |
-| 1982 | *Thriller* | best-selling album in history |
-| 1987 | *Bad* | |
-| 1991 | *Dangerous* | |
-| 1995 | *HIStory: Past, Present and Future, Book I* | |
-| 2001 | *Invincible* | final studio album |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Got to Be There* | 1972 | Bobby Taylor | - |
+| *Off the Wall* | 1979 | Quincy Jones | - |
+| *Thriller* | 1982 | Quincy Jones | - |
+| *Bad* | 1987 | Quincy Jones | - |
+| *Dangerous* | 1991 | Teddy Riley | - |
+| *HIStory: Past, Present and Future, Book I* | 1995 | Teddy Riley | - |
+| *Invincible* | 2001 | Rodney Jerkins | - |
 
 ## Members
 

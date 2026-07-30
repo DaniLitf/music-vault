@@ -9,9 +9,12 @@ genre:
 
 **The Brighton Port Authority (BPA) is an electronic music project by [[Members/N/Norman Cook]] ([[Artists/F/Fatboy Slim]]), featuring various guest vocalists including David Byrne, Iggy Pop, and others, released through Southern Fried Records.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2009 | *I Think We're Gonna Need a Bigger Boat* | sole album; various guest vocalists |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *I Think We're Gonna Need a Bigger Boat* | 2009 | Norman Cook | Southern Fried, Brighton |
 
 ## Members
 

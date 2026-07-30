@@ -9,23 +9,27 @@ genre:
 
 **Mr. Bungle are an American experimental rock band formed in Eureka, California in 1985, led by Mike Patton (also of Faith No More) alongside Trey Spruance and Trevor Dunn, known for their genre-defying style that shifts wildly between metal, jazz, funk, ska, and carnival music within individual songs.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1991 | *Mr. Bungle* | debut; produced by John Zorn |
-| 1995 | *Disco Volante* | most experimental |
-| 1999 | *California* | |
-| 2020 | *The Raging Wrath of the Easter Bunny Demo* | re-recording of 1986 demo |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Mr. Bungle* | 1991 | John Zorn | - |
+| *Disco Volante* | 1995 | John Zorn | - |
+| *California* | 1999 | John Zorn | - |
+| *The Raging Wrath of the Easter Bunny Demo* | 2020 | Mr. Bungle | - |
 
 ## Members
 
 ### Core / Official Members
 - [[Members/M/Mike Patton]] — vocals (also in [[Artists/F/Faith No More]], [[Artists/F/Fantômas]])
-- Trey Spruance — guitar, keyboards
-- Trevor Dunn — bass
+- [[Members/T/Trey Spruance]] — guitar, keyboards (founding member)
+- [[Members/T/Trevor Dunn]] — bass (founding member)
 - [[Members/D/Dave Lombardo]] — drums (touring 2019–present; also in [[Artists/S/Slayer]], [[Artists/F/Fantômas]])
 
 ### Past Members
-- Danny Heifetz — drums (1985–2004)
+- [[Members/D/Danny Heifetz]] — drums (1988–2000)
 
 ## Connections
 

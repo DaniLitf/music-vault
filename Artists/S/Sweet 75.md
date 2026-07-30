@@ -8,9 +8,10 @@ genre:
 
 **Sweet 75 were an American rock band formed in 1995 by [[Members/K/Krist Novoselic]] of [[Artists/N/Nirvana]] alongside Venezuelan vocalist Yva Las Vegass, exploring eclectic, genre-blending territory after Nirvana's dissolution.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1997 | *Sweet 75* | sole album |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Sweet 75* | 1997 | Yva Las Vegass, Bill Rieflin | - |
 
 ## Members
 

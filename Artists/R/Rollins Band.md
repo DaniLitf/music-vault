@@ -7,17 +7,24 @@ genre:
 
 # Rollins Band
 
-**Rollins Band were an American rock band formed in Los Angeles in 1987 by [[Members/H/Henry Rollins]], who had previously served as the vocalist of [[Artists/B/Black Flag]], channeling that band's aggression into a more polished post-hardcore and alternative metal sound.**
+**American rock band from Los Angeles. Active 1987–2003, 2006–2007.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1987 | *Hot Animal Machine* | debut |
-| 1989 | *Do It* | |
-| 1992 | *The End of Silence* | |
-| 1994 | *Weight* | commercial peak; "Liar" |
-| 1996 | *Come In and Burn* | |
-| 2001 | *Nice* | reunion |
-| 2006 | *A Clockwork Orange Stage* | final studio album |
+Rollins Band were an American rock band formed in Los Angeles in 1987 by [[Members/H/Henry Rollins]], who had previously served as the vocalist of [[Artists/B/Black Flag]], channeling that band's aggression into a more polished post-hardcore and alternative metal sound.
+
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Life Time* | 1987 | | |
+| *Do It* | 1988 | | |
+| *Hard Volume* | 1989 | | |
+| *The End of Silence* | 1992 | Andy Wallace | Showplace Studios, Dover |
+| *Weight* | 1994 | Theo Van Rock | |
+| *Come In and Burn* | 1997 | Steve Thompson | Bearsville Studios, Woodstock; Sorcerer Sound, New York City |
+| *Get Some Go Again* | 2000 | | |
+| *Nice* | 2001 | | |
 
 ## Members
 

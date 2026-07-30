@@ -12,11 +12,15 @@ genre:
 
 Lorde is a solo artist. See [[Members/L/Lorde]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2013 | *Pure Heroine* | debut; "Royals" (US #1) |
-| 2017 | *Melodrama* | critical peak |
-| 2021 | *Solar Power* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Pure Heroine* | 2013 | Joel Little | - |
+| *Melodrama* | 2017 | Jack Antonoff, Lorde | - |
+| *Solar Power* | 2021 | Jack Antonoff, Lorde | - |
 
 ## Members
 

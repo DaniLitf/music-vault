@@ -1,5 +1,5 @@
 ---
-real_name:
+real_name: Christopher Robin Aylmer
 also_known_as:
 birth_date: 1948-02-07
 death_date: 2007-01-09

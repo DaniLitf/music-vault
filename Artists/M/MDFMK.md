@@ -8,17 +8,21 @@ genre:
 
 **MDFMK were a short-lived American industrial metal band formed in 1999 by Sascha Konietzko and Tim Skold of KMFDM together with vocalist Lucia Cifarelli, active during KMFDM's hiatus and effectively a continuation of that band's lineup.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2000 | *MDFMK* | sole album |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *MDFMK* | 2000 | Sascha Konietzko | - |
 
 ## Members
 
 ### Core / Official Members
-- Sascha Konietzko — bass, keyboards (also in [[Artists/K/KMFDM]])
-- Lucia Cifarelli — vocals (also in [[Artists/K/KMFDM]])
+- [[Members/S/Sascha Konietzko]] — bass, keyboards (also in [[Artists/K/KMFDM]])
+- [[Members/L/Lucia Cifarelli]] — vocals (also in [[Artists/K/KMFDM]])
 - [[Members/T/Tim Skold]] — guitar, vocals (also in [[Artists/K/KMFDM]])
-- Andy Selway — drums
+- [[Members/A/Andy Selway]] — drums
 
 ## Connections
 

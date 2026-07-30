@@ -8,9 +8,10 @@ genre:
 
 **Spiralarms is a Swedish rock band.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2001 | *Spiralarms* | debut |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Spiralarms* | 2001 | - | - |
 
 ## Members
 

@@ -9,23 +9,27 @@ genre:
 
 **Ministry are an American industrial metal band formed in Chicago in 1981 by Al Jourgensen, who transformed the band from a synth-pop act into one of the most influential industrial metal bands in history, known for landmark albums like *Psalm 69* (1992) and their impact on Nine Inch Nails and countless others.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1983 | *With Sympathy* | debut; synth-pop |
-| 1986 | *Twitch* | transition to industrial |
-| 1988 | *The Land of Rape and Honey* | industrial metal landmark |
-| 1989 | *The Mind Is a Terrible Thing to Taste* | |
-| 1992 | *Psalm 69* | commercial and critical peak |
-| 1996 | *Filth Pig* | |
-| 1999 | *Dark Side of the Spoon* | |
-| 2004 | *Houses of the Molé* | |
-| 2006 | *Rio Grande Blood* | |
-| 2007 | *The Last Sucker* | "final" album |
-| 2012 | *Relapse* | reunion |
-| 2013 | *From Beer to Eternity* | |
-| 2018 | *AmeriKKKant* | |
-| 2021 | *Moral Hygiene* | |
-| 2023 | *HOPIUMFORTHEMASSES* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *With Sympathy* | 1983 | Ian Taylor | - |
+| *Twitch* | 1986 | Al Jourgensen, Adrian Sherwood | - |
+| *The Land of Rape and Honey* | 1988 | Al Jourgensen | - |
+| *The Mind Is a Terrible Thing to Taste* | 1989 | Al Jourgensen | - |
+| *Psalm 69* | 1992 | Al Jourgensen | - |
+| *Filth Pig* | 1996 | Al Jourgensen | - |
+| *Dark Side of the Spoon* | 1999 | Al Jourgensen | - |
+| *Houses of the Molé* | 2004 | Al Jourgensen | - |
+| *Rio Grande Blood* | 2006 | Al Jourgensen | - |
+| *The Last Sucker* | 2007 | Al Jourgensen | - |
+| *Relapse* | 2012 | Al Jourgensen | - |
+| *From Beer to Eternity* | 2013 | Al Jourgensen | - |
+| *AmeriKKKant* | 2018 | Al Jourgensen | - |
+| *Moral Hygiene* | 2021 | Al Jourgensen | - |
+| *HOPIUMFORTHEMASSES* | 2023 | Al Jourgensen | - |
 
 ## Members
 
@@ -35,7 +39,7 @@ genre:
 
 ### Past Members
 - [[Members/B/Bill Rieflin]] — drums (1988–1995; died 2020)
-- Mike Scaccia — guitar (1990–2012; died 2012)
+- [[Members/M/Mike Scaccia]] — guitar (1990–2012; died 2012)
 
 ## Connections
 

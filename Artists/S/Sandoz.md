@@ -10,13 +10,14 @@ genre:
 
 **Sandoz is a British electronic music project by [[Members/R/Richard H. Kirk]], best known as a founding member of [[Artists/C/Cabaret Voltaire]], releasing abstract techno and ambient electronic music through Wax Trax! and other labels.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1994 | *Dark Continent* | debut |
-| 1994 | *Digital Lifeforms* | |
-| 1995 | *Intensified Frequency* | |
-| 1996 | *Cauldron* | |
-| 1997 | *Waterfalls* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Dark Continent* | 1994 | Richard H. Kirk | - |
+| *Digital Lifeforms* | 1994 | Richard H. Kirk | - |
+| *Intensified Frequency* | 1995 | Richard H. Kirk | - |
+| *Cauldron* | 1996 | Richard H. Kirk | - |
+| *Waterfalls* | 1997 | Richard H. Kirk | - |
 
 ## Members
 

@@ -10,20 +10,25 @@ genre:
 
 **Squarepusher is a British electronic musician and producer born Tom Jenkinson on January 17, 1975, known for his technically complex, fast-evolving drum and bass and IDM compositions that frequently showcase live bass guitar playing.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1996 | *Feed Me Weird Things* | debut; Warp Records |
-| 1997 | *Hard Normal Daddy* | |
-| 1998 | *Music Is Rotted One Note* | |
-| 1998 | *Budakhan Mindphone* | EP |
-| 2001 | *Do You Know Squarepusher* | |
-| 2002 | *Go Plastic* | |
-| 2004 | *Ultravisitor* | |
-| 2006 | *Hello Everything* | |
-| 2009 | *Just a Souvenir* | |
-| 2012 | *Ufabulum* | |
-| 2015 | *Damogen Furies* | |
-| 2020 | *Be Up a Hello* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Feed Me Weird Things* | 1996 | Squarepusher | - |
+| *Hard Normal Daddy* | 1997 | Squarepusher | - |
+| *Music Is Rotted One Note* | 1998 | Squarepusher | - |
+| *Do You Know Squarepusher* | 2001 | Squarepusher | - |
+| *Go Plastic* | 2002 | Squarepusher | - |
+| *Ultravisitor* | 2004 | Squarepusher | - |
+| *Hello Everything* | 2006 | Squarepusher | - |
+| *Just a Souvenir* | 2009 | Squarepusher | - |
+| *Ufabulum* | 2012 | Squarepusher | - |
+| *Damogen Furies* | 2015 | Squarepusher | - |
+| *Be Up a Hello* | 2020 | Squarepusher | - |
+
+### EPs
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Budakhan Mindphone* | 1998 | Squarepusher | - |
 
 ## Members
 

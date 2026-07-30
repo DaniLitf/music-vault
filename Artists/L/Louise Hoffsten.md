@@ -11,16 +11,25 @@ genre:
 
 Louise Hoffsten is a solo artist. See [[Members/L/Louise Hoffsten]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1988 | *More Than This* | debut album |
-| 1990 | *All I Need* | |
-| 1992 | *Too Hot to Handle* | |
-| 1995 | *Hoffsten* | |
-| 1999 | *Soul Vibe* | |
-| 2003 | *Alive!* | live album |
-| 2007 | *Seven Year Itch* | |
-| 2013 | *All I Need* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *More Than This* | 1988 | - | - |
+| *All I Need* | 1990 | - | - |
+| *Too Hot to Handle* | 1992 | - | - |
+| *Hoffsten* | 1995 | - | - |
+| *Soul Vibe* | 1999 | - | - |
+| *Seven Year Itch* | 2007 | - | - |
+| *All I Need* | 2013 | - | - |
+
+### Live Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Alive!* | 2003 | - | - |
 
 ## Members
 

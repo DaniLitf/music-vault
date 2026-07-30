@@ -9,19 +9,23 @@ genre:
 
 **Liquid Tension Experiment (LTE) are an American instrumental progressive metal supergroup formed in 1997, featuring John Petrucci, Jordan Rudess, and Mike Portnoy of Dream Theater alongside Tony Levin of King Crimson.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1998 | *Liquid Tension Experiment* | debut album |
-| 1999 | *Liquid Tension Experiment 2* | |
-| 2021 | *LTE3* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Liquid Tension Experiment* | 1998 | Liquid Tension Experiment | The Hit Factory |
+| *Liquid Tension Experiment 2* | 1999 | Liquid Tension Experiment | The Hit Factory |
+| *LTE3* | 2021 | Liquid Tension Experiment | - |
 
 ## Members
 
 ### Core / Official Members
-- John Petrucci — guitar (also in [[Artists/D/Dream Theater]])
-- Jordan Rudess — keyboards (also in [[Artists/D/Dream Theater]])
+- [[Members/J/John Petrucci]] — guitar (also in [[Artists/D/Dream Theater]])
+- [[Members/J/Jordan Rudess]] — keyboards (also in [[Artists/D/Dream Theater]])
 - [[Members/M/Mike Portnoy]] — drums (also in [[Artists/D/Dream Theater]])
-- Tony Levin — bass (also in [[Artists/K/King Crimson]])
+- [[Members/T/Tony Levin]] — bass (also in [[Artists/K/King Crimson]])
 
 ## Connections
 

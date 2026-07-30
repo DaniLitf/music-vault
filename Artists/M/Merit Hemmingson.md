@@ -11,11 +11,15 @@ genre:
 
 Merit Hemmingson is a solo artist. See [[Members/M/Merit Hemmingson]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1972 | *Spelmansglädje* | debut album |
-| 1973 | *Visa från Utanmyra* | |
-| 1974 | *Lördagsdansen* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Spelmansglädje* | 1972 | Merit Hemmingson | - |
+| *Visa från Utanmyra* | 1973 | Merit Hemmingson | - |
+| *Lördagsdansen* | 1974 | Merit Hemmingson | - |
 
 ## Members
 

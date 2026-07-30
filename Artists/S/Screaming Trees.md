@@ -9,15 +9,16 @@ genre:
 
 **Screaming Trees were an American grunge and psychedelic rock band formed in Ellensburg, Washington in 1985, one of the early architects of the Pacific Northwest alternative rock scene, fronted by [[Members/M/Mark Lanegan]]'s deep, gravelly baritone.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1985 | *Other Worlds* | debut |
-| 1987 | *Even If and Especially When* | |
-| 1988 | *Invisible Lantern* | |
-| 1989 | *Buzz Factory* | |
-| 1991 | *Uncle Anesthesia* | |
-| 1992 | *Sweet Oblivion* | commercial peak; "Nearly Lost You" |
-| 1996 | *Dust* | final album |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Other Worlds* | 1985 | - | - |
+| *Even If and Especially When* | 1987 | - | - |
+| *Invisible Lantern* | 1988 | - | - |
+| *Buzz Factory* | 1989 | - | - |
+| *Uncle Anesthesia* | 1991 | Chris Cornell | - |
+| *Sweet Oblivion* | 1992 | Barrett Martin | - |
+| *Dust* | 1996 | George Peek | - |
 
 ## Members
 

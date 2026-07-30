@@ -11,16 +11,20 @@ genre:
 
 Lita Ford is a solo artist. See [[Members/L/Lita Ford]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1983 | *Out for Blood* | debut solo album |
-| 1984 | *Dancin' on the Edge* | |
-| 1988 | *Lita* | commercial peak; "Kiss Me Deadly" |
-| 1990 | *Stiletto* | |
-| 1991 | *Dangerous Curves* | |
-| 1995 | *Black* | |
-| 2009 | *Wicked Wonderland* | comeback |
-| 2012 | *Living Like a Runaway* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Out for Blood* | 1983 | Thom Panunzio | - |
+| *Dancin' on the Edge* | 1984 | Jon Bon Jovi | - |
+| *Lita* | 1988 | Beau Hill | - |
+| *Stiletto* | 1990 | Michael Wagener | - |
+| *Dangerous Curves* | 1991 | Michael Wagener | - |
+| *Black* | 1995 | Lita Ford | - |
+| *Wicked Wonderland* | 2009 | Lita Ford, Greg Hampton | - |
+| *Living Like a Runaway* | 2012 | Lita Ford, Greg Hampton | - |
 
 ## Members
 

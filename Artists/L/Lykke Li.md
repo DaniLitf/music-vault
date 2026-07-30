@@ -1,21 +1,27 @@
 ---
 genre:
-  - Indie Pop
-  - Dream Pop
-  - Art Pop
+  - Indie pop
+  - Dream pop
+  - Art pop
 ---
 
 # Lykke Li
 
-**Lykke Li (born 1986-03-18) is a Swedish singer-songwriter from Ystad, known for her emotionally raw indie pop that blends minimalist production with dramatic, heart-on-sleeve songwriting.**
+**Swedish singer-songwriter. Born 18 March 1986.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2008 | *Youth Novels* | debut; breakthrough |
-| 2011 | *Wounded Rhymes* | darker, fuller sound |
-| 2014 | *I Never Learn* | piano-led breakup album |
-| 2018 | *so sad so sexy* | R&B/trap influences |
-| 2022 | *EYJA* | |
+Lykke Li (born Li Lykke Timotej Zachrisson) is a Swedish singer-songwriter from Ystad, known for her emotionally raw indie pop that blends minimalist production with dramatic, heart-on-sleeve songwriting.
+
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Youth Novels* | 2008 | Björn Yttling | - |
+| *Wounded Rhymes* | 2011 | Björn Yttling | - |
+| *I Never Learn* | 2014 | Lykke Li, Greg Kurstin | - |
+| *so sad so sexy* | 2018 | Jeff Bhasker, DJ Dahi | - |
+| *EYJA* | 2022 | Lykke Li | - |
 
 ## Members
 

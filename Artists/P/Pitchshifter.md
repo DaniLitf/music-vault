@@ -1,22 +1,26 @@
 ---
 genre:
-  - Industrial Metal
-  - Industrial Rock
-  - Drum and Bass
+  - Industrial metal
+  - Industrial rock
+  - Drum and bass
 ---
 
 # Pitchshifter
 
 **Pitchshifter are an English industrial metal band formed in Nottingham in 1989, who evolved from a brutal death/grind sound toward a more electronic, drum-and-bass-influenced industrial rock style across the 1990s.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1991 | *Industrial* | debut; extreme metal |
-| 1993 | *Submit* | |
-| 1994 | *Desensitized* | transition to industrial |
-| 1996 | *Infotainment?* | commercial breakthrough |
-| 1998 | *www.pitchshifter.com* | |
-| 2000 | *Deviant* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Industrial* | 1991 | Pitchshifter | - |
+| *Submit* | 1993 | Pitchshifter | - |
+| *Desensitized* | 1994 | Pitchshifter | - |
+| *Infotainment?* | 1996 | Pitchshifter | - |
+| *www.pitchshifter.com* | 1998 | Pitchshifter | - |
+| *Deviant* | 2000 | Pitchshifter | - |
 
 ## Members
 

@@ -9,12 +9,13 @@ genre:
 
 **Slick Idiot is an American industrial rock band formed in 2001 by [[Members/E/En Esch]] and Günter Schulz after both departed from [[Artists/K/KMFDM]], continuing the aggressive electronic-metal sound of their former band.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2002 | *F#ck U* | debut |
-| 2004 | *Stupideology* | |
-| 2006 | *DEvantgarde* | |
-| 2013 | *SIC* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *F#ck U* | 2002 | - | - |
+| *Stupideology* | 2004 | - | - |
+| *DEvantgarde* | 2006 | - | - |
+| *SIC* | 2013 | - | - |
 
 ## Members
 

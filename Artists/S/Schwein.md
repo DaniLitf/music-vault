@@ -9,9 +9,10 @@ genre:
 
 **Schwein was a collaborative industrial project formed in 2003 by [[Members/S/Sascha Konietzko]] of [[Artists/K/KMFDM]] and members of Japanese visual kei rock band [[Artists/B/Buck-Tick]], combining German industrial with Japanese rock.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2003 | *We Are Schwein* | sole album |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *We Are Schwein* | 2003 | Sascha Konietzko | - |
 
 ## Members
 

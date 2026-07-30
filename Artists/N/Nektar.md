@@ -1,26 +1,35 @@
 ---
 genre:
-  - Progressive Rock
-  - Space Rock
-  - Psychedelic Rock
+  - Progressive rock
+  - Space rock
+  - Psychedelic rock
 ---
 
 # Nektar
 
 **Nektar are a British progressive rock band formed in Hamburg, Germany in 1969, known for their conceptual, space rock-influenced sound and live light shows, particularly the landmark album *Remember the Future* (1973).**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1971 | *Journey to the Centre of the Eye* | debut |
-| 1972 | *A Tab in the Ocean* | |
-| 1973 | *...Sounds Like This* | live double album |
-| 1973 | *Remember the Future* | most celebrated album |
-| 1974 | *Down to Earth* | US breakthrough |
-| 1975 | *Recycled* | concept album |
-| 1977 | *Magic Is a Child* | |
-| 2002 | *Evolution* | reunion |
-| 2012 | *Time Machine* | |
-| 2020 | *The Other Side* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Journey to the Centre of the Eye* | 1971 | Nektar | - |
+| *A Tab in the Ocean* | 1972 | Nektar | - |
+| *Remember the Future* | 1973 | Nektar | - |
+| *Down to Earth* | 1974 | Nektar | - |
+| *Recycled* | 1975 | Nektar | - |
+| *Magic Is a Child* | 1977 | Nektar | - |
+| *Evolution* | 2002 | Nektar | - |
+| *Time Machine* | 2012 | Nektar | - |
+| *The Other Side* | 2020 | Nektar | - |
+
+### Live Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *...Sounds Like This* | 1973 | Nektar | - |
 
 ## Members
 

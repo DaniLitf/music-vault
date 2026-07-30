@@ -9,15 +9,16 @@ genre:
 
 **Stone Temple Pilots are an American rock band formed in San Diego, California in 1989, one of the most commercially successful bands of the 1990s alternative rock boom, fronted by the charismatic and troubled [[Members/S/Scott Weiland]].**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1992 | *Core* | debut; "Plush," "Creep" |
-| 1994 | *Purple* | commercial peak; US No. 1 |
-| 1996 | *Tiny Music... Songs from the Vatican Gift Shop* | |
-| 1999 | *No. 4* | |
-| 2001 | *Shangri-La Dee Da* | |
-| 2010 | *Stone Temple Pilots* | reunion album |
-| 2018 | *Stone Temple Pilots* | with Jeff Gutt on vocals |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Core* | 1992 | Brendan O'Brien | - |
+| *Purple* | 1994 | Brendan O'Brien | - |
+| *Tiny Music... Songs from the Vatican Gift Shop* | 1996 | Brendan O'Brien | - |
+| *No. 4* | 1999 | Brendan O'Brien | - |
+| *Shangri-La Dee Da* | 2001 | Brendan O'Brien | - |
+| *Stone Temple Pilots* | 2010 | Don Was | - |
+| *Stone Temple Pilots* | 2018 | - | - |
 
 ## Members
 

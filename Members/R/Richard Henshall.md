@@ -15,8 +15,8 @@ Richard "Hen" Henshall is an English progressive metal multi-instrumentalist, cl
 ## Associated Artists
 
 - [[Artists/T/To-Mera]] – keyboards (2007–2012)
-- [[Artists/H/Haken]] – guitar (founding member)
-- [[Artists/N/Nova Collective]] – guitar, keyboards (2014–)
+- [[Artists/H/Haken]] – guitar, keyboards (2007–present, founding member)
+- [[Artists/N/Nova Collective]] – guitar (2014–present, founding member)
 
 ## Sources
 - [Wikipedia: Richard Henshall](https://en.wikipedia.org/wiki/Richard_Henshall)

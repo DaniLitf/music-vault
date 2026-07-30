@@ -12,12 +12,16 @@ genre:
 
 Lily Allen is a solo artist. See [[Members/L/Lily Allen]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2006 | *Alright, Still* | debut; "Smile," "LDN" |
-| 2009 | *It's Not Me, It's You* | "The Fear," "22" |
-| 2014 | *Sheezus* | |
-| 2018 | *No Shame* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Alright, Still* | 2006 | Greg Kurstin, Pablo Cook, George Astasio | - |
+| *It's Not Me, It's You* | 2009 | Greg Kurstin | - |
+| *Sheezus* | 2014 | Greg Kurstin, DJ Dahi, Lil Silva | - |
+| *No Shame* | 2018 | Greg Kurstin, Mark Ronson, Chase B | - |
 
 ## Members
 

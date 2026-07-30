@@ -1,17 +1,21 @@
 ---
 genre:
-  - Rap Rock
-  - Alternative Metal
-  - Hardcore Rap
+  - Rap rock
+  - Alternative metal
+  - Hardcore rap
 ---
 
 # Prophets of Rage
 
 **Prophets of Rage were an American rap rock supergroup formed in 2016, uniting the rhythm section and guitarist of [[Artists/R/Rage Against the Machine]] with vocalists Chuck D and DJ Lord of [[Artists/P/Public Enemy]] and B-Real of Cypress Hill.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2017 | *Prophets of Rage* | sole album |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Prophets of Rage* | 2017 | Prophets of Rage | - |
 
 ## Members
 

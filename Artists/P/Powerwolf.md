@@ -1,23 +1,27 @@
 ---
 genre:
-  - Power Metal
-  - Heavy Metal
+  - Power metal
+  - Heavy metal
 ---
 
 # Powerwolf
 
 **Powerwolf are a German power metal band formed in 2003 in Saarbrücken, known for their theatrical blend of power metal with church organ, religious iconography, and werewolf mythology.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2005 | *Return in Bloodred* | debut |
-| 2007 | *Lupus Dei* | |
-| 2009 | *Bible of the Beast* | |
-| 2011 | *Blood of the Saints* | |
-| 2013 | *Preachers of the Night* | |
-| 2015 | *Blessed & Possessed* | |
-| 2018 | *The Sacrament of Sin* | |
-| 2021 | *Call of the Wild* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Return in Bloodred* | 2005 | Powerwolf | - |
+| *Lupus Dei* | 2007 | Powerwolf | - |
+| *Bible of the Beast* | 2009 | Powerwolf | - |
+| *Blood of the Saints* | 2011 | Powerwolf | - |
+| *Preachers of the Night* | 2013 | Powerwolf | - |
+| *Blessed & Possessed* | 2015 | Powerwolf | - |
+| *The Sacrament of Sin* | 2018 | Powerwolf | - |
+| *Call of the Wild* | 2021 | Powerwolf | - |
 
 ## Members
 

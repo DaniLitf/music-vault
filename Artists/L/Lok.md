@@ -8,9 +8,13 @@ genre:
 
 **Lok are a Swedish heavy metal band formed in 1996, releasing a self-titled debut album in 1999.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1999 | *Lok* | debut album |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Lok* | 1999 | - | - |
 
 ## Members
 

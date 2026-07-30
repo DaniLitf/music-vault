@@ -9,12 +9,19 @@ genre:
 
 **The Birthday Party were an Australian post-punk band formed in Melbourne in 1977, fronted by [[Members/N/Nick Cave]], whose violently intense, dark sound proved hugely influential on gothic rock and post-punk — before disbanding in 1983 and giving way to Nick Cave and the Bad Seeds.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1980 | *The Birthday Party* | debut; as The Boys Next Door |
-| 1981 | *Prayers on Fire* | |
-| 1982 | *Junkyard* | |
-| 1983 | *The Bad Seed* | EP; final release |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The Birthday Party* | 1980 | The Boys Next Door | AAV, Melbourne |
+| *Prayers on Fire* | 1981 | Tony Cohen | AAV, Melbourne |
+| *Junkyard* | 1982 | Tony Cohen, Richard Mazda | AAV, Melbourne |
+
+### EPs
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *The Bad Seed* | 1983 | The Birthday Party | London |
 
 ## Members
 

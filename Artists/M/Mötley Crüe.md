@@ -9,17 +9,21 @@ genre:
 
 **Mötley Crüe are an American glam metal band formed in Los Angeles in 1981, one of the best-selling rock acts of all time, known for their hedonistic lifestyle, theatrical live shows, and hits like "Dr. Feelgood," "Shout at the Devil," and "Girls, Girls, Girls."**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1981 | *Too Fast for Love* | debut; self-released |
-| 1983 | *Shout at the Devil* | breakthrough |
-| 1985 | *Theatre of Pain* | |
-| 1987 | *Girls, Girls, Girls* | |
-| 1989 | *Dr. Feelgood* | commercial peak |
-| 1994 | *Mötley Crüe* | with John Corabi |
-| 1997 | *Generation Swine* | |
-| 2000 | *New Tattoo* | |
-| 2008 | *Saints of Los Angeles* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Too Fast for Love* | 1981 | Mötley Crüe | - |
+| *Shout at the Devil* | 1983 | Tom Werman | - |
+| *Theatre of Pain* | 1985 | Tom Werman | - |
+| *Girls, Girls, Girls* | 1987 | Tom Werman | - |
+| *Dr. Feelgood* | 1989 | Bob Rock | - |
+| *Mötley Crüe* | 1994 | Scott Humphrey | - |
+| *Generation Swine* | 1997 | Scott Humphrey | - |
+| *New Tattoo* | 2000 | Mike Clink | - |
+| *Saints of Los Angeles* | 2008 | James Michael | - |
 
 ## Members
 

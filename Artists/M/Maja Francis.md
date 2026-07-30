@@ -1,18 +1,24 @@
 ---
 genre:
   - Pop
-  - Swedish Pop
-  - Indie Pop
+  - Swedish pop
+  - Indie pop
 ---
 
 # Maja Francis
 
-**Maja Francis is a Swedish pop singer-songwriter from Gothenburg, known for her powerful vocals and soul-influenced pop, who competed in Melodifestivalen 2014.**
+**Swedish pop singer-songwriter. Active 2013–present.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2013 | *Out Loud* | debut album |
-| 2016 | *Damage* | |
+Maja Francis is a Swedish pop singer-songwriter from Gothenburg, known for her powerful vocals and soul-influenced pop, who competed in Melodifestivalen 2014.
+
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Out Loud* | 2013 | - | - |
+| *Damage* | 2016 | - | - |
 
 ## Members
 

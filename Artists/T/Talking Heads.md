@@ -11,16 +11,17 @@ genre:
 
 **Talking Heads were an American new wave band formed in New York City in 1975, one of the most critically acclaimed bands of the post-punk era, known for blending punk, art rock, funk, and world music — and for their landmark collaboration with producer Brian Eno.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1977 | *Talking Heads: 77* | debut |
-| 1978 | *More Songs About Buildings and Food* | produced by Brian Eno |
-| 1979 | *Fear of Music* | produced by Brian Eno |
-| 1980 | *Remain in Light* | produced by Brian Eno; "Once in a Lifetime" |
-| 1983 | *Speaking in Tongues* | "Burning Down the House" |
-| 1985 | *Little Creatures* | |
-| 1986 | *True Stories* | |
-| 1988 | *Naked* | final studio album |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Talking Heads: 77* | 1977 | Tony Bongiovi, Lance Quinn | Sarm Studios, London |
+| *More Songs About Buildings and Food* | 1978 | Brian Eno, Talking Heads | Compass Point Studios, Bahamas; The Hit Factory, NYC |
+| *Fear of Music* | 1979 | Brian Eno, Talking Heads | The Hit Factory, NYC; RPM Studios, NYC |
+| *Remain in Light* | 1980 | Brian Eno | Compass Point Studios, Bahamas; Sigma Sound, NYC |
+| *Speaking in Tongues* | 1983 | Talking Heads | Blank Tapes Studio, NYC; Sigma Sound, NYC |
+| *Little Creatures* | 1985 | Talking Heads | Sigma Sound, NYC; RPM Studios, NYC |
+| *True Stories* | 1986 | Talking Heads, Steve Lillywhite | Sigma Sound, NYC; RPM Studios, NYC |
+| *Naked* | 1988 | Talking Heads, Steve Lillywhite, Eric Thorngren | Studio Davout, Paris; The Hit Factory, London |
 
 ## Members
 

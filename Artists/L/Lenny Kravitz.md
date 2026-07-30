@@ -12,21 +12,25 @@ genre:
 
 Lenny Kravitz is a solo artist. See [[Members/L/Lenny Kravitz]] for biography.
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1989 | *Let Love Rule* | debut |
-| 1991 | *Mama Said* | |
-| 1993 | *Are You Gonna Go My Way* | breakthrough; title track |
-| 1995 | *Baptism* | |
-| 1998 | *5* | includes "Fly Away," "Again" |
-| 2000 | *Greatest Hits* | |
-| 2001 | *Lenny* | |
-| 2004 | *Baptism* | |
-| 2008 | *It Is Time for a Love Revolution* | |
-| 2011 | *Black and White America* | |
-| 2014 | *Strut* | |
-| 2018 | *Raise Vibration* | |
-| 2024 | *Blue Electric Light* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Let Love Rule* | 1989 | Lenny Kravitz, Henry Hirsch | - |
+| *Mama Said* | 1991 | Lenny Kravitz, Henry Hirsch | - |
+| *Are You Gonna Go My Way* | 1993 | Lenny Kravitz, Craig Ross | - |
+| *Circus* | 1995 | Lenny Kravitz, Terry Manning | - |
+| *5* | 1998 | Lenny Kravitz | - |
+| *Greatest Hits* | 2000 | - | - |
+| *Lenny* | 2001 | Lenny Kravitz | - |
+| *Baptize* | 2004 | Lenny Kravitz | - |
+| *It Is Time for a Love Revolution* | 2008 | Lenny Kravitz | - |
+| *Black and White America* | 2011 | Lenny Kravitz | - |
+| *Strut* | 2014 | Lenny Kravitz | - |
+| *Raise Vibration* | 2018 | Lenny Kravitz | - |
+| *Blue Electric Light* | 2024 | Lenny Kravitz | - |
 
 ## Members
 

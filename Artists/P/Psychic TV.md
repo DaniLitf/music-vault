@@ -2,7 +2,7 @@
 genre:
   - Industrial
   - Experimental
-  - Acid House
+  - Acid house
   - Psychedelic
 ---
 
@@ -10,14 +10,18 @@ genre:
 
 **Psychic TV (PTV) is an English experimental music and video art group founded in 1981 by [[Members/G/Genesis P-Orridge]] following the dissolution of [[Artists/T/Throbbing Gristle]], known for their wide-ranging and constantly evolving sound from industrial to acid house.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1982 | *Force the Hand of Chance* | debut |
-| 1984 | *Dreams Less Sweet* | |
-| 1986 | *Mouth of the Night* | |
-| 1988 | *Tekno Acid Beat* | acid house period |
-| 1992 | *Unclean* | |
-| 2003 | *Psychic TV 3: Ultrahouse* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Force the Hand of Chance* | 1982 | Psychic TV | - |
+| *Dreams Less Sweet* | 1984 | Ken Thomas | - |
+| *Mouth of the Night* | 1986 | Psychic TV | - |
+| *Tekno Acid Beat* | 1988 | Psychic TV | - |
+| *Unclean* | 1992 | Psychic TV | - |
+| *Psychic TV 3: Ultrahouse* | 2003 | Psychic TV | - |
 
 ## Members
 

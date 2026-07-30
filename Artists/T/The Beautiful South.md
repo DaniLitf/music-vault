@@ -9,17 +9,20 @@ genre:
 
 **The Beautiful South were an English pop rock band formed in Hull in 1988 by former [[Artists/T/The Housemartins]] members Paul Heaton and Dave Hemingway, known for their literate, sardonic lyrics contrasting with polished, upbeat melodies.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1989 | *Welcome to the Beautiful South* | debut; "Song for Whoever" |
-| 1990 | *Choke* | "A Little Time" (UK No. 1) |
-| 1992 | *0898 Beautiful South* | |
-| 1994 | *Miaow* | |
-| 1996 | *Blue Is the Colour* | |
-| 1998 | *Quench* | |
-| 2000 | *Painting It Red* | |
-| 2003 | *Gaze* | |
-| 2006 | *Superbi* | final album; band dissolved 2007 |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Welcome to the Beautiful South* | 1989 | Mike Hedges, The Beautiful South | The Workhouse, London |
+| *Choke* | 1990 | Mike Hedges, The Beautiful South | The Workhouse, London |
+| *0898 Beautiful South* | 1992 | The Beautiful South | Curtis Schwartz, Surrey |
+| *Miaow* | 1994 | The Beautiful South | Curtis Schwartz, Surrey |
+| *Blue Is the Colour* | 1996 | The Beautiful South | Curtis Schwartz, Surrey |
+| *Quench* | 1998 | The Beautiful South | Curtis Schwartz, Surrey |
+| *Painting It Red* | 2000 | The Beautiful South | Curtis Schwartz, Surrey |
+| *Gaze* | 2003 | The Beautiful South | Curtis Schwartz, Surrey |
+| *Superbi* | 2006 | The Beautiful South | Sausage Studios, London |
 
 ## Members
 

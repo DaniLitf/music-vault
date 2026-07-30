@@ -11,6 +11,7 @@ Hansa Tonstudio (also known as Hansa Studios or "Hansa by the Wall") is a record
 
 ## Albums Recorded Here
 - [[Artists/D/David Bowie]] – *"Heroes"* (1977)
+- [[Artists/T/Tangerine Dream]] – *Stratosfear* (1976)
 
 ## Sources
 - Wikipedia

@@ -9,14 +9,17 @@ genre:
 
 **The Crystal Method are an American electronic music duo formed in Las Vegas, Nevada in 1992 by Ken Jordan and Scott Kirkland, known as key figures in the big beat genre with their aggressive, high-energy sound.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1997 | *Vegas* | debut |
-| 2001 | *Tweekend* | |
-| 2004 | *Legion of Boom* | |
-| 2009 | *Divided by Night* | |
-| 2014 | *The Crystal Method* | self-titled; as solo project |
-| 2018 | *The Trip Home* | |
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Vegas* | 1997 | The Crystal Method | The Crystal Method studio, LA |
+| *Tweekend* | 2001 | The Crystal Method | The Crystal Method studio, LA |
+| *Legion of Boom* | 2004 | The Crystal Method | The Crystal Method studio, LA |
+| *Divided by Night* | 2009 | The Crystal Method | The Crystal Method studio, LA |
+| *The Crystal Method* | 2014 | Scott Kirkland | The Crystal Method studio, LA |
+| *The Trip Home* | 2018 | Scott Kirkland | The Crystal Method studio, LA |
 
 ## Members
 

@@ -37,7 +37,8 @@ Twin Pigs are a Swedish punk band formed in Stockholm in 2015, known for pairing
 
 ## Connections
 
-No confirmed shared-member connections to other vault artists.
+- [[Artists/A/Alarma Man]] – Andreas Litfeldt (also a member)
+- [[Artists/G/Gamla Pengar]] – Andreas Litfeldt (also a member)
 
 ## Sources
 - [Twin Pigs interview – Hard Rock Info](https://www.hardrockinfo.com/interviews/twin_pigs.html)

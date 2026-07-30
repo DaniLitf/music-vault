@@ -9,10 +9,11 @@ genre:
 
 **Sweet Exorcist was a British electronic music duo formed in Sheffield around 1990 by [[Members/R/Richard H. Kirk]] of [[Artists/C/Cabaret Voltaire]] and DJ Martin "Parrot" Watson, releasing two landmark bleep techno EPs on Warp Records that helped define the Sheffield electronic sound.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1990 | *Testone* | debut EP; Warp Records |
-| 1991 | *Clonk's Coming* | EP |
+### EPs
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Testone* | 1990 | Sweet Exorcist | - |
+| *Clonk's Coming* | 1991 | Sweet Exorcist | - |
 
 ## Members
 

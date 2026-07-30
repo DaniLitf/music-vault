@@ -8,11 +8,12 @@ genre:
 
 **Snook is a Swedish hip-hop duo formed in 2004 in Umeå, known for their witty, observational rap style delivered in Swedish.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2007 | *Snook* | debut |
-| 2009 | *Snook 2* | |
-| 2012 | *Snook 3* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Snook* | 2007 | - | - |
+| *Snook 2* | 2009 | - | - |
+| *Snook 3* | 2012 | - | - |
 
 ## Members
 

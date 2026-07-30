@@ -9,10 +9,11 @@ genre:
 
 **Slagsmålsklubben (SMK) is a Swedish chiptune and electronic ensemble formed in Norrköping in 2002, known for using Game Boys and vintage synthesizers to create catchy, retro-futurist electronic music.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 2006 | *Sponsored by Destiny* | debut |
-| 2009 | *Knäppnings* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Sponsored by Destiny* | 2006 | - | - |
+| *Knäppnings* | 2009 | - | - |
 
 ## Members
 

@@ -7,18 +7,26 @@ genre:
 
 # S.U.N. Project
 
-**S.U.N. Project is an Israeli psychedelic trance project formed in the mid-1990s, one of the pioneering acts in the Israeli psytrance scene.**
+**German goa trance / psytrance project formed in 1996, one of the pioneering acts in the German psytrance scene.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1997 | *Earth* | debut |
-| 1999 | *Creation* | |
-| 2001 | *The Beginning of the End* | |
-| 2003 | *Back to the Planet* | |
+S.U.N. Project (Sound Unlimited Nation) was founded in 1996 by Marco Menichelli, Matthias Rumöller, and Maik "McCoy" Hinkelmann.
+
+## Discography
+
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Earth* | 1997 | - | - |
+| *Creation* | 1999 | - | - |
+| *The Beginning of the End* | 2001 | - | - |
+| *Back to the Planet* | 2003 | - | - |
 
 ## Members
 
-S.U.N. Project is a solo/duo project. See associated member pages for biography.
+### Core / Official Members
+- [[Members/M/Marco Menichelli]] — production (1996–present, founding member)
+- [[Members/M/Matthias Rumöller]] — production (1996–present, founding member)
+- [[Members/M/Maik Hinkelmann]] — production (1996–present, founding member)
 
 ## Connections
 

@@ -9,11 +9,12 @@ genre:
 
 **Sneaker Pimps are an English electronic trip-hop band formed in Hartlepool in 1994, who broke through with the single "6 Underground" (1996) before evolving toward a darker, more experimental sound.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1996 | *Becoming X* | debut; "6 Underground" |
-| 1999 | *Splinter* | darker direction after vocalist change |
-| 2002 | *Bloodsport* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Becoming X* | 1996 | Jim Abbiss, Sneaker Pimps | - |
+| *Splinter* | 1999 | Sneaker Pimps | - |
+| *Bloodsport* | 2002 | Sneaker Pimps | - |
 
 ## Members
 

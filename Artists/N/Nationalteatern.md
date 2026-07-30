@@ -9,20 +9,24 @@ genre:
 
 **Nationalteatern are a Swedish progressive rock band formed in Gothenburg in 1968, part of the Swedish progg movement, known for their fusion of rock, theater, and political commentary, and for hits like "Röris" and "Livet är en fest."**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1971 | *Nationalteatern* | debut |
-| 1975 | *Kabaret* | |
-| 1979 | *Cirkus Miramar* | biggest commercial success |
-| 1982 | *Kul* | |
-| 1992 | *Hipp Hipp Hurra* | |
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Nationalteatern* | 1971 | Nationalteatern | - |
+| *Kabaret* | 1975 | Nationalteatern | - |
+| *Cirkus Miramar* | 1979 | Nationalteatern | - |
+| *Kul* | 1982 | Nationalteatern | - |
+| *Hipp Hipp Hurra* | 1992 | Nationalteatern | - |
 
 ## Members
 
 ### Core / Official Members
-- Mikael Wiehe — vocals, guitar (founding member)
-- Christer Lundh — vocals, guitar (founding member)
-- Björn Afzelius — guitar (various years; died 1999)
+- [[Members/M/Mikael Wiehe]] — vocals, guitar (founding member)
+- [[Members/C/Christer Lundh]] — vocals, guitar (founding member)
+- [[Members/B/Björn Afzelius]] — guitar (various years; died 1999)
 
 ## Connections
 

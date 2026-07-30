@@ -10,17 +10,18 @@ genre:
 
 **Stereolab were an English-French avant-pop band formed in London in 1990, known for their motorik rhythms, vintage synthesizers, and layered harmonies, blending krautrock with lounge music and Marxist lyrical themes.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1992 | *Peng!* | debut |
-| 1993 | *The Groop Played "Space Age Batchelor Pad Music"* | |
-| 1994 | *Mars Audiac Quintet* | |
-| 1996 | *Emperor Tomato Ketchup* | regarded as their best |
-| 1997 | *Dots and Loops* | |
-| 1999 | *Cobra and Phases Group Play Voltage in the Milky Night* | |
-| 2001 | *Sound-Dust* | |
-| 2004 | *Margerine Eclipse* | |
-| 2019 | *Pulse of the Early Brain* | |
+### Studio Albums
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Peng!* | 1992 | Stereolab | - |
+| *The Groop Played "Space Age Batchelor Pad Music"* | 1993 | Stereolab | - |
+| *Mars Audiac Quintet* | 1994 | Stereolab | - |
+| *Emperor Tomato Ketchup* | 1996 | Stereolab | - |
+| *Dots and Loops* | 1997 | Stereolab | - |
+| *Cobra and Phases Group Play Voltage in the Milky Night* | 1999 | Stereolab | - |
+| *Sound-Dust* | 2001 | Stereolab | - |
+| *Margerine Eclipse* | 2004 | Stereolab | - |
+| *Pulse of the Early Brain* | 2019 | Stereolab | - |
 
 ## Members
 

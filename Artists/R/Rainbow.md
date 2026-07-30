@@ -2,24 +2,39 @@
 genre:
   - Hard Rock
   - Heavy Metal
+also_known_as:
+  - Ritchie Blackmore's Rainbow
 ---
 
 # Rainbow
 
-**Rainbow (also known as Ritchie Blackmore's Rainbow) is a British hard rock band formed in 1975 by guitarist [[Members/R/Ritchie Blackmore]] after his departure from [[Artists/D/Deep Purple]], featuring a string of vocalists including Ronnie James Dio and Graham Bonnet.**
+**British hard rock band from London. Active 1975–1984, 1994–1997, 2016–2019.**
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1975 | *Ritchie Blackmore's Rainbow* | debut |
-| 1976 | *Rising* | with Dio; widely considered their best |
-| 1977 | *On Stage* | live album |
-| 1978 | *Long Live Rock 'n' Roll* | |
-| 1979 | *Down to Earth* | with Graham Bonnet |
-| 1981 | *Difficult to Cure* | |
-| 1982 | *Straight Between the Eyes* | |
-| 1983 | *Bent Out of Shape* | |
-| 1995 | *Stranger in Us All* | reunion |
-| 2019 | *Memories in Rock II* | live |
+Rainbow (also known as Ritchie Blackmore's Rainbow) is a British hard rock band formed in 1975 by guitarist [[Members/R/Ritchie Blackmore]] after his departure from [[Artists/D/Deep Purple]], featuring a string of vocalists including Ronnie James Dio and Graham Bonnet.
+
+## Discography
+
+### Studio Albums
+
+| Album | Year | Producer | Studio |
+|-------|------|----------|--------|
+| *Ritchie Blackmore's Rainbow* | 1975 | Ritchie Blackmore, Martin Birch | Musicland Studios, Munich |
+| *Rising* | 1976 | Martin Birch | Musicland Studios, Munich |
+| *Long Live Rock 'n' Roll* | 1978 | Martin Birch | Musicland Studios, Munich |
+| *Down to Earth* | 1979 | Roger Glover | Château de Pelly, France; Kingdom Sound Studios, Long Island |
+| *Difficult to Cure* | 1981 | Roger Glover | Sweet Silence Studios, Copenhagen |
+| *Straight Between the Eyes* | 1982 | Roger Glover | Le Studio, Morin Heights |
+| *Bent Out of Shape* | 1983 | Roger Glover | Sweet Silence Studios, Copenhagen |
+| *Stranger in Us All* | 1995 | Ritchie Blackmore, Pat Regan | Long View Farm, Brookfield; Cove City Sound, Long Island |
+
+### Live Albums
+
+| Album | Year | Notes |
+|-------|------|-------|
+| *On Stage* | 1977 | |
+| *Finyl Vinyl* | 1986 | Compilation of live tracks |
+| *Live in Germany 1976* | 1990 | |
+| *Live in Munich 1977* | 2006 | |
 
 ## Members
 
