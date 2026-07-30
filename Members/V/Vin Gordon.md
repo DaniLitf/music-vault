@@ -16,7 +16,7 @@ Vin Gordon is a Jamaican trombonist trained at Kingston's Alpha Boys School who 
 
 - [[Artists/T/The Upsetters]] – trombone (1972–1978)
 - [[Artists/B/Bob Marley]] – trombone (session, *Exodus* and *Kaya*)
-- [[Artists/S/The Skatalites]] – trombone (1964–)
+- [[Artists/T/The Skatalites]] – trombone (1964–)
 
 ## Sources
 - [Wikipedia: Vin Gordon](https://en.wikipedia.org/wiki/Vin_Gordon)

@@ -79,7 +79,7 @@ The New Power Generation (also known as the NPG) was the backing band of Prince 
 - [[Artists/M/Madhouse]] – Levi Seacer Jr., Prince (shared members)
 - [[Artists/T/The Time]] – Prince wrote and produced for the band (as Jamie Starr)
 - [[Artists/N/Nick Jonas and the Administration]] – Michael Bland, Tommy Barbarella, Sonny T. (three former NPG members joined this side project in 2010)
-- [[Artists/T/3rdeyegirl]] – Replaced the NPG as Prince's backing band in 2013
+- [[Artists/0-9/3rdeyegirl]] – Replaced the NPG as Prince's backing band in 2013
 - [[Artists/E/Elisa Fiorillo]] – Former NPG singer formed the Dease & Reese Project
 
 ## Sources

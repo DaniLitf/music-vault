@@ -673,7 +673,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | S/Symphony X | - |
 | [x] | S/System of a Down | - |
 | [x] | S/The Skatalites | - |
-| [x] | T/3rdeyegirl | - |
+| [x] | 0-9/3rdeyegirl | - |
 | [x] | T/T99 | - |
 | [x] | T/Taking Back Sunday | - |
 | [x] | T/Talk Show | - |
