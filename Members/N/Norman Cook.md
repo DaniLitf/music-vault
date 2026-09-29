@@ -18,6 +18,7 @@ He first gained recognition as bassist of The Housemartins in the mid-1980s befo
 - [[Artists/F/Fatboy Slim]] – solo alias (1996–present)
 - [[Artists/P/Pizzaman]] – producer/alias
 - [[Artists/F/Freak Power]] – founder/producer
+- [[Artists/T/The Mighty Dub Katz]] – songwriter, producer, DJ
 
 ## Sources
 - Wikipedia

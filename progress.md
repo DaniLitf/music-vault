@@ -2,7 +2,7 @@
 
 ## Artists
 
-> last updated: 2026-09-26T00:00 · unfixed: 8 · last QC position: T/The Methadones
+> last updated: 2026-09-26T00:00 · unfixed: 7 · last QC position: T/The Mighty Mighty Bosstones
 
 ### Summary
 - **Total artist entries**: 780 (720 with a page on disk + 60 queued with no page yet)
@@ -741,7 +741,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Mars Volta | - |
 | [x] | T/The Melvins | - |
 | [x] | T/The Methadones | - |
-| [ ] | T/The Mighty Dub Katz | discography |
+| [x] | T/The Mighty Dub Katz | - |
 | [x] | T/The Mighty Mighty Bosstones | - |
 | [x] | T/The Modern Lovers | - |
 | [x] | T/The Nervous Return | - |
