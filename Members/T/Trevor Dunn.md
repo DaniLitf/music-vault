@@ -15,6 +15,8 @@ Trevor Dunn is an American bassist best known as a founding member of Mr. Bungle
 ## Associated Artists
 
 - [[Artists/M/Mr. Bungle]] — bass, founding member (1985–present)
+- [[Artists/T/The Melvins]] – bass (Melvins Lite, 2011–2015)
+- [[Artists/F/Fantômas]] – bass
 
 ## Sources
 - Wikipedia

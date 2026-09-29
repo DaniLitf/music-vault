@@ -15,7 +15,7 @@ Matt Lukin co-founded the Melvins in 1983 with Buzz Osborne and Mike Dillard bef
 ## Associated Artists
 
 - [[Artists/M/Mudhoney]] — bass (1988–1999, 2000–2001, founding member)
-- [[Artists/M/Melvins]] — bass (1983–1987, founding member)
+- [[Artists/T/The Melvins]] — bass (1983–1987, founding member)
 
 ## Sources
 - Wikipedia

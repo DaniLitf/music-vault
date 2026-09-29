@@ -2,7 +2,7 @@
 
 ## Artists
 
-> last updated: 2026-09-26T00:00 · unfixed: 9 · last QC position: T/The Mars Volta
+> last updated: 2026-09-26T00:00 · unfixed: 8 · last QC position: T/The Methadones
 
 ### Summary
 - **Total artist entries**: 780 (720 with a page on disk + 60 queued with no page yet)
@@ -739,7 +739,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Latin Kings | - |
 | [x] | T/The Legendary Pink Dots | - |
 | [x] | T/The Mars Volta | - |
-| [ ] | T/The Melvins | discography |
+| [x] | T/The Melvins | - |
 | [x] | T/The Methadones | - |
 | [ ] | T/The Mighty Dub Katz | discography |
 | [x] | T/The Mighty Mighty Bosstones | - |
