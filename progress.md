@@ -407,7 +407,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | L/Lilla Sällskapet | discography |
 | [x] | L/Lily Allen | discography |
 | [x] | L/Limp Bizkit | - |
-| [x] | L/Lindemann (band) | discography |
+| [x] | L/Lindemann (band) | - |
 | [x] | L/Linkin Park | - |
 | [x] | L/Liquid | member-links |ed), discography |
 | [x] | L/Liquid Tension Experiment | discography, member-links |

@@ -23,6 +23,8 @@ Peter Tägtgren is a prolific Swedish record producer and musician best known fo
 - [[Artists/P/Pain]] – *You Only Live Twice* (2011)
 - [[Artists/P/Pain]] – *Coming Home* (2016)
 - [[Artists/P/Pain]] – *I Am* (2024)
+- [[Artists/L/Lindemann (band)]] – *Skills in Pills* (2015)
+- [[Artists/L/Lindemann (band)]] – *F & M* (2019)
 
 ## Sources
 
