@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "b9a6146d776c80e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7414de67048bac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "896c41b3bb47d9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artists/G/Gamla Pengar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gamla Pengar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51f8cc01313897fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "56c1561b099f852f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f7f9c6e162a2cd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Filutforskare"
+            }
+          },
+          {
+            "id": "d18887d270f13b6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Sök"
+            }
+          },
+          {
+            "id": "523e9f489b1a860b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bokmärken"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e760700938fc1d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b52a888220a931d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bdb29eab7336906",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Members/A/Atticus Ross.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Bakåtlänkar för Atticus Ross"
+            }
+          },
+          {
+            "id": "ee89caa3110dab54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Members/A/Atticus Ross.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Utgående länkar från Atticus Ross"
+            }
+          },
+          {
+            "id": "08513acd5e668bb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Taggar"
+            }
+          },
+          {
+            "id": "f46e72d534b46b14",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alla egenskaper"
+            }
+          },
+          {
+            "id": "e46721d5a76f269a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Members/A/Atticus Ross.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Disposition av Atticus Ross"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Öppna snabbväxlare": false,
+      "graph:Öppna grafvy": false,
+      "canvas:Skapa ny canvas": false,
+      "daily-notes:Öppna dagens anteckning": false,
+      "templates:Infoga mall": false,
+      "command-palette:Öppna kommandopalett": false,
+      "bases:Skapa ny bas": false
+    }
+  },
+  "active": "896c41b3bb47d9e6",
+  "lastOpenFiles": [
+    "Artists/0-9/3rdeyegirl.md",
+    "Artists/T/The Skatalites.md",
+    "Members/S/Scott Kirkland.md",
+    "Members/K/Ken Jordan.md",
+    "Members/J/Josephine Wiggs.md",
+    "Members/T/Tanya Donelly.md",
+    "Members/P/Poison Ivy.md",
+    "Members/L/Lux Interior.md",
+    "Members/K/Koen Groeneveld.md",
+    "Artists/T/Tardy Brothers.md",
+    "Members/J/John McCloy.md",
+    "Members/D/Danny Keough.md",
+    "Members/R/Rusty Riopelle.md",
+    "Members/J/Jim Schumacher.md",
+    "Members/S/Steve Coutts.md",
+    "Members/M/Mark Templin.md",
+    "Members/P/Paul Haslinger.md",
+    "Members/J/Johannes Schmoelling.md",
+    "Members/P/Peter Baumann.md",
+    "Members/T/Thorsten Quaeschning.md",
+    "Studios/S/Sigma Sound Studios.md",
+    "Studios/C/Compass Point Studios.md",
+    "Producers/E/Eric Thorngren.md",
+    "Producers/L/Lance Quinn.md",
+    "Producers/T/Tony Bongiovi.md",
+    "Artists/T/T99.md",
+    "Members/T/Terry Butler.md.tmp.66172.308d7c9a7541",
+    "Members/O/Ola Englund.md.tmp.66172.5e6ab342a982",
+    "Members/M/Marco Pitruzzella.md.tmp.66172.c57af6f22e26",
+    "Members/R/Ray Suhy.md.tmp.66172.dd4edf9b229d",
+    "Members/O/Oleksandr Yefymenko.md.tmp.66172.2b8e6341da31",
+    "Members/A/Andriy Diadiura.md.tmp.66172.00141eccbf12",
+    "Members/V/Valery Klepikov.md.tmp.66172.883cc12f77f2",
+    "Members/Y/Yevhen Lashko.md.tmp.66172.f541cd8c33e2",
+    "Members/V/Vitaliy Kuznetsov.md.tmp.66172.8bc5af5491ad",
+    "Members/O/Oleksandr Kukhtin.md.tmp.66172.a4ad545a68c7"
+  ]
+}

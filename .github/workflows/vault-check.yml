@@ -1,0 +1,30 @@
+name: Vault convention check
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out PR branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: List changed markdown files
+        run: |
+          git diff --name-only --diff-filter=ACMR \
+            "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}" \
+            -- '*.md' > changed_files.txt
+          echo "Changed markdown files:"
+          cat changed_files.txt
+
+      - name: Run convention check
+        run: python3 scripts/check_vault_conventions.py --file-list changed_files.txt
