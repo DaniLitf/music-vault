@@ -15,6 +15,7 @@ Youth (born Martin Glover) is the bassist and a founding member of Killing Joke.
 ## Associated Artists
 - [[Artists/P/Pigface]] – bass (guest)
 - [[Artists/K/Killing Joke]] – bass (1978–1981, 2008–present)
+- [[Artists/T/The Orb]] – collaborator, producer, label co-founder (1989, 2007)
 
 ## Sources
 - Wikipedia

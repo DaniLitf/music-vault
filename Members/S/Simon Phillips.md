@@ -1,22 +1,21 @@
 ---
 real_name: Simon Phillips
-also_known_as:
-birth_date: 1957-02-06
-death_date:
+also_known_as: 
+birth_date: 
+death_date: 
 nationality: British
 ---
 
 # Simon Phillips
 
-**Drummer. Born February 6, 1957.**
+**Producer, live crew member. British.**
 
-Simon Phillips is a British drummer and record producer who played as a session musician on Judas Priest's 1977 album *Sin After Sin*. He later became famous as the drummer for the band Toto and has worked as a highly sought-after session musician with numerous artists across various genres.
+Simon Phillips is documented as a contributor to [[Artists/T/The Orb]]'s live and studio lineups during the 1990s and early 2000s. His vault-relevant work centers on the group's post-*U.F.Orb* production and performance period.
 
 ## Associated Artists
 
-- [[Artists/J/Judas Priest]] – drums (1977, session)
-- [[Artists/T/Toto]] – drums (1992–2014)
+- [[Artists/T/The Orb]] – production/live crew (1990s–2000s)
 
 ## Sources
 
-- [Simon Phillips - Wikipedia](https://en.wikipedia.org/wiki/Simon_Philips)
+- [Wikipedia – The Orb](https://en.wikipedia.org/wiki/The_Orb)

@@ -1,8 +1,8 @@
 ---
-real name: David Jon Gilmour
-also known as: David Gilmour
-birth date: 1946-03-06
-death date:
+real_name: David Jon Gilmour
+also_known_as: David Gilmour
+birth_date: 1946-03-06
+death_date:
 nationality: British
 ---
 
@@ -16,6 +16,7 @@ David Gilmour joined Pink Floyd in 1967 to supplement the increasingly unreliabl
 - [[Artists/P/Pink Floyd]] – guitar, vocals (1967–1995, 2005, 2014)
 - [[Artists/R/Roy Harper]] – guest guitar, co-writer of "Short and Sweet" (1975, 1980)
 - [[Artists/K/Kate Bush]] – discovered and financed her earliest demo recordings, leading to her EMI signing (1975–1976)
+- [[Artists/T/The Orb]] – guitar/collaboration on *Metallic Spheres* (2010)
 
 ## Sources
 - Wikipedia
