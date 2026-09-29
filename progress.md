@@ -2,7 +2,7 @@
 
 ## Artists
 
-> last updated: 2026-09-26T00:00 · unfixed: 7 · last QC position: T/The Mighty Mighty Bosstones
+> last updated: 2026-09-26T00:00 · unfixed: 6 · last QC position: T/The Prayer Chain
 
 ### Summary
 - **Total artist entries**: 780 (720 with a page on disk + 60 queued with no page yet)
@@ -89,6 +89,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | A/At the Gates | - |
 | [x] | A/Atari Teenage Riot | - |
 | [x] | A/Audioslave | - |
+| [x] | A/AURORA | - |
 | [x] | A/Autechre | - |
 | [x] | A/Avatar | - |
 | [x] | A/Avatarium | - |
@@ -747,7 +748,7 @@ Recomputed 2026-07-01 by scanning all on-disk artist pages for each structural m
 | [x] | T/The Nervous Return | - |
 | [x] | T/The New Regime | - |
 | [x] | T/The Offspring | - |
-| [ ] | T/The Orb | discography |
+| [x] | T/The Orb | - |
 | [x] | T/The Prayer Chain | - |
 | [x] | T/The Prodigy | - |
 | [x] | T/The Raconteurs | - |

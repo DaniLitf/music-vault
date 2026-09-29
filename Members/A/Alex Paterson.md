@@ -13,7 +13,7 @@ nationality: British
 Paterson worked as a roadie and A&R scout before co-founding The Orb in 1988, pioneering the ambient house and chill-out genres. He has been the constant core member of The Orb through all lineup changes, and contributed guest sampling and production to Pigface.
 
 ## Associated Artists
-- [[Artists/T/The Orb]] — production, mixing (1988–present)
+- [[Artists/T/The Orb]] — production, mixing, DJ, founding member (1988–present)
 - [[Artists/P/Pigface]] — sampling, production (guest)
 
 ## Sources
