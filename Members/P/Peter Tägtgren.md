@@ -15,7 +15,7 @@ Peter Tägtgren is a Swedish musician and record producer who founded the death 
 ## Associated Artists
 - [[Artists/H/Hypocrisy]] — founder, vocalist, guitarist (1991–present)
 - [[Artists/P/Pain]] — founder, all instruments (1996–present)
-- [[Artists/L/Lindemann (band)]] — co-founder, songwriter, producer (2019)
+- [[Artists/L/Lindemann (band)]] — co-founder, all instruments, songwriter, producer (2014–2020)
 
 ## Sources
 - Wikipedia
